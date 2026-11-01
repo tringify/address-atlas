@@ -384,10 +384,9 @@
   "value": "Экваториалон Гвиней"
  },
  "GR": {
-  "confidence": "low",
-  "note": "traditional Ossetian name (Бердзенаг = Greek), used on os.wikipedia; alt. Греци",
+  "value": "Грекъ",
   "provenance": "curated",
-  "value": "Бердзенстон"
+  "checked": true
  },
  "GS": {
   "confidence": "low",
@@ -460,10 +459,9 @@
   "value": "Мэн сакъадах"
  },
  "IO": {
-  "confidence": "low",
-  "note": "territory; descriptive compound calqued on ru",
+  "value": "Индийы фурды Британийы территори",
   "provenance": "curated",
-  "value": "Британийы зӕхх Индийы океаны"
+  "checked": true
  },
  "IQ": {
   "provenance": "curated",
@@ -842,8 +840,9 @@
   "value": "Руандӕ"
  },
  "SA": {
+  "value": "Сауды Арабб",
   "provenance": "curated",
-  "value": "Сауди Арави"
+  "checked": true
  },
  "SB": {
   "confidence": "low",

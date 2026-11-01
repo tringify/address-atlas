@@ -1,7 +1,7 @@
 {
  "IO": {
-  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "value": "Britteschen Territoire am Indeschen Ozean",
   "provenance": "curated",
-  "value": "Britescht Territorium am Indeschen Ozean"
+  "checked": true
  }
 }

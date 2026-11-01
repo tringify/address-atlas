@@ -16,8 +16,9 @@
   "value": "אַלאַנד אינזלען"
  },
  "AZ": {
+  "value": "אזערביידזשאן",
   "provenance": "curated",
-  "value": "אַזערבייַדזשאַן"
+  "checked": true
  },
  "BH": {
   "provenance": "curated",
@@ -100,8 +101,9 @@
   "value": "איראַק"
  },
  "JO": {
+  "value": "יארדאניע",
   "provenance": "curated",
-  "value": "ירדן"
+  "checked": true
  },
  "KG": {
   "provenance": "curated",
@@ -158,8 +160,9 @@
   "value": "ניוע"
  },
  "OM": {
+  "value": "אמאן",
   "provenance": "curated",
-  "value": "עמאַן"
+  "checked": true
  },
  "PM": {
   "confidence": "low",
@@ -232,12 +235,14 @@
   "value": "סט ווינסענט און די גרענאַדינען"
  },
  "VG": {
+  "value": "בריטישע ווירדזשין אינזלען",
   "provenance": "curated",
-  "value": "בריטישע ווירגין אינזלען"
+  "checked": true
  },
  "VI": {
+  "value": "יו. עס. ווירדזשין אינזלען",
   "provenance": "curated",
-  "value": "אַמעריקאַנישע ווירגין אינזלען"
+  "checked": true
  },
  "WF": {
   "confidence": "low",

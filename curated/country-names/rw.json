@@ -6,8 +6,9 @@
   "value": "Andora"
  },
  "AE": {
+  "value": "Nyarabu Zunze Ubumwe",
   "provenance": "curated",
-  "value": "Leta Zunze Ubumwe z’Abarabu"
+  "checked": true
  },
  "AF": {
   "confidence": "low",
@@ -61,10 +62,9 @@
   "value": "Samowa y’Abanyamerika"
  },
  "AT": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Ositiriya",
   "provenance": "curated",
-  "value": "Otirishe"
+  "checked": true
  },
  "AU": {
   "provenance": "curated",
@@ -302,10 +302,9 @@
   "value": "Shipure"
  },
  "CZ": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Cekiya",
   "provenance": "curated",
-  "value": "Repubulika ya Ceke"
+  "checked": true
  },
  "DE": {
   "provenance": "curated",
@@ -338,10 +337,9 @@
   "value": "Alijeriya"
  },
  "EC": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Ekwadoro",
   "provenance": "curated",
-  "value": "Ekwateri"
+  "checked": true
  },
  "EE": {
   "confidence": "low",
@@ -434,10 +432,9 @@
   "value": "Giyana y’Abafaransa"
  },
  "GG": {
-  "confidence": "low",
-  "note": "international form (or near-international) used as in Kinyarwanda media; Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Gwasi",
   "provenance": "curated",
-  "value": "Guernsey"
+  "checked": true
  },
  "GH": {
   "provenance": "curated",
@@ -450,10 +447,9 @@
   "value": "Giburalitari"
  },
  "GL": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Goronulande",
   "provenance": "curated",
-  "value": "Gurunilande"
+  "checked": true
  },
  "GM": {
   "confidence": "low",
@@ -508,10 +504,9 @@
   "value": "Gineya-Bisawu"
  },
  "GY": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Giyana",
   "provenance": "curated",
-  "value": "Guyana"
+  "checked": true
  },
  "HK": {
   "confidence": "low",
@@ -520,10 +515,9 @@
   "value": "Hong Kong"
  },
  "HM": {
-  "confidence": "low",
-  "note": "international form (or near-international) used as in Kinyarwanda media; Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Icyirwa Hadi n’Ibirwa MakeDonalidi",
   "provenance": "curated",
-  "value": "Ibirwa bya Heard na McDonald"
+  "checked": true
  },
  "HN": {
   "confidence": "low",
@@ -574,10 +568,9 @@
   "value": "Ubuhinde"
  },
  "IO": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Teritwari y’Inyanja y’Abahinde Nyongereza",
   "provenance": "curated",
-  "value": "Intara y’Ubwongereza yo mu Nyanja y’Abahinde"
+  "checked": true
  },
  "IQ": {
   "provenance": "curated",
@@ -649,10 +642,9 @@
   "value": "Komore"
  },
  "KN": {
-  "confidence": "low",
-  "note": "international form (or near-international) used as in Kinyarwanda media; Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Mutagatifu Kitsi na Nevisi",
   "provenance": "curated",
-  "value": "Saint Kitts na Nevis"
+  "checked": true
  },
  "KP": {
   "provenance": "curated",
@@ -693,10 +685,9 @@
   "value": "Libani"
  },
  "LC": {
-  "confidence": "low",
-  "note": "international form (or near-international) used as in Kinyarwanda media; Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Mutagatifu Lusiya",
   "provenance": "curated",
-  "value": "Sainte-Lucie"
+  "checked": true
  },
  "LI": {
   "confidence": "low",
@@ -717,10 +708,9 @@
   "value": "Liberiya"
  },
  "LS": {
-  "confidence": "low",
-  "note": "international form (or near-international) used as in Kinyarwanda media; Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Lesoto",
   "provenance": "curated",
-  "value": "Lesotho"
+  "checked": true
  },
  "LT": {
   "confidence": "low",
@@ -729,10 +719,9 @@
   "value": "Lituwaniya"
  },
  "LU": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Lugizamburu",
   "provenance": "curated",
-  "value": "Lukesemburu"
+  "checked": true
  },
  "LV": {
   "confidence": "low",
@@ -755,10 +744,9 @@
   "value": "Monako"
  },
  "MD": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Molidova",
   "provenance": "curated",
-  "value": "Molidaviya"
+  "checked": true
  },
  "ME": {
   "confidence": "low",
@@ -788,10 +776,9 @@
   "value": "Mali"
  },
  "MM": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Mayanimari",
   "provenance": "curated",
-  "value": "Birimaniya"
+  "checked": true
  },
  "MN": {
   "confidence": "low",
@@ -824,10 +811,9 @@
   "value": "Moritaniya"
  },
  "MS": {
-  "confidence": "low",
-  "note": "international form (or near-international) used as in Kinyarwanda media; Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Monserati",
   "provenance": "curated",
-  "value": "Montserrat"
+  "checked": true
  },
  "MT": {
   "confidence": "low",
@@ -873,10 +859,9 @@
   "value": "Namibiya"
  },
  "NC": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Nuveli Kalidoniya",
   "provenance": "curated",
-  "value": "Kaledoniya Nshya"
+  "checked": true
  },
  "NE": {
   "provenance": "curated",
@@ -927,10 +912,9 @@
   "value": "Niyuwe"
  },
  "NZ": {
-  "confidence": "low",
-  "note": "international form (or near-international) used as in Kinyarwanda media; Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Nuveli Zelande",
   "provenance": "curated",
-  "value": "Nouvelle-Zélande"
+  "checked": true
  },
  "OM": {
   "confidence": "low",
@@ -957,10 +941,9 @@
   "value": "Polineziya y’Abafaransa"
  },
  "PG": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Papuwa Nuveli Gineya",
   "provenance": "curated",
-  "value": "Papuwa Gineya Nshya"
+  "checked": true
  },
  "PH": {
   "confidence": "low",
@@ -977,10 +960,9 @@
   "value": "Polonye"
  },
  "PM": {
-  "confidence": "low",
-  "note": "international form (or near-international) used as in Kinyarwanda media; Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Mutagatifu Petero na Mikeloni",
   "provenance": "curated",
-  "value": "Saint-Pierre na Miquelon"
+  "checked": true
  },
  "PN": {
   "confidence": "low",
@@ -1103,10 +1085,9 @@
   "value": "Siyera Lewone"
  },
  "SM": {
-  "confidence": "low",
-  "note": "international form (or near-international) used as in Kinyarwanda media; Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Mutagatifu Marino",
   "provenance": "curated",
-  "value": "San Marino"
+  "checked": true
  },
  "SN": {
   "provenance": "curated",
@@ -1133,10 +1114,9 @@
   "value": "Sawo Tome na Purinsipe"
  },
  "SV": {
-  "confidence": "low",
-  "note": "international form (or near-international) used as in Kinyarwanda media; Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Saluvadoro",
   "provenance": "curated",
-  "value": "El Salvador"
+  "checked": true
  },
  "SX": {
   "confidence": "low",
@@ -1240,15 +1220,14 @@
   "value": "Tanzaniya"
  },
  "UA": {
-  "confidence": "low",
-  "note": "international form (or near-international) used as in Kinyarwanda media; Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Ikerene",
   "provenance": "curated",
-  "value": "Ukraine"
+  "checked": true
  },
  "UG": {
-  "note": "international form (or near-international) used as in Kinyarwanda media",
+  "value": "Ubugande",
   "provenance": "curated",
-  "value": "Uganda"
+  "checked": true
  },
  "UM": {
   "confidence": "low",
@@ -1291,16 +1270,14 @@
   "value": "Venezuwela"
  },
  "VG": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Ibirwa bya Virigini Nyongereza",
   "provenance": "curated",
-  "value": "Ibirwa by’Isugi by’Abongereza"
+  "checked": true
  },
  "VI": {
-  "confidence": "low",
-  "note": "Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Ibirwa bya Virigini bya Leta Zunze Ubumwe",
   "provenance": "curated",
-  "value": "Ibirwa by’Isugi by’Abanyamerika"
+  "checked": true
  },
  "VN": {
   "confidence": "low",
@@ -1309,10 +1286,9 @@
   "value": "Viyetinamu"
  },
  "VU": {
-  "confidence": "low",
-  "note": "international form (or near-international) used as in Kinyarwanda media; Kinyarwanda adaptation following rn/rw orthography conventions; not verified against rw.wikipedia or Rwandan government usage",
+  "value": "Vanuwatu",
   "provenance": "curated",
-  "value": "Vanuatu"
+  "checked": true
  },
  "WF": {
   "confidence": "low",

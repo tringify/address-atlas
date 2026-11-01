@@ -107,10 +107,9 @@
   "value": "Bangladesh"
  },
  "BE": {
-  "confidence": "low",
-  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "value": "Pow Belg",
   "provenance": "curated",
-  "value": "Belgi"
+  "checked": true
  },
  "BF": {
   "note": "international form; no distinct Cornish form found, presumed used as-is",
@@ -388,10 +387,9 @@
   "value": "Ethiopi"
  },
  "FI": {
-  "confidence": "low",
-  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "value": "Fynndir",
   "provenance": "curated",
-  "value": "Pow Finn"
+  "checked": true
  },
  "FJ": {
   "note": "international form; no distinct Cornish form found, presumed used as-is",
@@ -432,10 +430,9 @@
   "value": "Grenada"
  },
  "GE": {
-  "confidence": "low",
-  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "value": "Pow Grouzi",
   "provenance": "curated",
-  "value": "Jeorji"
+  "checked": true
  },
  "GF": {
   "confidence": "low",
@@ -460,10 +457,9 @@
   "value": "Gibraltar"
  },
  "GL": {
-  "confidence": "low",
-  "note": "international form; no Cornish form found",
+  "value": "Greunlond",
   "provenance": "curated",
-  "value": "Greenland"
+  "checked": true
  },
  "GM": {
   "note": "international form; no distinct Cornish form found, presumed used as-is",
@@ -482,10 +478,9 @@
   "value": "Guadeloupe"
  },
  "GQ": {
-  "confidence": "low",
-  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "value": "Gyni an Kehysedh",
   "provenance": "curated",
-  "value": "Gyni Ekwatorek"
+  "checked": true
  },
  "GR": {
   "confidence": "low",
@@ -628,9 +623,9 @@
   "value": "Jordan"
  },
  "JP": {
-  "note": "CLDR draft value",
+  "value": "Nihon",
   "provenance": "curated",
-  "value": "Japan"
+  "checked": true
  },
  "KE": {
   "note": "international form; no distinct Cornish form found, presumed used as-is",
@@ -638,9 +633,9 @@
   "value": "Kenya"
  },
  "KG": {
-  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "value": "Pow Kyrgys",
   "provenance": "curated",
-  "value": "Kyrgyzstan"
+  "checked": true
  },
  "KH": {
   "confidence": "low",
@@ -690,14 +685,14 @@
   "value": "Enesow Cayman"
  },
  "KZ": {
-  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "value": "Pow Kazagh",
   "provenance": "curated",
-  "value": "Kazakhstan"
+  "checked": true
  },
  "LA": {
-  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "value": "Pow Lao",
   "provenance": "curated",
-  "value": "Laos"
+  "checked": true
  },
  "LB": {
   "confidence": "low",
@@ -808,9 +803,9 @@
   "value": "Mali"
  },
  "MM": {
-  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "value": "Byrmani",
   "provenance": "curated",
-  "value": "Myanmar"
+  "checked": true
  },
  "MN": {
   "confidence": "low",
@@ -896,9 +891,9 @@
   "value": "Kaledoni Nowydh"
  },
  "NE": {
-  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "value": "Pow Nijer",
   "provenance": "curated",
-  "value": "Niger"
+  "checked": true
  },
  "NF": {
   "confidence": "low",
@@ -946,10 +941,9 @@
   "value": "Niue"
  },
  "NZ": {
-  "confidence": "low",
-  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "value": "Mordir Nowydh",
   "provenance": "curated",
-  "value": "Zeland Nowydh"
+  "checked": true
  },
  "OM": {
   "note": "international form; no distinct Cornish form found, presumed used as-is",
@@ -1069,10 +1063,9 @@
   "value": "Rwanda"
  },
  "SA": {
-  "confidence": "low",
-  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "value": "Arabi an Saud",
   "provenance": "curated",
-  "value": "Arabi Saoudek"
+  "checked": true
  },
  "SB": {
   "confidence": "low",
@@ -1092,10 +1085,9 @@
   "value": "Soudan"
  },
  "SE": {
-  "confidence": "low",
-  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "value": "Sweden",
   "provenance": "curated",
-  "value": "Swedherwyk"
+  "checked": true
  },
  "SG": {
   "confidence": "low",
@@ -1161,10 +1153,9 @@
   "value": "Soudan Dhyghow"
  },
  "ST": {
-  "confidence": "low",
-  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "value": "Sen Tommas ha Pryns",
   "provenance": "curated",
-  "value": "São Tomé ha Príncipe"
+  "checked": true
  },
  "SV": {
   "note": "international form; no distinct Cornish form found, presumed used as-is",
@@ -1183,9 +1174,9 @@
   "value": "Syri"
  },
  "SZ": {
-  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "value": "Pow Swati",
   "provenance": "curated",
-  "value": "Eswatini"
+  "checked": true
  },
  "TC": {
   "confidence": "low",
@@ -1216,9 +1207,9 @@
   "value": "Pow Tay"
  },
  "TJ": {
-  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "value": "Pow Tajik",
   "provenance": "curated",
-  "value": "Tajikistan"
+  "checked": true
  },
  "TK": {
   "note": "international form; no distinct Cornish form found, presumed used as-is",
@@ -1232,9 +1223,9 @@
   "value": "Timor Howldrehevel"
  },
  "TM": {
-  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "value": "Pow Turkmen",
   "provenance": "curated",
-  "value": "Turkmenistan"
+  "checked": true
  },
  "TN": {
   "confidence": "low",
@@ -1305,9 +1296,9 @@
   "value": "Urugway"
  },
  "UZ": {
-  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "value": "Pow Ousbek",
   "provenance": "curated",
-  "value": "Uzbekistan"
+  "checked": true
  },
  "VA": {
   "confidence": "low",

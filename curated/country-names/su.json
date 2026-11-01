@@ -10,8 +10,9 @@
   "value": "Uni Émirat Arab"
  },
  "AF": {
+  "value": "Apganistan",
   "provenance": "curated",
-  "value": "Afganistan"
+  "checked": true
  },
  "AG": {
   "confidence": "low",
@@ -206,8 +207,9 @@
   "value": "Républik Kongo"
  },
  "CH": {
+  "value": "Suis",
   "provenance": "curated",
-  "value": "Swiss"
+  "checked": true
  },
  "CI": {
   "confidence": "low",
@@ -222,9 +224,9 @@
   "value": "Kapuloan Cook"
  },
  "CL": {
-  "note": "international form used, as in Indonesian/Sundanese usage",
+  "value": "Cilé",
   "provenance": "curated",
-  "value": "Chili"
+  "checked": true
  },
  "CM": {
   "provenance": "curated",
@@ -251,10 +253,9 @@
   "value": "Tanjung Vérde"
  },
  "CW": {
-  "confidence": "low",
-  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "value": "Kuraso",
   "provenance": "curated",
-  "value": "Curaçao"
+  "checked": true
  },
  "CX": {
   "confidence": "low",
@@ -365,10 +366,9 @@
   "value": "Gabon"
  },
  "GD": {
-  "confidence": "low",
-  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "value": "Grénada",
   "provenance": "curated",
-  "value": "Granada"
+  "checked": true
  },
  "GE": {
   "confidence": "low",
@@ -399,10 +399,9 @@
   "value": "Gibraltar"
  },
  "GL": {
-  "confidence": "low",
-  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "value": "Lemah Héjo",
   "provenance": "curated",
-  "value": "Greenland"
+  "checked": true
  },
  "GM": {
   "confidence": "low",
@@ -417,10 +416,9 @@
   "value": "Guinéa"
  },
  "GP": {
-  "confidence": "low",
-  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "value": "Guadelup",
   "provenance": "curated",
-  "value": "Guadeloupe"
+  "checked": true
  },
  "GQ": {
   "confidence": "low",
@@ -509,10 +507,9 @@
   "value": "Pulo Man"
  },
  "IO": {
-  "confidence": "low",
-  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "value": "Téritori Samudra Hindia Britania",
   "provenance": "curated",
-  "value": "Wewengkon Samudra Hindia Britania"
+  "checked": true
  },
  "IQ": {
   "provenance": "curated",
@@ -569,10 +566,9 @@
   "value": "Komoro"
  },
  "KN": {
-  "confidence": "low",
-  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "value": "Saint Kitts jeung Névis",
   "provenance": "curated",
-  "value": "Saint Kitts jeung Nevis"
+  "checked": true
  },
  "KP": {
   "provenance": "curated",
@@ -587,14 +583,14 @@
   "value": "Kuwait"
  },
  "KY": {
-  "confidence": "low",
-  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "value": "Kapuloan Kayman",
   "provenance": "curated",
-  "value": "Kapuloan Cayman"
+  "checked": true
  },
  "KZ": {
+  "value": "Kazakstan",
   "provenance": "curated",
-  "value": "Kazakhstan"
+  "checked": true
  },
  "LA": {
   "provenance": "curated",
@@ -605,10 +601,9 @@
   "value": "Libanon"
  },
  "LC": {
-  "confidence": "low",
-  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "value": "Saint Lusia",
   "provenance": "curated",
-  "value": "Saint Lucia"
+  "checked": true
  },
  "LI": {
   "confidence": "low",
@@ -617,8 +612,9 @@
   "value": "Liechtenstein"
  },
  "LK": {
+  "value": "Sri Langka",
   "provenance": "curated",
-  "value": "Sri Lanka"
+  "checked": true
  },
  "LR": {
   "confidence": "low",
@@ -775,10 +771,9 @@
   "value": "Malaysia"
  },
  "MZ": {
-  "confidence": "low",
-  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "value": "Mosambik",
   "provenance": "curated",
-  "value": "Mozambik"
+  "checked": true
  },
  "NA": {
   "confidence": "low",
@@ -867,8 +862,9 @@
   "value": "Papua Nugini"
  },
  "PH": {
+  "value": "Pilipina",
   "provenance": "curated",
-  "value": "Filipina"
+  "checked": true
  },
  "PK": {
   "provenance": "curated",
@@ -879,10 +875,9 @@
   "value": "Polandia"
  },
  "PM": {
-  "confidence": "low",
-  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "value": "Saint-Piér jeung Mikélon",
   "provenance": "curated",
-  "value": "Saint Pierre jeung Miquelon"
+  "checked": true
  },
  "PN": {
   "confidence": "low",
@@ -943,8 +938,9 @@
   "value": "Rwanda"
  },
  "SA": {
+  "value": "Saudi Arabia",
   "provenance": "curated",
-  "value": "Arab Saudi"
+  "checked": true
  },
  "SB": {
   "confidence": "low",
@@ -989,10 +985,9 @@
   "value": "Svalbard jeung Jan Mayen"
  },
  "SK": {
-  "confidence": "low",
-  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "value": "Slovakia",
   "provenance": "curated",
-  "value": "Slowakia"
+  "checked": true
  },
  "SL": {
   "confidence": "low",
@@ -1057,10 +1052,9 @@
   "value": "Éswatini"
  },
  "TC": {
-  "confidence": "low",
-  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "value": "Kapuloan Turks jeung Kaikos",
   "provenance": "curated",
-  "value": "Kapuloan Turks jeung Caicos"
+  "checked": true
  },
  "TD": {
   "confidence": "low",

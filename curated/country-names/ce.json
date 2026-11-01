@@ -1,8 +1,8 @@
 {
  "IO": {
-  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "value": "ХӀиндин Ӏапказ чуьра Британин мохк",
   "provenance": "curated",
-  "value": "Британин латта Индин океанехь"
+  "checked": true
  },
  "MK": {
   "note": "cf CLDR ce KP \"Къилбаседа Корей\"",

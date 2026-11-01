@@ -976,9 +976,9 @@
   "value": "སུ་དཱན།"
  },
  "SE": {
-  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "value": "སི་ཝེ་དེན།",
   "provenance": "curated",
-  "value": "ཧྲུའི་ཏན།"
+  "checked": true
  },
  "SG": {
   "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",

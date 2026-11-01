@@ -1,0 +1,816 @@
+{
+ "bo": {
+  "SE": {
+   "draft": "ཧྲུའི་ཏན།",
+   "correct": "སི་ཝེ་དེན།",
+   "why": "ཧྲུའི་ཏན། is not Sweden. Tibetan Wikipedia writes སི་ཝེ་དེན, and the related Dzongkha CLDR name is སུའི་ཌེན.",
+   "source": "https://bo.wikipedia.org/wiki/%E0%BD%A6%E0%BD%B2%E0%BC%8B%E0%BD%9D%E0%BD%BA%E0%BC%8B%E0%BD%91%E0%BD%BA%E0%BD%93%E0%BC%8D"
+  }
+ },
+ "ce": {
+  "IO": {
+   "draft": "Британин латта Индин океанехь",
+   "correct": "ХӀиндин Ӏапказ чуьра Британин мохк",
+   "why": "Chechen writes the Indian Ocean as ХӀиндин Ӏапказ, and the Wikipedia name is ХӀиндин Ӏапказ чуьра Британин мохк. The draft uses Russian океан and Индин.",
+   "source": "https://ce.wikipedia.org/wiki/%D0%A5%D3%80%D0%B8%D0%BD%D0%B4%D0%B8%D0%BD_%D3%80%D0%B0%D0%BF%D0%BA%D0%B0%D0%B7_%D1%87%D1%83%D1%8C%D1%80%D0%B0_%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%BD_%D0%BC%D0%BE%D1%85%D0%BA"
+  }
+ },
+ "dz": {
+  "MK": {
+   "draft": "བྱང་ མ་སེ་ཌོ་ནི་ཡ",
+   "correct": "བྱང་མེ་སི་ཌོ་ནི་ཡ།",
+   "why": "Dzongkha Wikipedia spells North Macedonia བྱང་མེ་སི་ཌོ་ནི་ཡ།. The draft has མ་སེ instead of མེ་སི and splits the name with a space.",
+   "source": "https://dz.wikipedia.org/wiki/%E0%BD%96%E0%BE%B1%E0%BD%84%E0%BC%8B%E0%BD%98%E0%BD%BA%E0%BC%8B%E0%BD%A6%E0%BD%B2%E0%BC%8B%E0%BD%8C%E0%BD%BC%E0%BC%8B%E0%BD%93%E0%BD%B2%E0%BC%8B%E0%BD%A1%E0%BC%8D"
+  },
+  "XK": {
+   "draft": "ཀོ་སོ་བོ",
+   "correct": "ཀོ་སོ་བྷོ།",
+   "why": "Dzongkha Wikipedia spells Kosovo ཀོ་སོ་བྷོ།, with བྷ and a final shad. The draft has བོ.",
+   "source": "https://dz.wikipedia.org/wiki/%E0%BD%80%E0%BD%BC%E0%BC%8B%E0%BD%A6%E0%BD%BC%E0%BC%8B%E0%BD%96%E0%BE%B7%E0%BD%BC%E0%BC%8D"
+  }
+ },
+ "gv": {
+  "AT": {
+   "draft": "Yn Ostaar",
+   "correct": "Yn Austeyr",
+   "why": "Manx writes Austria Yn Austeyr, not Yn Ostaar.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Austeyr"
+  },
+  "BT": {
+   "draft": "Bhutan",
+   "correct": "Yn Vutaan",
+   "why": "Manx writes Bhutan Yn Vutaan.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Vutaan"
+  },
+  "BW": {
+   "draft": "Botswana",
+   "correct": "Yn Votswaan",
+   "why": "Manx writes Botswana Yn Votswaan.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Votswaan"
+  },
+  "BZ": {
+   "draft": "Belize",
+   "correct": "Yn Veleesh",
+   "why": "Manx writes Belize Yn Veleesh.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Veleesh"
+  },
+  "CF": {
+   "draft": "Pobblaght Veanagh Affrican",
+   "correct": "Pobblaght yn Affrick Veanagh",
+   "why": "Manx word order is Pobblaght yn Affrick Veanagh, not Pobblaght Veanagh Affrican.",
+   "source": "https://gv.wikipedia.org/wiki/Pobblaght_yn_Affrick_Veanagh"
+  },
+  "CI": {
+   "draft": "Côte d’Ivoire",
+   "correct": "Yn Clyst Iuaagagh",
+   "why": "Manx calls Côte d’Ivoire Yn Clyst Iuaagagh (ivory coast). The draft is French.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Clyst_Iuaagagh"
+  },
+  "CR": {
+   "draft": "Costa Rica",
+   "correct": "Yn Coose Berçhagh",
+   "why": "Manx calls Costa Rica Yn Coose Berçhagh (rich coast).",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Coose_Ber%C3%A7hagh"
+  },
+  "CU": {
+   "draft": "Cooba",
+   "correct": "Yn Choobey",
+   "why": "Manx Wikipedia writes Cuba Yn Choobey. Cooba is not that form.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Choobey"
+  },
+  "CV": {
+   "draft": "Yn Kione Glass",
+   "correct": "Yn Rheynn Ghlass",
+   "why": "Manx calls Cape Verde Yn Rheynn Ghlass. Yn Kione Glass is a different calque.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Rheynn_Ghlass"
+  },
+  "CY": {
+   "draft": "Yn Chipro",
+   "correct": "Yn Cheeprey",
+   "why": "Manx writes Cyprus Yn Cheeprey, not Yn Chipro.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Cheeprey"
+  },
+  "FK": {
+   "draft": "Ellanyn Falkland",
+   "correct": "Ny Malveenaghyn",
+   "why": "Manx calls the Falkland Islands Ny Malveenaghyn.",
+   "source": "https://gv.wikipedia.org/wiki/Ny_Malveenaghyn"
+  },
+  "FO": {
+   "draft": "Ellanyn Faroe",
+   "correct": "Ellanyn ny Geyrragh",
+   "why": "Manx calls the Faroe Islands Ellanyn ny Geyrragh (sheep islands).",
+   "source": "https://gv.wikipedia.org/wiki/Ellanyn_ny_Geyrragh"
+  },
+  "GE": {
+   "draft": "Yn Georgey",
+   "correct": "Yn Çhorshey",
+   "why": "Manx calls the country Yn Çhorshey. Yn Georgey is a different spelling.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_%C3%87horshey"
+  },
+  "GH": {
+   "draft": "Ghana",
+   "correct": "Yn Ghaney",
+   "why": "Manx writes Ghana Yn Ghaney.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Ghaney"
+  },
+  "GQ": {
+   "draft": "Guinea Meanchryssagh",
+   "correct": "Guinea Chryss ny Cruinney",
+   "why": "Manx calls Equatorial Guinea Guinea Chryss ny Cruinney. Meanchryssagh is not the phrase on the Wikipedia page.",
+   "source": "https://gv.wikipedia.org/wiki/Guinea_Chryss_ny_Cruinney"
+  },
+  "GY": {
+   "draft": "Guyana",
+   "correct": "Geeaaney",
+   "why": "Manx writes Guyana Geeaaney.",
+   "source": "https://gv.wikipedia.org/wiki/Geeaaney"
+  },
+  "HN": {
+   "draft": "Honduras",
+   "correct": "Ny Hondooraghyn",
+   "why": "Manx writes Honduras Ny Hondooraghyn.",
+   "source": "https://gv.wikipedia.org/wiki/Ny_Hondooraghyn"
+  },
+  "JM": {
+   "draft": "Jamaica",
+   "correct": "Yn Jamaicey",
+   "why": "Manx writes Jamaica Yn Jamaicey.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Jamaicey"
+  },
+  "KE": {
+   "draft": "Kenya",
+   "correct": "Yn Cheinney",
+   "why": "Manx writes Kenya Yn Cheinney.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Cheinney"
+  },
+  "KG": {
+   "draft": "Kyrgyzstan",
+   "correct": "Yn Chyrgistaan",
+   "why": "Manx writes Kyrgyzstan Yn Chyrgistaan.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Chyrgistaan"
+  },
+  "KM": {
+   "draft": "Comoros",
+   "correct": "Ellanyn Chomoro",
+   "why": "Manx calls the Comoros Ellanyn Chomoro.",
+   "source": "https://gv.wikipedia.org/wiki/Ellanyn_Chomoro"
+  },
+  "KW": {
+   "draft": "Kuwait",
+   "correct": "Yn Choowait",
+   "why": "Manx writes Kuwait Yn Choowait.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Choowait"
+  },
+  "KZ": {
+   "draft": "Kazakhstan",
+   "correct": "Yn Chassaghstaan",
+   "why": "Manx writes Kazakhstan Yn Chassaghstaan.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Chassaghstaan"
+  },
+  "LK": {
+   "draft": "Sri Lanka",
+   "correct": "Shreelankey",
+   "why": "Manx writes Sri Lanka Shreelankey.",
+   "source": "https://gv.wikipedia.org/wiki/Shreelankey"
+  },
+  "LR": {
+   "draft": "Liberia",
+   "correct": "Yn Laibeer",
+   "why": "Manx writes Liberia Yn Laibeer.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Laibeer"
+  },
+  "LY": {
+   "draft": "Yn Libia",
+   "correct": "Yn Leeb",
+   "why": "Manx writes Libya Yn Leeb, not Yn Libia.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Leeb"
+  },
+  "ML": {
+   "draft": "Mali",
+   "correct": "Malee",
+   "why": "Manx writes Mali Malee.",
+   "source": "https://gv.wikipedia.org/wiki/Malee"
+  },
+  "MT": {
+   "draft": "Malta",
+   "correct": "Yn Valta",
+   "why": "Manx writes Malta Yn Valta.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Valta"
+  },
+  "MU": {
+   "draft": "Mauritius",
+   "correct": "Ellan Wirrish",
+   "why": "Manx calls Mauritius Ellan Wirrish.",
+   "source": "https://gv.wikipedia.org/wiki/Ellan_Wirrish"
+  },
+  "MX": {
+   "draft": "Yn Vexico",
+   "correct": "Meksico",
+   "why": "Manx writes Mexico Meksico. Yn Vexico uses x, which Manx orthography does not, and a lenition the article does not use.",
+   "source": "https://gv.wikipedia.org/wiki/Meksico"
+  },
+  "MZ": {
+   "draft": "Yn Vozambique",
+   "correct": "Yn Vosambeeck",
+   "why": "Manx writes Mozambique Yn Vosambeeck, not Yn Vozambique.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Vosambeeck"
+  },
+  "NI": {
+   "draft": "Nicaragua",
+   "correct": "Yn Nickeraag",
+   "why": "Manx writes Nicaragua Yn Nickeraag.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Nickeraag"
+  },
+  "NR": {
+   "draft": "Nauru",
+   "correct": "Naoero",
+   "why": "Manx spells Nauru Naoero.",
+   "source": "https://gv.wikipedia.org/wiki/Naoero"
+  },
+  "OM": {
+   "draft": "Oman",
+   "correct": "Yn Omaan",
+   "why": "Manx writes Oman Yn Omaan.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Omaan"
+  },
+  "PR": {
+   "draft": "Puerto Rico",
+   "correct": "Yn Phurt Verçhagh",
+   "why": "Manx calls Puerto Rico Yn Phurt Verçhagh (rich port).",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Phurt_Ver%C3%A7hagh"
+  },
+  "QA": {
+   "draft": "Qatar",
+   "correct": "Yn Chatar",
+   "why": "Manx writes Qatar Yn Chatar.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Chatar"
+  },
+  "RW": {
+   "draft": "Rwanda",
+   "correct": "Rooandey",
+   "why": "Manx writes Rwanda Rooandey.",
+   "source": "https://gv.wikipedia.org/wiki/Rooandey"
+  },
+  "SC": {
+   "draft": "Seychelles",
+   "correct": "Ny h-Ellanyn Sheshell",
+   "why": "Manx calls the Seychelles Ny h-Ellanyn Sheshell.",
+   "source": "https://gv.wikipedia.org/wiki/Ny_h-Ellanyn_Sheshell"
+  },
+  "SN": {
+   "draft": "Senegal",
+   "correct": "Yn Tenegaal",
+   "why": "Manx writes Senegal Yn Tenegaal.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Tenegaal"
+  },
+  "SO": {
+   "draft": "Somalia",
+   "correct": "Yn Tomaal",
+   "why": "Manx calls Somalia Yn Tomaal.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Tomaal"
+  },
+  "SR": {
+   "draft": "Suriname",
+   "correct": "Yn Toorinam",
+   "why": "Manx writes Suriname Yn Toorinam.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Toorinam"
+  },
+  "SY": {
+   "draft": "Yn Syria",
+   "correct": "Yn Teer",
+   "why": "Manx calls Syria Yn Teer.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Teer"
+  },
+  "SZ": {
+   "draft": "Eswatini",
+   "correct": "Yn Çheer Swassee",
+   "why": "Manx calls Eswatini Yn Çheer Swassee.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_%C3%87heer_Swassee"
+  },
+  "TH": {
+   "draft": "Yn Thailynn",
+   "correct": "Yn Çheer Thai",
+   "why": "Manx calls Thailand Yn Çheer Thai, not Yn Thailynn.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_%C3%87heer_Thai"
+  },
+  "TO": {
+   "draft": "Tonga",
+   "correct": "Yn Tongey",
+   "why": "Manx writes Tonga Yn Tongey.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Tongey"
+  },
+  "UY": {
+   "draft": "Uruguay",
+   "correct": "Yn Ooraguay",
+   "why": "Manx writes Uruguay Yn Ooraguay.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Ooraguay"
+  },
+  "UZ": {
+   "draft": "Uzbekistan",
+   "correct": "Yn Oosbeckistaan",
+   "why": "Manx writes Uzbekistan Yn Oosbeckistaan.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Oosbeckistaan"
+  },
+  "VE": {
+   "draft": "Venezuela",
+   "correct": "Yn Veneswaaley",
+   "why": "Manx writes Venezuela Yn Veneswaaley.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Veneswaaley"
+  },
+  "ZM": {
+   "draft": "Zambia",
+   "correct": "Yn Tambia",
+   "why": "Manx writes Zambia Yn Tambia.",
+   "source": "https://gv.wikipedia.org/wiki/Yn_Tambia"
+  }
+ },
+ "kw": {
+  "BE": {
+   "draft": "Belgi",
+   "correct": "Pow Belg",
+   "why": "Cornish writes Belgium Pow Belg. Belgi is not the country name.",
+   "source": "https://kw.wikipedia.org/wiki/Pow_Belg"
+  },
+  "FI": {
+   "draft": "Pow Finn",
+   "correct": "Fynndir",
+   "why": "Cornish Wikipedia calls Finland Fynndir. Pow Finn is not the name in use.",
+   "source": "https://kw.wikipedia.org/wiki/Fynndir"
+  },
+  "GE": {
+   "draft": "Jeorji",
+   "correct": "Pow Grouzi",
+   "why": "Cornish distinguishes the country as Pow Grouzi. Jeorji is the English name.",
+   "source": "https://kw.wikipedia.org/wiki/Pow_Grouzi"
+  },
+  "GL": {
+   "draft": "Greenland",
+   "correct": "Greunlond",
+   "why": "Cornish Wikipedia writes Greenland Greunlond, not the English spelling.",
+   "source": "https://kw.wikipedia.org/wiki/Greunlond"
+  },
+  "GQ": {
+   "draft": "Gyni Ekwatorek",
+   "correct": "Gyni an Kehysedh",
+   "why": "The Cornish word for the equator is kehysedh, so the name is Gyni an Kehysedh. Ekwatorek is an English adjective.",
+   "source": "https://kw.wikipedia.org/wiki/Gyni_an_Kehysedh"
+  },
+  "JP": {
+   "draft": "Japan",
+   "correct": "Nihon",
+   "why": "Cornish Wikipedia calls Japan Nihon.",
+   "source": "https://kw.wikipedia.org/wiki/Nihon"
+  },
+  "KG": {
+   "draft": "Kyrgyzstan",
+   "correct": "Pow Kyrgys",
+   "why": "Cornish Wikipedia writes Kyrgyzstan Pow Kyrgys.",
+   "source": "https://kw.wikipedia.org/wiki/Pow_Kyrgys"
+  },
+  "KZ": {
+   "draft": "Kazakhstan",
+   "correct": "Pow Kazagh",
+   "why": "Cornish Wikipedia writes Kazakhstan Pow Kazagh.",
+   "source": "https://kw.wikipedia.org/wiki/Pow_Kazagh"
+  },
+  "LA": {
+   "draft": "Laos",
+   "correct": "Pow Lao",
+   "why": "Cornish Wikipedia writes Laos Pow Lao.",
+   "source": "https://kw.wikipedia.org/wiki/Pow_Lao"
+  },
+  "MM": {
+   "draft": "Myanmar",
+   "correct": "Byrmani",
+   "why": "Cornish writes Burma/Myanmar Byrmani. Myanmar is English.",
+   "source": "https://kw.wikipedia.org/wiki/Byrmani"
+  },
+  "NE": {
+   "draft": "Niger",
+   "correct": "Pow Nijer",
+   "why": "Cornish Wikipedia writes Niger Pow Nijer.",
+   "source": "https://kw.wikipedia.org/wiki/Pow_Nijer"
+  },
+  "NZ": {
+   "draft": "Zeland Nowydh",
+   "correct": "Mordir Nowydh",
+   "why": "Cornish calls New Zealand Mordir Nowydh (new land). Zeland is not a Cornish word.",
+   "source": "https://kw.wikipedia.org/wiki/Mordir_Nowydh"
+  },
+  "SA": {
+   "draft": "Arabi Saoudek",
+   "correct": "Arabi an Saud",
+   "why": "Cornish Wikipedia writes Saudi Arabia Arabi an Saud, not Arabi Saoudek.",
+   "source": "https://kw.wikipedia.org/wiki/Arabi_an_Saud"
+  },
+  "SE": {
+   "draft": "Swedherwyk",
+   "correct": "Sweden",
+   "why": "Swedherwyk is not a Cornish word. Cornish Wikipedia uses Sweden.",
+   "source": "https://kw.wikipedia.org/wiki/Sweden"
+  },
+  "ST": {
+   "draft": "São Tomé ha Príncipe",
+   "correct": "Sen Tommas ha Pryns",
+   "why": "Cornish writes São Tomé and Príncipe Sen Tommas ha Pryns.",
+   "source": "https://kw.wikipedia.org/wiki/Sen_Tommas_ha_Pryns"
+  },
+  "SZ": {
+   "draft": "Eswatini",
+   "correct": "Pow Swati",
+   "why": "Cornish writes Eswatini Pow Swati.",
+   "source": "https://kw.wikipedia.org/wiki/Pow_Swati"
+  },
+  "TJ": {
+   "draft": "Tajikistan",
+   "correct": "Pow Tajik",
+   "why": "Cornish Wikipedia writes Tajikistan Pow Tajik.",
+   "source": "https://kw.wikipedia.org/wiki/Pow_Tajik"
+  },
+  "TM": {
+   "draft": "Turkmenistan",
+   "correct": "Pow Turkmen",
+   "why": "Cornish Wikipedia writes Turkmenistan Pow Turkmen.",
+   "source": "https://kw.wikipedia.org/wiki/Pow_Turkmen"
+  },
+  "UZ": {
+   "draft": "Uzbekistan",
+   "correct": "Pow Ousbek",
+   "why": "Cornish Wikipedia writes Uzbekistan Pow Ousbek.",
+   "source": "https://kw.wikipedia.org/wiki/Pow_Ousbek"
+  }
+ },
+ "lb": {
+  "IO": {
+   "draft": "Britescht Territorium am Indeschen Ozean",
+   "correct": "Britteschen Territoire am Indeschen Ozean",
+   "why": "Luxembourgish uses the masculine noun Territoire, so the adjective is Britteschen. Territorium and Britescht are German.",
+   "source": "https://lb.wikipedia.org/wiki/Britteschen_Territoire_am_Indeschen_Ozean"
+  }
+ },
+ "os": {
+  "GR": {
+   "draft": "Бердзенстон",
+   "correct": "Грекъ",
+   "why": "Ossetian Wikipedia names Greece Грекъ (also Греци). Бердзенстон is the Georgian word for Greek with -стан added.",
+   "source": "https://os.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BA%D1%8A"
+  },
+  "IO": {
+   "draft": "Британийы зӕхх Индийы океаны",
+   "correct": "Индийы фурды Британийы территори",
+   "why": "The Ossetian name uses фурд for the sea: Индийы фурды Британийы территори. The draft uses Russian океан and a different calque.",
+   "source": "https://os.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%8B_%D1%84%D1%83%D1%80%D0%B4%D1%8B_%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B9%D1%8B_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8"
+  },
+  "SA": {
+   "draft": "Сауди Арави",
+   "correct": "Сауды Арабб",
+   "why": "Ossetian Wikipedia spells Saudi Arabia Сауды Арабб, not the Russian-style Сауди Арави.",
+   "source": "https://os.wikipedia.org/wiki/%D0%A1%D0%B0%D1%83%D0%B4%D1%8B_%D0%90%D1%80%D0%B0%D0%B1%D0%B1"
+  }
+ },
+ "rw": {
+  "AE": {
+   "draft": "Leta Zunze Ubumwe z’Abarabu",
+   "correct": "Nyarabu Zunze Ubumwe",
+   "why": "Kinyarwanda Wikipedia says Nyarabu Zunze Ubumwe. The draft says 'united states of the Arabs', which is a different calque.",
+   "source": "https://rw.wikipedia.org/wiki/Nyarabu_Zunze_Ubumwe"
+  },
+  "AT": {
+   "draft": "Otirishe",
+   "correct": "Ositiriya",
+   "why": "Kinyarwanda writes Austria Ositiriya, not Otirishe.",
+   "source": "https://rw.wikipedia.org/wiki/Ositiriya"
+  },
+  "CZ": {
+   "draft": "Repubulika ya Ceke",
+   "correct": "Cekiya",
+   "why": "Kinyarwanda writes Czechia Cekiya. Repubulika ya Ceke is a French-style phrase the Wikipedia does not use.",
+   "source": "https://rw.wikipedia.org/wiki/Cekiya"
+  },
+  "EC": {
+   "draft": "Ekwateri",
+   "correct": "Ekwadoro",
+   "why": "Kinyarwanda writes Ecuador Ekwadoro.",
+   "source": "https://rw.wikipedia.org/wiki/Ekwadoro"
+  },
+  "GG": {
+   "draft": "Guernsey",
+   "correct": "Gwasi",
+   "why": "Kinyarwanda writes Guernsey Gwasi. The draft is the English name.",
+   "source": "https://rw.wikipedia.org/wiki/Gwasi"
+  },
+  "GL": {
+   "draft": "Gurunilande",
+   "correct": "Goronulande",
+   "why": "Kinyarwanda writes Greenland Goronulande, not Gurunilande.",
+   "source": "https://rw.wikipedia.org/wiki/Goronulande"
+  },
+  "GY": {
+   "draft": "Guyana",
+   "correct": "Giyana",
+   "why": "Kinyarwanda writes Guyana Giyana.",
+   "source": "https://rw.wikipedia.org/wiki/Giyana"
+  },
+  "HM": {
+   "draft": "Ibirwa bya Heard na McDonald",
+   "correct": "Icyirwa Hadi n’Ibirwa MakeDonalidi",
+   "why": "Kinyarwanda Wikipedia says Icyirwa Hadi n’Ibirwa MakeDonalidi, not a straight English Heard and McDonald.",
+   "source": "https://rw.wikipedia.org/wiki/Icyirwa_Hadi_n%E2%80%99Ibirwa_MakeDonalidi"
+  },
+  "IO": {
+   "draft": "Intara y’Ubwongereza yo mu Nyanja y’Abahinde",
+   "correct": "Teritwari y’Inyanja y’Abahinde Nyongereza",
+   "why": "The Kinyarwanda name is Teritwari y’Inyanja y’Abahinde Nyongereza. Intara means a province, and Abahindi is a different spelling.",
+   "source": "https://rw.wikipedia.org/wiki/Teritwari_y%E2%80%99Inyanja_y%E2%80%99Abahinde_Nyongereza"
+  },
+  "KN": {
+   "draft": "Saint Kitts na Nevis",
+   "correct": "Mutagatifu Kitsi na Nevisi",
+   "why": "Kinyarwanda uses Mutagatifu for Saint: Mutagatifu Kitsi na Nevisi. The draft keeps the English Saint Kitts.",
+   "source": "https://rw.wikipedia.org/wiki/Mutagatifu_Kitsi_na_Nevisi"
+  },
+  "LC": {
+   "draft": "Sainte-Lucie",
+   "correct": "Mutagatifu Lusiya",
+   "why": "Kinyarwanda uses Mutagatifu Lusiya for Saint Lucia. Sainte-Lucie is French.",
+   "source": "https://rw.wikipedia.org/wiki/Mutagatifu_Lusiya_(Igihugu)"
+  },
+  "LS": {
+   "draft": "Lesotho",
+   "correct": "Lesoto",
+   "why": "Kinyarwanda writes Lesotho Lesoto.",
+   "source": "https://rw.wikipedia.org/wiki/Lesoto"
+  },
+  "LU": {
+   "draft": "Lukesemburu",
+   "correct": "Lugizamburu",
+   "why": "Kinyarwanda writes Luxembourg Lugizamburu, not Lukesemburu.",
+   "source": "https://rw.wikipedia.org/wiki/Lugizamburu"
+  },
+  "MD": {
+   "draft": "Molidaviya",
+   "correct": "Molidova",
+   "why": "Kinyarwanda writes Moldova Molidova, not Molidaviya.",
+   "source": "https://rw.wikipedia.org/wiki/Molidova"
+  },
+  "MM": {
+   "draft": "Birimaniya",
+   "correct": "Mayanimari",
+   "why": "Kinyarwanda writes Myanmar Mayanimari. Birimaniya is an older Burma form the Wikipedia does not use.",
+   "source": "https://rw.wikipedia.org/wiki/Mayanimari"
+  },
+  "MS": {
+   "draft": "Montserrat",
+   "correct": "Monserati",
+   "why": "Kinyarwanda writes Montserrat Monserati.",
+   "source": "https://rw.wikipedia.org/wiki/Monserati"
+  },
+  "NC": {
+   "draft": "Kaledoniya Nshya",
+   "correct": "Nuveli Kalidoniya",
+   "why": "Kinyarwanda writes New Caledonia Nuveli Kalidoniya, not Kaledoniya Nshya.",
+   "source": "https://rw.wikipedia.org/wiki/Nuveli_Kalidoniya"
+  },
+  "NZ": {
+   "draft": "Nouvelle-Zélande",
+   "correct": "Nuveli Zelande",
+   "why": "Nouvelle-Zélande is French. Kinyarwanda writes Nuveli Zelande.",
+   "source": "https://rw.wikipedia.org/wiki/Nuveli_Zelande"
+  },
+  "PG": {
+   "draft": "Papuwa Gineya Nshya",
+   "correct": "Papuwa Nuveli Gineya",
+   "why": "Kinyarwanda writes Papua New Guinea Papuwa Nuveli Gineya.",
+   "source": "https://rw.wikipedia.org/wiki/Papuwa_Nuveli_Gineya"
+  },
+  "PM": {
+   "draft": "Saint-Pierre na Miquelon",
+   "correct": "Mutagatifu Petero na Mikeloni",
+   "why": "Kinyarwanda uses Mutagatifu Petero na Mikeloni. The draft keeps the French Saint-Pierre.",
+   "source": "https://rw.wikipedia.org/wiki/Mutagatifu_Petero_na_Mikeloni"
+  },
+  "SM": {
+   "draft": "San Marino",
+   "correct": "Mutagatifu Marino",
+   "why": "Kinyarwanda writes San Marino Mutagatifu Marino.",
+   "source": "https://rw.wikipedia.org/wiki/Mutagatifu_Marino"
+  },
+  "SV": {
+   "draft": "El Salvador",
+   "correct": "Saluvadoro",
+   "why": "Kinyarwanda writes El Salvador Saluvadoro.",
+   "source": "https://rw.wikipedia.org/wiki/Saluvadoro"
+  },
+  "UA": {
+   "draft": "Ukraine",
+   "correct": "Ikerene",
+   "why": "Kinyarwanda writes Ukraine Ikerene. The draft is English.",
+   "source": "https://rw.wikipedia.org/wiki/Ikerene"
+  },
+  "UG": {
+   "draft": "Uganda",
+   "correct": "Ubugande",
+   "why": "Kinyarwanda country names take the ubu- class: Uganda is Ubugande.",
+   "source": "https://rw.wikipedia.org/wiki/Ubugande"
+  },
+  "VG": {
+   "draft": "Ibirwa by’Isugi by’Abongereza",
+   "correct": "Ibirwa bya Virigini Nyongereza",
+   "why": "Kinyarwanda writes the Virgin Islands with Virigini. Isugi means a virgin person, not these islands.",
+   "source": "https://rw.wikipedia.org/wiki/Ibirwa_bya_Virigini_Nyongereza"
+  },
+  "VI": {
+   "draft": "Ibirwa by’Isugi by’Abanyamerika",
+   "correct": "Ibirwa bya Virigini bya Leta Zunze Ubumwe",
+   "why": "Kinyarwanda writes them Ibirwa bya Virigini bya Leta Zunze Ubumwe. Isugi is the wrong word.",
+   "source": "https://rw.wikipedia.org/wiki/Ibirwa_bya_Virigini_bya_Leta_Zunze_Ubumwe"
+  },
+  "VU": {
+   "draft": "Vanuatu",
+   "correct": "Vanuwatu",
+   "why": "Kinyarwanda writes Vanuatu Vanuwatu.",
+   "source": "https://rw.wikipedia.org/wiki/Vanuwatu"
+  }
+ },
+ "su": {
+  "AF": {
+   "draft": "Afganistan",
+   "correct": "Apganistan",
+   "why": "Sundanese writes Afghanistan Apganistan, with p rather than f.",
+   "source": "https://su.wikipedia.org/wiki/Apganistan"
+  },
+  "CH": {
+   "draft": "Swiss",
+   "correct": "Suis",
+   "why": "Sundanese writes Switzerland Suis (Konféderasi Suis), not the English Swiss.",
+   "source": "https://su.wikipedia.org/wiki/Suis"
+  },
+  "CL": {
+   "draft": "Chili",
+   "correct": "Cilé",
+   "why": "Sundanese spelling is Cilé, with é. Chili is the Indonesian spelling.",
+   "source": "https://su.wikipedia.org/wiki/Cil%C3%A9"
+  },
+  "CW": {
+   "draft": "Curaçao",
+   "correct": "Kuraso",
+   "why": "Sundanese has no ç and writes the island Kuraso.",
+   "source": "https://su.wikipedia.org/wiki/Kuraso"
+  },
+  "GD": {
+   "draft": "Granada",
+   "correct": "Grénada",
+   "why": "Sundanese Wikipedia spells Grenada Grénada. Granada is the Spanish city.",
+   "source": "https://su.wikipedia.org/wiki/Gr%C3%A9nada"
+  },
+  "GL": {
+   "draft": "Greenland",
+   "correct": "Lemah Héjo",
+   "why": "Sundanese calls Greenland Lemah Héjo (green land). The draft is English.",
+   "source": "https://su.wikipedia.org/wiki/Lemah_H%C3%A9jo"
+  },
+  "GP": {
+   "draft": "Guadeloupe",
+   "correct": "Guadelup",
+   "why": "Sundanese drops the silent final e: Guadelup.",
+   "source": "https://su.wikipedia.org/wiki/Guadelup"
+  },
+  "IO": {
+   "draft": "Wewengkon Samudra Hindia Britania",
+   "correct": "Téritori Samudra Hindia Britania",
+   "why": "The Sundanese name is Téritori Samudra Hindia Britania. Wewengkon means region, not territory.",
+   "source": "https://su.wikipedia.org/wiki/T%C3%A9ritori_Samudra_Hindia_Britania"
+  },
+  "KN": {
+   "draft": "Saint Kitts jeung Nevis",
+   "correct": "Saint Kitts jeung Névis",
+   "why": "Sundanese writes the second island Névis, with é.",
+   "source": "https://su.wikipedia.org/wiki/Saint_Kitts_jeung_N%C3%A9vis"
+  },
+  "KY": {
+   "draft": "Kapuloan Cayman",
+   "correct": "Kapuloan Kayman",
+   "why": "Sundanese spells the islands Kayman, with k.",
+   "source": "https://su.wikipedia.org/wiki/Kapuloan_Kayman"
+  },
+  "KZ": {
+   "draft": "Kazakhstan",
+   "correct": "Kazakstan",
+   "why": "Sundanese spells Kazakhstan Kazakstan, without h.",
+   "source": "https://su.wikipedia.org/wiki/Kazakstan"
+  },
+  "LC": {
+   "draft": "Saint Lucia",
+   "correct": "Saint Lusia",
+   "why": "Sundanese spells the island Lusia.",
+   "source": "https://su.wikipedia.org/wiki/Saint_Lusia"
+  },
+  "LK": {
+   "draft": "Sri Lanka",
+   "correct": "Sri Langka",
+   "why": "Sundanese spells Sri Lanka Sri Langka.",
+   "source": "https://su.wikipedia.org/wiki/Sri_Langka"
+  },
+  "MZ": {
+   "draft": "Mozambik",
+   "correct": "Mosambik",
+   "why": "Sundanese writes Mozambique Mosambik, with s rather than z.",
+   "source": "https://su.wikipedia.org/wiki/Mosambik"
+  },
+  "PH": {
+   "draft": "Filipina",
+   "correct": "Pilipina",
+   "why": "Sundanese writes the Philippines Pilipina, with p rather than f.",
+   "source": "https://su.wikipedia.org/wiki/Pilipina"
+  },
+  "PM": {
+   "draft": "Saint Pierre jeung Miquelon",
+   "correct": "Saint-Piér jeung Mikélon",
+   "why": "Sundanese Wikipedia writes Saint-Piér jeung Mikélon, with é and k.",
+   "source": "https://su.wikipedia.org/wiki/Saint-Pi%C3%A9r_jeung_Mik%C3%A9lon"
+  },
+  "SA": {
+   "draft": "Arab Saudi",
+   "correct": "Saudi Arabia",
+   "why": "The Sundanese article calls it Karajaan Saudi Arabia, not the Indonesian word order Arab Saudi.",
+   "source": "https://su.wikipedia.org/wiki/Saudi_Arabia"
+  },
+  "SK": {
+   "draft": "Slowakia",
+   "correct": "Slovakia",
+   "why": "Sundanese Wikipedia spells Slovakia with a v. Slowakia is a different language’s spelling.",
+   "source": "https://su.wikipedia.org/wiki/Slovakia"
+  },
+  "TC": {
+   "draft": "Kapuloan Turks jeung Caicos",
+   "correct": "Kapuloan Turks jeung Kaikos",
+   "why": "Sundanese spells Caicos Kaikos.",
+   "source": "https://su.wikipedia.org/wiki/Kapuloan_Turks_jeung_Kaikos"
+  }
+ },
+ "yi": {
+  "AZ": {
+   "draft": "אַזערבייַדזשאַן",
+   "correct": "אזערביידזשאן",
+   "why": "Yiddish Wikipedia spells Azerbaijan with two yuds (אזערביידזשאן), the ay diphthong. A single יַ reads ya.",
+   "source": "https://yi.wikipedia.org/wiki/%D7%90%D7%96%D7%A2%D7%A8%D7%91%D7%99%D7%99%D7%93%D7%96%D7%A9%D7%90%D7%9F"
+  },
+  "JO": {
+   "draft": "ירדן",
+   "correct": "יארדאניע",
+   "why": "ירדן is the Hebrew name. Yiddish writes the country יארדאניע.",
+   "source": "https://yi.wikipedia.org/wiki/%D7%99%D7%90%D7%A8%D7%93%D7%90%D7%A0%D7%99%D7%A2"
+  },
+  "OM": {
+   "draft": "עמאַן",
+   "correct": "אמאן",
+   "why": "Oman is spelled with alef, אמאן. עמאַן uses ayin, which is the Hebrew spelling.",
+   "source": "https://yi.wikipedia.org/wiki/%D7%90%D7%9E%D7%90%D7%9F"
+  },
+  "VG": {
+   "draft": "בריטישע ווירגין אינזלען",
+   "correct": "בריטישע ווירדזשין אינזלען",
+   "why": "Virgin is ווירדזשין in Yiddish (the דזש is the j-sound). ווירגין reads with a hard g.",
+   "source": "https://yi.wikipedia.org/wiki/%D7%91%D7%A8%D7%99%D7%98%D7%99%D7%A9%D7%A2_%D7%95%D7%95%D7%99%D7%A8%D7%93%D7%96%D7%A9%D7%99%D7%9F_%D7%90%D7%99%D7%A0%D7%96%D7%9C%D7%A2%D7%9F"
+  },
+  "VI": {
+   "draft": "אַמעריקאַנישע ווירגין אינזלען",
+   "correct": "יו. עס. ווירדזשין אינזלען",
+   "why": "Yiddish Wikipedia calls them יו. עס. ווירדזשין אינזלען. ווירגין is missing the דזש of the j-sound.",
+   "source": "https://yi.wikipedia.org/wiki/%D7%99%D7%95._%D7%A2%D7%A1._%D7%95%D7%95%D7%99%D7%A8%D7%93%D7%96%D7%A9%D7%99%D7%9F_%D7%90%D7%99%D7%A0%D7%96%D7%9C%D7%A2%D7%9F"
+  }
+ },
+ "_checked": {
+  "bm": 28,
+  "bo": 240,
+  "ce": 2,
+  "ckb": 1,
+  "dz": 3,
+  "ee": 8,
+  "ff": 28,
+  "fy": 2,
+  "gv": 248,
+  "ki": 28,
+  "kl": 249,
+  "ks": 1,
+  "kw": 249,
+  "lb": 1,
+  "lg": 28,
+  "ln": 21,
+  "lu": 28,
+  "mg": 28,
+  "mt": 1,
+  "nd": 28,
+  "os": 239,
+  "rn": 28,
+  "rw": 247,
+  "sa": 240,
+  "se": 5,
+  "sg": 28,
+  "sn": 29,
+  "su": 239,
+  "ug": 1,
+  "yi": 53
+ }
+}
