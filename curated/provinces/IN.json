@@ -43,7 +43,9 @@
    "local": "छत्तीसगढ़",
    "latin": "Chhattisgarh",
    "iso": true,
-   "aliases": []
+   "aliases": [
+    "IN-CT"
+   ]
   },
   {
    "code": "IN-CH",
@@ -57,7 +59,10 @@
    "local": "दादरा और नगर हवेली और दमन और दीव",
    "latin": "Dadra and Nagar Haveli and Daman and Diu",
    "iso": true,
-   "aliases": []
+   "aliases": [
+    "IN-DD",
+    "IN-DN"
+   ]
   },
   {
    "code": "IN-DL",
@@ -183,7 +188,9 @@
    "local": "ओडिशा",
    "latin": "Odisha",
    "iso": true,
-   "aliases": []
+   "aliases": [
+    "IN-OR"
+   ]
   },
   {
    "code": "IN-PB",
@@ -232,14 +239,18 @@
    "local": "तेलंगाना",
    "latin": "Telangana",
    "iso": true,
-   "aliases": []
+   "aliases": [
+    "IN-TG"
+   ]
   },
   {
    "code": "IN-UK",
    "local": "उत्तराखण्ड",
    "latin": "Uttarakhand",
    "iso": true,
-   "aliases": []
+   "aliases": [
+    "IN-UT"
+   ]
   },
   {
    "code": "IN-UP",

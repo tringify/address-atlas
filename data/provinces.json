@@ -2981,7 +2981,9 @@
   "local": "बिहार"
  },
  "IN-CG": {
-  "aliases": [],
+  "aliases": [
+   "IN-CT"
+  ],
   "country": "IN",
   "latin": "Chhattisgarh",
   "local": "छत्तीसगढ़"
@@ -2993,7 +2995,10 @@
   "local": "चंडीगढ़"
  },
  "IN-DH": {
-  "aliases": [],
+  "aliases": [
+   "IN-DD",
+   "IN-DN"
+  ],
   "country": "IN",
   "latin": "Dadra and Nagar Haveli and Daman and Diu",
   "local": "दादरा और नगर हवेली और दमन और दीव"
@@ -3101,7 +3106,9 @@
   "local": "नागालैण्ड"
  },
  "IN-OD": {
-  "aliases": [],
+  "aliases": [
+   "IN-OR"
+  ],
   "country": "IN",
   "latin": "Odisha",
   "local": "ओडिशा"
@@ -3143,13 +3150,17 @@
   "local": "त्रिपुरा"
  },
  "IN-TS": {
-  "aliases": [],
+  "aliases": [
+   "IN-TG"
+  ],
   "country": "IN",
   "latin": "Telangana",
   "local": "तेलंगाना"
  },
  "IN-UK": {
-  "aliases": [],
+  "aliases": [
+   "IN-UT"
+  ],
   "country": "IN",
   "latin": "Uttarakhand",
   "local": "उत्तराखण्ड"
