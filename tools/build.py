@@ -167,7 +167,8 @@ def main():
                     "kind": kind([lv_zip, lv.get("zip_name_type")], POSTAL_KINDS, "postal"),
                     "pattern": pattern, "examples": examples,
                     "required": "postal_code" in required,
-                    "uppercase": rule["uppercase"], "strip": rule["strip"], "insert": rule["insert"],
+                    "uppercase": True,  # no country writes postal codes in lower case
+                    "strip": rule["strip"], "insert": rule["insert"],
                     "prefix": ({"text": rule["prefix"]["text"], "required": rule["prefix"]["status"] == "required"}
                                if rule.get("prefix") else None),
                     "max_length": max(len(e) for e in examples) if examples else 0,
