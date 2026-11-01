@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Förnamn",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Efternamn",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Lägenhet, våning m.m. (valfritt)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organisation",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Gatuadress",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Mobil",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Land/region",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Stad",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Postort",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Förort",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Townland (Irland)",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Ort",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Distrikt",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Stadsdel",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Område",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Kommun",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Departement",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Distrikt",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Emirat",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Ö",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Oblast (län)",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Församling",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Prefektur",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Provins",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Stat",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Postnummer",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Postnummer",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "Postkod (Indien)",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode (postnummer)",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Du måste fylla i det här fältet.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} är inte ett korrekt värde för det här fältet.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Adressen verkar gå till en postbox. Du måste ange en gatuadress.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Postnummerformatet känns inte igen. Här är ett exempel på ett giltigt postnummer: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Postnummerformatet känns inte igen. Här är ett exempel på ett giltigt postnummer: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Postnumret stämmer inte överens med resten av adressen.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Postnumret stämmer inte överens med resten av adressen.",
+  "provenance": "chromium"
+ }
+}

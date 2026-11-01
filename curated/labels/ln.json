@@ -1,0 +1,220 @@
+{
+ "fields.first_name": {
+  "value": "Nkombo ya liboso",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "fields.last_name": {
+  "value": "Nkombo ya libota",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "fields.address2": {
+  "value": "Apartema, suite, bongo na bongo (ya kopona)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "fields.company": {
+  "value": "Ebongiseli",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "fields.address1": {
+  "value": "Adrɛsi ya balabala",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "fields.phone": {
+  "value": "Telefone",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "fields.country": {
+  "value": "Ekólo / Etúká",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "city.city": {
+  "value": "Engumba",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "city.post_town": {
+  "value": "Engumba ya posita",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "city.suburb": {
+  "value": "Engumba ya libanda",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "city.townland": {
+  "value": "Etúká (Irlande)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "city.village_township": {
+  "value": "Mboka",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "city.district": {
+  "value": "Distrikí",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "city.neighborhood": {
+  "value": "Kartyé",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "province.area": {
+  "value": "Etúká",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "province.county": {
+  "value": "Kontɛ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "province.department": {
+  "value": "Departema",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "province.district": {
+  "value": "Distrikí",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emira",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "province.island": {
+  "value": "Esanga",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "province.parish": {
+  "value": "Paróse",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "province.prefecture": {
+  "value": "Prefektire",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "province.province": {
+  "value": "Provínsi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "province.state": {
+  "value": "Leta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "postal.postal": {
+  "value": "Kódi ya posita",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "postal.zip": {
+  "value": "Kódi ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "postal.pin": {
+  "value": "Kódi PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Okoki kotika esika oyo mpamba te.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} eyebani te lokola motuya ya solo mpo na esika oyo.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "messages.po_box_forbidden": {
+  "value": "Molɔngɔ oyo ya adrɛsi emonani lokola ezali na sanduku ya posita. Svp, salelá adrɛsi ya balabala to ya ndako.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Lolenge ya kódi oyo ya posita eyebani te. Ndakisa ya kódi ya posita ya malamu: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "messages.zip_invalid_example": {
+  "value": "Lolenge ya kódi oyo ya ZIP eyebani te. Ndakisa ya kódi ZIP ya malamu: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "messages.postal_mismatch": {
+  "value": "Kódi oyo ya posita ekokani te na adrɛsi oyo etikali.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ },
+ "messages.zip_mismatch": {
+  "value": "Kódi oyo ya ZIP ekokani te na adrɛsi oyo etikali.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+ }
+}

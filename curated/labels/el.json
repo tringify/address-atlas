@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Όνομα",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Επώνυμο",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Διαμέρισμα, γραφείο κ.λπ. (προαιρετικό)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Οργανισμός",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Διεύθυνση",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Τηλέφωνο",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Χώρα/Περιοχή",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Πόλη",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Πόλη",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Προάστιο",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Διοικητική περιοχή Ιρλανδίας (Townland)",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Χωριό/Δήμος",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Περιφέρεια",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Γειτονιά",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Περιοχή",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Κομητεία",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Διαμέρισμα",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Περιφέρεια",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Εμιράτο",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Νήσος",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Περιφέρεια",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Ενορία",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Νομός",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Διαμέρισμα",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Πολιτεία",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Ταχυδρομικός κώδικας",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Ταχυδρομικός κώδικας",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "Κωδικός PIN",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Κωδικός Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Αυτό το πεδίο είναι υποχρεωτικό.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "Η τιμή {FIELD_VALUE} δεν αναγνωρίζεται ως γνωστή τιμή για αυτό το πεδίο.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Αυτή η διεύθυνση φαίνεται να περιέχει μια ταχυδρομική θυρίδα. Χρησιμοποιήστε οδό ή διεύθυνση κτιρίου.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Αυτή η μορφή ταχυδρομικού κώδικα δεν αναγνωρίζεται. Παράδειγμα έγκυρου ταχυδρομικού κώδικα: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Αυτή η μορφή ταχυδρομικού κώδικα δεν αναγνωρίζεται. Παράδειγμα έγκυρου ταχυδρομικού κώδικα: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Αυτός ο ταχυδρομικός κώδικας δεν φαίνεται να αντιστοιχεί με το υπόλοιπο τμήμα αυτής της διεύθυνσης.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Αυτός ο ταχυδρομικός κώδικας δεν φαίνεται να αντιστοιχεί με το υπόλοιπο τμήμα αυτής της διεύθυνσης.",
+    "provenance": "chromium"
+  }
+}

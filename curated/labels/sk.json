@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Meno",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Priezvisko",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Byt, poschodie atď. (nepovinné)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organizácia",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Ulica",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Telefón",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Krajina alebo oblasť",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Mesto",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Poštový okres",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Predmestie",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Mestská časť",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Dedina/okres",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Okres",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Obvod",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Oblasť",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Okres",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Department",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Okres",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Emirát",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Ostrov",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Oblasť",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Farnosť",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Prefektúra",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Provincia",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Štát",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Poštové smerovacie číslo",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "PSČ",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "Kód PIN",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Toto pole nemôže byť prázdne.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} nie je platná hodnota tohto poľa.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Adresa je zrejme typu P. O. BOX. Zadajte poštovú adresu ulice alebo budovy.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Formát tohto poštového smerovacieho čísla sa nedá rozpoznať. Príklad platného poštového smerovacieho čísla: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Formát tohto PSČ sa nedá rozpoznať. Príklad platného PSČ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Poštové smerovacie číslo sa zrejme nezhoduje so zvyšnou časťou adresy.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "PSČ zrejme nezodpovedá zvyšnej časti adresy.",
+  "provenance": "chromium"
+ }
+}

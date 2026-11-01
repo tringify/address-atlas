@@ -1,0 +1,158 @@
+{
+ "fields.first_name": {
+  "value": "Nome",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Sobrenome",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Complemento (opcional)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Empresa",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Endereço",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefone",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "País/Região",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Cidade",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Cidade postal",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "No Brazilian equivalent of a UK post town; literal rendering"
+ },
+ "city.suburb": {
+  "value": "Bairro",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Brazilian usage has no 'subúrbio' concept for addresses; 'Bairro' is what forms show"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Portuguese equivalent; kept as the Irish/English term as Portuguese references do"
+ },
+ "city.village_township": {
+  "value": "Vila / Município",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Distrito",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Bairro",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Área",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Condado",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Departamento",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Distrito",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirado",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Ilha",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Paróquia",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Prefeitura",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Japanese prefectures are called both 'prefeitura' and 'província' in Brazilian Portuguese"
+ },
+ "province.province": {
+  "value": "Província",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Estado",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "CEP",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Código postal",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Código PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Isto não pode ficar em branco.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} não é reconhecido como um valor válido para este campo.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Esta linha de endereço parece conter uma caixa postal. Use o endereço de um logradouro ou de um edifício.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Este formato de CEP não foi reconhecido. Exemplo de um CEP válido: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Este formato de código postal não foi reconhecido. Exemplo de um código postal válido: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Este CEP parece não corresponder ao restante do endereço.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Este código postal parece não corresponder ao restante do endereço.",
+  "provenance": "curated"
+ }
+}

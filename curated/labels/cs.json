@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Jméno",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Příjmení",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Byt, kancelář apod. (nepovinné)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Organizace",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Ulice a číslo popisné",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Telefon",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Země nebo oblast",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Město",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Sídlo pošty",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Předměstí",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Townland",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Vesnice/obec",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Okres",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Čtvrť",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Oblast",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Okres",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Department",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Okres",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si (administrativní oblast Koreje)",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emirát",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Ostrov",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Farnost",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Prefektura",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Provincie",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Stát/kraj",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "PSČ",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "PSČ",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "Kód PIN",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Toto pole nesmí zůstat prázdné.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} není platná hodnota tohoto pole.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Adresa zřejmě obsahuje P. O. BOX. Zadejte prosím ulici nebo adresu budovy.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Tento formát poštovního směrovacího čísla není platný. Příklad platného poštovního směrovacího čísla: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Tento formát PSČ není platný. Příklad platného PSČ: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Poštovní kód se zřejmě neshoduje se zbytkem adresy.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "PSČ se zřejmě neshoduje se zbytkem adresy.",
+    "provenance": "chromium"
+  }
+}

@@ -1,0 +1,14 @@
+{
+ "country": "MP",
+ "level": "state",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [],
+ "changes": [],
+ "sources": [
+  "https://pe.usps.com/text/pub28/28c2_010.htm",
+  "https://www.iso.org/obp/ui/#iso:code:3166:MP",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "No list: the state slot always holds 'MP'. USPS state code for the Northern Mariana Islands (US-MP in the US list). ISO 3166-2:MP has no subdivisions."
+}

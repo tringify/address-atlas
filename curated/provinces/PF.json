@@ -1,0 +1,14 @@
+{
+ "country": "PF",
+ "level": "island",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [],
+ "changes": [],
+ "sources": [
+  "https://www.laposte.fr/outils/trouver-un-code-postal",
+  "https://www.iso.org/obp/ui/#iso:code:3166:PF",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "No list: the island slot always holds '(island name, free text)'. ISO 3166-2:PF has no subdivisions; the island/commune name is written as free text."
+}

@@ -1,0 +1,168 @@
+{
+ "fields.first_name": {
+  "value": "Ngaran hareup",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Ngaran tukang",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Apartemen, kamar, jsb. (opsional)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organisasi",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Alamat jalan",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telepon",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Nagara/Wewengkon",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Kota",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Kota pos",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sundanese; forms in West Java are usually Indonesian, wording not verified"
+ },
+ "city.suburb": {
+  "value": "Pinggiran kota",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Sundanese equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Désa/Kacamatan",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Kacamatan",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Lingkungan",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Wewengkon",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Kabupatén",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Departemén",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Distrik",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Émirat",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Pulo",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Paroki",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Préféktur",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Propinsi",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Nagara bagian",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Kode pos",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Kode ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Kode PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Ieu teu kénging dikosongkeun.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sundanese; forms in West Java are usually Indonesian, wording not verified"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} teu dipikawanoh salaku nilai anu sah pikeun widang ieu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sundanese; forms in West Java are usually Indonesian, wording not verified"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Baris alamat ieu sigana ngandung kotak pos. Mangga paké alamat jalan atawa wangunan.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sundanese; forms in West Java are usually Indonesian, wording not verified"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Format kode pos ieu teu dipikawanoh. Conto kode pos anu valid: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sundanese; forms in West Java are usually Indonesian, wording not verified"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Format kode ZIP ieu teu dipikawanoh. Conto kode ZIP anu valid: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sundanese; forms in West Java are usually Indonesian, wording not verified"
+ },
+ "messages.postal_mismatch": {
+  "value": "Kode pos ieu sigana teu cocog jeung sésa alamat ieu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sundanese; forms in West Java are usually Indonesian, wording not verified"
+ },
+ "messages.zip_mismatch": {
+  "value": "Kode ZIP ieu sigana teu cocog jeung sésa alamat ieu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sundanese; forms in West Java are usually Indonesian, wording not verified"
+ }
+}

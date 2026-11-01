@@ -1,0 +1,1372 @@
+{
+ "GM": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (none needed)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GM"
+  ],
+  "confidence": "high",
+  "notes": "UPU (Sep 2025 list) puts Gambia among countries that do not require postal codes. Google's live entry has no fmt; the default layout applies."
+ },
+ "GN": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3}",
+   "examples": [
+    "001",
+    "100",
+    "200"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%Z %A %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (none needed)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.smarty.com/global-address-formatting/guinea-address-format-examples",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GN"
+  ],
+  "confidence": "low",
+  "notes": "UPU lists Guinea with 3-digit numeric postcodes (format 999), and the first digit (0-4) is the postal region. I could not find an official per-code list to confirm the examples, which come from Google. The live layout puts the postcode before the street on one line; this is unusual and I could not confirm it from La Poste Guinéenne."
+ },
+ "GP": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "971\\d{2}",
+   "examples": [
+    "97100",
+    "97110",
+    "97139",
+    "97190"
+   ],
+   "source": "https://www.laposte.fr/outils/trouver-un-code-postal"
+  },
+  "required": "ACZ",
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "dropped_tokens": {
+   "%X": "CEDEX sorting code (e.g. '97109 BASSE-TERRE CEDEX'), used only for business/bulk mail. Dropping it is harmless for ordinary addresses; CEDEX addresses should then carry CEDEX in the city field."
+  },
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (none needed; GP is itself a French overseas department)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "zip tightened from 9[78][01]\\d{2} to 971\\d{2}. The live pattern also accepts 978xx, 980xx and 981xx, none of which belong to Guadeloupe. Every Guadeloupe code starts 971."
+  ],
+  "sources": [
+   "https://www.laposte.fr/outils/trouver-un-code-postal",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GP"
+  ],
+  "confidence": "high",
+  "notes": "Saint-Barthélemy (97133) and Saint-Martin (97150) also use 971xx codes but have their own ISO codes (BL, MF)."
+ },
+ "GQ": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (none needed)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GQ"
+  ],
+  "confidence": "high",
+  "notes": "UPU lists Equatorial Guinea among countries that do not require postal codes. Addresses usually use an Apartado (PO box) plus city."
+ },
+ "GR": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3} ?\\d{2}",
+   "examples": [
+    "151 24",
+    "151 10",
+    "101 88"
+   ],
+   "source": "https://postalcodes.elta.gr"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (not used in addresses)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://postalcodes.elta.gr",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GR"
+  ],
+  "confidence": "high",
+  "notes": "UPU format '999 99'; the space is commonly omitted, and the pattern allows that."
+ },
+ "GS": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "SIQQ ?1ZZ",
+   "examples": [
+    "SIQQ 1ZZ"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (none needed)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Layout written without the empty line: live fmt '%N%n%O%n%A%n%n%C%n%Z' has a double %n left over from removing %X (repo had %X there). This is cosmetic."
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GS"
+  ],
+  "confidence": "high",
+  "notes": "UPU lists SIQQ 1ZZ as the single postcode for the whole territory. I made the space optional because it is commonly omitted."
+ },
+ "GT": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "09001",
+    "01501",
+    "01010"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z- %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "department",
+   "subdivision_list": "complete for addressing (departments are not a separate field in the live format; our list is empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GT"
+  ],
+  "confidence": "low",
+  "notes": "UPU format 99999. Many addresses also write the zone ('Zona 10') in the street lines and the department after the city ('Guatemala, Guatemala'). Postcodes are rarely used in practice; the live format leaves them optional, which fits."
+ },
+ "GU": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "969(?:[12]\\d|3[12])(?:[ -]?\\d{4})?",
+   "examples": [
+    "96910",
+    "96931",
+    "96932"
+   ],
+   "source": "https://tools.usps.com/zip-code-lookup.htm"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (none needed)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "changes_from_live": [
+   "Pattern: only made the ZIP+4 separator optional (live requires space or hyphen). The capture groups in the live pattern don't change what it accepts."
+  ],
+  "sources": [
+   "https://pe.usps.com/text/pub28/welcome.htm",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GU"
+  ],
+  "confidence": "high",
+  "notes": "The repo had '%C %S %Z' with state 'GU'. USPS domestic addressing writes 'HAGATNA GU 96910'; live dropped %S. For international mail the country line covers this. If we generate US-domestic labels for Guam we need the 'GU' code, so a note for the US-territory group."
+ },
+ "GW": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1000",
+    "1011"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (none needed)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GW"
+  ],
+  "confidence": "low",
+  "notes": "UPU format 9999. Codes exist but are rarely used; leaving them optional (as live does) fits."
+ },
+ "GY": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{7}",
+   "examples": [
+    "2210201",
+    "4130105"
+   ],
+   "source": "https://guypost.gy/?p=3415"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C%n%S%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "region",
+   "subdivision_list": "issues: empty; Guyana has 10 administrative regions (ISO GY-BA, GY-CU, GY-DE, GY-EB, GY-ES, GY-MA, GY-PM, GY-PT, GY-UD, GY-UT) which GPOC's address sample writes on their own line"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Live has no data. Added 7-digit postcodes: Guyana Post Office Corporation publishes 7-digit codes (region, locality, district, post office [2], sub-locality [2]) with a lookup tool, and UPU (Aug 2026) lists Guyana as 9999999 among countries that require postal codes.",
+   "Layout from GPOC's sample: name / street / town & area / region / postcode / GUYANA."
+  ],
+  "sources": [
+   "https://guypost.gy/?p=3415",
+   "https://guypost.gy/find-your-postcode",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GY"
+  ],
+  "confidence": "low",
+  "notes": "GPOC does not say whether the postcode is mandatory; I kept it optional (required AC). Whether people actually use it is unconfirmed, and many commercial sources still say Guyana has no postcodes. Needs owner sign-off before %Z is shown."
+ },
+ "HK": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AS",
+  "layout": "%S%n%C%n%A%n%O%n%N",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "area",
+   "subdivision_list": "complete (3 areas). Codes HK-KOWLOON etc. are our own keys, not ISO (ISO 3166-2 has no HK subdivisions)"
+  },
+  "labels": {
+   "city": "district",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.hongkongpost.hk/en/sending_mail/local/addressing/index.html",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HK"
+  ],
+  "confidence": "high",
+  "notes": "Hong Kong does not use postcodes. UPU's '999077' is only a code for routing mail from mainland China to HKG; local addresses must not show it. The live format added %C (district) compared with the repo; that matches Hongkong Post guidance. Latin-script layout (lfmt) is %N%n%O%n%A%n%C%n%S."
+ },
+ "HM": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "7151",
+   "examples": [
+    "7151"
+   ],
+   "source": "https://auspost.com.au/postcode/7151"
+  },
+  "required": "AC",
+  "layout": "%O%n%N%n%A%n%C %S %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "state",
+   "subdivision_list": "complete (none needed)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "zipex 7050 -> 7151, and zip \\d{4} -> 7151. Australia Post assigns 7151 to Heard Island and McDonald Islands (with Macquarie Island and the Antarctic stations), and UPU lists 7151 as the single postcode for HM. 7050 (Kingston, Tasmania, the Australian Antarctic Division's base) is not an HM code."
+  ],
+  "sources": [
+   "https://auspost.com.au/postcode/7151",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HM"
+  ],
+  "confidence": "high",
+  "notes": "No permanent population; mail goes via the Australian Antarctic Division. Australia Post shows the 'state' as TAS."
+ },
+ "HN": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "31301",
+    "11101"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "ACS",
+  "layout": "%N%n%O%n%A%n%C, %S%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "department",
+   "subdivision_list": "issues: empty; live lists all 18 departments (ISO HN-AT, CH, CL, CM, CP, CR, EP, FM, GD, IB, IN, LE, LP, OC, OL, SB, VA, YO) but subdivisions.tsv has none for HN while require includes S"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HN"
+  ],
+  "confidence": "high",
+  "notes": "UPU format 99999. The live zip is now mandatory-format (repo allowed empty) but not required (require=ACS), which is fine. Our missing department list is the real gap: S is required, but there is nothing to pick."
+ },
+ "HR": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:HR-?)?\\d{5}",
+   "examples": [
+    "10000",
+    "21001",
+    "10002"
+   ],
+   "source": "https://www.posta.hr/"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%nHR-%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (counties are not used in addresses)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Pattern accepts an optional typed 'HR-' prefix, since the format prints the prefix and users paste it. require: live has none (defaults to AC); Hrvatska pošta treats the postcode as part of the address, so ACZ is recommended."
+  ],
+  "sources": [
+   "https://www.posta.hr/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HR"
+  ],
+  "confidence": "high",
+  "notes": "UPU confirms Croatia uses the ISO prefix (HR-99999). posturl in live is an old ASPX link."
+ },
+ "HT": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:HT)?\\d{4}",
+   "examples": [
+    "6120",
+    "5310",
+    "6110",
+    "8510"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%nHT%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (not used in addresses)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Pattern accepts the 'HT' prefix if typed. Repo had a trailing %X, now dropped in live; no impact."
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HT"
+  ],
+  "confidence": "high",
+  "notes": "UPU format HT9999."
+ },
+ "HU": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1037",
+    "2380",
+    "1540"
+   ],
+   "source": "https://posta.hu/ugyfelszolgalat/iranyitoszam_kereso"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%C%n%A%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (counties are not used in addresses)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://posta.hu/ugyfelszolgalat/iranyitoszam_kereso",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HU"
+  ],
+  "confidence": "high",
+  "notes": "Magyar Posta order: name, town, street, postcode on its own line. The live format adds require=ACZ (repo had none), which is correct."
+ },
+ "ID": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "40115",
+    "10110",
+    "80361"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AS",
+  "layout": "%N%n%O%n%A%n%C%n%S %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "issues: missing the 4 provinces created in 2022 (Papua Selatan ID-PS, Papua Tengah ID-PT, Papua Pegunungan ID-PE, Papua Barat Daya ID-PD); live sub_keys have the same gap (34 entries, 38 provinces exist)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "sub_keys/sub_isoids: add Papua Selatan (PS), Papua Tengah (PT), Papua Pegunungan (PE), Papua Barat Daya (PD), created in 2022 from Papua and Papua Barat, so Indonesia now has 38 provinces. Addresses in those regencies currently have to choose Papua/Papua Barat, which is now wrong."
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/ISO_3166-2:ID",
+   "https://www.geonames.org/ID/administrative-division-indonesia.html",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/ID"
+  ],
+  "confidence": "high",
+  "notes": "Live state_name_type is unset (default 'province'); the repo said 'district', which was wrong. The ISO codes for the new provinces are confirmed only through secondary mirrors of the ISO OBP."
+ },
+ "IE": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:[AC-FHKNPRTV-Y]\\d{2}|D6W) ?[0-9AC-FHKNPRTV-Y]{4}",
+   "examples": [
+    "A65 F4E2"
+   ],
+   "source": "https://www.eircode.ie/what-is-eircode"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%D%n%C%n%S%n%Z",
+  "dropped_tokens": {
+   "%D": "Townland/locality line. Rural addresses rely on the townland; dropping it makes many rural addresses ambiguous unless an Eircode is given."
+  },
+  "province": {
+   "named": true,
+   "kind": "county",
+   "subdivision_list": "complete (26 counties)"
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "eircode"
+  },
+  "changes_from_live": [
+   "zip tightened from [\\dA-Z]{3} ?[\\dA-Z]{4}: routing keys are a letter from the Eircode set plus two digits (or the single exception D6W), and the unique identifier uses only 0-9 and A C D E F H K N P R T V W X Y. The live pattern accepts invalid codes such as 'OOO OOOO' or 'B12 3456'.",
+   "city label: An Post / Eircode use 'post town'."
+  ],
+  "sources": [
+   "https://www.eircode.ie/what-is-eircode",
+   "https://autoaddress.com/articles/eircode-regex/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IE"
+  ],
+  "confidence": "high",
+  "notes": "The Eircode is not required for delivery (An Post delivers on the address alone), so required stays AC. The county is optional in practice. Dublin postal districts (e.g. 'Dublin 2') go in the city field. Only one verified example Eircode (Google's) is listed; the pattern follows the published character set."
+ },
+ "IL": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{7}",
+   "examples": [
+    "9614303"
+   ],
+   "source": "https://doar.israelpost.co.il/en/locatezip"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (districts are not used in addresses)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "zip \\d{5}(?:\\d{2})? -> \\d{7}. Israel Post replaced 5-digit codes with 7-digit codes (mikud) on 1 Feb 2013; 5-digit codes stopped being valid on 31 Jan 2013, and UPU lists Israel as 9999999 only. If we want to accept old input, keep the legacy form only as a warning, not as valid."
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Postal_codes_in_Israel",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/isrEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IL"
+  ],
+  "confidence": "high",
+  "notes": "The live posturl (israelpost.co.il/zipcode.nsf) is outdated."
+ },
+ "IM": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
+   "examples": [
+    "IM2 1AA",
+    "IM99 1PS"
+   ],
+   "source": "https://www.iompost.com/tools-forms/postcode-finder/"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (none needed)"
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.iompost.com/tools-forms/postcode-finder/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IM"
+  ],
+  "confidence": "high",
+  "notes": "Repo had %X; live dropped it with no impact (UK-style sorting code not used)."
+ },
+ "IN": {
+  "verdict": "needs_decision",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3} ?\\d{3}",
+   "examples": [
+    "110034",
+    "110001",
+    "560 001"
+   ],
+   "source": "https://dac.indiapost.gov.in/"
+  },
+  "required": "ACSZ",
+  "layout": "%N%n%O%n%A%n%C %Z%n%S",
+  "dropped_tokens": {
+   "%T": "UNKNOWN token in live fmt; not one of N/O/A/D/C/S/Z/X. Probably an India-specific field (landmark/locality-type). Leaving it out loses nothing that India Post requires, because landmarks and localities can go in the street lines.",
+   "%F": "UNKNOWN token in live fmt; meaning not documented in the public data. Same impact as %T.",
+   "%L": "UNKNOWN token in live fmt; meaning not documented. Same impact as %T."
+  },
+  "province": {
+   "named": true,
+   "kind": "state",
+   "subdivision_list": "complete (28 states + 8 union territories, incl. DH merged 2020 and LA 2019)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "pin"
+  },
+  "changes_from_live": [
+   "Live fmt is %N%n%O%n%A%n%T%n%F%n%L%n%C %Z%n%S; it adds three undocumented tokens %T %F %L between street and city (repo was %N%n%O%n%A%n%C %Z%n%S). We need to decide whether to map them (if Google documents them) or ignore them. I recommend ignoring them and keeping the repo layout.",
+   "Pattern allows the common '560 001' spacing."
+  ],
+  "sources": [
+   "https://dac.indiapost.gov.in/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IN"
+  ],
+  "confidence": "low",
+  "notes": "I could not find public documentation of %T/%F/%L in libaddressinput. India Post treats the PIN as essential for routing, and the order (street, locality, city PIN, state) matches common guidance. PIN codes cannot start with 0; a stricter pattern would be [1-9]\\d{2} ?\\d{3}."
+ },
+ "IO": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "BBND ?1ZZ",
+   "examples": [
+    "BBND 1ZZ"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (none needed)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IO"
+  ],
+  "confidence": "high",
+  "notes": "Single postcode for the territory (Diego Garcia), per UPU. Repo had %X; live dropped it with no impact."
+ },
+ "IQ": {
+  "verdict": "needs_decision",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "31001"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "ACS",
+  "layout": "%O%n%N%n%A%n%C, %S%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "governorate",
+   "subdivision_list": "issues: empty in subdivisions.tsv although require includes S. Live lists 19 entries, one of which is 'إقليم كوردستان' (Kurdistan Region, IQ-KR), a region that contains the Erbil/Duhok/Sulaymaniyah governorates which are also listed. It lacks Halabja, which became the 19th governorate by law published 5 May 2025; I could not confirm an ISO 3166-2 code for Halabja."
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Province list: Halabja missing; the Kurdistan Region entry mixes levels and should not be selectable as a governorate. state_name_type should be 'governorate' (live unset, so the default 'province')."
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.newarab.com/news/halabja-becomes-iraqs-newest-governorate",
+   "https://pukmedia.com/EN/Details/78072",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IQ"
+  ],
+  "confidence": "low",
+  "notes": "Postcodes are 5 digits per UPU but rarely used. Decision needed: which code to use for Halabja (no ISO code found) and whether to drop the Kurdistan Region entry."
+ },
+ "IR": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}-?\\d{5}",
+   "examples": [
+    "11936-12345"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/irnEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%O%n%N%n%S%n%C, %D%n%A%n%Z",
+  "dropped_tokens": {
+   "%D": "Neighbourhood (mahalle). Commonly written and helps carriers, but the 10-digit postcode identifies the building, so leaving it out does not make addresses undeliverable if the postcode is present."
+  },
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "complete (31 provinces)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/irnEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IR"
+  ],
+  "confidence": "high",
+  "notes": "UPU: 10-digit postcode below the locality name; often written 5-5 with a hyphen. The live zipex '11936-12345' looks synthetic."
+ },
+ "IS": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3}",
+   "examples": [
+    "320",
+    "121",
+    "220",
+    "110"
+   ],
+   "source": "https://posturinn.is/"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (not used in addresses)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://posturinn.is/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IS"
+  ],
+  "confidence": "high",
+  "notes": ""
+ },
+ "IT": {
+  "verdict": "needs_decision",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "00144",
+    "47037",
+    "39049"
+   ],
+   "source": "https://www.poste.it/cerca/index.html#/risultati-cerca-cap/"
+  },
+  "required": "ACSZ",
+  "layout": "%N%n%O%n%A%n%Z %C %S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "issues: Sardinia. From 17 Jul 2025 Sardinia has the metropolitan cities of Cagliari (CA) and Sassari (SS) and the provinces of Nuoro (NU), Oristano (OR), Ogliastra, Medio Campidano, Sulcis Iglesiente and Gallura Nord-Est Sardegna; Sud Sardegna (SU) was abolished. Our list (same as live) still has IT-SU, and uses GA / SD / VS / OG for the new ones. The two-letter abbreviations (sigle) for the new provinces are not confirmed: Shopify (May 2026) uses OT for Gallura and CI for Sulcis Iglesiente, which conflicts with GA/SD."
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Province list: SU obsolete; the codes for Gallura (GA vs OT) and Sulcis Iglesiente (SD vs CI) need confirming against ISO 3166-2:IT / ISTAT / Poste Italiane before changing."
+  ],
+  "sources": [
+   "https://www.tuttitalia.it/variazioni-amministrative/citta-metropolitana-di-sassari-e-nuove-province-della-sardegna/",
+   "https://www.ilpost.it/2025/03/30/nuova-provincia-sardegna/",
+   "https://changelog.shopify.com/posts/italy-s-sardinian-province-definitions-updated",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IT"
+  ],
+  "confidence": "low",
+  "notes": "Postcode and layout are fine (high confidence). Only the Sardinian provinces are in doubt. Also note the list count: 111 entries in subdivisions.tsv equals live; Aosta (AO) is present."
+ },
+ "JE": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
+   "examples": [
+    "JE1 1AA",
+    "JE2 2BT"
+   ],
+   "source": "https://www.jerseypost.com/tools/postcode-address-finder/"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%C%nJERSEY%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "parish",
+   "subdivision_list": "complete (none needed; parish goes in the city line)"
+  },
+  "labels": {
+   "city": "parish",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.jerseypost.com/tools/postcode-address-finder/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/JE"
+  ],
+  "confidence": "high",
+  "notes": "Repo had %X; live dropped it with no impact. Literal 'JERSEY' line is part of the format."
+ },
+ "JM": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "ACS",
+  "layout": "%N%n%O%n%A%n%C%n%S %X",
+  "dropped_tokens": {
+   "%X": "Carries the Kingston postal district number ('KINGSTON 10'). Kingston/St Andrew delivery depends on that number, so if we drop %X it must be typed into the city field ('Kingston 10') or Kingston addresses become ambiguous."
+  },
+  "province": {
+   "named": true,
+   "kind": "parish",
+   "subdivision_list": "complete (14 parishes)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://en.wikipedia.org/wiki/Postal_codes_in_Jamaica",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/JM"
+  ],
+  "confidence": "high",
+  "notes": "UPU (Sep 2025) lists Jamaica as not requiring postal codes. The planned JMxxxNN postcode scheme was suspended in 2007 and never brought into force."
+ },
+ "JO": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11937",
+    "11190"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (governorates are not used in addresses)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/JO"
+  ],
+  "confidence": "high",
+  "notes": ""
+ },
+ "JP": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3}-?\\d{4}",
+   "examples": [
+    "154-0023",
+    "350-1106",
+    "951-8073",
+    "112-0001"
+   ],
+   "source": "http://www.post.japanpost.jp/zipcode/"
+  },
+  "required": "ASZ",
+  "layout": "〒%Z%n%S%n%A%n%O%n%N",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "prefecture",
+   "subdivision_list": "complete (47 prefectures)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "None to the data. Note: live removed %C from fmt and lfmt and require (repo had %S%C and ACSZ); city/ward is now expected inside the street lines. Our UI must not demand a separate city for JP."
+  ],
+  "sources": [
+   "http://www.post.japanpost.jp/zipcode/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/JP"
+  ],
+  "confidence": "high",
+  "notes": "Big-to-small order for the Japanese script; lfmt %N%n%O%n%A, %S%n%Z for Latin script."
+ },
+ "KE": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "20100",
+    "00100"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "county",
+   "subdivision_list": "complete for addressing (counties are not written in postal addresses)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KE"
+  ],
+  "confidence": "high",
+  "notes": "Kenyan postcodes identify the post office and are normally paired with a P.O. Box ('P.O. Box 1234-00100')."
+ },
+ "KG": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "720001"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (regions are not used in addresses)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "None. Repo had the reverse order '%Z %C %X%n%A%n%O%n%N' with %X; live uses the international order and drops %X with no impact."
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KG"
+  ],
+  "confidence": "high",
+  "notes": ""
+ },
+ "KH": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5,6}",
+   "examples": [
+    "120101",
+    "120108",
+    "12000"
+   ],
+   "source": "https://www.cambodiapost.post/page/postal-codes"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (not used in addresses)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.cambodiapost.post/page/postal-codes",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KH"
+  ],
+  "confidence": "high",
+  "notes": "UPU lists 6-digit codes (999999) at commune/sangkat level. Older 5-digit codes (e.g. 12000 Phnom Penh) still appear, so live's \\d{5,6} is a reasonable lenient choice."
+ },
+ "KI": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "KI\\d{4}",
+   "examples": [
+    "KI0104",
+    "KI0999"
+   ],
+   "source": "https://micttd.gov.ki/postal/kiribati-new-post-codes"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%S%n%C%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "island",
+   "subdivision_list": "complete (none needed; islands are free text)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Live has no postcode. Added KI + 4 digits: Kiribati Post introduced postcodes and, per USPS (Postal Bulletin 22558), every item must carry one from 30 Sep 2020. UPU (Aug 2026) lists Kiribati as AA9999 with the ISO prefix.",
+   "%Z appended as the last line before the country; placement is my assumption (no official addressing sample found)."
+  ],
+  "sources": [
+   "https://about.usps.com/postal-bulletin/2020/pb22558/html/updt_002.htm",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://datahub.io/logistics/postal-codes-ki",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KI"
+  ],
+  "confidence": "low",
+  "notes": "The official code list (micttd.gov.ki) could not be loaded (TLS certificate error). The examples come from secondary datasets. Whether the postcode should be required (Z) needs confirming."
+ },
+ "KM": {
+  "verdict": "needs_decision",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (none needed)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/comEn.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KM"
+  ],
+  "confidence": "low",
+  "notes": "Sources conflict: the same UPU document lists Comoros both as requiring postal codes (length 8, no format given) and as not requiring them. UPU's Comoros addressing sample uses 'BP 350 MORONI' with no numeric code. I recommend no postcode (as live), pending confirmation."
+ },
+ "KN": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "KN ?\\d{2} ?\\d{2}",
+   "examples": [
+    "KN0101",
+    "KN0802",
+    "KN0201"
+   ],
+   "source": "https://nia.gov.kn/skn-introduces-official-postal-code"
+  },
+  "required": "ACS",
+  "layout": "%N%n%O%n%A%n%C, %S%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "island",
+   "subdivision_list": "complete (Saint Kitts, Nevis)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Live has no postcode. Added KN + 4 digits (2-digit postal zone + 2-digit delivery district): introduced by the St Kitts & Nevis Ministry of Posts (example KN0101 = Fern Street, Greenlands, Basseterre; Nevis KN0802), and UPU lists KN9999 among required postcodes.",
+   "Layout: %Z appended on the last line."
+  ],
+  "sources": [
+   "https://nia.gov.kn/skn-introduces-official-postal-code",
+   "https://sknis.gov.kn/2017/10/12/postal-code-system-helps-alleviate-several-delivery-issues-faced/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KN"
+  ],
+  "confidence": "high",
+  "notes": "Kept optional (require stays ACS) because use is still patchy. UPU calls it required, so the owner should decide whether to require Z."
+ },
+ "KP": {
+  "verdict": "needs_decision",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C%n%S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "issues: empty; ISO 3166-2:KP has 9 provinces + 4 cities (KP-01..KP-14 range incl. Rason KP-13, Nampo KP-14). Not needed unless we expose %S."
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Google has no data (not_found). Recommendation: no postcode, layout name / organisation / street / city (district) / province, required AC."
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://en.wikipedia.org/wiki/ISO_3166-2:KP",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KP"
+  ],
+  "confidence": "low",
+  "notes": "UPU (Sep 2025) lists DPR Korea as not requiring postal codes. Third-party sites claiming codes (###-###, 999070) are unofficial. Mail service is heavily restricted (sanctions, routing via Pyongyang). The format I give is a recommendation from general practice, not from a published Korean Post (KPTA) guide."
+ },
+ "KR": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "03051"
+   ],
+   "source": "https://www.epost.go.kr/search/zipcode/search5.jsp"
+  },
+  "required": "ACSZ",
+  "layout": "%S %C%D%n%A%n%O%n%N%n%Z",
+  "dropped_tokens": {
+   "%D": "Gu/gun (district) within a city. In Korean addresses it sits between city and road name; drop it and the road-name address may be ambiguous in big cities, so if we drop %D it must be typed into the street line."
+  },
+  "province": {
+   "named": true,
+   "kind": "do_si",
+   "subdivision_list": "issues: codes complete (17); names out of date: KR-42 is now 강원특별자치도 Gangwon State (from 11 Jun 2023, ISO update 2023-11-23) and KR-45 is now 전북특별자치도 Jeonbuk State (from 18 Jan 2024); codes unchanged"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "sub_keys: 강원도 -> 강원특별자치도 and 전라북도 -> 전북특별자치도 (renamed Special Self-Governing Provinces in 2023 and 2024). Live still uses the old names. Mail with old names is still delivered, but autofill/validation should accept both and show the new ones."
+  ],
+  "sources": [
+   "https://www.epost.go.kr/search/zipcode/search5.jsp",
+   "https://en.wikipedia.org/wiki/ISO_3166-2:KR",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KR"
+  ],
+  "confidence": "high",
+  "notes": "5-digit postcodes since Aug 2015 (repo still had the old 3-3 form; live is right). The ISO name update for KR-45 was not found; the rename itself is law."
+ },
+ "KW": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "54541",
+    "54551",
+    "54404",
+    "13009"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete (governorates are not used in addresses)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KW"
+  ],
+  "confidence": "high",
+  "notes": ""
+ },
+ "KY": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "KY\\d-?\\d{4}",
+   "examples": [
+    "KY1-1100",
+    "KY1-1702",
+    "KY2-2101"
+   ],
+   "source": "http://www.caymanpost.gov.ky/"
+  },
+  "required": "AS",
+  "layout": "%N%n%O%n%A%n%S %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "island",
+   "subdivision_list": "complete (3 islands). Codes KY-GRAND_CAYMAN etc. are our own keys (ISO has no KY subdivisions)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Pattern: the hyphen is made optional, since it is commonly omitted (live requires it)."
+  ],
+  "sources": [
+   "http://www.caymanpost.gov.ky/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KY"
+  ],
+  "confidence": "high",
+  "notes": "UPU format KY9-9999."
+ },
+ "KZ": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}|[A-Z]\\d{2}[A-Z]\\d[A-Z]\\d",
+   "examples": [
+    "R00H5A9",
+    "D03K5Y2",
+    "050012",
+    "040900"
+   ],
+   "source": "https://post.kz/postcode"
+  },
+  "required": "AC",
+  "layout": "%Z%n%S%n%C%n%A%n%O%n%N",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "region (oblys) / city of republican significance",
+   "subdivision_list": "issues: empty in subdivisions.tsv. Live has 20 entries with the numeric ISO codes adopted in Nov 2022 (KZ-10 Abai, 11, 15, 19, 23, 27, 31, 33 Jetisu, 35, 39, 43, 47, 55, 59, 61, 62 Ulytau, 63, 71 Astana, 75 Almaty, 79 Shymkent); the old letter codes (KZ-ALA, KZ-AST…) are obsolete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "zip \\d{6} -> \\d{6}|[A-Z]\\d{2}[A-Z]\\d[A-Z]\\d. Kazpost introduced 7-character building-level postcodes (A99A9A9, e.g. R00H5A9) and asked foreign posts to use them (USPS IMM revision effective 15 Jun 2023). UPU lists both 999999 and A99A9A9. The old 6-digit codes are still in parallel use, so both must validate."
+  ],
+  "sources": [
+   "https://about.usps.com/postal-bulletin/2023/pb22626/html/updt_002.htm",
+   "https://post.kz/postcode",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://en.wikipedia.org/wiki/ISO_3166-2:KZ",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KZ"
+  ],
+  "confidence": "high",
+  "notes": "Per USPS, the new codes cover 22 localities so far, so many places only have 6-digit codes."
+ }
+}

@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Імя",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Прозвішча",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Кватэра, офіс і г. д. (неабавязкова)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Арганізацыя",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Вуліца, дом",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Тэлефон",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Краіна/рэгіён",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Горад",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Горад з паштовым аддзяленнем",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Прыгарад",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Раён",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Вёска/горад",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Раён",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Раён",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Рэгіён",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Акруга",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Аддзел",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Раён",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "До/Сі",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Эмірат",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Востраў",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Вобласць",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Прыход",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Прэфектура",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Правінцыя",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Штат",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Паштовы індэкс",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Паштовы індэкс",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "PIN-код",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Гэта поле нельга пакідаць пустым.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} не прызнаецца вядомым значэннем для гэтага поля.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Замест адраса ўведзены нумар абанементнай паштовай скрыні. Вызначыце фактычны адрас.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Гэты фармат паштовага індэкса не прызнаецца. Прыклад сапраўднага паштовага індэкса: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Няправільны фармат паштовага індэкса. Прыклад правільнага напісання: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Гэты паштовы індэкс, здаецца, не адпавядае астатняй частцы адраса.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Гэты паштовы індэкс, здаецца, не адпавядае астатняй частцы гэтага адраса.",
+    "provenance": "chromium"
+  }
+}

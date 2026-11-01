@@ -1,0 +1,123 @@
+{
+ "country": "KP",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "KP-01",
+   "local": "평양시",
+   "latin": "Phyeongyang",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KP-02",
+   "local": "평안남도",
+   "latin": "Phyeongannamto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KP-03",
+   "local": "평안북도",
+   "latin": "Phyeonganpukto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KP-04",
+   "local": "자강도",
+   "latin": "Jakangto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KP-05",
+   "local": "황해남도",
+   "latin": "Hwanghainamto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KP-06",
+   "local": "황해북도",
+   "latin": "Hwanghaipukto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KP-07",
+   "local": "강원도",
+   "latin": "Kangweonto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KP-08",
+   "local": "함경남도",
+   "latin": "Hamkyeongnamto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KP-09",
+   "local": "함경북도",
+   "latin": "Hamkyeongpukto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KP-10",
+   "local": "량강도",
+   "latin": "Ryangkangto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KP-13",
+   "local": "라선시",
+   "latin": "Raseon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KP-14",
+   "local": "남포시",
+   "latin": "Nampho",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KP-15",
+   "local": "개성시",
+   "latin": "Kaeseong",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added KP-01 Phyeongyang",
+  "added KP-02 Phyeongannamto",
+  "added KP-03 Phyeonganpukto",
+  "added KP-04 Jakangto",
+  "added KP-05 Hwanghainamto",
+  "added KP-06 Hwanghaipukto",
+  "added KP-07 Kangweonto",
+  "added KP-08 Hamkyeongnamto",
+  "added KP-09 Hamkyeongpukto",
+  "added KP-10 Ryangkangto",
+  "added KP-13 Raseon",
+  "added KP-14 Nampho",
+  "added KP-15 Kaeseong"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+  "https://en.wikipedia.org/wiki/ISO_3166-2:KP",
+  "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KP",
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/prkEn.pdf",
+  "https://www.iso.org/obp/ui/#iso:code:3166:KP",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "low",
+ "notes": "9 provinces + Pyongyang, Rason, Nampho, Kaesong (ISO; no KP-11/KP-12). local from Wikidata Korean labels, which may follow South Korean spelling (e.g. 평양시 vs 평양직할시); no KP postal source available. latin = ISO (DPRK romanisation)."
+}

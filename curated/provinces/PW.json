@@ -1,0 +1,144 @@
+{
+ "country": "PW",
+ "level": "state",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "PW-002",
+   "local": "Aimeliik",
+   "latin": "Aimeliik",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-004",
+   "local": "Airai",
+   "latin": "Airai",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-010",
+   "local": "Angaur",
+   "latin": "Angaur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-050",
+   "local": "Hatohobei",
+   "latin": "Hatohobei",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-100",
+   "local": "Kayangel",
+   "latin": "Kayangel",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-150",
+   "local": "Koror",
+   "latin": "Koror",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-212",
+   "local": "Melekeok",
+   "latin": "Melekeok",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-214",
+   "local": "Ngaraard",
+   "latin": "Ngaraard",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-218",
+   "local": "Ngarchelong",
+   "latin": "Ngarchelong",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-222",
+   "local": "Ngardmau",
+   "latin": "Ngardmau",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-224",
+   "local": "Ngatpang",
+   "latin": "Ngatpang",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-226",
+   "local": "Ngchesar",
+   "latin": "Ngchesar",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-227",
+   "local": "Ngeremlengui",
+   "latin": "Ngeremlengui",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-228",
+   "local": "Ngiwal",
+   "latin": "Ngiwal",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-350",
+   "local": "Peleliu",
+   "latin": "Peleliu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PW-370",
+   "local": "Sonsorol",
+   "latin": "Sonsorol",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added PW-002 Aimeliik",
+  "added PW-004 Airai",
+  "added PW-010 Angaur",
+  "added PW-050 Hatohobei",
+  "added PW-100 Kayangel",
+  "added PW-150 Koror",
+  "added PW-212 Melekeok",
+  "added PW-214 Ngaraard",
+  "added PW-218 Ngarchelong",
+  "added PW-222 Ngardmau",
+  "added PW-224 Ngatpang",
+  "added PW-226 Ngchesar",
+  "added PW-227 Ngeremlengui",
+  "added PW-228 Ngiwal",
+  "added PW-350 Peleliu",
+  "added PW-370 Sonsorol"
+ ],
+ "sources": [
+  "https://pe.usps.com/text/pub28/28apb.htm",
+  "https://www.iso.org/obp/ui/#iso:code:3166:PW",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "low",
+ "notes": "USPS-format addresses put PW in the state slot (e.g. \"KOROR PW 96940\") and the Palauan state usually doubles as the town line; the 16 ISO states are listed because the D review found them named, but whether a separate state field is ever filled is unclear. Also see US-PW in the US list."
+}

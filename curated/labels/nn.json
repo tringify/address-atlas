@@ -1,0 +1,152 @@
+{
+ "fields.first_name": {
+  "value": "Førenamn",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Etternamn",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Leilegheit, etasje o.l. (valfritt)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organisasjon",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Gateadresse",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Land / region",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "By",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Poststad",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "Forstad",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Grend (Irland)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland approximated as \"grend\" (hamlet)."
+ },
+ "city.village_township": {
+  "value": "Landsby / tettstad",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Område",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Nabolag",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Område",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Fylke",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Departement",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Distrikt",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirat",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Øy",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Sokn",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Prefektur",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Provins",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Delstat",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Postnummer",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Postnummer",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "PIN-kode",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Du kan ikkje la dette feltet stå tomt.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} er ikkje ein kjend verdi for dette feltet.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Denne adresselinja ser ut til å innehalde ein postboks. Bruk ei gate- eller bygningsadresse.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Formatet på postnummeret vart ikkje kjent att. Døme på gyldig postnummer: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Formatet på postnummeret vart ikkje kjent att. Døme på gyldig postnummer: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Dette postnummeret ser ikkje ut til å passe med resten av adressa.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Dette postnummeret ser ikkje ut til å passe med resten av adressa.",
+  "provenance": "curated"
+ }
+}

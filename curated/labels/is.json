@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Fornafn",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Eftirnafn",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Íbúð, hæð o.s.frv. (valfrjálst)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Fyrirtæki/stofnun",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Gata og húsnúmer",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Sími",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Land/svæði",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Borg",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Póststöð",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Úthverfi",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Hreppur",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Þorp/þéttbýliskjarni",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Umdæmi",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Hverfi",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Svæði",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Sýsla",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Deild",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Umdæmi",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Furstadæmi",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Eyja",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Sókn",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Hérað",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Hérað",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Ríki",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Póstnúmer",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Póstnúmer",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "Póstnúmer",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode (póstnúmer)",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Þú mátt ekki skilja þetta eftir autt.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} er ekki viðurkennt gildi fyrir þennan reit.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Þetta heimilisfang virðist eiga við pósthólf. Notaðu götuheiti eða heimilisfang byggingar.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Þetta snið póstnúmers er ekki þekkt. Dæmi um gilt póstnúmer: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Þetta snið póstnúmers er ekki þekkt. Dæmi um gilt póstnúmer: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Þetta póstnúmer virðist ekki eiga við þetta heimilisfang.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Þetta póstnúmer virðist ekki eiga við þetta heimilisfang.",
+  "provenance": "chromium"
+ }
+}

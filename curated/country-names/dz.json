@@ -1,0 +1,19 @@
+{
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "བྲི་ཊིཤ་རྒྱ་གར་གྱི་རྒྱ་མཚོ་ས་ཁོངས"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "cf CLDR dz KP \"བྱང་ ཀོ་རི་ཡ\"",
+  "provenance": "curated",
+  "value": "བྱང་ མ་སེ་ཌོ་ནི་ཡ"
+ },
+ "XK": {
+  "confidence": "low",
+  "note": "constructed on CLDR dz patterns; no attested form found",
+  "provenance": "curated",
+  "value": "ཀོ་སོ་བོ"
+ }
+}

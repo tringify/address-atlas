@@ -1,0 +1,601 @@
+{
+ "country": "RU",
+ "level": "oblast",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "RU-AD",
+   "local": "Республика Адыгея",
+   "latin": "Respublika Adygeya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-AL",
+   "local": "Республика Алтай",
+   "latin": "Respublika Altay",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-ALT",
+   "local": "Алтайский край",
+   "latin": "Altayskiy kray",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-AMU",
+   "local": "Амурская область",
+   "latin": "Amurskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-ARK",
+   "local": "Архангельская область",
+   "latin": "Arkhangel'skaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-AST",
+   "local": "Астраханская область",
+   "latin": "Astrakhanskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-BA",
+   "local": "Республика Башкортостан",
+   "latin": "Respublika Bashkortostan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-BEL",
+   "local": "Белгородская область",
+   "latin": "Belgorodskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-BRY",
+   "local": "Брянская область",
+   "latin": "Bryanskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-BU",
+   "local": "Республика Бурятия",
+   "latin": "Respublika Buryatiya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-CE",
+   "local": "Чеченская Республика",
+   "latin": "Chechenskaya Respublika",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-CHE",
+   "local": "Челябинская область",
+   "latin": "Chelyabinskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-CHU",
+   "local": "Чукотский автономный округ",
+   "latin": "Chukotskiy avtonomnyy okrug",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-CU",
+   "local": "Чувашская Республика",
+   "latin": "Chuvashskaya Respublika",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-DA",
+   "local": "Республика Дагестан",
+   "latin": "Respublika Dagestan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-IN",
+   "local": "Республика Ингушетия",
+   "latin": "Respublika Ingushetiya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-IRK",
+   "local": "Иркутская область",
+   "latin": "Irkutskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-IVA",
+   "local": "Ивановская область",
+   "latin": "Ivanovskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KAM",
+   "local": "Камчатский край",
+   "latin": "Kamchatskiy kray",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KB",
+   "local": "Кабардино-Балкарская Республика",
+   "latin": "Kabardino-Balkarskaya Respublika",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KC",
+   "local": "Карачаево-Черкесская Республика",
+   "latin": "Karachayevo-Cherkesskaya Respublika",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KDA",
+   "local": "Краснодарский край",
+   "latin": "Krasnodarskiy kray",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KEM",
+   "local": "Кемеровская область",
+   "latin": "Kemerovskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KGD",
+   "local": "Калининградская область",
+   "latin": "Kaliningradskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KGN",
+   "local": "Курганская область",
+   "latin": "Kurganskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KHA",
+   "local": "Хабаровский край",
+   "latin": "Khabarovskiy kray",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KHM",
+   "local": "Ханты-Мансийский автономный округ",
+   "latin": "Khanty-Mansiyskiy avtonomnyy okrug",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KIR",
+   "local": "Кировская область",
+   "latin": "Kirovskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KK",
+   "local": "Республика Хакасия",
+   "latin": "Respublika Khakasiya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KL",
+   "local": "Республика Калмыкия",
+   "latin": "Respublika Kalmykiya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KLU",
+   "local": "Калужская область",
+   "latin": "Kaluzhskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KO",
+   "local": "Республика Коми",
+   "latin": "Respublika Komi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KOS",
+   "local": "Костромская область",
+   "latin": "Kostromskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KR",
+   "local": "Республика Карелия",
+   "latin": "Respublika Kareliya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KRS",
+   "local": "Курская область",
+   "latin": "Kurskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-KYA",
+   "local": "Красноярский край",
+   "latin": "Krasnoyarskiy kray",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-LEN",
+   "local": "Ленинградская область",
+   "latin": "Leningradskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-LIP",
+   "local": "Липецкая область",
+   "latin": "Lipetskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-MAG",
+   "local": "Магаданская область",
+   "latin": "Magadanskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-ME",
+   "local": "Республика Марий Эл",
+   "latin": "Respublika Mariy El",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-MO",
+   "local": "Республика Мордовия",
+   "latin": "Respublika Mordoviya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-MOS",
+   "local": "Московская область",
+   "latin": "Moskovskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-MOW",
+   "local": "Москва",
+   "latin": "Moskva",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-MUR",
+   "local": "Мурманская область",
+   "latin": "Murmanskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-NEN",
+   "local": "Ненецкий автономный округ",
+   "latin": "Nenetskiy avtonomnyy okrug",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-NGR",
+   "local": "Новгородская область",
+   "latin": "Novgorodskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-NIZ",
+   "local": "Нижегородская область",
+   "latin": "Nizhegorodskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-NVS",
+   "local": "Новосибирская область",
+   "latin": "Novosibirskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-OMS",
+   "local": "Омская область",
+   "latin": "Omskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-ORE",
+   "local": "Оренбургская область",
+   "latin": "Orenburgskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-ORL",
+   "local": "Орловская область",
+   "latin": "Orlovskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-PER",
+   "local": "Пермский край",
+   "latin": "Permskiy kray",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-PNZ",
+   "local": "Пензенская область",
+   "latin": "Penzenskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-PRI",
+   "local": "Приморский край",
+   "latin": "Primorskiy kray",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-PSK",
+   "local": "Псковская область",
+   "latin": "Pskovskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-ROS",
+   "local": "Ростовская область",
+   "latin": "Rostovskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-RYA",
+   "local": "Рязанская область",
+   "latin": "Ryazanskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-SA",
+   "local": "Республика Саха (Якутия)",
+   "latin": "Respublika Saha",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-SAK",
+   "local": "Сахалинская область",
+   "latin": "Sakhalinskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-SAM",
+   "local": "Самарская область",
+   "latin": "Samarskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-SAR",
+   "local": "Саратовская область",
+   "latin": "Saratovskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-SE",
+   "local": "Республика Северная Осетия-Алания",
+   "latin": "Respublika Severnaya Osetiya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-SMO",
+   "local": "Смоленская область",
+   "latin": "Smolenskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-SPE",
+   "local": "Санкт-Петербург",
+   "latin": "Sankt-Peterburg",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-STA",
+   "local": "Ставропольский край",
+   "latin": "Stavropol'skiy kray",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-SVE",
+   "local": "Свердловская область",
+   "latin": "Sverdlovskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-TA",
+   "local": "Республика Татарстан",
+   "latin": "Respublika Tatarstan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-TAM",
+   "local": "Тамбовская область",
+   "latin": "Tambovskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-TOM",
+   "local": "Томская область",
+   "latin": "Tomskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-TUL",
+   "local": "Тульская область",
+   "latin": "Tul'skaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-TVE",
+   "local": "Тверская область",
+   "latin": "Tverskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-TY",
+   "local": "Республика Тыва",
+   "latin": "Respublika Tyva",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-TYU",
+   "local": "Тюменская область",
+   "latin": "Tyumenskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-UD",
+   "local": "Республика Удмуртия",
+   "latin": "Udmurtskaya Respublika",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-ULY",
+   "local": "Ульяновская область",
+   "latin": "Ul'yanovskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-VGG",
+   "local": "Волгоградская область",
+   "latin": "Volgogradskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-VLA",
+   "local": "Владимирская область",
+   "latin": "Vladimirskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-VLG",
+   "local": "Вологодская область",
+   "latin": "Vologodskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-VOR",
+   "local": "Воронежская область",
+   "latin": "Voronezhskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-YAN",
+   "local": "Ямало-Ненецкий автономный округ",
+   "latin": "Yamalo-Nenetskiy avtonomnyy okrug",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-YAR",
+   "local": "Ярославская область",
+   "latin": "Yaroslavskaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-YEV",
+   "local": "Еврейская автономная область",
+   "latin": "Yevreyskaya avtonomnaya oblast'",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RU-ZAB",
+   "local": "Забайкальский край",
+   "latin": "Zabaykal'skiy kray",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "removed RU-RESPUBLIKA_KRYM Respublika Krym (Crimea is listed under UA as UA-43 (ISO); alias added there)",
+  "removed RU-SEVASTOPOL Sevastopol' (Sevastopol is listed under UA as UA-40 (ISO); alias added there)"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/rusEn.pdf",
+  "https://www.pochta.ru/post-index",
+  "https://www.iso.org/obp/ui/#iso:code:3166:RU",
+  "https://www.iso.org/obp/ui/#iso:code:3166:RU",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "83 federal subjects as in ISO 3166-2:RU. Crimea and Sevastopol are not ISO RU units and are listed under UA (UA-43, UA-40). latin = ISO romanisation (republic names un-inverted)."
+}

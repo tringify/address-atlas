@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Vārds",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Uzvārds",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Dzīvoklis, birojs u.c. (neobligāti)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organizācija",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Adrese",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Tālrunis",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Valsts/reģions",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Pilsēta",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Pilsēta",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Piepilsēta",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Pagasts",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Ciems/piepilsēta",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Rajons",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Apkaime",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Apgabals",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Grāfiste",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Departaments",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Rajons",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Emirāts",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Sala",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Apgabals",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Pagasts",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Prefektūra",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Province",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Štats",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Pasta indekss",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Pasta indekss",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "Pasta indekss",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Šis lauks nedrīkst būt tukšs.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "Vērtība “{FIELD_VALUE}” nav atpazīta kā atbilstoša šim laukam.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Šķiet, ka šajā adreses rindā ir norādīta abonenta kastīte. Lūdzu, ievadiet ielas vai ēkas adresi.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Šis pasta indeksa formāts nav atpazīts. Derīga pasta indeksa piemērs: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Šis pasta indeksa formāts nav atpazīts. Derīga pasta indeksa piemērs: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Šķiet, ka šis pasta indekss neatbilst pārējai adreses informācijai.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Šķiet, ka šis pasta indekss neatbilst pārējai adreses informācijai.",
+  "provenance": "chromium"
+ }
+}

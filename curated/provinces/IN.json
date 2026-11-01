@@ -1,0 +1,269 @@
+{
+ "country": "IN",
+ "level": "state",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "IN-AN",
+   "local": "अण्डमान और निकोबार द्वीपसमूह",
+   "latin": "Andaman and Nicobar Islands",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-AP",
+   "local": "आन्ध्र प्रदेश",
+   "latin": "Andhra Pradesh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-AR",
+   "local": "अरुणाचल प्रदेश",
+   "latin": "Arunachal Pradesh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-AS",
+   "local": "असम",
+   "latin": "Assam",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-BR",
+   "local": "बिहार",
+   "latin": "Bihar",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-CG",
+   "local": "छत्तीसगढ़",
+   "latin": "Chhattisgarh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-CH",
+   "local": "चंडीगढ़",
+   "latin": "Chandigarh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-DH",
+   "local": "दादरा और नगर हवेली और दमन और दीव",
+   "latin": "Dadra and Nagar Haveli and Daman and Diu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-DL",
+   "local": "राष्ट्रीय राजधानी क्षेत्र दिल्ली",
+   "latin": "Delhi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-GA",
+   "local": "गोवा",
+   "latin": "Goa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-GJ",
+   "local": "गुजरात",
+   "latin": "Gujarat",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-HP",
+   "local": "हिमाचल प्रदेश",
+   "latin": "Himachal Pradesh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-HR",
+   "local": "हरियाणा",
+   "latin": "Haryana",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-JH",
+   "local": "झारखण्ड",
+   "latin": "Jharkhand",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-JK",
+   "local": "जम्मू और कश्मीर",
+   "latin": "Jammu and Kashmir",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-KA",
+   "local": "कर्नाटक",
+   "latin": "Karnataka",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-KL",
+   "local": "केरल",
+   "latin": "Kerala",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-LA",
+   "local": "लद्दाख़",
+   "latin": "Ladakh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-LD",
+   "local": "लक्षद्वीप",
+   "latin": "Lakshadweep",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-MH",
+   "local": "महाराष्ट्र",
+   "latin": "Maharashtra",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-ML",
+   "local": "मेघालय",
+   "latin": "Meghalaya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-MN",
+   "local": "मणिपुर",
+   "latin": "Manipur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-MP",
+   "local": "मध्य प्रदेश",
+   "latin": "Madhya Pradesh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-MZ",
+   "local": "मिज़ोरम",
+   "latin": "Mizoram",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-NL",
+   "local": "नागालैण्ड",
+   "latin": "Nagaland",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-OD",
+   "local": "ओडिशा",
+   "latin": "Odisha",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-PB",
+   "local": "पंजाब",
+   "latin": "Punjab",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-PY",
+   "local": "पुदुचेरी",
+   "latin": "Puducherry",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-RJ",
+   "local": "राजस्थान",
+   "latin": "Rajasthan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-SK",
+   "local": "सिक्किम",
+   "latin": "Sikkim",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-TN",
+   "local": "तमिल नाडु",
+   "latin": "Tamil Nadu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-TR",
+   "local": "त्रिपुरा",
+   "latin": "Tripura",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-TS",
+   "local": "तेलंगाना",
+   "latin": "Telangana",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-UK",
+   "local": "उत्तराखण्ड",
+   "latin": "Uttarakhand",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-UP",
+   "local": "उत्तर प्रदेश",
+   "latin": "Uttar Pradesh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IN-WB",
+   "local": "पश्चिम बंगाल",
+   "latin": "West Bengal",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://dac.indiapost.gov.in/",
+  "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+  "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IN",
+  "https://www.iso.org/obp/ui/#iso:code:3166:IN",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "28 states + 8 union territories (DH = Dadra and Nagar Haveli and Daman and Diu, 2020; LA Ladakh, 2019). local = Hindi (Devanagari, the Union official language) from Wikidata; many states use another official language. latin = ISO name without diacritics (= official English name)."
+}

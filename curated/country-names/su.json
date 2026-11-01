@@ -1,0 +1,1249 @@
+{
+ "AD": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Andorra"
+ },
+ "AE": {
+  "provenance": "curated",
+  "value": "Uni Émirat Arab"
+ },
+ "AF": {
+  "provenance": "curated",
+  "value": "Afganistan"
+ },
+ "AG": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Antigua jeung Barbuda"
+ },
+ "AI": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Anguilla"
+ },
+ "AL": {
+  "provenance": "curated",
+  "value": "Albania"
+ },
+ "AM": {
+  "provenance": "curated",
+  "value": "Arménia"
+ },
+ "AO": {
+  "provenance": "curated",
+  "value": "Angola"
+ },
+ "AQ": {
+  "provenance": "curated",
+  "value": "Antartika"
+ },
+ "AR": {
+  "provenance": "curated",
+  "value": "Argéntina"
+ },
+ "AS": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Samoa Amérika"
+ },
+ "AT": {
+  "provenance": "curated",
+  "value": "Austria"
+ },
+ "AU": {
+  "provenance": "curated",
+  "value": "Australia"
+ },
+ "AW": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Aruba"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Åland"
+ },
+ "AZ": {
+  "provenance": "curated",
+  "value": "Azerbaijan"
+ },
+ "BA": {
+  "provenance": "curated",
+  "value": "Bosnia jeung Hérzégovina"
+ },
+ "BB": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Barbados"
+ },
+ "BD": {
+  "provenance": "curated",
+  "value": "Banglades"
+ },
+ "BE": {
+  "provenance": "curated",
+  "value": "Bélgia"
+ },
+ "BF": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Burkina Faso"
+ },
+ "BG": {
+  "provenance": "curated",
+  "value": "Bulgaria"
+ },
+ "BH": {
+  "provenance": "curated",
+  "value": "Bahrain"
+ },
+ "BI": {
+  "provenance": "curated",
+  "value": "Burundi"
+ },
+ "BJ": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Bénin"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Saint Barthélemy"
+ },
+ "BM": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Bermuda"
+ },
+ "BN": {
+  "provenance": "curated",
+  "value": "Brunéi"
+ },
+ "BO": {
+  "provenance": "curated",
+  "value": "Bolivia"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Karibia Walanda"
+ },
+ "BS": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Bahama"
+ },
+ "BT": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Butan"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Pulo Bouvet"
+ },
+ "BW": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Botswana"
+ },
+ "BY": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Bélarus"
+ },
+ "BZ": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Bélis"
+ },
+ "CA": {
+  "provenance": "curated",
+  "value": "Kanada"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Cocos (Keeling)"
+ },
+ "CD": {
+  "provenance": "curated",
+  "value": "Républik Démokratik Kongo"
+ },
+ "CF": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Républik Afrika Tengah"
+ },
+ "CG": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Républik Kongo"
+ },
+ "CH": {
+  "provenance": "curated",
+  "value": "Swiss"
+ },
+ "CI": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Basisir Gading"
+ },
+ "CK": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Cook"
+ },
+ "CL": {
+  "note": "international form used, as in Indonesian/Sundanese usage",
+  "provenance": "curated",
+  "value": "Chili"
+ },
+ "CM": {
+  "provenance": "curated",
+  "value": "Kamerun"
+ },
+ "CO": {
+  "provenance": "curated",
+  "value": "Kolombia"
+ },
+ "CR": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kosta Rika"
+ },
+ "CU": {
+  "provenance": "curated",
+  "value": "Kuba"
+ },
+ "CV": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Tanjung Vérde"
+ },
+ "CW": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Curaçao"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Pulo Natal"
+ },
+ "CY": {
+  "provenance": "curated",
+  "value": "Siprus"
+ },
+ "CZ": {
+  "provenance": "curated",
+  "value": "Céko"
+ },
+ "DJ": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Jibuti"
+ },
+ "DK": {
+  "provenance": "curated",
+  "value": "Dénmark"
+ },
+ "DM": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Dominika"
+ },
+ "DO": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Républik Dominika"
+ },
+ "DZ": {
+  "provenance": "curated",
+  "value": "Aljazair"
+ },
+ "EC": {
+  "provenance": "curated",
+  "value": "Ékuador"
+ },
+ "EE": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Éstonia"
+ },
+ "EG": {
+  "provenance": "curated",
+  "value": "Mesir"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Sahara Kulon"
+ },
+ "ER": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Éritréa"
+ },
+ "ES": {
+  "provenance": "curated",
+  "value": "Spanyol"
+ },
+ "ET": {
+  "provenance": "curated",
+  "value": "Étiopia"
+ },
+ "FI": {
+  "provenance": "curated",
+  "value": "Finlandia"
+ },
+ "FJ": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Fiji"
+ },
+ "FK": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Falkland"
+ },
+ "FM": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Mikronésia"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Faroe"
+ },
+ "GA": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Gabon"
+ },
+ "GD": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Granada"
+ },
+ "GE": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Géorgia"
+ },
+ "GF": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Guyana Prancis"
+ },
+ "GG": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Guernsey"
+ },
+ "GH": {
+  "provenance": "curated",
+  "value": "Ghana"
+ },
+ "GI": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Gibraltar"
+ },
+ "GL": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Greenland"
+ },
+ "GM": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Gambia"
+ },
+ "GN": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Guinéa"
+ },
+ "GP": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Guadeloupe"
+ },
+ "GQ": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Guinéa Khatulistiwa"
+ },
+ "GR": {
+  "provenance": "curated",
+  "value": "Yunani"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Géorgia Kidul jeung Kapuloan Sandwich Kidul"
+ },
+ "GT": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Guatémala"
+ },
+ "GU": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Guam"
+ },
+ "GW": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Guinéa-Bissau"
+ },
+ "GY": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Guyana"
+ },
+ "HK": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Hong Kong"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Pulo Heard jeung Kapuloan McDonald"
+ },
+ "HN": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Honduras"
+ },
+ "HR": {
+  "provenance": "curated",
+  "value": "Kroasia"
+ },
+ "HT": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Haiti"
+ },
+ "HU": {
+  "provenance": "curated",
+  "value": "Hungaria"
+ },
+ "IE": {
+  "provenance": "curated",
+  "value": "Irlandia"
+ },
+ "IL": {
+  "provenance": "curated",
+  "value": "Israél"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Pulo Man"
+ },
+ "IO": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Wewengkon Samudra Hindia Britania"
+ },
+ "IQ": {
+  "provenance": "curated",
+  "value": "Irak"
+ },
+ "IR": {
+  "provenance": "curated",
+  "value": "Iran"
+ },
+ "IS": {
+  "provenance": "curated",
+  "value": "Islandia"
+ },
+ "JE": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Jersey"
+ },
+ "JM": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Jamaika"
+ },
+ "JO": {
+  "provenance": "curated",
+  "value": "Yordania"
+ },
+ "KE": {
+  "provenance": "curated",
+  "value": "Kénya"
+ },
+ "KG": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kirgistan"
+ },
+ "KH": {
+  "provenance": "curated",
+  "value": "Kamboja"
+ },
+ "KI": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kiribati"
+ },
+ "KM": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Komoro"
+ },
+ "KN": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Saint Kitts jeung Nevis"
+ },
+ "KP": {
+  "provenance": "curated",
+  "value": "Koréa Kalér"
+ },
+ "KR": {
+  "provenance": "curated",
+  "value": "Koréa Kidul"
+ },
+ "KW": {
+  "provenance": "curated",
+  "value": "Kuwait"
+ },
+ "KY": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Cayman"
+ },
+ "KZ": {
+  "provenance": "curated",
+  "value": "Kazakhstan"
+ },
+ "LA": {
+  "provenance": "curated",
+  "value": "Laos"
+ },
+ "LB": {
+  "provenance": "curated",
+  "value": "Libanon"
+ },
+ "LC": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Saint Lucia"
+ },
+ "LI": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Liechtenstein"
+ },
+ "LK": {
+  "provenance": "curated",
+  "value": "Sri Lanka"
+ },
+ "LR": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Liberia"
+ },
+ "LS": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Lésotho"
+ },
+ "LT": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Lituania"
+ },
+ "LU": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Luksemburg"
+ },
+ "LV": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Latvia"
+ },
+ "LY": {
+  "provenance": "curated",
+  "value": "Libya"
+ },
+ "MA": {
+  "provenance": "curated",
+  "value": "Maroko"
+ },
+ "MC": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Monako"
+ },
+ "MD": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Moldova"
+ },
+ "ME": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Monténégro"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Saint Martin"
+ },
+ "MG": {
+  "provenance": "curated",
+  "value": "Madagaskar"
+ },
+ "MH": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Marshall"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Makédonia Kalér"
+ },
+ "ML": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Mali"
+ },
+ "MM": {
+  "provenance": "curated",
+  "value": "Myanmar"
+ },
+ "MN": {
+  "provenance": "curated",
+  "value": "Mongolia"
+ },
+ "MO": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Makau"
+ },
+ "MP": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Mariana Kalér"
+ },
+ "MQ": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Martinik"
+ },
+ "MR": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Mauritania"
+ },
+ "MS": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Montserrat"
+ },
+ "MT": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Malta"
+ },
+ "MU": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Mauritius"
+ },
+ "MV": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Maladéwa"
+ },
+ "MW": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Malawi"
+ },
+ "MX": {
+  "provenance": "curated",
+  "value": "Méksiko"
+ },
+ "MY": {
+  "provenance": "curated",
+  "value": "Malaysia"
+ },
+ "MZ": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Mozambik"
+ },
+ "NA": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Namibia"
+ },
+ "NC": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kalédonia Anyar"
+ },
+ "NE": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Niger"
+ },
+ "NF": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Pulo Norfolk"
+ },
+ "NG": {
+  "provenance": "curated",
+  "value": "Nigéria"
+ },
+ "NI": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Nikaragua"
+ },
+ "NL": {
+  "provenance": "curated",
+  "value": "Walanda"
+ },
+ "NO": {
+  "provenance": "curated",
+  "value": "Norwégia"
+ },
+ "NP": {
+  "provenance": "curated",
+  "value": "Népal"
+ },
+ "NR": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Nauru"
+ },
+ "NU": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Niue"
+ },
+ "NZ": {
+  "provenance": "curated",
+  "value": "Selandia Anyar"
+ },
+ "OM": {
+  "provenance": "curated",
+  "value": "Oman"
+ },
+ "PA": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Panama"
+ },
+ "PE": {
+  "provenance": "curated",
+  "value": "Peru"
+ },
+ "PF": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Polinésia Prancis"
+ },
+ "PG": {
+  "provenance": "curated",
+  "value": "Papua Nugini"
+ },
+ "PH": {
+  "provenance": "curated",
+  "value": "Filipina"
+ },
+ "PK": {
+  "provenance": "curated",
+  "value": "Pakistan"
+ },
+ "PL": {
+  "provenance": "curated",
+  "value": "Polandia"
+ },
+ "PM": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Saint Pierre jeung Miquelon"
+ },
+ "PN": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Pitcairn"
+ },
+ "PR": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Puérto Riko"
+ },
+ "PS": {
+  "provenance": "curated",
+  "value": "Paléstina"
+ },
+ "PT": {
+  "provenance": "curated",
+  "value": "Portugal"
+ },
+ "PW": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Palau"
+ },
+ "PY": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Paraguay"
+ },
+ "QA": {
+  "provenance": "curated",
+  "value": "Qatar"
+ },
+ "RE": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Réunion"
+ },
+ "RO": {
+  "provenance": "curated",
+  "value": "Romania"
+ },
+ "RS": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Sérbia"
+ },
+ "RW": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Rwanda"
+ },
+ "SA": {
+  "provenance": "curated",
+  "value": "Arab Saudi"
+ },
+ "SB": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Solomon"
+ },
+ "SC": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Seychelles"
+ },
+ "SD": {
+  "provenance": "curated",
+  "value": "Sudan"
+ },
+ "SE": {
+  "provenance": "curated",
+  "value": "Swédia"
+ },
+ "SG": {
+  "provenance": "curated",
+  "value": "Singapura"
+ },
+ "SH": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Saint Helena"
+ },
+ "SI": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Slovénia"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Svalbard jeung Jan Mayen"
+ },
+ "SK": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Slowakia"
+ },
+ "SL": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Sierra Leone"
+ },
+ "SM": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "San Marino"
+ },
+ "SN": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Sénégal"
+ },
+ "SO": {
+  "provenance": "curated",
+  "value": "Somalia"
+ },
+ "SR": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Suriname"
+ },
+ "SS": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Sudan Kidul"
+ },
+ "ST": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "São Tomé jeung Príncipe"
+ },
+ "SV": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Él Salvador"
+ },
+ "SX": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "SY": {
+  "provenance": "curated",
+  "value": "Suriah"
+ },
+ "SZ": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Éswatini"
+ },
+ "TC": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Turks jeung Caicos"
+ },
+ "TD": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Chad"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Wewengkon Kidul Prancis"
+ },
+ "TG": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Togo"
+ },
+ "TH": {
+  "provenance": "curated",
+  "value": "Thailand"
+ },
+ "TJ": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Tajikistan"
+ },
+ "TK": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Tokelau"
+ },
+ "TL": {
+  "provenance": "curated",
+  "value": "Timor Wétan"
+ },
+ "TM": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Turkménistan"
+ },
+ "TN": {
+  "provenance": "curated",
+  "value": "Tunisia"
+ },
+ "TO": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Tonga"
+ },
+ "TR": {
+  "provenance": "curated",
+  "value": "Turki"
+ },
+ "TT": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Trinidad jeung Tobago"
+ },
+ "TV": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Tuvalu"
+ },
+ "TW": {
+  "provenance": "curated",
+  "value": "Taiwan"
+ },
+ "TZ": {
+  "provenance": "curated",
+  "value": "Tanzania"
+ },
+ "UA": {
+  "provenance": "curated",
+  "value": "Ukraina"
+ },
+ "UG": {
+  "provenance": "curated",
+  "value": "Uganda"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Leutik Terpencil Amérika Sarikat"
+ },
+ "UY": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Uruguay"
+ },
+ "UZ": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Uzbékistan"
+ },
+ "VA": {
+  "provenance": "curated",
+  "value": "Vatikan"
+ },
+ "VC": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Saint Vincent jeung Grénadin"
+ },
+ "VE": {
+  "provenance": "curated",
+  "value": "Vénézuéla"
+ },
+ "VG": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Virgin Britania"
+ },
+ "VI": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kapuloan Virgin Amérika Sarikat"
+ },
+ "VN": {
+  "provenance": "curated",
+  "value": "Viétnam"
+ },
+ "VU": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Vanuatu"
+ },
+ "WF": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Wallis jeung Futuna"
+ },
+ "WS": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Samoa"
+ },
+ "XK": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Kosovo"
+ },
+ "YE": {
+  "provenance": "curated",
+  "value": "Yaman"
+ },
+ "YT": {
+  "confidence": "low",
+  "note": "international form used, as in Indonesian/Sundanese usage; follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Mayotte"
+ },
+ "ZA": {
+  "provenance": "curated",
+  "value": "Afrika Kidul"
+ },
+ "ZM": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Zambia"
+ },
+ "ZW": {
+  "confidence": "low",
+  "note": "follows Indonesian name with Sundanese spelling (é, jeung, Kapuloan/Pulo, Kidul/Kalér/Kulon/Wétan); not verified against su.wikipedia",
+  "provenance": "curated",
+  "value": "Zimbabwe"
+ }
+}

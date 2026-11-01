@@ -1,0 +1,1376 @@
+{
+ "AD": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Andorra"
+ },
+ "AE": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ny h-Emiraitaghyn Arabagh Unnaneysit"
+ },
+ "AF": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Afghanistaan"
+ },
+ "AG": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Antigua as Barbuda"
+ },
+ "AI": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Anguilla"
+ },
+ "AL": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Albaan"
+ },
+ "AM": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Armeen"
+ },
+ "AO": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Angola"
+ },
+ "AQ": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Antarctagh"
+ },
+ "AR": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Argenteen"
+ },
+ "AS": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Samoa Americanagh"
+ },
+ "AT": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Ostaar"
+ },
+ "AU": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Austrail"
+ },
+ "AW": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Aruba"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Åland"
+ },
+ "AZ": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Azerbaijan"
+ },
+ "BA": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Bosnia as Herzegovina"
+ },
+ "BB": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Barbados"
+ },
+ "BD": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Vangladesh"
+ },
+ "BE": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Velg"
+ },
+ "BF": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Burkina Faso"
+ },
+ "BG": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Vulgaar"
+ },
+ "BH": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Bahrain"
+ },
+ "BI": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Burundi"
+ },
+ "BJ": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Benin"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Noo Barthélemy"
+ },
+ "BM": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Bermuda"
+ },
+ "BN": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Brunei"
+ },
+ "BO": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Volivia"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Çheer Injil Carribagh"
+ },
+ "BR": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Vrasseel"
+ },
+ "BS": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ny Bahamaghyn"
+ },
+ "BT": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Bhutan"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellan Bouvet"
+ },
+ "BW": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Botswana"
+ },
+ "BY": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Vealroosh"
+ },
+ "BZ": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Belize"
+ },
+ "CA": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Chanadey"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Cocos (Keeling)"
+ },
+ "CD": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Chongo - Kinshasa"
+ },
+ "CF": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Pobblaght Veanagh Affrican"
+ },
+ "CG": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Chongo - Brazzaville"
+ },
+ "CH": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Elveit"
+ },
+ "CI": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Côte d’Ivoire"
+ },
+ "CK": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Cook"
+ },
+ "CL": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Chilee"
+ },
+ "CM": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Chameroon"
+ },
+ "CN": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Çheen"
+ },
+ "CO": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Cholombey"
+ },
+ "CR": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Costa Rica"
+ },
+ "CU": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Cooba"
+ },
+ "CV": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Kione Glass"
+ },
+ "CW": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Curaçao"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellan ny Nollick"
+ },
+ "CY": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Chipro"
+ },
+ "CZ": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Phobblaght Çheck"
+ },
+ "DE": {
+  "provenance": "curated",
+  "value": "Yn Ghermaan"
+ },
+ "DJ": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Djibouti"
+ },
+ "DK": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Danvarg"
+ },
+ "DM": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Dominica"
+ },
+ "DO": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Phobblaght Ghominicagh"
+ },
+ "DZ": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Algeer"
+ },
+ "EC": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Ecuador"
+ },
+ "EE": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Estoin"
+ },
+ "EG": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Egypt"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Sahara Sheear"
+ },
+ "ER": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Eritrea"
+ },
+ "ES": {
+  "provenance": "curated",
+  "value": "Yn Spaainey"
+ },
+ "ET": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Eetoip"
+ },
+ "FI": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Finnlynn"
+ },
+ "FJ": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Fiji"
+ },
+ "FK": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Falkland"
+ },
+ "FM": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Vicronesia"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Faroe"
+ },
+ "FR": {
+  "provenance": "curated",
+  "value": "Yn Fraink"
+ },
+ "GA": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Gabon"
+ },
+ "GD": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Grenada"
+ },
+ "GE": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Georgey"
+ },
+ "GF": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Guiana Frangagh"
+ },
+ "GG": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Guernsey"
+ },
+ "GH": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Ghana"
+ },
+ "GI": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Gibraltar"
+ },
+ "GL": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Ghreenlynn"
+ },
+ "GM": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Ghambia"
+ },
+ "GN": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Ghuinea"
+ },
+ "GP": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Guadeloupe"
+ },
+ "GQ": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Guinea Meanchryssagh"
+ },
+ "GR": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Ghreag"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Georgey Yiass as Ellanyn Sandwich Yiass"
+ },
+ "GT": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Guatemala"
+ },
+ "GU": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Guam"
+ },
+ "GW": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Guinea-Bissau"
+ },
+ "GY": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Guyana"
+ },
+ "HK": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Hong Kong"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellan Heard as Ellanyn McDonald"
+ },
+ "HN": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Honduras"
+ },
+ "HR": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Chroatey"
+ },
+ "HT": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Haiti"
+ },
+ "HU": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Ungaar"
+ },
+ "ID": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Indoneesia"
+ },
+ "IE": {
+  "provenance": "curated",
+  "value": "Nerin"
+ },
+ "IL": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Israel"
+ },
+ "IN": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Injey"
+ },
+ "IO": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Thallooin Vretnagh ny Marrey Injinagh"
+ },
+ "IQ": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Irack"
+ },
+ "IR": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Eraan"
+ },
+ "IS": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Eeslynn"
+ },
+ "IT": {
+  "provenance": "curated",
+  "value": "Yn Iddaal"
+ },
+ "JE": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Jersey"
+ },
+ "JM": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Jamaica"
+ },
+ "JO": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Jordaan"
+ },
+ "JP": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Çhapaan"
+ },
+ "KE": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Kenya"
+ },
+ "KG": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Kyrgyzstan"
+ },
+ "KH": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Chambodey"
+ },
+ "KI": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Kiribati"
+ },
+ "KM": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Comoros"
+ },
+ "KN": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Noo Kitts as Nevis"
+ },
+ "KP": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Choree Twoaie"
+ },
+ "KR": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Choree Yiass"
+ },
+ "KW": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Kuwait"
+ },
+ "KY": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Cayman"
+ },
+ "KZ": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Kazakhstan"
+ },
+ "LA": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Laos"
+ },
+ "LB": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Livaan"
+ },
+ "LC": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Noo Lucia"
+ },
+ "LI": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Liechtenstein"
+ },
+ "LK": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Sri Lanka"
+ },
+ "LR": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Liberia"
+ },
+ "LS": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Lesotho"
+ },
+ "LT": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Lettaan"
+ },
+ "LU": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Lucsemburg"
+ },
+ "LV": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Latvey"
+ },
+ "LY": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Libia"
+ },
+ "MA": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Varoc"
+ },
+ "MC": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Monaco"
+ },
+ "MD": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Moldova"
+ },
+ "ME": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Montenegro"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Noo Martin"
+ },
+ "MG": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Madagascar"
+ },
+ "MH": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Marshall"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Massadoan Twoaie"
+ },
+ "ML": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Mali"
+ },
+ "MM": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Myanmar"
+ },
+ "MN": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Vongoil"
+ },
+ "MO": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Macao"
+ },
+ "MP": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Marianagh Twoaie"
+ },
+ "MQ": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Martinique"
+ },
+ "MR": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Vauritaan"
+ },
+ "MS": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Montserrat"
+ },
+ "MT": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Malta"
+ },
+ "MU": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Mauritius"
+ },
+ "MV": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ny Maldiveyn"
+ },
+ "MW": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Malawi"
+ },
+ "MX": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Vexico"
+ },
+ "MY": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Valaysia"
+ },
+ "MZ": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Vozambique"
+ },
+ "NA": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Namibia"
+ },
+ "NC": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Caledoan Noa"
+ },
+ "NE": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Niger"
+ },
+ "NF": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellan Norfolk"
+ },
+ "NG": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Nigeer"
+ },
+ "NI": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Nicaragua"
+ },
+ "NL": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Çheer Injil"
+ },
+ "NO": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Norlynn"
+ },
+ "NP": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Nepaal"
+ },
+ "NR": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Nauru"
+ },
+ "NU": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Niue"
+ },
+ "NZ": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Teelynn Noa"
+ },
+ "OM": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Oman"
+ },
+ "PA": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Panama"
+ },
+ "PE": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Pheroo"
+ },
+ "PF": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Polynesia Frangagh"
+ },
+ "PG": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Papua Guinea Noa"
+ },
+ "PH": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ny Philippeenyn"
+ },
+ "PK": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Phakistaan"
+ },
+ "PL": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Pholynn"
+ },
+ "PM": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Noo Pheddyr as Miquelon"
+ },
+ "PN": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Pitcairn"
+ },
+ "PR": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Puerto Rico"
+ },
+ "PS": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ny Crootaghyn Palestinagh"
+ },
+ "PT": {
+  "provenance": "curated",
+  "value": "Portiugal"
+ },
+ "PW": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Palau"
+ },
+ "PY": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Paraguay"
+ },
+ "QA": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Qatar"
+ },
+ "RE": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Réunion"
+ },
+ "RO": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Romaan"
+ },
+ "RS": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Serb"
+ },
+ "RU": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Roosh"
+ },
+ "RW": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Rwanda"
+ },
+ "SA": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Araabey Saudagh"
+ },
+ "SB": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Holoman"
+ },
+ "SC": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Seychelles"
+ },
+ "SD": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Soodaan"
+ },
+ "SE": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Toolynn"
+ },
+ "SG": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Singapore"
+ },
+ "SH": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Noo Helena, Ascension as Tristan da Cunha"
+ },
+ "SI": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Slovenia"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Svalbard as Jan Mayen"
+ },
+ "SK": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Slovakia"
+ },
+ "SL": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Sierra Leone"
+ },
+ "SM": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "San Marino"
+ },
+ "SN": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Senegal"
+ },
+ "SO": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Somalia"
+ },
+ "SR": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Suriname"
+ },
+ "SS": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Soodaan Yiass"
+ },
+ "ST": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "São Tomé as Príncipe"
+ },
+ "SV": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "El Salvador"
+ },
+ "SX": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "SY": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Syria"
+ },
+ "SZ": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Eswatini"
+ },
+ "TC": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Turks as Caicos"
+ },
+ "TD": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Chad"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Crootaghyn Yiass as Antarctagh Frangagh"
+ },
+ "TG": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Togo"
+ },
+ "TH": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Thailynn"
+ },
+ "TJ": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Tajikistan"
+ },
+ "TK": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Tokelau"
+ },
+ "TL": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Timor Shiar"
+ },
+ "TM": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Turkmenistan"
+ },
+ "TN": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Tooneesia"
+ },
+ "TO": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Tonga"
+ },
+ "TR": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Turkee"
+ },
+ "TT": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Trinidad as Tobago"
+ },
+ "TV": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Tuvalu"
+ },
+ "TW": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Taiwan"
+ },
+ "TZ": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Tanzania"
+ },
+ "UA": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Ookraan"
+ },
+ "UG": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Uganda"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Sheeant ny Steatyn Unnaneysit"
+ },
+ "US": {
+  "provenance": "curated",
+  "value": "Steatyn Unnaneysit America"
+ },
+ "UY": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Uruguay"
+ },
+ "UZ": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Uzbekistan"
+ },
+ "VA": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ard-valley yn Vatican"
+ },
+ "VC": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Noo Vincent as ny Grenadeenyn"
+ },
+ "VE": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Venezuela"
+ },
+ "VG": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Moidynagh Vretnagh"
+ },
+ "VI": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ellanyn Moidynagh ny Steatyn Unnaneysit"
+ },
+ "VN": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Vietnam"
+ },
+ "VU": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Vanuatu"
+ },
+ "WF": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Wallis as Futuna"
+ },
+ "WS": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Samoa"
+ },
+ "XK": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Kosovo"
+ },
+ "YE": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Yemen"
+ },
+ "YT": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Mayotte"
+ },
+ "ZA": {
+  "confidence": "low",
+  "note": "unverified rendering (Manx Wikipedia-style Yn + gaelicised name / calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Yn Affrick Yiass"
+ },
+ "ZM": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Zambia"
+ },
+ "ZW": {
+  "note": "international form; no distinct Manx form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Zimbabwe"
+ }
+}

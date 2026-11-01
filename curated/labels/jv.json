@@ -1,0 +1,156 @@
+{
+ "fields.first_name": {
+  "value": "Jeneng ngarep",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Jeneng mburi",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Apartemen, suite, lsp. (opsional)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organisasi",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Alamat dalan",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telpon",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Negara / Wilayah",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Kutha",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Kutha pos",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "Pinggiran kutha",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "No established Javanese form term; literal \"edge of town\"."
+ },
+ "city.townland": {
+  "value": "Dhusun (Irlandia)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland rendered as \"dhusun\" (hamlet); approximation."
+ },
+ "city.village_township": {
+  "value": "Desa / Kalurahan",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Distrik",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Lingkungan",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Wilayah",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Kabupaten",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Departemen",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Distrik",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirat",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Pulo",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Paroki",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Church-parish term; no Javanese administrative equivalent."
+ },
+ "province.prefecture": {
+  "value": "Prefektur",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Provinsi",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Negara bagian",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Kode pos",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Kode ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Kode PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Kolom iki ora kena dikosongi.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ora dikenali minangka nilai sing valid kanggo kolom iki.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Baris alamat iki kayane ngemot kothak pos (PO box). Mangga gunakake alamat dalan utawa gedhung.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Format kode pos iki ora dikenali. Tuladha kode pos sing valid: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Format kode ZIP iki ora dikenali. Tuladha kode ZIP sing valid: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Kode pos iki kayane ora cocog karo alamat liyane.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Kode ZIP iki kayane ora cocog karo alamat liyane.",
+  "provenance": "curated"
+ }
+}

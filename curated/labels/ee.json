@@ -1,0 +1,224 @@
+{
+  "fields.first_name": {
+    "value": "Ŋkɔ gbãtɔ",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "fields.last_name": {
+    "value": "Ƒomeŋkɔ",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "fields.address2": {
+    "value": "Xɔ, xɔdzi, kple bubuwo (mehiã o)",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "fields.company": {
+    "value": "Habɔbɔ",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "fields.address1": {
+    "value": "Ablɔ ƒe adrɛs",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "fields.phone": {
+    "value": "Fon",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "fields.country": {
+    "value": "Dukɔ / Nutome",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "city.city": {
+    "value": "Du",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "city.post_town": {
+    "value": "Post du",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "city.suburb": {
+    "value": "Dugota",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "city.townland": {
+    "value": "Kɔƒenyigba",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "city.village_township": {
+    "value": "Kɔƒe / Du sue",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "city.district": {
+    "value": "Nutome",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "city.neighborhood": {
+    "value": "Duƒe",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "province.area": {
+    "value": "Nutome",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "province.county": {
+    "value": "Nutome sue",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "province.department": {
+    "value": "Akpa",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "province.district": {
+    "value": "Nutome",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "province.emirate": {
+    "value": "Emir ƒe anyigba",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "province.island": {
+    "value": "Ƒukpo",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "province.parish": {
+    "value": "Sɔlemeha nutome",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "province.prefecture": {
+    "value": "Nutome",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "province.province": {
+    "value": "Nutome",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "province.state": {
+    "value": "Dukɔa ƒe akpa",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "postal.postal": {
+    "value": "Post kɔd",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "postal.zip": {
+    "value": "ZIP kɔd",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "postal.pin": {
+    "value": "PIN kɔd",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "messages.required": {
+    "value": "Màte ŋu agblẽ esia ɖi ƒuƒlu o.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "messages.unknown_value": {
+    "value": "Womedze si {FIELD_VALUE} abe asixɔxɔ si wonya na teƒe sia o.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "messages.po_box_forbidden": {
+    "value": "Edze abe adrɛs fli sia me post adaka le ene. Taflatse, zã ablɔ alo xɔ ƒe adrɛs.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "messages.postal_invalid_example": {
+    "value": "Womedze si post kɔd sia ƒe ɖoɖo o. Post kɔd nyuitɔ ƒe kpɔɖeŋu: {EXAMPLE}.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "messages.zip_invalid_example": {
+    "value": "Womedze si ZIP kɔd sia ƒe ɖoɖo o. ZIP kɔd nyuitɔ ƒe kpɔɖeŋu: {EXAMPLE}.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "messages.postal_mismatch": {
+    "value": "Medze abe post kɔd sia sɔ kple adrɛs sia ƒe susɔea ene o.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  },
+  "messages.zip_mismatch": {
+    "value": "Medze abe ZIP kɔd sia sɔ kple adrɛs sia ƒe susɔea ene o.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ewe: forms in Ghana/Togo are normally in English/French; no established Ewe form terminology found; best-effort, needs native review."
+  }
+}

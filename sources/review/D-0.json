@@ -1,0 +1,1326 @@
+{
+ "AD": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "AD[1-7]0\\d",
+   "examples": [
+    "AD100",
+    "AD500",
+    "AD501",
+    "AD700"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/andEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "parish",
+   "subdivision_list": "complete (7 parishes AD-02..AD-08; not written on envelopes, the postcode identifies the parish)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/andEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "UPU: 'AD501 ANDORRA LA VELLA'; mail is delivered by La Poste and Correos (no national operator). Live posturl points to an old correos.es page, so treat it as stale. Users often type the code without 'AD'; consider normalising the prefix before validation."
+ },
+ "AE": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/areEn.pdf"
+  },
+  "required": "AS",
+  "layout": "%N%n%O%n%A%n%S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "emirate",
+   "subdivision_list": "complete (7 emirates)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/areEn.pdf",
+   "https://www.emiratespost.ae"
+  ],
+  "confidence": "high",
+  "notes": "UPU: deliveries are made to P.O. Boxes only; the last line is the emirate/city (e.g. DUBAI). No postal-code system (Makani numbers are not postcodes)."
+ },
+ "AF": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "100208",
+    "100613",
+    "106401",
+    "265101",
+    "385301"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/afgEn.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%D%n%Z %C%n%S",
+  "dropped_tokens": {
+   "%D": "locality/neighbourhood line (e.g. 'Murad Khani'); can be typed as a 2nd street line, so dropping it does not make addresses undeliverable",
+   "%S": "province line needed for rural addresses where the city differs from the province (e.g. '106401 PAGHMAN / KABUL'); if dropped, users must add it to the street lines"
+  },
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "issues: no AF entries in subdivisions.tsv; addresses outside a provincial capital need the province line (34 provinces, ISO AF-BDS..AF-ZAB)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "zip \\d{4} -> \\d{6}: a new 6-digit system came into force on 1 Oct 2024 (old 4-digit codes plus 2 more digits; first 2 digits 10-43 = province)",
+   "zipex 1001,2601,3801 are obsolete 4-digit codes",
+   "layout: postcode now comes before the city on the same line ('100208 KABUL'), followed by a province line for rural addresses; live had city and zip on separate lines in the other order",
+   "require: postcode shown in every official example"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/afgEn.pdf",
+   "https://afghanpost.gov.af/en/node/393",
+   "https://www.afghanpost.gov.af/index.php/en/postal-code"
+  ],
+  "confidence": "high",
+  "notes": "UPU sheet dated 07/2025. Afghan Post says the new code is the old 4-digit code plus 2 more digits, so legacy 4-digit input could be flagged instead of silently accepted."
+ },
+ "AG": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/atgEn.pdf"
+  },
+  "required": "A",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/atgEn.pdf"
+  ],
+  "confidence": "low",
+  "notes": "The UPU sheet has contact details only. There is no postal-code system; the live data requires only a street."
+ },
+ "AI": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:AI-)?2640",
+   "examples": [
+    "AI-2640",
+    "2640"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/aiaEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/aiaEn.pdf",
+   "https://www.aps.ai"
+  ],
+  "confidence": "high",
+  "notes": "One postcode for the whole territory, written AI-2640 on its own line below the locality."
+ },
+ "AL": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1001",
+    "1017",
+    "1041",
+    "3501"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/albEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/albEn.pdf",
+   "https://www.postashqiptare.al"
+  ],
+  "confidence": "high",
+  "notes": "UPU: the postcode goes on its own line above the locality."
+ },
+ "AM": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "0002",
+    "0010",
+    "0601"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/armEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "complete (10 marzes + Yerevan, 11 entries); the marz is optional on mail, the postcode identifies it"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "zip (?:37)?\\d{4} -> \\d{4}: HayPost has used 4-digit codes since 2006; the Soviet-era 6-digit 37xxxx codes are obsolete and should be rejected",
+   "zipex: drop obsolete '375010'",
+   "layout: HayPost puts postcode and locality on one line ('0002 YEREVAN'); live has them on separate lines"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/armEn.pdf",
+   "https://www.haypost.am"
+  ],
+  "confidence": "high",
+  "notes": "HayPost examples never show the marz; keep %S optional."
+ },
+ "AO": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/agoEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/agoEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "No postal-code system; UPU example is street then city."
+ },
+ "AQ": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [],
+  "confidence": "high",
+  "notes": "No postal administration and no UPU addressing sheet (the URL returns HTML). Mail to stations uses the operating country's postal system (e.g. Australian Antarctic Territory via Australia Post)."
+ },
+ "AR": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:[A-HJ-NP-Z]\\d{4}[A-Z]{3}|\\d{4})",
+   "examples": [
+    "C1070AAM",
+    "Y5900FNF",
+    "X5187XAB",
+    "C1000WAE",
+    "5900"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/argEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "complete (23 provinces + CABA as AR-C)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "zip: also accept the legacy 4-digit code. The 8-character CPA (letter + 4 digits + 3 letters) is official, but most residents and businesses still use the 4-digit code, which Correo Argentino still accepts; the live pattern rejects it",
+   "state_name_type: live dropped 'state' (now defaults to 'province'); 'province' (provincia) is correct"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/argEn.pdf",
+   "https://www.correoargentino.com.ar/formularios/cpa"
+  ],
+  "confidence": "high",
+  "notes": "UPU examples show 'Y5900FNF VILLA MARIA' with no province line; the province letter is part of the CPA. Keep %S optional. Whether to accept 4-digit codes is a policy choice; the alternative is to keep strict CPA and accept that real addresses get rejected."
+ },
+ "AS": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "96799(?:[ -]?\\d{4})?",
+   "examples": [
+    "96799"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/asmEn.pdf"
+  },
+  "required": "ACSZ",
+  "layout": "%N%n%O%n%A%n%C %S %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "state",
+   "subdivision_list": "complete (no subdivisions; state is always 'AS')"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/asmEn.pdf",
+   "https://tools.usps.com/zip-code-lookup.htm"
+  ],
+  "confidence": "high",
+  "notes": "Uses the US system with state code AS and ZIP 96799 (ZIP+4 allowed)."
+ },
+ "AT": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1010",
+    "1220",
+    "3741",
+    "1011"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/autEn.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%O%n%N%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/autEn.pdf",
+   "https://www.post.at"
+  ],
+  "confidence": "high",
+  "notes": "The Bundesland is not used in addresses."
+ },
+ "AU": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "2060",
+    "3171",
+    "6430",
+    "4006",
+    "0800"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ausEn.pdf"
+  },
+  "required": "ACSZ",
+  "layout": "%O%n%N%n%A%n%C %S %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "state",
+   "subdivision_list": "complete (6 states + ACT, NT); note AU-JBT is not an ISO 3166-2 code but is the Australia Post abbreviation for Jervis Bay Territory"
+  },
+  "labels": {
+   "city": "suburb",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ausEn.pdf",
+   "https://auspost.com.au/postcode"
+  ],
+  "confidence": "high",
+  "notes": "Format 'NORTH SYDNEY NSW 2060'. NT postcodes begin with 0, so the pattern must stay a string, not a number."
+ },
+ "AW": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/abwEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/abwEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "No postal-code system; the last line is the locality (ORANJESTAD)."
+ },
+ "AX": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "22\\d{3}",
+   "examples": [
+    "22100",
+    "22150",
+    "22550",
+    "22710"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/alaEn.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%O%n%N%n%A%nAX-%Z %C%nÅLAND",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/alaEn.pdf",
+   "https://www.alandpost.ax"
+  ],
+  "confidence": "high",
+  "notes": "The layout's literal 'AX-' and 'ÅLAND' are fixed text, not tokens; keep them. Users often type 'AX-22100', so strip the prefix before matching. The live 'name' field says FINLAND (the parent postal system), which is not used in addresses."
+ },
+ "AZ": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:AZ ?)?\\d{4}",
+   "examples": [
+    "AZ1000",
+    "AZ1010",
+    "AZ1014",
+    "AZ6715"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/azeEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%nAZ%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "province",
+   "subdivision_list": "issues: no AZ entries; rural addresses add rayon and province lines (e.g. 'Babək rayonu / Naxçivan Muxtar Respublikasi') that cannot be represented"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "postprefix 'AZ ' -> 'AZ' and layout 'AZ %Z %C' -> 'AZ%Z %C': Azerpost/UPU write 'AZ1010 Baku' with no space",
+   "zip: accept the 'AZ' prefix as users type it (normalise before storing)"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/azeEn.pdf",
+   "https://www.azerpost.az"
+  ],
+  "confidence": "high",
+  "notes": ""
+ },
+ "BA": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "71000",
+    "75411",
+    "75101"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bihEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bihEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "Entity and canton are not used in addresses."
+ },
+ "BB": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "BB\\d{5}",
+   "examples": [
+    "BB26028",
+    "BB24000",
+    "BB11000",
+    "BB23026"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/brbEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C, %S %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "parish",
+   "subdivision_list": "issues: no BB entries in subdivisions.tsv, but the live data has 11 parish sub_keys and the layout uses %S; missing BB-01..BB-11 (Christ Church .. Saint Thomas)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/brbEn.pdf",
+   "http://barbadospostal.com/"
+  ],
+  "confidence": "high",
+  "notes": "UPU puts the sub-locality on its own line and 'St. Peter BB26028' (parish + postcode) below it; live '%C, %S %Z' fits both on one line, which is acceptable. Postcodes are little used, so keep Z optional."
+ },
+ "BD": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1340",
+    "1000",
+    "4000"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bgdEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C - %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bgdEn.pdf",
+   "https://ekdak.com/thikana/postcode/"
+  ],
+  "confidence": "high",
+  "notes": "UPU: 'DHAKA – 1340'. The delivery post office ('P.O. SAVAR') and the optional thana go in the street lines; there is no %D in the live layout."
+ },
+ "BE": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1000",
+    "2610",
+    "9800",
+    "9000"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/belEn.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%O%n%N%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/belEn.pdf",
+   "https://www.bpost.be/adressage"
+  ],
+  "confidence": "high",
+  "notes": "bpost: no B-/BE- prefix and no province after the town."
+ },
+ "BF": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "10000",
+    "10010",
+    "70000",
+    "91001"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bfaEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {
+   "%X": "live '%C %X' was a legacy sorting/office code; BP and office ('BP 6000 OUAGA CNT') now go in the street lines, so nothing is lost"
+  },
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "add zip \\d{5}: La Poste Burkina Faso introduced 5-digit postcodes written before the locality (UPU sheet 12/2021)",
+   "layout '%C %X' -> '%Z %C'"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bfaEn.pdf",
+   "https://www.laposte.bf"
+  ],
+  "confidence": "low",
+  "notes": "The format is documented by UPU, but real-world adoption is unclear, so keep Z optional."
+ },
+ "BG": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1000",
+    "1612",
+    "1680",
+    "4000",
+    "3264"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bgrEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "province",
+   "subdivision_list": "complete (none needed; 'obl.' appears only in some rural addresses, and the postcode identifies the region)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bgrEn.pdf",
+   "https://www.bgpost.bg"
+  ],
+  "confidence": "high",
+  "notes": ""
+ },
+ "BH": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:1[0-2]|[1-9])\\d{2}",
+   "examples": [
+    "317",
+    "926"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bhrEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bhrEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "UPU (01/2024): 3- or 4-digit codes from 1XX to 12XX. The live regex is equivalent but wraps the code in '(?:^|\\b)…(?:$|\\b)' anchors, which do nothing under full-match; the clean form is given."
+ },
+ "BI": {
+  "verdict": "needs_decision",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bdiEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C%n%S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "issues: no BI entries. The 2025 reform merged 18 provinces into 5 (Bujumbura, Buhumuza, Burunga, Butanyerera, Gitega) and 119 communes into 42. ISO 3166-2:BI still lists the 18 old provinces, and no ISO codes exist yet for the new ones"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "add a province line: the UPU sheet (11/2025) writes 'BP 57 / MUYINGA (commune) / BUHUMUZA (province)'; live uses the default layout with no %S"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bdiEn.pdf",
+   "https://en.wikipedia.org/wiki/Provinces_of_Burundi",
+   "https://geo-ref.net/en/bdi.htm"
+  ],
+  "confidence": "low",
+  "notes": "Decision needed: which codes to use for the 5 new provinces before ISO publishes them (geo-ref.net uses temporary BI-1..BI-5), or leave %S as free text. There is no postal-code system; mail is mostly to P.O. Boxes."
+ },
+ "BJ": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/benEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/benEn.pdf",
+   "https://www.laposte.bj"
+  ],
+  "confidence": "high",
+  "notes": "No postcodes. P.O. Boxes in Cotonou/Porto-Novo/Abomey/Parakou are written with a 2-digit office prefix ('10 BP 648'), which goes in the street line."
+ },
+ "BL": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "97133",
+   "examples": [
+    "97133"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/blmEn.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "dropped_tokens": {
+   "%X": "CEDEX, used only for bulk business mail; dropping it is harmless for ordinary addresses"
+  },
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "zip 9[78][01]\\d{2} -> 97133: Saint-Barthélemy has one postcode; the live pattern accepts any French overseas code",
+   "zipex 97100 is Basse-Terre (Guadeloupe), not Saint-Barthélemy"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/blmEn.pdf",
+   "https://www.laposte.fr/outils/trouver-un-code-postal"
+  ],
+  "confidence": "high",
+  "notes": ""
+ },
+ "BM": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "[A-Z]{2} ?(?:\\d{2}|[A-Z]{2})",
+   "examples": [
+    "FL 07",
+    "HM GX",
+    "HM 12"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bmuEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "zip [A-Z]{2} ?[A-Z0-9]{2} -> [A-Z]{2} ?(?:\\d{2}|[A-Z]{2}): Bermuda Post uses 'AA NN' for street addresses and 'AA AA' for P.O. Boxes; mixed forms like 'HM 1A' are invalid"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bmuEn.pdf",
+   "https://www.bermudapost.bm"
+  ],
+  "confidence": "high",
+  "notes": "The locality line holds a parish or town name (\"SMITH'S FL 07\")."
+ },
+ "BN": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "[BKPT][A-Z] ?\\d{4}",
+   "examples": [
+    "BT2328",
+    "KA1131",
+    "BA1511",
+    "BA8611"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/brnEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "zip [A-Z]{2} ?\\d{4} -> [BKPT][A-Z] ?\\d{4}: the first letter is the district code (B Brunei-Muara, K Belait, P Temburong, T Tutong)"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/brnEn.pdf",
+   "https://www.post.gov.bn"
+  ],
+  "confidence": "high",
+  "notes": "The city line holds the district name, or 'BANDAR SERI BEGAWAN'. The village/kampong goes in a street line."
+ },
+ "BO": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bolEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bolEn.pdf",
+   "https://www.correos.gob.bo"
+  ],
+  "confidence": "high",
+  "notes": "No postal-code system (UPU 2/2026)."
+ },
+ "BQ": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/besEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "island",
+   "subdivision_list": "complete (none in list; ISO has BQ-BO/BQ-SA/BQ-SE but addresses do not use them)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/besEn.pdf"
+  ],
+  "confidence": "low",
+  "notes": "UPU has no format details for BES. There are no postcodes; the locality is e.g. Kralendijk, Bonaire."
+ },
+ "BR": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}-?\\d{3}",
+   "examples": [
+    "40301-110",
+    "70002-900",
+    "85070-200",
+    "85100-970"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/braEn.pdf"
+  },
+  "required": "ACSZ",
+  "layout": "%O%n%N%n%A%n%D%n%C-%S%n%Z",
+  "dropped_tokens": {
+   "%D": "bairro (neighbourhood), shown in every Correios street example. The CEP usually identifies the street, so dropping it rarely makes mail undeliverable, but it is customary and helps in single-CEP towns; recommend keeping it"
+  },
+  "province": {
+   "named": true,
+   "kind": "state",
+   "subdivision_list": "complete (26 states + DF)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/braEn.pdf",
+   "https://buscacepinter.correios.com.br/"
+  ],
+  "confidence": "high",
+  "notes": "The postal-code word is 'CEP'; use the label 'postal'."
+ },
+ "BS": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bhsEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C, %S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "island",
+   "subdivision_list": "issues: the 19 entries are island-based, and 5 codes are not ISO (BS-ABACO, BS-ANDROS, BS-CROOKED_ISLAND, BS-ELEUTHERA, BS-GRAND_BAHAMA). ISO 3166-2:BS uses 31 districts (e.g. BS-NO/CO/SO/HT/GC/MI for Abaco). That suits mail, since UPU lists islands, but it does not map cleanly to ISO"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bhsEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "UPU (10/2025): no postcode or home-delivery system; P.O. Box with office prefix ('P.O. Box GT 2001'). The island after the locality is optional."
+ },
+ "BT": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11001",
+    "22001",
+    "31101"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/btnEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/btnEn.pdf",
+   "https://bhutanpost.bt/postcode/"
+  ],
+  "confidence": "high",
+  "notes": "'Thimphu 11001'. In rural addresses the Dzongkhag name takes the city position."
+ },
+ "BV": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bvtEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bvtEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "Uninhabited (Norway)."
+ },
+ "BW": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bwaEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bwaEn.pdf",
+   "https://www.botspost.co.bw"
+  ],
+  "confidence": "high",
+  "notes": "No postcodes; P.O. Box or Private Bag, then locality."
+ },
+ "BY": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "220005",
+    "220068",
+    "223709",
+    "222615"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/blrEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%O%n%N%n%A%n%Z, %C%n%S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "oblast",
+   "subdivision_list": "issues: no BY entries in subdivisions.tsv, but the live data has 7 sub_keys (6 oblasts + Minsk city) and the layout uses %S; missing BY-BR, BY-HO, BY-HM, BY-HR, BY-MA, BY-MI, BY-VI"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/blrEn.pdf",
+   "https://www.belpost.by"
+  ],
+  "confidence": "high",
+  "notes": "Matches Belpost: '220005, g. Minsk', then oblast for addresses outside Minsk. Rural addresses also add a rayon line, which has no token and goes in the street lines. Live has no state_name_type (defaults to 'province'); 'oblast' is more accurate but optional."
+ },
+ "BZ": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/blzEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/blzEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "No postcodes. UPU writes 'KINGS PARK, BELIZE CITY' (area, city); the area can go in a street line."
+ },
+ "CA": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "[ABCEGHJ-NPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d",
+   "examples": [
+    "H3Z 2Y7",
+    "V8X 3X4",
+    "T0L 1K0",
+    "K1A 0B1"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/canEn.pdf"
+  },
+  "required": "ACSZ",
+  "layout": "%N%n%O%n%A%n%C %S %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "complete (10 provinces + 3 territories)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/canEn.pdf",
+   "https://www.canadapost-postescanada.ca/cpc/en/support/kb/sending/general-information/canadian-addressing-guidelines"
+  ],
+  "confidence": "high",
+  "notes": ""
+ },
+ "CC": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "6799",
+   "examples": [
+    "6799"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cckEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%O%n%N%n%A%n%C %S %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cckEn.pdf",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ausEn.pdf"
+  ],
+  "confidence": "low",
+  "notes": "Follows Australia Post. Australia Post lists localities as 'HOME ISLAND WA 6799' / 'WEST ISLAND WA 6799', so %S is the literal 'WA'. Not verified against an Australia Post page."
+ },
+ "CD": {
+  "verdict": "needs_decision",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{7}",
+   "examples": [
+    "1003071",
+    "1004131",
+    "3202011"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/codEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C%n%Z %S",
+  "dropped_tokens": {
+   "%X": "live dropped the old '%C %X'; no sorting code is used now"
+  },
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "issues: no CD entries; the format ends with postcode + province ('1004131 KINSHASA'), which needs the 26 provinces (ISO CD-KN, CD-KC, …)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "add zip \\d{7}: SCPT 7-digit postcode documented by UPU (09/2022), written before the province",
+   "layout default -> '%C%n%Z %S': the commune/territoire on its own line, then postcode + province"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/codEn.pdf",
+   "https://scpt.cd/corpo/"
+  ],
+  "confidence": "low",
+  "notes": "Decision needed: the system is official on paper, but adoption is unconfirmed and SCPT's service is limited. If adopted, add the province list and keep Z optional."
+ },
+ "CF": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cafEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cafEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "No postcodes; B.P. then locality (BANGUI)."
+ },
+ "CG": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cogEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "complete"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cogEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "No postcodes; street then locality (BRAZZAVILLE)."
+ }
+}

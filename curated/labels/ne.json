@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "पहिलो नाम",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "थर",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "अपार्टमेन्ट, सुइट आदि (वैकल्पिक)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "संस्था",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "सडक ठेगाना",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "फोन",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "देश / क्षेत्र",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "शहर",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "पोष्ट टाउन",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "उपनगर",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "टाउनल्याण्ड",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "गाउँ / टाउनशिप",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "जिल्ला",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "छिमेक",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "क्षेत्र",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "काउन्टी",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "विभाग",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "जिल्ला",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "डो/सी",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "इमिरेट",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "टापु",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "ओब्लास्ट",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "प्यारिस",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "प्रशासकिय क्षेत्र",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "प्रदेश",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "राज्य",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "हुलाक कोड",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "जिप कोड",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "पिन कोड",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "तपाईंले यसलाई खाली छोड्न सक्नुहुन्न।",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} यस क्षेत्रका लागि परिचित मानका रूपमा पहिचान भएन।",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "यो ठेगाना रेखाले हुलाक कार्यालय बक्स समावेश गरेको देखिन्छ। कृपया स्ट्रीट वा भवन ठेगाना प्रयोग गर्नुहोस्।",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "यो हुलाकी संकेत ढाँचा पहिचान भएन। वैध हुलाकी संकेतको उदाहरण हो: {EXAMPLE}।",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "यो जिप कोड ढाँचा पहिचान भएन। वैध जिप कोडको उदाहरण हो: {EXAMPLE}।",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "यो हुलाकी संकेत यस ठेगानाको बाँकी भागसँग मेल खाएको देखिएन।",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "यो जिप कोड यस ठेगानाको बाँकी भागसँग मेल खाएको देखिएन।",
+  "provenance": "chromium"
+ }
+}

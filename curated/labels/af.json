@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Voornaam",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Van",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Woonstel, suite, ens. (opsioneel)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Organisasie",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Straatadres",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Foon",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Land/Streek",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Stad",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Posdorp",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Voorstad",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Dorpsgrond",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Dorpie / dorpsgebied",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Distrik",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Buurt",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Area",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Land",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Departement",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Distrik",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emiraat",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Eiland",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Gemeente",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Prefektuur",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Provinsie",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Deelstaat",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Poskode",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Poskode",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "PIN-kode",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Jy kan dit nie leeg laat nie.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} word nie erken as 'n bekende waarde vir hierdie veld nie.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Hierdie adresreël lyk of dit 'n posbus bevat. Gebruik asseblief 'n straat- of gebou-adres.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Hierdie poskodeformaat word nie herken nie. Voorbeeld van 'n geldige poskode: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Hierdie poskodeformaat word nie herken nie. Voorbeeld van 'n geldige poskode: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Hierdie poskode lyk nie of dit by die res van hierdie adres pas nie.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Hierdie poskode lyk nie of dit by die res van hierdie adres pas nie.",
+    "provenance": "chromium"
+  }
+}

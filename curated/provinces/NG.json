@@ -1,0 +1,274 @@
+{
+ "country": "NG",
+ "level": "state",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "NG-AB",
+   "local": "Abia",
+   "latin": "Abia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-AD",
+   "local": "Adamawa",
+   "latin": "Adamawa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-AK",
+   "local": "Akwa Ibom",
+   "latin": "Akwa Ibom",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-AN",
+   "local": "Anambra",
+   "latin": "Anambra",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-BA",
+   "local": "Bauchi",
+   "latin": "Bauchi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-BE",
+   "local": "Benue",
+   "latin": "Benue",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-BO",
+   "local": "Borno",
+   "latin": "Borno",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-BY",
+   "local": "Bayelsa",
+   "latin": "Bayelsa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-CR",
+   "local": "Cross River",
+   "latin": "Cross River",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-DE",
+   "local": "Delta",
+   "latin": "Delta",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-EB",
+   "local": "Ebonyi",
+   "latin": "Ebonyi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-ED",
+   "local": "Edo",
+   "latin": "Edo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-EK",
+   "local": "Ekiti",
+   "latin": "Ekiti",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-EN",
+   "local": "Enugu",
+   "latin": "Enugu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-FC",
+   "local": "Abuja Federal Capital Territory",
+   "latin": "Abuja Federal Capital Territory",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-GO",
+   "local": "Gombe",
+   "latin": "Gombe",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-IM",
+   "local": "Imo",
+   "latin": "Imo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-JI",
+   "local": "Jigawa",
+   "latin": "Jigawa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-KD",
+   "local": "Kaduna",
+   "latin": "Kaduna",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-KE",
+   "local": "Kebbi",
+   "latin": "Kebbi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-KN",
+   "local": "Kano",
+   "latin": "Kano",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-KO",
+   "local": "Kogi",
+   "latin": "Kogi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-KT",
+   "local": "Katsina",
+   "latin": "Katsina",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-KW",
+   "local": "Kwara",
+   "latin": "Kwara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-LA",
+   "local": "Lagos",
+   "latin": "Lagos",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-NA",
+   "local": "Nasarawa",
+   "latin": "Nasarawa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-NI",
+   "local": "Niger",
+   "latin": "Niger",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-OG",
+   "local": "Ogun",
+   "latin": "Ogun",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-ON",
+   "local": "Ondo",
+   "latin": "Ondo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-OS",
+   "local": "Osun",
+   "latin": "Osun",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-OY",
+   "local": "Oyo",
+   "latin": "Oyo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-PL",
+   "local": "Plateau",
+   "latin": "Plateau",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-RI",
+   "local": "Rivers",
+   "latin": "Rivers",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-SO",
+   "local": "Sokoto",
+   "latin": "Sokoto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-TA",
+   "local": "Taraba",
+   "latin": "Taraba",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-YO",
+   "local": "Yobe",
+   "latin": "Yobe",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NG-ZA",
+   "local": "Zamfara",
+   "latin": "Zamfara",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.nipost.gov.ng/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:NG",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": ""
+}

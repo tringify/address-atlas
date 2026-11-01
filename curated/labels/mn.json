@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Нэр",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Овог",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Байр, тоот гэх мэт (заавал биш)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Зохион байгуулалт",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Гудамж",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Утас",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Улс / бүс",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Хот",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Шуудангийн хот",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Дагуул хот",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Ирландын газар нутгийн нэгж",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Тосгон / Суурин газар",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Дүүрэг",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Хөрш",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Хэсэг",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Муж",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Хэлтэс",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Дүүрэг",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Хот/дүүрэг",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Эмират улс",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Арал",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Муж",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Тойрог",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Дүүрэг",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Аймаг",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Муж",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Шуудангийн код",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Зип Код",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "ПИН код",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Эйр код",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Энэ талбарыг хоосон үлдээж болохгүй.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} - г энэ талбарт тохирох утга гэж танисангүй",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Та хаягийн энэ мөрөнд шуудангийн хайрцгийн дугаар оруулсан байна.  Гудамж буюу байрны хаягаа оруулна уу.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Энэ шуудангийн кодын форматыг таньж чадахгүй байна. Зөв шуудангийн кодын жишээ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Энэ ZIP кодын форматыг таньж чадахгүй байна. Зөв ZIP кодын жишээ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Энэ шуудангийн код нь хаягийн бусад мэдээлэлтэй тохирохгүй байна.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Энэ ZIP код нь хаягийн бусад мэдээлэлтэй тохирохгүй байна.",
+  "provenance": "chromium"
+ }
+}

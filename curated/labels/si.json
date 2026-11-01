@@ -1,0 +1,152 @@
+{
+ "fields.first_name": {
+  "value": "මුල් නම",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "වාසගම",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "මහල් නිවාසය, කාමරය ආදිය (විකල්ප)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wording of the optional marker and apartment term not verified against a Sri Lankan checkout form"
+ },
+ "fields.company": {
+  "value": "සංවිධානය",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "වීථි ලිපිනය",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "දුරකථනය",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "රට/කලාපය:",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "නගරය",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "තැපැල් නගරය",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "තදාසන්න ප්‍රදේශය",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "නගරබිම",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "ගම / නාගරිකය",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "දිස්ත්‍රික්කය",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "වටපිටාව",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "ප්‍රදේශය",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "ප්‍රාන්තය",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "දෙපාර්තමේන්තුව",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "දිස්ත්‍රික්කය",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "එමීර් රාජ්‍ය",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "දූපත",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "ඕබ්ලාස්ට්",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "කෝරලය",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "ප්‍රාන්තය",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "පළාත",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "ජනපදය",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "තැපැල් කේතය",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "ZIP කේතය",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN කේතය",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "අයර්කේත",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "ඔබට මෙය හිස්ව තැබීමට නොහැක.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} මෙම ක්ෂේත්‍රය සඳහා දන්නා අගයක් ලෙස හඳුනාගෙන නැත.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "මෙම ලිපින පෙළෙහි තැපැල් කාර්යාල පෙට්ටියක් අඩංගු බව පෙනේ. කරුණාකර වීදියක හෝ ගොඩනැගිල්ලක ලිිපිනයක් භාවිතා කරන්න.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "මෙම තැපැල් කේත ආකෘතිය හඳුනා ගෙන නැත. වලංගු තැපැල් කේතයක උදාහරණයක් වන්නේ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "මෙම සිප් කේත ආකෘතිය හඳුනා ගෙන නැත. වලංගු සිප් කේතයක උදාහරණයක් වන්නේ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "මෙම තැපැල් කේතය මෙම ලිපිනයේ ඉතිරිය හා ගැළපෙන බව නොපෙනේ.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "මෙම සිප් කේතය මෙම ලිපිනයේ ඉතිරිය හා ගැළපෙන බව නොපෙනේ.",
+  "provenance": "chromium"
+ }
+}

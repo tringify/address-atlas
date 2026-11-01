@@ -1,0 +1,12 @@
+{
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Britse Gebieden yn de Indyske Oseaan"
+ },
+ "MK": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Noard-Masedoanië"
+ }
+}

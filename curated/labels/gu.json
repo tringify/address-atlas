@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "પ્રથમ નામ",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "અટક",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "એપાર્ટમેન્ટ, સ્યુટ વગેરે (વૈકલ્પિક)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "સંસ્થા",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "શેરીનું સરનામું",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "ફોન",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "દેશ/પ્રદેશ",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "શહેર",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "પોસ્ટ ટાઉન",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "ઉપનગર",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "ટાઉનલેન્ડ",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "ગ્રામ / ટાઉનશીપ",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "જિલ્લો",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "પડોશ",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "ક્ષેત્ર",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "કાઉન્ટિ",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "વિભાગ",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "જિલ્લો",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "એમિરેટ",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "આઇલેન્ડ",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "ઓબ્લાસ્ટ",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "પેરિશ",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "પ્રીફેચર",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "પ્રાંત",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "રાજ્ય",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "પોસ્ટલ કોડ",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "પિન કોડ",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "PIN કોડ",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "એરકોડ",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "તમે આને ખાલી છોડી શકતા નથી.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "આ ફીલ્ડ માટે {FIELD_VALUE} જ્ઞાત મૂલ્ય તરીકે ઓળખાયેલું નથી.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "આ સરનામામાં એક પોસ્ટ ઓફિસ બોક્સ શામેલ હોય એવું લાગે છે. કૃપા કરી શેરી અથવા બિલ્ડિંગ સરનામાંનો ઉપયોગ કરો.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "આ પોસ્ટલ કોડ ફોર્મેટ ઓળખવામાં આવ્યું નથી. માન્ય પોસ્ટલ કોડનું ઉદાહરણ: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "આ પિન કોડ ફોર્મેટ ઓળખવામાં આવ્યું નથી. માન્ય પિન કોડનું ઉદાહરણ: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "આ સરનામાંના શેષ ભાગથી આ પોસ્ટલ કોડ મેળ ખાતો હોય એવું લાગતું નથી.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "આ સરનામાંના શેષ ભાગથી આ પિન કોડ મેળ ખાતો હોય એવું લાગતું નથી.",
+    "provenance": "chromium"
+  }
+}

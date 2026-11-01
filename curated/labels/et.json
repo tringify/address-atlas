@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Eesnimi",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Perekonnanimi",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Korter, kontor jne (valikuline)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Organisatsioon",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Aadress",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Telefon",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Riik/regioon",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Linn",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Post Town",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Linnaosa",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Asum",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Küla/alev",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Piirkond",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Naabruskond",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Ala",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Maakond",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Osakond",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Piirkond",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emiraat",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Saar",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Vald",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Prefektuur",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Provints",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Osariik/Maakond",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Sihtnumber",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Sihtnumber",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "PIN-kood",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Seda ei tohi tühjaks jätta.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "Väärtus {FIELD_VALUE} ei ole selle välja puhul tuntud väärtus.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Paistab, et aadress sisaldab nimelist postkasti. Kasutage tänava või hoone aadressi.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "See on tundmatu sihtnumbrivorming. Õige sihtnumbri näide: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "See on tundmatu sihtnumbrivorming. Õige sihtnumbri näide: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Sihtnumber ei paista olevat vastavuses ülejäänud aadressiga.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Sihtnumber ei paista olevat vastavuses ülejäänud aadressiga.",
+    "provenance": "chromium"
+  }
+}

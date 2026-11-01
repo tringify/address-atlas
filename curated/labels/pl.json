@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Imię",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Nazwisko",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Nr mieszkania, lokalu itp. (opcjonalnie)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organizacja",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Ulica i nr",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Kraj/region",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Miejscowość",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Poczta",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Przedmieście",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Dzielnica",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Wieś/gmina",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Okręg",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Dzielnica",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Obszar",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Hrabstwo",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Departament",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Okręg",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Emirat",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Wyspa",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Obwód",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Parafia",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Prefektura",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Prowincja",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Stan",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Kod pocztowy",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Kod pocztowy",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "Kod PIN",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "To pole nie może pozostać puste.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "„{FIELD_VALUE}” to nierozpoznawana wartość dla tego pola.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Wygląda na to, że ten adres zawiera numer skrytki pocztowej. Podaj ulicę i numer budynku.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Format kodu pocztowego nie został rozpoznany. Prawidłowy kod powinien wyglądać na przykład tak: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Format kodu pocztowego nie został rozpoznany. Prawidłowy kod powinien wyglądać na przykład tak: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Wygląda na to, że ten kod pocztowy nie pasuje do pozostałych informacji adresowych.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Wygląda na to, że ten kod pocztowy nie pasuje do pozostałych informacji adresowych.",
+  "provenance": "chromium"
+ }
+}

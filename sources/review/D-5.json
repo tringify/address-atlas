@@ -1,0 +1,1324 @@
+{
+ "SV": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:CP ?)?[1-3][1-7][0-2]\\d",
+   "examples": [
+    "1101",
+    "1120",
+    "2101",
+    "1116"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/slvEn.pdf"
+  },
+  "required": "ACS",
+  "layout": "%N%n%O%n%A%n%Z %C, %S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "department",
+   "subdivision_list": "complete (14 ISO departments; 2024 municipal reform changed municipalities only)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "layout: UPU (05/2019) writes '1120 SOYAPANGO, SAN SALVADOR' (space, department after comma on same line); live has '%Z-%C%n%S'",
+   "pattern: accept optional 'CP ' prefix (older repo data and common usage write 'CP 1101'); live dropped it"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/slvEn.pdf",
+   "https://www.correos.gob.sv/"
+  ],
+  "confidence": "high",
+  "notes": "UPU examples sometimes omit the department; kept S required because city names repeat across departments."
+ },
+ "SX": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": null
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sxmEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "No postcodes; Postal Services Sint Maarten designated operator since 2011. Google has no format data; default layout fine."
+ },
+ "SY": {
+  "verdict": "needs_decision",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": null
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%D%n%C",
+  "dropped_tokens": {
+   "%D": "UPU example has a numbered district line ('06/Saroufa') above the city; if %D is dropped, put the district in the street lines - delivery is by district in Damascus"
+  },
+  "province": {
+   "named": false,
+   "kind": "governorate",
+   "subdivision_list": "n/a (14 governorates exist but addresses do not name them; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Google has no data (not_found); recommended entry: no postal code, layout name/org/street/district/city, require AC"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/syrEn.pdf",
+   "https://en.wikipedia.org/wiki/Syrian_Post"
+  ],
+  "confidence": "low",
+  "notes": "UPU page is from 09/2004 and says Syrian Post is 'developing a postcode system'; its example shows '0100 DAMASCUS' but no code format has been published since. No evidence of a live system in 2026. Recommend uses=false; decide whether to accept a free 4-digit prefix before the city."
+ },
+ "SZ": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "[HLMS]\\d{3}",
+   "examples": [
+    "H100",
+    "M200",
+    "L100",
+    "S100"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/swzEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "region",
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/swzEn.pdf",
+   "https://www.eswatinipost.co.sz/postcode.php"
+  ],
+  "confidence": "high",
+  "notes": "UPU 08/2018 shows postcode on its own line below the town; matches live. Regions (Hhohho etc.) not written in addresses."
+ },
+ "TC": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "TKCA ?1ZZ",
+   "examples": [
+    "TKCA 1ZZ"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tcaEn.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "pattern: allow the space to be omitted ('TKCA1ZZ' is how UPU 10/2025 prints it); live pattern is the literal 'TKCA 1ZZ'"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tcaEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "Single postcode for the whole territory. Repo had %X in fmt; live removed it (correct)."
+ },
+ "TD": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": null
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tcdEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "No postcodes; delivery to B.P. boxes, example 'BP 4148 / NDJAMENA'."
+ },
+ "TF": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": null
+  },
+  "required": "A",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/atfEn.pdf"
+  ],
+  "confidence": "low",
+  "notes": "UPU (08/2011) lists the territory as uninhabited; no postcode published. Mail to bases goes via French administrative channels; we did not confirm any La Poste code for TAAF."
+ },
+ "TG": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": null
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tgoEn.pdf",
+   "https://www.laposte.tg"
+  ],
+  "confidence": "high",
+  "notes": "No postcodes; B.P. delivery ('B.P. 526 / LOME')."
+ },
+ "TH": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "10150",
+    "10110",
+    "11120",
+    "72150"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/thaEn.pdf"
+  },
+  "required": "ADCSZ",
+  "layout": "%N%n%O%n%A%n%D %C%n%S %Z",
+  "dropped_tokens": {
+   "%D": "tambon/khwaeng (sub-district) - UPU says three administrative levels are REQUIRED; dropping it makes many rural addresses undeliverable unless users type it into the street lines"
+  },
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "complete (77 = 76 changwat + Bangkok, incl. Bueng Kan TH-38)"
+  },
+  "labels": {
+   "city": "district",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/thaEn.pdf",
+   "https://www.thailandpost.co.th/"
+  ],
+  "confidence": "high",
+  "notes": "UPU prints postcode on its own line under 'district, province'; Thai domestic convention puts it after the province - live format acceptable. Google's require is default (AC); actual Thai Post guidance needs sub-district, district, province and postcode."
+ },
+ "TJ": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "735450",
+    "734025",
+    "734012"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tjkEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "region",
+   "subdivision_list": "n/a (list empty; UPU example does not name the region)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tjkEn.pdf",
+   "http://tajikpost.tj/ru/"
+  ],
+  "confidence": "high",
+  "notes": "Matches UPU 09/2019."
+ },
+ "TK": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": null
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "island",
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "island",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tklEn.pdf"
+  ],
+  "confidence": "low",
+  "notes": "UPU says 'see New Zealand' but NZ Post assigns no postcode to Tokelau (atolls Atafu, Fakaofo, Nukunonu). City field holds the atoll name."
+ },
+ "TL": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "TL ?\\d{5}",
+   "examples": [
+    "TL10001",
+    "TL11212",
+    "TL10901",
+    "TL42000",
+    "TL11200"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tlsEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "municipality",
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Google has no data; UPU (08/2026) documents a new postcode 'TL' + 5 digits after the locality ('BAIRO PITE - DILI TL11212')"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tlsEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "New system; house numbering still in progress, so postcode not made required. UPU also asks for a mobile phone line (not an address token)."
+ },
+ "TM": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "744000",
+    "744027",
+    "745100",
+    "746150"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tkmEn.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%C%n%S%n%Z",
+  "dropped_tokens": {
+   "%D": "etrap (district) appears in village addresses between locality and province; put it in the street lines if dropped"
+  },
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "issues: list empty but welayats are written in regional addresses (ISO TM-A, TM-B, TM-D, TM-L, TM-M, TM-S Ashgabat)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "layout: UPU (Turkmenpost) writes locality, then welayat, then postcode on its own last line; live has '%Z %C' on one line"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tkmEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "Ashgabat addresses omit the province line."
+ },
+ "TN": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1002",
+    "8129",
+    "3100",
+    "8170"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tunEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "governorate",
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tunEn.pdf",
+   "http://www.poste.tn/codes.php"
+  ],
+  "confidence": "high",
+  "notes": "Matches UPU 04/2014."
+ },
+ "TO": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": null
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tonEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "No postcodes published."
+ },
+ "TR": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "06101",
+    "06850",
+    "01960",
+    "06040"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/turEn.pdf"
+  },
+  "required": "ACSZ",
+  "layout": "%N%n%O%n%A%n%Z %C/%S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "complete (81 il)"
+  },
+  "labels": {
+   "city": "district",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/turEn.pdf",
+   "https://postakodu.ptt.gov.tr/"
+  ],
+  "confidence": "high",
+  "notes": "UPU 07/2022: '06101 ULUS/ANKARA'. Mahalle (neighbourhood) goes in the street lines. Province effectively needed (district names repeat); live require ACZ - recommend ACSZ since the format always shows %S."
+ },
+ "TT": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "500234",
+    "350462",
+    "150123"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ttoEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "region",
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "layout: UPU (TTPost 05/2014) puts postcode on the same line after the postal district ('CHAGUANAS 500234'); live puts it on a separate line"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ttoEn.pdf",
+   "https://www.ttpost.net/"
+  ],
+  "confidence": "high",
+  "notes": ""
+ },
+ "TV": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "TUV ?\\d{3}",
+   "examples": [
+    "TUV150",
+    "TUV120",
+    "TUV710"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tuvEn.pdf"
+  },
+  "required": "ACS",
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "island",
+   "subdivision_list": "issues: TV-NIULAKITA is not an ISO 3166-2 code (ISO lists 8 island councils; Niulakita falls under Niutao). Keep as an island for addresses but treat the code as non-ISO."
+  },
+  "labels": {
+   "city": "village",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Google has no postcode; UPU (08/2023) documents 'TUV' + 3 digits before the locality ('TUV150 Vaiaku', island on next line)"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tuvEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "UPU header says '6 digits' but every example is TUV+3 digits."
+ },
+ "TW": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3}(?:\\d{2,3})?",
+   "examples": [
+    "100",
+    "10603",
+    "106409",
+    "40867"
+   ],
+   "source": "https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=208"
+  },
+  "required": "ACSZ",
+  "layout": "%Z%n%S%C%n%A%n%O%n%N",
+  "dropped_tokens": {
+   "%D": "not used by live format; district is part of %C"
+  },
+  "province": {
+   "named": true,
+   "kind": "county",
+   "subdivision_list": "issues: TW-KINMEN_COUNTY and TW-LIENCHIANG_COUNTY should be ISO TW-KIN and TW-LIE; English names of TW-CYI and TW-CYQ are swapped (CYI = Chiayi City 嘉義市, CYQ = Chiayi County 嘉義縣)"
+  },
+  "labels": {
+   "city": "district",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=208"
+  ],
+  "confidence": "high",
+  "notes": "Chunghwa Post moved to 3+3 six-digit codes in 2020; 3- and 5-digit codes still accepted. Latin layout (lfmt) is '%A%n%C, %S %Z'."
+ },
+ "TZ": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11101",
+    "14111",
+    "23100",
+    "25204",
+    "33100"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tzaEn.pdf"
+  },
+  "required": "ACS",
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "dropped_tokens": {
+   "%D": "district (2nd level) is written between postcode line and region for rural home delivery; if dropped, users must add it to street lines"
+  },
+  "province": {
+   "named": true,
+   "kind": "region",
+   "subdivision_list": "issues: list empty but UPU examples always end with the region (e.g. 'DAR ES SALAM', 'KILIMANJARO'); need the 31 ISO regions TZ-01..TZ-31 (UPU 2013 list predates Songwe TZ-31, 2016)"
+  },
+  "labels": {
+   "city": "ward",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "pattern: 5 digits only (TCRA National Postcode Allocation Plan); live \\d{4,5} still accepts obsolete 4-digit codes like the old example 6090",
+   "layout: add region line %S after '%Z %C' as in UPU and TCRA examples"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tzaEn.pdf",
+   "https://tcra.go.tz/services/postcode"
+  ],
+  "confidence": "high",
+  "notes": "Locality after the postcode is the ward/delivery area (or post office for P.O. Box)."
+ },
+ "UA": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "01055",
+    "15432",
+    "01001"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ukrEn.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%C%n%S%n%Z",
+  "dropped_tokens": {
+   "%D": "raion (district) is written with the village in rural addresses ('s. Ivanovka, Semenivsky r-n'); keep it in the city or street line if %D is dropped"
+  },
+  "province": {
+   "named": true,
+   "kind": "oblast",
+   "subdivision_list": "complete (27 incl. UA-43 Crimea, UA-40 Sevastopol, UA-30 Kyiv). Note: English names are informal regional names ('Vinnychchyna'); Kirovohrad Oblast rename is still pending constitutional amendment, so UA-35 name is current."
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ukrEn.pdf",
+   "https://www.ukrposhta.ua/"
+  ],
+  "confidence": "high",
+  "notes": "Live format matches UPU 07/2023. S needed for rural addresses only, so not required."
+ },
+ "UG": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "10000",
+    "22321",
+    "12331"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ugaEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "district",
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Google has no data; UPU (01/2026, Uganda Post) documents 5-digit postcodes before the locality"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ugaEn.pdf",
+   "https://ugapost.co.ug"
+  ],
+  "confidence": "low",
+  "notes": "System is new; not made required because P.O. box addresses and most users still omit it."
+ },
+ "UM": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "96898",
+   "examples": [
+    "96898"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/umiEn.pdf"
+  },
+  "required": "ACS",
+  "layout": "%N%n%O%n%A%n%C %S %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "state",
+   "subdivision_list": "n/a (state code is always UM; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/umiEn.pdf"
+  ],
+  "confidence": "low",
+  "notes": "Follows USPS; no permanent population. Only Wake Island's 96898 is published."
+ },
+ "US": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}(?:[ -]?\\d{4})?",
+   "examples": [
+    "95014",
+    "22162-1010",
+    "11550-1234"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf"
+  },
+  "required": "ACSZ",
+  "layout": "%N%n%O%n%A%n%C, %S %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "state",
+   "subdivision_list": "complete for postal use (50 states + DC, territories AS GU MP PR VI, freely associated FM MH PW, military AA AE AP; the military and some territory codes are not ISO US- codes)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf",
+   "https://pe.usps.com/text/pub28/welcome.htm"
+  ],
+  "confidence": "high",
+  "notes": "USPS Pub 28 standard has no comma after the city; the comma in live is common and harmless. Optional: accept 9 digits without hyphen."
+ },
+ "UY": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11600",
+    "70200",
+    "15600",
+    "80300"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/uryEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C %S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "department",
+   "subdivision_list": "complete (19)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/uryEn.pdf",
+   "https://www.correo.com.uy/"
+  ],
+  "confidence": "high",
+  "notes": "UPU writes '70200 - ROSARIO, COLONIA' (dash and comma); department omitted when it equals the locality. Separators only."
+ },
+ "UZ": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "100123",
+    "140101",
+    "100000",
+    "220605"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/uzbEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "region",
+   "subdivision_list": "issues: our list has 0 entries but Google live has 14 (AN BU FA JI NG NW QA QR SA SI SU TK TO XO, all ISO); list is missing"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "examples: live zipex 702100/700000 are Soviet-era codes; current codes start 1-2 (Tashkent 100xxx, Samarkand 140xxx)"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/uzbEn.pdf",
+   "https://uz.post/ru/mening-pochta-indeksim"
+  ],
+  "confidence": "high",
+  "notes": ""
+ },
+ "VA": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "00120",
+   "examples": [
+    "00120"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vatEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vatEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "Italian system; no province abbreviation."
+ },
+ "VC": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "VC\\d{4}",
+   "examples": [
+    "VC0100",
+    "VC0120",
+    "VC0274",
+    "VC0400"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vctEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "parish",
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "layout: UPU (05/2021) puts the postcode on a separate line below the locality; live has '%C %Z'"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vctEn.pdf",
+   "http://www.svgpost.gov.vc/postoffice/"
+  ],
+  "confidence": "high",
+  "notes": ""
+ },
+ "VE": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1010",
+    "3028",
+    "8011",
+    "2201"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/venEn.pdf"
+  },
+  "required": "ACS",
+  "layout": "%N%n%O%n%A%n%C %Z, %S",
+  "dropped_tokens": {
+   "%D": "parroquia/municipio lines are used in UPU examples above the city; fine in street lines"
+  },
+  "province": {
+   "named": true,
+   "kind": "state",
+   "subdivision_list": "issues: names outdated - VE-A 'Distrito Federal' is now 'Distrito Capital'; VE-X 'Vargas' was renamed 'La Guaira' (2019). Codes complete (25)."
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/venEn.pdf",
+   "http://www.ipostel.gob.ve"
+  ],
+  "confidence": "high",
+  "notes": "Matches UPU 05/2019 ('CARACAS 1010, D.C.')."
+ },
+ "VG": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "VG ?\\d{4}",
+   "examples": [
+    "VG1110",
+    "VG1150",
+    "VG1160"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vgbEn.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "island",
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "island",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "layout: UPU says postcode must be on the same line after the locality ('TORTOLA VG1110'); live has it on a separate line",
+   "required: live requires only A; UPU says locality + postcode are needed"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vgbEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "No home delivery; postcode is that of the P.O. box location."
+ },
+ "VI": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "008(?:[0-4]\\d|5[01])(?:[ -]?\\d{4})?",
+   "examples": [
+    "00802-1222",
+    "00850-9802",
+    "00820"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/virEn.pdf"
+  },
+  "required": "ACSZ",
+  "layout": "%N%n%O%n%A%n%C %S %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": true,
+   "kind": "state",
+   "subdivision_list": "n/a (always VI)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/virEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "USPS system, 00801-00851."
+ },
+ "VN": {
+  "verdict": "needs_decision",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11517",
+    "10000",
+    "11311",
+    "47816"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vnmEn.pdf"
+  },
+  "required": "ACS",
+  "layout": "%N%n%O%n%A%n%C%n%S %Z",
+  "dropped_tokens": {
+   "%D": "before 1 July 2025 the district line sat between ward and province; districts were abolished in the 2025 reform, so addresses are now ward/commune + province"
+  },
+  "province": {
+   "named": true,
+   "kind": "province",
+   "subdivision_list": "issues: list has the 63 pre-2025 units; Resolution 202/2025/QH15 merged them into 34 (28 provinces + 6 cities) from 1 July 2025. 29 codes are obsolete; ISO 3166-2 update for the new units not confirmed."
+  },
+  "labels": {
+   "city": "ward",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "pattern: 5 digits only (national postcode since 2017/2018, still 5 digits after Decision 2334/QD-BKHCN of 24 Aug 2025); live \\d{5}\\d? still accepts old 6-digit codes",
+   "required: live requires AS; city (ward/commune) is needed for delivery -> ACS"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vnmEn.pdf",
+   "https://mabuuchinh.vn/",
+   "https://vietnamlawmagazine.vn/vietnam-now-has-34-provincial-level-administrative-units-74434.html",
+   "https://luatvietnam.vn/hanh-chinh/quyet-dinh-2334-qd-bkhcn-cua-bo-khoa-hoc-va-cong-nghe-sua-doi-ma-buu-chinh-quoc-gia-cho-doi-tuong-la-phuong-xa-va-cac-don-vi-hanh-chinh-tuong-duong-409694-d1.html"
+  ],
+  "confidence": "low",
+  "notes": "Decision needed: how to key the 34 new provinces before ISO publishes codes (keep surviving codes, retire merged ones?). Google live still lists 63 units. UPU example: 'HANOI 11517' (province + postcode on one line)."
+ },
+ "VU": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": null
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vutEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "No postcodes; P.O. box delivery."
+ },
+ "WF": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "986\\d{2}",
+   "examples": [
+    "98600",
+    "98610",
+    "98620"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/wlfEn.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "dropped_tokens": {
+   "%X": "CEDEX sorting code; rare in Wallis and Futuna, no delivery impact"
+  },
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/wlfEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "French system."
+ },
+ "WS": {
+  "verdict": "corrected",
+  "postal": {
+   "uses": true,
+   "pattern": "WS ?\\d{4}",
+   "examples": [
+    "WS1190",
+    "WS1251"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/wsmEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "district",
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "village",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "Google has no data; UPU (05/2014, Samoa Post) documents 'WS' + 4 digits after the locality ('Manono WS1190')"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/wsmEn.pdf",
+   "https://www.samoapost.ws"
+  ],
+  "confidence": "low",
+  "notes": "Usage appears limited; not made required."
+ },
+ "XK": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "[1-7]\\d{4}",
+   "examples": [
+    "10000",
+    "10060",
+    "12000",
+    "40000"
+   ],
+   "source": "https://postakosoves.com"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "district",
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://postakosoves.com",
+   "https://en.wikipedia.org/wiki/Postal_codes_in_Kosovo"
+  ],
+  "confidence": "low",
+  "notes": "No UPU page (Kosovo is not a UPU member); format confirmed only by secondary sources."
+ },
+ "YE": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": null
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "governorate",
+   "subdivision_list": "n/a (governorates listed by UPU but not written in example; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/yemEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "No postcodes. Repo required AC; live dropped require (defaults to AC)."
+ },
+ "YT": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "976\\d{2}",
+   "examples": [
+    "97600",
+    "97610",
+    "97640"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mytEn.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "dropped_tokens": {
+   "%X": "CEDEX sorting code; only for large mail recipients, no impact for ordinary addresses"
+  },
+  "province": {
+   "named": false,
+   "kind": null,
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mytEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "French system."
+ },
+ "ZA": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "0083",
+    "7975",
+    "1852",
+    "0001"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/zafEn.pdf"
+  },
+  "required": "ACZ",
+  "layout": "%N%n%O%n%A%n%D%n%C%n%Z",
+  "dropped_tokens": {
+   "%D": "suburb - in SAPO addressing the suburb IS the postal locality matched to the postcode (e.g. FISH HOEK 7975); if %D is dropped, store the suburb in %C, otherwise addresses lose the line the postcode refers to"
+  },
+  "province": {
+   "named": false,
+   "kind": "province",
+   "subdivision_list": "n/a (SAPO: province only when there is no postcode; list empty)"
+  },
+  "labels": {
+   "city": "suburb",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/zafEn.pdf",
+   "https://www.postoffice.co.za/"
+  ],
+  "confidence": "high",
+  "notes": "No punctuation per SAPO."
+ },
+ "ZM": {
+  "verdict": "needs_decision",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "10101",
+    "50100",
+    "20100"
+   ],
+   "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/zmbEn.pdf"
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "province",
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [
+   "layout: UPU writes postcode after the locality ('KITWE 23456'); live has '%Z %C'"
+  ],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/zmbEn.pdf",
+   "https://www.zampost.com.zm"
+  ],
+  "confidence": "low",
+  "notes": "UPU page (01/2013) says actual postcodes 'have not yet been assigned' and its examples are placeholders; secondary sources list 5-digit codes (Lusaka 10101) but we found no official Zampost list. Decide whether to keep the pattern (optional) or drop postcodes."
+ },
+ "ZW": {
+  "verdict": "live_ok",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": [],
+   "source": null
+  },
+  "required": "AC",
+  "layout": "%N%n%O%n%A%n%C",
+  "dropped_tokens": {},
+  "province": {
+   "named": false,
+   "kind": "province",
+   "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "changes_from_live": [],
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/zweEn.pdf"
+  ],
+  "confidence": "high",
+  "notes": "No postcode system found (nothing announced through 2026); P.O. box addressing."
+ }
+}

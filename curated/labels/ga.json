@@ -1,0 +1,156 @@
+{
+  "fields.first_name": {
+    "value": "Céadainm",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Sloinne",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Árasán, svuít, srl. (roghnach)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Eagraíocht",
+    "provenance": "curated"
+  },
+  "fields.address1": {
+    "value": "Seoladh sráide",
+    "provenance": "curated"
+  },
+  "fields.phone": {
+    "value": "Fón",
+    "provenance": "curated"
+  },
+  "fields.country": {
+    "value": "Tír / Réigiún",
+    "provenance": "curated"
+  },
+  "city.city": {
+    "value": "Cathair",
+    "provenance": "curated"
+  },
+  "city.post_town": {
+    "value": "Baile poist",
+    "provenance": "curated"
+  },
+  "city.suburb": {
+    "value": "Bruachbhaile",
+    "provenance": "curated"
+  },
+  "city.townland": {
+    "value": "Baile fearainn",
+    "provenance": "curated"
+  },
+  "city.village_township": {
+    "value": "Sráidbhaile / Baile beag",
+    "provenance": "curated"
+  },
+  "city.district": {
+    "value": "Ceantar",
+    "provenance": "curated"
+  },
+  "city.neighborhood": {
+    "value": "Comharsanacht",
+    "provenance": "curated"
+  },
+  "province.area": {
+    "value": "Limistéar",
+    "provenance": "curated"
+  },
+  "province.county": {
+    "value": "Contae",
+    "provenance": "curated"
+  },
+  "province.department": {
+    "value": "Roinn",
+    "provenance": "curated"
+  },
+  "province.district": {
+    "value": "Ceantar",
+    "provenance": "curated"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "curated",
+    "note": "Korean romanized term kept, as in Chromium's translations for other languages."
+  },
+  "province.emirate": {
+    "value": "Éimíríocht",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Rare term; formed by analogy."
+  },
+  "province.island": {
+    "value": "Oileán",
+    "provenance": "curated"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "curated"
+  },
+  "province.parish": {
+    "value": "Paróiste",
+    "provenance": "curated"
+  },
+  "province.prefecture": {
+    "value": "Maoracht",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "'Maoracht' per tearma.ie usage for prefecture; uncertain for Japanese prefectures."
+  },
+  "province.province": {
+    "value": "Cúige",
+    "provenance": "curated"
+  },
+  "province.state": {
+    "value": "Stát",
+    "provenance": "curated"
+  },
+  "postal.postal": {
+    "value": "Cód poist",
+    "provenance": "curated"
+  },
+  "postal.zip": {
+    "value": "Cód ZIP",
+    "provenance": "curated"
+  },
+  "postal.pin": {
+    "value": "Cód PIN",
+    "provenance": "curated"
+  },
+  "postal.eircode": {
+    "value": "Éirchód",
+    "provenance": "curated",
+    "note": "Irish-language name used by An Post / Eircode in Irish-language materials."
+  },
+  "messages.required": {
+    "value": "Ní féidir é seo a fhágáil folamh.",
+    "provenance": "curated"
+  },
+  "messages.unknown_value": {
+    "value": "Ní aithnítear {FIELD_VALUE} mar luach aitheanta don réimse seo.",
+    "provenance": "curated"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Is cosúil go bhfuil bosca poist sa líne seo den seoladh. Úsáid seoladh sráide nó foirgnimh, le do thoil.",
+    "provenance": "curated"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Ní aithnítear formáid an chóid poist seo. Sampla de chód poist bailí: {EXAMPLE}.",
+    "provenance": "curated"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Ní aithnítear formáid an chóid ZIP seo. Sampla de chód ZIP bailí: {EXAMPLE}.",
+    "provenance": "curated"
+  },
+  "messages.postal_mismatch": {
+    "value": "Ní cosúil go bhfuil an cód poist seo ag teacht leis an gcuid eile den seoladh seo.",
+    "provenance": "curated"
+  },
+  "messages.zip_mismatch": {
+    "value": "Ní cosúil go bhfuil an cód ZIP seo ag teacht leis an gcuid eile den seoladh seo.",
+    "provenance": "curated"
+  }
+}

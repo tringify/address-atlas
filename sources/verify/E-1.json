@@ -1,0 +1,356 @@
+{
+  "AG": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/atgEn.pdf",
+      "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+    ],
+    "notes": "The UPU sheet is contact details only. The Sep 2025 UPU list of countries that do not require postal codes includes Antigua and Barbuda. No province line."
+  },
+  "AZ": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/azeEn.pdf",
+      "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+    ],
+    "notes": "UPU 07/2019 examples are AZ1010 Bakı, AZ1014 Baku, AZ1000 Bakı and AZ6715 Nehrəm, with no space after AZ. Rural mail adds a rayon line and, for Nakhchivan, the republic line; those two lines are not in the urban layout. Store the four digits and print the AZ prefix, as proposed."
+  },
+  "BL": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/blmEn.pdf",
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/fraEn.pdf"
+    ],
+    "notes": "UPU gives the single code 97133 and says to follow the French layout. France says CEDEX on the locality line must be kept, so %X is appropriate."
+  },
+  "BQ": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/besEn.pdf",
+      "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+    ],
+    "notes": "The BES sheet has no address template. The Sep 2025 UPU list says Bonaire, Sint Eustatius and Saba do not require postal codes. ISO 3166-2 has BQ-BO, BQ-SA and BQ-SE; they are not a separate address line."
+  },
+  "CI": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/civEn.pdf",
+      "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+    ],
+    "notes": "No postcode; the Sep 2025 UPU list agrees. The sheet requires the office code: '06 B.P. 37 ABIDJAN 06'. Home delivery prefixes that office code with 1 (office 04 becomes 104). Keeping %X matches the P.O. box line."
+  },
+  "CO": {
+    "agree": false,
+    "field_disagreements": {
+      "layout": "%N%n%O%n%A%n%D%n%C %Z%n%S. UPU 10/2022 (4-72) writes locality and the 6-digit code on one line and the department on the next line (BOGOTA 111711; Localidad de Kennedy 110841 / BOGOTA D.C.; PLANETA RICA 233057 / CORDOBA). The proposed '%C, %S, %Z' is the Google line, not the operator line.",
+      "required": "ACZ. Every example has a locality and a postcode. The plain Bogotá example has no separate department line, so do not require S and do not special-case Bogotá out of the city field."
+    },
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/colEn.pdf",
+      "https://www.iso.org/obp/ui/#iso:code:3166:CO"
+    ],
+    "notes": "Recommendation: use the UPU line order above. Pattern \\d{6} and the examples 111711, 110841, 233057 and 110911 are all on the 4-72 sheet. 32 departments plus CO-DC is the full ISO set (33)."
+  },
+  "CV": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cpvEn.pdf",
+      "https://www.iso.org/obp/ui/#iso:code:3166:CV"
+    ],
+    "notes": "Recommendation: keep the nine island names, because UPU prints the island under '7600 PRAIA'. Do not store Fogo, Santiago, Santo Antão or São Nicolau as ISO codes. ISO 3166-2:CV is 22 municipalities plus Barlavento (CV-B) and Sotavento (CV-S). CV-BV, CV-BR, CV-MA, CV-SL and CV-SV are real municipality codes for the one-municipality islands. The other four island keys are private."
+  },
+  "DO": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/domEn.pdf"
+    ],
+    "notes": "UPU 03/2005 uses 11903 SANTO DOMINGO and 10101 SANTO DOMINGO. The sector line (Katanga, Los Minas) sits above the postcode and fits in the street. Provinces are not written."
+  },
+  "EE": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/estEn.pdf",
+      "https://www.omniva.ee/postiindeks/",
+      "https://www.iso.org/obp/ui/#iso:code:3166:EE"
+    ],
+    "notes": "Town mail is '11212 TALLINN' with no county; rural mail puts the county in the locality slot ('69501 VILJANDIMAA') and the village on the line above. 10141 is Tallinn (Kesklinna) and 50050 is Tartu. The 15 county codes match the 2020-11-24 ISO change, and subdivisions.tsv has no EE rows. Do not use the pre-2020 codes."
+  },
+  "ES": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/espEn.pdf"
+    ],
+    "notes": "Correos (UPU 01/2013) puts the province on its own line under 'postcode LOCALITY'. Examples 28039, 45012, 29400, 09692 and 33400 are on the sheet. Prefixes 01–52 cover 50 provinces plus Ceuta and Melilla."
+  },
+  "FM": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/fsmEn.pdf",
+      "https://pe.usps.com/text/dmm300/608.htm",
+      "https://www.iso.org/obp/ui/#iso:code:3166:FM"
+    ],
+    "notes": "UPU: USPS format, state code FM, ZIPs 96941–96944. USPS DMM 608 assigns 96941 Pohnpei, 96942 Chuuk, 96943 Yap, 96944 Kosrae. ISO is FM-TRK, FM-KSA, FM-PNI, FM-YAP. subdivisions.tsv has no FM rows."
+  },
+  "GF": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gufEn.pdf",
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/fraEn.pdf"
+    ],
+    "notes": "UPU: overseas codes start with 97 or 98 and the third digit 3 is French Guiana, sample 97300 CAYENNE. 973\\d{2} is the right tightening. Follow France, including CEDEX."
+  },
+  "GN": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ginEn.pdf",
+      "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+    ],
+    "notes": "ginEn.pdf, not only the general list, shows the one line '001 BP 457 CONAKRY', plus 100 KINDIA and 200 LABE. The radical is three digits; the first digit is the region 0–4. The BP number is the suffix, in the street slot."
+  },
+  "GW": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gnbEn.pdf"
+    ],
+    "notes": "UPU 03/2005: '1000 BISSAU' and contact '1011 BISSAU'. The region list is not written on the address."
+  },
+  "ID": {
+    "agree": false,
+    "field_disagreements": {
+      "required": "ACSZ. Pos Indonesia's current writing guide lists street, kota/kabupaten, province and postcode (example 'Kota Jakarta Selatan, DKI Jakarta 12130') and says the postcode is required for sorting. UPU 01/2013 already prints 'BANDUNG 40115'. AS omits the city and the postcode."
+    },
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/idnEn.pdf",
+      "https://www.posindonesia.co.id/id/blogs/cara-penulisan-alamat-yang-benar-untuk-mengirim-paket",
+      "https://www.iso.org/obp/ui/#iso:code:3166:ID"
+    ],
+    "notes": "The four 2022 provinces are in ISO 3166-2: ID-PS Papua Selatan, ID-PT Papua Tengah, ID-PE (ISO name still spelled Papua Pengunungan), ID-PD Papua Barat Daya. The 34-row list is short of those four. Kind 'province' is right. Layout '%C%n%S %Z' matches the current Pos Indonesia order (city, then province and postcode). The 2013 UPU sheet had said the province was not used; the operator's current guide includes it."
+  },
+  "IN": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/indEn.pdf",
+      "https://dac.indiapost.gov.in/",
+      "https://www.iso.org/obp/ui/#iso:code:3166:IN"
+    ],
+    "notes": "Recommendation: drop %T, %F and %L. They are Google address-descriptor landmark lines, not India Post fields; street, locality, city, PIN and state are the UPU components. PIN is six digits, often written '560 001'. 28 states and 8 union territories, including merged DH and Ladakh, match ISO. A tighter PIN pattern is [1-9]\\d{2} ?\\d{3}."
+  },
+  "KI": {
+    "agree": false,
+    "field_disagreements": {
+      "layout": "%N%n%O%n%A%n%C%n%S %Z. MICT and UPU 10/2020: the code is written to the right of the island ('Butaritari KI0102', 'Sth Tarawa KI0107'), with the village or town on the line above. The proposed island / city / code-alone order does not match.",
+      "postal.examples": "KI0104, KI0107, KI0102, KI0303. KI0104 is Abaiang on the MICT list of 37 codes. KI0999 is not on that list.",
+      "required": "ACSZ. The island line carries the postcode, and USPS (from 30 Sep 2020) says every item must bear one."
+    },
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/kirEn.pdf",
+      "https://mict.gov.ki/postal/kiribati-new-post-codes",
+      "https://about.usps.com/postal-bulletin/2020/pb22558/html/updt_002.htm"
+    ],
+    "notes": "Pattern KI\\d{4} matches the published 'KI' plus four digits. The ministry list is KI0101–KI0121, KI0201–KI0208 and KI0301–KI0308."
+  },
+  "KP": {
+    "agree": false,
+    "field_disagreements": {
+      "province.subdivision_list": "13 codes, not the range KP-01–KP-14. Nine provinces are KP-02 through KP-10. Cities: KP-01 Pyongyang, KP-13 Rason, KP-14 Nampo, KP-15 Kaesong. There is no KP-11 or KP-12."
+    },
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/prkEn.pdf",
+      "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+      "https://www.iso.org/obp/ui/#iso:code:3166:KP"
+    ],
+    "notes": "Recommendation: no postcode. The UPU sheet is contact details only, and the Sep 2025 list says the DPR Korea does not require postal codes. Layout name / organisation / street / city / province and required AC are a reasonable default, not a KPTA template. If %S is shown, load all 13 ISO codes including Kaesong."
+  },
+  "LC": {
+    "agree": false,
+    "field_disagreements": {
+      "postal.pattern": "LC\\d{2}(?: {1,2}|-)?\\d{3}. The 07/2019 sheet says the 4th and 5th characters are separated by a double space, and the glyph gap between 'LC04' and '101' is about two ordinary spaces. LC\\d{2} ?\\d{3} rejects that. The Aug 2026 UPU type table also lists LC999-999 with a hyphen."
+    },
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lcaEn.pdf",
+      "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+    ],
+    "notes": "Layout 'CASTRIES, LC04 101' and the examples LC04 101, LC05 201 and LC10 101 match the sheet. LC01 501 is not one of the samples. The district is the locality on the postcode line, not a separate province."
+  },
+  "MF": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mafEn.pdf",
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/fraEn.pdf"
+    ],
+    "notes": "UPU mafEn.pdf gives the single code 97150 SAINT-MARTIN and says to follow France. 97100 is Guadeloupe."
+  },
+  "MQ": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mtqEn.pdf",
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/fraEn.pdf"
+    ],
+    "notes": "Third digit 2 is Martinique. The sheet shows 97200 and 97220 LA TRINITE. 972\\d{2} is the right pattern; 97262 is inside that range."
+  },
+  "MU": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/musEn.pdf"
+    ],
+    "notes": "UPU 01/2026: five digits after the locality (PORT LOUIS 11213, LALMATIE 42602, contact 11328) and R plus four digits for Rodrigues (example R0000, format R9999). Agaléga is not on this sheet. The old 742CU001 form is gone."
+  },
+  "MZ": {
+    "agree": false,
+    "field_disagreements": {
+      "postal.pattern": "\\d{4}-\\d{2} for the code INCM currently prints. The regulator's own address is 'CEP: 0102-07'. The 2005 UPU pattern of four digits (1100, 3314) is not that code. Decreto 74/2024 (18 Sep 2024) is reported as eight digits; the decree text itself was not available, so do not invent an 8-digit regex yet.",
+      "postal.examples": "0102-07, the CEP on https://www.incm.gov.mz/novo-codigo-de-enderecamento-postal/. 1100 and 3314 are only the 2005 UPU samples."
+    },
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mozEn.pdf",
+      "https://www.incm.gov.mz/novo-codigo-de-enderecamento-postal/",
+      "https://www.incm.gov.mz/legislacao-postal/",
+      "https://www.iso.org/obp/ui/#iso:code:3166:MZ"
+    ],
+    "notes": "Recommendation: keep postal codes. Correios de Moçambique was dissolved in 2021 and CORRE is the designated operator, but INCM still publishes a CEP. The 2005 envelope (postcode locality, then province) still matches the old UPU sheet; no newer envelope sample was found. The 11 ISO units, Maputo city MZ-MPM versus Maputo province MZ-L, are complete."
+  },
+  "NU": {
+    "agree": false,
+    "field_disagreements": {
+      "postal.uses": "true. UPU niuEn.pdf (09/2017) assigns one postcode, 9974, for the whole territory. The Aug 2026 single-postcode list says the same.",
+      "postal.pattern": "9974",
+      "postal.examples": "9974",
+      "layout": "%N%n%O%n%A%n%C%n%Z. Samples are locality, then 9974 on the next line (Alofi / 9974).",
+      "required": "ACZ. Every sample includes 9974."
+    },
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/niuEn.pdf",
+      "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+    ],
+    "notes": "The locality is the village (Alofi, Fonuakula). There is no separate province. Niue is not on the UPU 'does not require postal codes' list; Tokelau is."
+  },
+  "PE": {
+    "agree": false,
+    "field_disagreements": {
+      "layout": "%N%n%O%n%A, %C%n%Z%n%S. UPU 01/2013 writes 'Av. Larco 1301, Miraflores' then the postcode alone (15074) then the department (LIMA). The district is on the street line, not beside the postcode."
+    },
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/perEn.pdf",
+      "https://www.codigopostal.gob.pe/",
+      "https://www.iso.org/obp/ui/#iso:code:3166:PE"
+    ],
+    "notes": "Department numbers 01–25 on the sheet match the proposed pattern, including 07 Callao and 15 Lima. 15074 is the worked example; 15082 is the contact code. ISO has 25 regions plus PE-LMA; Lima Metropolitana is not a 26th postal prefix. %C as district matches the UPU sub-locality."
+  },
+  "PS": {
+    "agree": false,
+    "field_disagreements": {
+      "required": "AC. UPU 05/2025 says the final four digits are included 'if possible', and the same sheet does not cover Gaza or places that use Israel Post 7-digit codes. Keep Z optional."
+    },
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/pseEn.pdf",
+      "https://postcode.palestine.ps/"
+    ],
+    "notes": "Recommendation: uses true, pattern P\\d{3}(?: ?\\d{4})?, examples P6100154 (the Ramallah contact code), P126 and P144 (the sheet's short forms). Layout '%C %Z' matches 'JERUSALEM P126xxxx' and 'RAMALLAH AND AL-BIREH P6100154'. The governorate is the first digit of the code, not a separate line."
+  },
+  "RS": {
+    "agree": false,
+    "field_disagreements": {
+      "layout": "Keep %N%n%O%n%A%n%C%n%Z %C for the 5-digit delivery office, and add an optional line PAK %X. UPU 01/2025 says that to address street mail properly the 6-digit PAK shall be printed under the office line (24210 BAJMOK / PAK 456769). PAK is not used for P.O. boxes, poste restante or military mail. One %C cannot hold both the locality and a different office name (BEOGRAD (ZVEZDARA) vs 11130 KALUĐERICA)."
+    },
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/srbEn.pdf",
+      "https://www.posta.rs/"
+    ],
+    "notes": "Recommendation: postal pattern stays \\d{5} for the office code. Do not put the PAK in the same field (that is the live \\d{5,6} mistake). Examples 24210 and 11130 are on the sheet; 11000 and 21000 are the Belgrade and Novi Sad office codes. No province line."
+  },
+  "SA": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sauEn.pdf",
+      "https://splonline.com.sa/en/national-address-1/"
+    ],
+    "notes": "UPU 04/2025: building and street, additional number plus district, 5-digit postcode, then the city. Samples include 12643, 12233 and 11564. The 4-letter short address (RAGI2929) is an optional extra line, not the postcode. No region line. Z is on both home and P.O. box templates."
+  },
+  "SH": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/shnEn.pdf",
+      "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+    ],
+    "notes": "The 2005 sheet shows STHL 1ZZ on its own line under the post town and says a space separates the two parts. The Aug 2026 UPU list also gives ASCN 1ZZ and TDCU 1ZZ. The three territories are distinguished by the postcode, not by a province line."
+  },
+  "SN": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/senEn.pdf"
+    ],
+    "notes": "senEn.pdf (02/2015) confirms 12500 DAKAR, 10000 Dakar and 46024 SAINT-LOUIS, format five digits to the left of the delivery office. The contact address is a BP without a numeric code, so leaving Z optional matches that sheet."
+  },
+  "SY": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/syrEn.pdf",
+      "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+      "https://www.iso.org/obp/ui/#iso:code:3166:SY"
+    ],
+    "notes": "Recommendation: uses false, required AC, layout %N%n%O%n%A%n%D%n%C. The 2004 sheet says a postcode system was being developed and shows '0100 DAMASCUS' plus district '06/Saroufa'; the Sep 2025 UPU list still says Syria does not require postal codes. Do not add a 4-digit pattern. Keep the district in %D or in the street. ISO has 14 governorates; the sample does not name one."
+  },
+  "TK": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tklEn.pdf",
+      "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+    ],
+    "notes": "UPU says see New Zealand and lists Atafu, Fakaofo and Nukunonu. Tokelau is on the Sep 2025 'does not require postal codes' list and is not in the single-postcode list (Niue's 9974 is). The atoll name is the locality."
+  },
+  "TT": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ttoEn.pdf"
+    ],
+    "notes": "TTPost (UPU 05/2014) puts the six-digit code after the postal district: CHAGUANAS 500234, PIARCO 350462, PORT-OF-SPAIN 150123. No region line."
+  },
+  "UG": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ugaEn.pdf"
+    ],
+    "notes": "UPU 01/2026 prints 10000 KAMPALA, 22321 NABBINGO and 12331 KAMPALA, five digits to the left of the locality. The province is inside the code, not a line. The sheet puts the code on every sample, including P.O. boxes; requiring Z would also match."
+  },
+  "VC": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vctEn.pdf"
+    ],
+    "notes": "UPU 05/2021: VC plus four digits on its own line under the locality. Samples VC0100, VC0120, VC0274 and VC0400 are all on the sheet. Home delivery is limited; mail is mostly via post offices."
+  },
+  "WS": {
+    "agree": true,
+    "field_disagreements": {},
+    "checked_sources": [
+      "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/wsmEn.pdf",
+      "https://samoapost.ws/index.php/special-services/post-code-for-samoa"
+    ],
+    "notes": "UPU 05/2014: 'Manono WS1190', WS plus four digits to the right of the locality. Samoa Post lists WS1190 (Manono Tai) and WS1251 (Faleseela). The district and island are inside the code, not separate lines."
+  }
+}

@@ -1,0 +1,1259 @@
+{
+ "AD": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨེན་ཌོ་ར།"
+ },
+ "AE": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨ་རབ་ཨི་མི་རཊ྄་ཆིག་སྒྲིལ་རྒྱལ་ཁབ།"
+ },
+ "AF": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨཕ་ག་ནི་སྟཱན།"
+ },
+ "AG": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨེན་ཊི་གུ་དང་བྷར་བུ་ཌ།"
+ },
+ "AI": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨང་གུའི་ལ།"
+ },
+ "AL": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨལ་བཱ་ནི་ཡ།"
+ },
+ "AM": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨར་མེ་ནི་ཡ།"
+ },
+ "AO": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨང་གཽ་ལ།"
+ },
+ "AQ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ལྷོ་རྩེའི་མཐའ་གླིང་།"
+ },
+ "AR": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨར་ཇེན་ཊི་ན།"
+ },
+ "AS": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཨ་མེ་རི་ཀའི་ས་མོ་ཨ།"
+ },
+ "AT": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨསྟྲི་ཡ།"
+ },
+ "AU": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨསྟྲེ་ལི་ཡ།"
+ },
+ "AW": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨ་རུ་བ།"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཨོ་ལནྜ་གླིང་ཕྲན།"
+ },
+ "AZ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨཛར་བཡེ་ཇན།"
+ },
+ "BA": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བོསྣི་ཡ་དང་ཧརྫོ་གོ་ཝི་ན།"
+ },
+ "BB": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བཱརྦ་ཌོས྄།"
+ },
+ "BD": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བངྒ་ལ་དེཤ།"
+ },
+ "BE": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བེལ་ཇི་ཡམ།"
+ },
+ "BF": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བརཀི་ན་ཕསོ།"
+ },
+ "BG": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བུལ་ག་རི་ཡ།"
+ },
+ "BH": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བྷཱ་རེན།"
+ },
+ "BI": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བུ་རུན་ཌི།"
+ },
+ "BJ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བཱེ་ནིན།"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "སེནྚ་བར་ཐེ་ལེ་མི།"
+ },
+ "BM": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བར་མུ་ཌ།"
+ },
+ "BN": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བུ་རུ་ནེ།"
+ },
+ "BO": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བོ་ལི་ཝིཡ།"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཀ་རི་བི་ཡན་ཧའོ་ལན།"
+ },
+ "BR": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བ་རཱ་ཛིལ།"
+ },
+ "BS": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བྷཱ་མས྄།"
+ },
+ "BT": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "འབྲུག་ཡུལ།"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "བོ་ཝེ་གླིང་།"
+ },
+ "BW": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བོཙ་ཝ་ན།"
+ },
+ "BY": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བེ་ལུ་རུ་སུ།"
+ },
+ "BZ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བེ་ལིཛ།"
+ },
+ "CA": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཁེ་ན་ཌ།"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཀོ་ཀོས་གླིང་ཕྲན།"
+ },
+ "CD": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཀོང་གོ་ཀིན་ཤ་ས།"
+ },
+ "CF": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཨཕྲི་ཀ་དབུས་མའི་སྤྱི་མཐུན་རྒྱལ་ཁབ།"
+ },
+ "CG": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཀོང་གོ་བྷ་རཱ་ཛ་བིལ།"
+ },
+ "CH": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཧྲུད་ཧྲི།"
+ },
+ "CI": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཀོ་ཊེ་ཌི་ཨི་ཝོ་རེ།"
+ },
+ "CK": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized; CLDR draft had stray space and རྒྱལ་ཁབ suffix; normalized to གླིང་ཕྲན like KY/FK",
+  "provenance": "curated",
+  "value": "ཀུག་གླིང་ཕྲན།"
+ },
+ "CL": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཅི་ལི།"
+ },
+ "CM": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཀ་མེ་རུན།"
+ },
+ "CO": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཀོ་ལོམ་བི་ཡ།"
+ },
+ "CR": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཀོ་ས྄ཊ་རི་ཀ།"
+ },
+ "CU": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཁྱུའུ་བ།"
+ },
+ "CV": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཁེབ་ཝར་ཌེ།"
+ },
+ "CW": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཀྱུ་ར་སོ།"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཁ་རིསྟ་མཱས་གླིང་།"
+ },
+ "CY": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སཱཡེ་པ་རས྄།"
+ },
+ "CZ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཅཻག་སྤྱི་མཐུན་རྒྱལ་ཁབ།"
+ },
+ "DJ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཛི་བུ་ཏི།"
+ },
+ "DK": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཌེན་མཱརྐ།"
+ },
+ "DM": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཌོ་མིན་ནི་ཀ།"
+ },
+ "DO": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཌོ་མི་ནི་ཀན་སྤྱི་མཐུན་རྒྱལ་ཁབ།"
+ },
+ "DZ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨལ་ཇི་རི་ཡ།"
+ },
+ "EC": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨི་ཁྭ་ཌོར།"
+ },
+ "EE": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨིསྟོ་ནི་ཡ།"
+ },
+ "EG": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨི་ཇིབྚ།"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ནུབ་ཕྱོགས་ས་ཧཱ་ར།"
+ },
+ "ER": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨེ་རི་ཏྲེ་ཨ།"
+ },
+ "ES": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སི་པན།"
+ },
+ "ET": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨི་ཐིའོ་པི་ཡ།"
+ },
+ "FI": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཕིན་ལན྄ཌ།"
+ },
+ "FJ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཕི་ཇི།"
+ },
+ "FK": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཕལྐ་ལནྜ་གླིང་ཕྲན།"
+ },
+ "FM": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "མའི་ཀྲོ་ནི་ཤི་ཡ།"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཕཱ་རོ་གླིང་ཕྲན།"
+ },
+ "FR": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཕ་རཱན་སི།"
+ },
+ "GA": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "གེ་བཽན།"
+ },
+ "GD": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "གྷ་རི་ན་ཌ།"
+ },
+ "GE": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཇོར་ཇི་ཡ།"
+ },
+ "GF": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཕ་རཱན་སིའི་གྷི་ཡ་ན།"
+ },
+ "GG": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "གྷརན་སི།"
+ },
+ "GH": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "གྷ་ན།"
+ },
+ "GI": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཇིབ་རཱལ་ཊར།"
+ },
+ "GL": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "གྲིན་ལནྜ།"
+ },
+ "GM": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "གྷམ་བི་ཡ།"
+ },
+ "GN": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "གྷི་ནི་ཡ།"
+ },
+ "GP": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "གྷོ་ཌེ་ལུབ།"
+ },
+ "GQ": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཆ་སྙོམས་གྷི་ནི་ཡ།"
+ },
+ "GR": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "གྷི་རཱི་སི།"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ལྷོ་ཇོར་ཇི་ཡ་དང་ལྷོ་སེནྜ་ཝིཆ་གླིང་ཕྲན།"
+ },
+ "GT": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "གྷོ་ཊེ་མ་ལ།"
+ },
+ "GU": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "གུ་ཨམ།"
+ },
+ "GW": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "གྷི་ནི་ཡ་བིས྄་སོ།"
+ },
+ "GY": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "གྷུ་ཡཱ་ན།"
+ },
+ "HK": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཧོང་ཀོང་།"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཧརཌ་གླིང་དང་མེཀ་ཌོ་ནལཌ་གླིང་ཕྲན།"
+ },
+ "HN": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཧོན་དུ་རས྄།"
+ },
+ "HR": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཀུརོ་ཤི་ཡ།"
+ },
+ "HT": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཧེ་ཏི།"
+ },
+ "HU": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཧངྒ་རི།"
+ },
+ "ID": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨིན་ཌོ་ནེ་ཤི་ཡ།"
+ },
+ "IE": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨ་ཡར་ལནཌ།"
+ },
+ "IL": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨི་ཛ྄་རེལ།"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "མཱན་གླིང་།"
+ },
+ "IO": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "དབྱིན་ཇིའི་རྒྱ་གར་རྒྱ་མཚོའི་ས་ཁོངས།"
+ },
+ "IQ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨི་རག།"
+ },
+ "IR": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨི་རཱན།"
+ },
+ "IS": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨ་ཨི་སི་ལནད།"
+ },
+ "JE": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཇར་སི།"
+ },
+ "JM": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཛ་མེ་ཀ།"
+ },
+ "JO": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཇོར་ཌན།"
+ },
+ "KE": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཁེན་ཉི་ཡ།"
+ },
+ "KG": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཁིར་གིཛ་སྟཱན།"
+ },
+ "KH": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཀམ་བོ་ཌི་ཡ།"
+ },
+ "KI": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཀི་རི་བཱ་ཏི།"
+ },
+ "KM": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཀོ་མོ་རོས།"
+ },
+ "KN": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སེནྚ་ཀིཊྚས྄་དང་ནེ་བིས྄།"
+ },
+ "KP": {
+  "provenance": "curated",
+  "value": "བྱང་ཀོ་རི་ཡ།"
+ },
+ "KW": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized; CLDR draft had རྒྱལ་ཁབ suffix; dropped for consistency with published bo names",
+  "provenance": "curated",
+  "value": "ཀུ་ཝེད།"
+ },
+ "KY": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཁེ་མེན་གླིང་ཕྲན།"
+ },
+ "KZ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཁ་ཛཱག་སྟཱན།"
+ },
+ "LA": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ལཱ་འོས།"
+ },
+ "LB": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ལེབ་ནོན།"
+ },
+ "LC": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སེནྚ་ལུ་ཤི་ཡ།"
+ },
+ "LI": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ལེག་ཏེན་ཚིན།"
+ },
+ "LK": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཤྲཱི་ལངྐ།"
+ },
+ "LR": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ལི་བེ་རི་ཡ།"
+ },
+ "LS": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ལེ་སོ་ཐོ།"
+ },
+ "LT": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ལི་ཐུ་ཨེ་ནི་ཡ།"
+ },
+ "LU": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ལཀ་ཛམ་བོརྒ།"
+ },
+ "LV": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ལཏ་བི་ཡ།"
+ },
+ "LY": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ལི་བི་ཡ།"
+ },
+ "MA": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མོ་རོ་ཀྐོ།"
+ },
+ "MC": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མོ་ན་ཀོ།"
+ },
+ "MD": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "མོལ་ཌོ་ཝ།"
+ },
+ "ME": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "མོན་ཊེ་ནེ་གྷྲོ།"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "སེནྚ་མཱར་ཊིན།"
+ },
+ "MG": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མ་དཱ་གྷསྐཱར།"
+ },
+ "MH": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མཱར་ཤལ་གླིང་ཕྲན།"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "བྱང་མ་སེ་ཌོ་ནི་ཡ།"
+ },
+ "ML": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མ་ལི།"
+ },
+ "MM": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "འབར་མ།"
+ },
+ "MN": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སོག་ཡུལ།"
+ },
+ "MO": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མེ་ཀའོ།"
+ },
+ "MP": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "བྱང་མ་རི་ཡ་ན་གླིང་ཕྲན།"
+ },
+ "MQ": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "མཱར་ཊི་ནིཀ།"
+ },
+ "MR": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མཽ་རི་ཏ་ནི་ཡ།"
+ },
+ "MS": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "མོནཊ་སེ་རཊ།"
+ },
+ "MT": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མལ་ཊ།"
+ },
+ "MU": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མཽ་རིཤས྄།"
+ },
+ "MV": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མལ་དྭིབ།"
+ },
+ "MW": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མཱ་ལཱ་ཝི།"
+ },
+ "MX": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མེཀ་སི་ཀོ།"
+ },
+ "MY": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མ་ལེ་ཤི་ཡ།"
+ },
+ "MZ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "མོ་ཛམ་བིག།"
+ },
+ "NA": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ན་མི་བི་ཡ།"
+ },
+ "NC": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ནིའུ་ཀ་ལེ་ཌོ་ནི་ཡ།"
+ },
+ "NE": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ནའི་ཇར།"
+ },
+ "NF": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ནོར་ཕོལཀ་གླིང་།"
+ },
+ "NG": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ནཱའི་ཇི་རི་ཡ།"
+ },
+ "NI": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ནི་ཀ་ར་གུ་ཨ།"
+ },
+ "NL": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཧའོ་ལན།"
+ },
+ "NO": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ནོར་ཝེ།"
+ },
+ "NR": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ནཽ་རུ།"
+ },
+ "NU": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ནིའུ་ཝ།"
+ },
+ "NZ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ནིའུ་ཛི་ལན྄ཌ།"
+ },
+ "OM": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨོ་མན།"
+ },
+ "PA": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "པ་ནཱ་མ།"
+ },
+ "PE": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "པེ་རུ།"
+ },
+ "PF": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཕ་རཱན་སིའི་པོ་ལི་ནི་ཤི་ཡ།"
+ },
+ "PG": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "པ་པུ་ཨ་ནིའུ་གྷི་ནི།"
+ },
+ "PH": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཕི་ལི་པིནས྄།"
+ },
+ "PK": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "པཀི་སྟཱན།"
+ },
+ "PL": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "པོ་ལནྜ།"
+ },
+ "PM": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "སེནྚ་པི་ཡེར་དང་མི་ཀེ་ལོན།"
+ },
+ "PN": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "པིཊ་ཀེརན་གླིང་ཕྲན།"
+ },
+ "PR": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "པོར་ཊོ་རི་ཀོ།"
+ },
+ "PS": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "པ་ལེ་སི་ཊི་ནའི་ས་ཁོངས།"
+ },
+ "PT": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "པོར་ཏུ་གྷལ།"
+ },
+ "PW": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "པ་ལཽ།"
+ },
+ "PY": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "པཱ་ར་གེ།"
+ },
+ "QA": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཀ་ཏཱར།"
+ },
+ "RE": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "རི་ཡུ་ནི་ཡོན།"
+ },
+ "RO": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "རོ་མཱ་ནིཡ།"
+ },
+ "RS": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སེར་བི་ཡ།"
+ },
+ "RW": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "རུ་ཝན་ཌ།"
+ },
+ "SA": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སཽ་དྷི་ཨ་རཱ་བི་ཡ།"
+ },
+ "SB": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སོ་ལོ་མོན་གླིང་ཕྲན།"
+ },
+ "SC": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སཱ་ཤཻལ།"
+ },
+ "SD": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སུ་དཱན།"
+ },
+ "SE": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཧྲུའི་ཏན།"
+ },
+ "SG": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སིངྒ་པུར།"
+ },
+ "SH": {
+  "confidence": "low",
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized; name covers St. Helena only (as in CLDR draft); Ascension/Tristan da Cunha not named",
+  "provenance": "curated",
+  "value": "སེནྚ་ཧེ་ལི་ན།"
+ },
+ "SI": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ས་ལཽ་ཝེ་ནི་ཡ།"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "སྭལ་བཱརཌ་དང་ཡཱན་མ་ཡེན།"
+ },
+ "SK": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ས་ལཽ་ཝཀྱ།"
+ },
+ "SL": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སེ་ཡར་ར་ལིའོན།"
+ },
+ "SM": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སན་མེ་རི་ནོ།"
+ },
+ "SN": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སེ་ནི་གྷལ།"
+ },
+ "SO": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སོ་མཱལི་ཡ།"
+ },
+ "SR": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སུ་རི་ནཱམ།"
+ },
+ "SS": {
+  "provenance": "curated",
+  "value": "ལྷོ་སུ་དཱན།"
+ },
+ "ST": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ས་འོ་ཏོད་མད་དང་པ྄རིན་སི་པེ།"
+ },
+ "SV": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨེལ་སཱལ་ཝ་ཌོར།"
+ },
+ "SX": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "སིནཊ་མཱར་ཊེན།"
+ },
+ "SY": {
+  "provenance": "curated",
+  "value": "སི་རི་ཡ།"
+ },
+ "SZ": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཨེ་སི་ཝ་ཏི་ནི།"
+ },
+ "TC": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཊརཀས་དང་ཁེ་ཀོས་གླིང་ཕྲན།"
+ },
+ "TD": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཅཻཌ།"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཕ་རཱན་སིའི་ལྷོ་ཕྱོགས་ས་ཁོངས།"
+ },
+ "TG": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཊོ་གོ།"
+ },
+ "TH": {
+  "provenance": "curated",
+  "value": "ཐའི་ལནྜ།"
+ },
+ "TJ": {
+  "provenance": "curated",
+  "value": "ཏ་ཇིག་སྟཱན།"
+ },
+ "TK": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཊོ་ཀེ་ལའུ།"
+ },
+ "TL": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཤར་ཏི་མོར།"
+ },
+ "TM": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཏུརཀ་མེ་ནི་སྟཱན།"
+ },
+ "TN": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཊུ་ནི་ཤི་ཡ།"
+ },
+ "TO": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཊོང་ག།"
+ },
+ "TR": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཏུརཀི།"
+ },
+ "TT": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཊྲི་ནི་ཌཱཌ་དང་ཊོ་བ་གོ།"
+ },
+ "TV": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཐུ་ཝ་ལུ།"
+ },
+ "TW": {
+  "provenance": "curated",
+  "value": "ཐའེ་ཝན།"
+ },
+ "TZ": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཊཱན་ཛཱ་ནི་ཡ།"
+ },
+ "UA": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཡུ་ཀྲན།"
+ },
+ "UG": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཡུ་གན་ཌ།"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཨ་མེ་རི་ཀའི་ཐག་རིང་གླིང་ཕྲན།"
+ },
+ "UY": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨུ་རུ་གྷེ།"
+ },
+ "UZ": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཨུཛ་བེ་ཀིསྟཱན།"
+ },
+ "VA": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཝེ་ཊི་ཀན།"
+ },
+ "VC": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "སེནྚ་ཝིན་སན་དང་གྷིརིན་ཌིན།"
+ },
+ "VE": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཝེ་ནི་ཛུའེ་ལ།"
+ },
+ "VG": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "དབྱིན་ཇིའི་བར་ཇིན་གླིང་ཕྲན།"
+ },
+ "VI": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཨ་མེ་རི་ཀའི་བར་ཇིན་གླིང་ཕྲན།"
+ },
+ "VN": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "བི་དི་ནམ།"
+ },
+ "VU": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཝ་ནུ་ཨ་ཐུ།"
+ },
+ "WF": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཝལ་ལིས་དང་ཕུ་ཐུ་ན།"
+ },
+ "WS": {
+  "confidence": "low",
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized; CLDR draft ནུ་བ་ས་མོ་འ (\"Western Samoa\"); replaced with current name",
+  "provenance": "curated",
+  "value": "ས་མོ་ཨ།"
+ },
+ "XK": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "ཀོ་སོ་ཝོ།"
+ },
+ "YE": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཡེ་མེན།"
+ },
+ "YT": {
+  "confidence": "low",
+  "note": "phonetic transliteration; no attested Tibetan form found",
+  "provenance": "curated",
+  "value": "མ་ཡོཊ།"
+ },
+ "ZA": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ལྷོ་ཨཕྲི་ཀ།"
+ },
+ "ZM": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཛམ་བི་ཡ།"
+ },
+ "ZW": {
+  "note": "from CLDR XML bo draft=\"unconfirmed\" value, normalized",
+  "provenance": "curated",
+  "value": "ཛིམ་བྷཱ་བེ།"
+ }
+}

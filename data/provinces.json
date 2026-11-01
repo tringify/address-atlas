@@ -1,0 +1,10397 @@
+{
+ "AE-AJ": {
+  "aliases": [],
+  "country": "AE",
+  "latin": "Ajman",
+  "local": "عجمان"
+ },
+ "AE-AZ": {
+  "aliases": [],
+  "country": "AE",
+  "latin": "Abu Dhabi",
+  "local": "أبو ظبي"
+ },
+ "AE-DU": {
+  "aliases": [],
+  "country": "AE",
+  "latin": "Dubai",
+  "local": "دبي"
+ },
+ "AE-FU": {
+  "aliases": [],
+  "country": "AE",
+  "latin": "Fujairah",
+  "local": "الفجيرة"
+ },
+ "AE-RK": {
+  "aliases": [],
+  "country": "AE",
+  "latin": "Ras al Khaimah",
+  "local": "رأس الخيمة"
+ },
+ "AE-SH": {
+  "aliases": [],
+  "country": "AE",
+  "latin": "Sharjah",
+  "local": "الشارقة"
+ },
+ "AE-UQ": {
+  "aliases": [],
+  "country": "AE",
+  "latin": "Umm Al Quwain",
+  "local": "ام القيوين"
+ },
+ "AF-BAL": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Balkh",
+  "local": "بلخ ولايت"
+ },
+ "AF-BAM": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Bamyan",
+  "local": "باميان ولايت"
+ },
+ "AF-BDG": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Badghis",
+  "local": "بادغيس ولايت"
+ },
+ "AF-BDS": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Badakhshan",
+  "local": "بدخشان ولايت"
+ },
+ "AF-BGL": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Baghlan",
+  "local": "بغلان ولايت"
+ },
+ "AF-DAY": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Daykundi",
+  "local": "دايکندي"
+ },
+ "AF-FRA": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Farah",
+  "local": "فراه ولايت"
+ },
+ "AF-FYB": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Faryab",
+  "local": "فارياب ولايت"
+ },
+ "AF-GHA": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Ghazni",
+  "local": "غزني ولايت"
+ },
+ "AF-GHO": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Ghor",
+  "local": "غور ولايت"
+ },
+ "AF-HEL": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Helmand",
+  "local": "هلمند ولايت"
+ },
+ "AF-HER": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Herat",
+  "local": "هرات ولايت"
+ },
+ "AF-JOW": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Jowzjan",
+  "local": "جوزجان ولايت"
+ },
+ "AF-KAB": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Kabul",
+  "local": "کابل ولايت"
+ },
+ "AF-KAN": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Kandahar",
+  "local": "کندهار ولايت"
+ },
+ "AF-KAP": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Kapisa",
+  "local": "کاپيسا ولايت"
+ },
+ "AF-KDZ": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Kunduz",
+  "local": "کندوز ولايت"
+ },
+ "AF-KHO": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Khost",
+  "local": "خوست ولايت"
+ },
+ "AF-KNR": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Kunar",
+  "local": "کونړ ولايت"
+ },
+ "AF-LAG": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Laghman",
+  "local": "لغمان ولايت"
+ },
+ "AF-LOG": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Logar",
+  "local": "لوګر ولايت"
+ },
+ "AF-NAN": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Nangarhar",
+  "local": "ننګرهار ولايت"
+ },
+ "AF-NIM": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Nimroz",
+  "local": "نيمروز ولايت"
+ },
+ "AF-NUR": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Nuristan",
+  "local": "نورستان ولايت"
+ },
+ "AF-PAN": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Panjshayr",
+  "local": "پنجشیر"
+ },
+ "AF-PAR": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Parwan",
+  "local": "پروان ولايت"
+ },
+ "AF-PIA": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Paktiya",
+  "local": "پکتيا ولايت"
+ },
+ "AF-PKA": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Paktika",
+  "local": "پکتيکا ولايت"
+ },
+ "AF-SAM": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Samangan",
+  "local": "سمنګان ولايت"
+ },
+ "AF-SAR": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Sar-e Pul",
+  "local": "سرپل ولايت"
+ },
+ "AF-TAK": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Takhar",
+  "local": "تخار ولايت"
+ },
+ "AF-URU": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Uruzgan",
+  "local": "اروزگان ولايت"
+ },
+ "AF-WAR": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Wardak",
+  "local": "ميدان وردګ ولايت"
+ },
+ "AF-ZAB": {
+  "aliases": [],
+  "country": "AF",
+  "latin": "Zabul",
+  "local": "زابل ولايت"
+ },
+ "AM-AG": {
+  "aliases": [],
+  "country": "AM",
+  "latin": "Aragatsotn",
+  "local": "Արագածոտն"
+ },
+ "AM-AR": {
+  "aliases": [],
+  "country": "AM",
+  "latin": "Ararat",
+  "local": "Արարատ"
+ },
+ "AM-AV": {
+  "aliases": [],
+  "country": "AM",
+  "latin": "Armavir",
+  "local": "Արմավիր"
+ },
+ "AM-ER": {
+  "aliases": [],
+  "country": "AM",
+  "latin": "Yerevan",
+  "local": "Երևան"
+ },
+ "AM-GR": {
+  "aliases": [],
+  "country": "AM",
+  "latin": "Gegharkunik",
+  "local": "Գեղարքունիք"
+ },
+ "AM-KT": {
+  "aliases": [],
+  "country": "AM",
+  "latin": "Kotayk",
+  "local": "Կոտայք"
+ },
+ "AM-LO": {
+  "aliases": [],
+  "country": "AM",
+  "latin": "Lori",
+  "local": "Լոռի"
+ },
+ "AM-SH": {
+  "aliases": [],
+  "country": "AM",
+  "latin": "Shirak",
+  "local": "Շիրակ"
+ },
+ "AM-SU": {
+  "aliases": [],
+  "country": "AM",
+  "latin": "Syunik",
+  "local": "Սյունիք"
+ },
+ "AM-TV": {
+  "aliases": [],
+  "country": "AM",
+  "latin": "Tavush",
+  "local": "Տավուշ"
+ },
+ "AM-VD": {
+  "aliases": [],
+  "country": "AM",
+  "latin": "Vayots Dzor",
+  "local": "Վայոց ձոր"
+ },
+ "AR-A": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Salta",
+  "local": "Salta"
+ },
+ "AR-B": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Buenos Aires",
+  "local": "Buenos Aires"
+ },
+ "AR-C": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Ciudad Autónoma de Buenos Aires",
+  "local": "Ciudad Autónoma de Buenos Aires"
+ },
+ "AR-D": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "San Luis",
+  "local": "San Luis"
+ },
+ "AR-E": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Entre Ríos",
+  "local": "Entre Ríos"
+ },
+ "AR-F": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "La Rioja",
+  "local": "La Rioja"
+ },
+ "AR-G": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Santiago del Estero",
+  "local": "Santiago del Estero"
+ },
+ "AR-H": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Chaco",
+  "local": "Chaco"
+ },
+ "AR-J": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "San Juan",
+  "local": "San Juan"
+ },
+ "AR-K": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Catamarca",
+  "local": "Catamarca"
+ },
+ "AR-L": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "La Pampa",
+  "local": "La Pampa"
+ },
+ "AR-M": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Mendoza",
+  "local": "Mendoza"
+ },
+ "AR-N": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Misiones",
+  "local": "Misiones"
+ },
+ "AR-P": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Formosa",
+  "local": "Formosa"
+ },
+ "AR-Q": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Neuquén",
+  "local": "Neuquén"
+ },
+ "AR-R": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Río Negro",
+  "local": "Río Negro"
+ },
+ "AR-S": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Santa Fe",
+  "local": "Santa Fe"
+ },
+ "AR-T": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Tucumán",
+  "local": "Tucumán"
+ },
+ "AR-U": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Chubut",
+  "local": "Chubut"
+ },
+ "AR-V": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Tierra del Fuego",
+  "local": "Tierra del Fuego"
+ },
+ "AR-W": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Corrientes",
+  "local": "Corrientes"
+ },
+ "AR-X": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Córdoba",
+  "local": "Córdoba"
+ },
+ "AR-Y": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Jujuy",
+  "local": "Jujuy"
+ },
+ "AR-Z": {
+  "aliases": [],
+  "country": "AR",
+  "latin": "Santa Cruz",
+  "local": "Santa Cruz"
+ },
+ "AU-ACT": {
+  "aliases": [],
+  "country": "AU",
+  "latin": "Australian Capital Territory",
+  "local": "Australian Capital Territory"
+ },
+ "AU-JBT": {
+  "aliases": [],
+  "country": "AU",
+  "latin": "Jervis Bay Territory",
+  "local": "Jervis Bay Territory"
+ },
+ "AU-NSW": {
+  "aliases": [],
+  "country": "AU",
+  "latin": "New South Wales",
+  "local": "New South Wales"
+ },
+ "AU-NT": {
+  "aliases": [],
+  "country": "AU",
+  "latin": "Northern Territory",
+  "local": "Northern Territory"
+ },
+ "AU-QLD": {
+  "aliases": [],
+  "country": "AU",
+  "latin": "Queensland",
+  "local": "Queensland"
+ },
+ "AU-SA": {
+  "aliases": [],
+  "country": "AU",
+  "latin": "South Australia",
+  "local": "South Australia"
+ },
+ "AU-TAS": {
+  "aliases": [],
+  "country": "AU",
+  "latin": "Tasmania",
+  "local": "Tasmania"
+ },
+ "AU-VIC": {
+  "aliases": [],
+  "country": "AU",
+  "latin": "Victoria",
+  "local": "Victoria"
+ },
+ "AU-WA": {
+  "aliases": [],
+  "country": "AU",
+  "latin": "Western Australia",
+  "local": "Western Australia"
+ },
+ "BB-01": {
+  "aliases": [],
+  "country": "BB",
+  "latin": "Christ Church",
+  "local": "Christ Church"
+ },
+ "BB-02": {
+  "aliases": [],
+  "country": "BB",
+  "latin": "Saint Andrew",
+  "local": "Saint Andrew"
+ },
+ "BB-03": {
+  "aliases": [],
+  "country": "BB",
+  "latin": "Saint George",
+  "local": "Saint George"
+ },
+ "BB-04": {
+  "aliases": [],
+  "country": "BB",
+  "latin": "Saint James",
+  "local": "Saint James"
+ },
+ "BB-05": {
+  "aliases": [],
+  "country": "BB",
+  "latin": "Saint John",
+  "local": "Saint John"
+ },
+ "BB-06": {
+  "aliases": [],
+  "country": "BB",
+  "latin": "Saint Joseph",
+  "local": "Saint Joseph"
+ },
+ "BB-07": {
+  "aliases": [],
+  "country": "BB",
+  "latin": "Saint Lucy",
+  "local": "Saint Lucy"
+ },
+ "BB-08": {
+  "aliases": [],
+  "country": "BB",
+  "latin": "Saint Michael",
+  "local": "Saint Michael"
+ },
+ "BB-09": {
+  "aliases": [],
+  "country": "BB",
+  "latin": "Saint Peter",
+  "local": "Saint Peter"
+ },
+ "BB-10": {
+  "aliases": [],
+  "country": "BB",
+  "latin": "Saint Philip",
+  "local": "Saint Philip"
+ },
+ "BB-11": {
+  "aliases": [],
+  "country": "BB",
+  "latin": "Saint Thomas",
+  "local": "Saint Thomas"
+ },
+ "BI-BUHUMUZA": {
+  "aliases": [
+   "BI-CA",
+   "BI-MY",
+   "BI-RY"
+  ],
+  "country": "BI",
+  "latin": "Buhumuza",
+  "local": "Buhumuza"
+ },
+ "BI-BUJUMBURA": {
+  "aliases": [
+   "BI-BB",
+   "BI-BM",
+   "BI-BL",
+   "BI-CI"
+  ],
+  "country": "BI",
+  "latin": "Bujumbura",
+  "local": "Bujumbura"
+ },
+ "BI-BURUNGA": {
+  "aliases": [
+   "BI-BR",
+   "BI-MA",
+   "BI-RT"
+  ],
+  "country": "BI",
+  "latin": "Burunga",
+  "local": "Burunga"
+ },
+ "BI-BUTANYERERA": {
+  "aliases": [
+   "BI-KY",
+   "BI-KI",
+   "BI-NG"
+  ],
+  "country": "BI",
+  "latin": "Butanyerera",
+  "local": "Butanyerera"
+ },
+ "BI-GITEGA": {
+  "aliases": [
+   "BI-GI",
+   "BI-KR",
+   "BI-MW"
+  ],
+  "country": "BI",
+  "latin": "Gitega",
+  "local": "Gitega"
+ },
+ "BR-AC": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Acre",
+  "local": "Acre"
+ },
+ "BR-AL": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Alagoas",
+  "local": "Alagoas"
+ },
+ "BR-AM": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Amazonas",
+  "local": "Amazonas"
+ },
+ "BR-AP": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Amapá",
+  "local": "Amapá"
+ },
+ "BR-BA": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Bahia",
+  "local": "Bahia"
+ },
+ "BR-CE": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Ceará",
+  "local": "Ceará"
+ },
+ "BR-DF": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Distrito Federal",
+  "local": "Distrito Federal"
+ },
+ "BR-ES": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Espírito Santo",
+  "local": "Espírito Santo"
+ },
+ "BR-GO": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Goiás",
+  "local": "Goiás"
+ },
+ "BR-MA": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Maranhão",
+  "local": "Maranhão"
+ },
+ "BR-MG": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Minas Gerais",
+  "local": "Minas Gerais"
+ },
+ "BR-MS": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Mato Grosso do Sul",
+  "local": "Mato Grosso do Sul"
+ },
+ "BR-MT": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Mato Grosso",
+  "local": "Mato Grosso"
+ },
+ "BR-PA": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Pará",
+  "local": "Pará"
+ },
+ "BR-PB": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Paraíba",
+  "local": "Paraíba"
+ },
+ "BR-PE": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Pernambuco",
+  "local": "Pernambuco"
+ },
+ "BR-PI": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Piauí",
+  "local": "Piauí"
+ },
+ "BR-PR": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Paraná",
+  "local": "Paraná"
+ },
+ "BR-RJ": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Rio de Janeiro",
+  "local": "Rio de Janeiro"
+ },
+ "BR-RN": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Rio Grande do Norte",
+  "local": "Rio Grande do Norte"
+ },
+ "BR-RO": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Rondônia",
+  "local": "Rondônia"
+ },
+ "BR-RR": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Roraima",
+  "local": "Roraima"
+ },
+ "BR-RS": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Rio Grande do Sul",
+  "local": "Rio Grande do Sul"
+ },
+ "BR-SC": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Santa Catarina",
+  "local": "Santa Catarina"
+ },
+ "BR-SE": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Sergipe",
+  "local": "Sergipe"
+ },
+ "BR-SP": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "São Paulo",
+  "local": "São Paulo"
+ },
+ "BR-TO": {
+  "aliases": [],
+  "country": "BR",
+  "latin": "Tocantins",
+  "local": "Tocantins"
+ },
+ "BS-ABACO": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Abaco",
+  "local": "Abaco"
+ },
+ "BS-AK": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Acklins",
+  "local": "Acklins"
+ },
+ "BS-ANDROS": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Andros",
+  "local": "Andros"
+ },
+ "BS-BI": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Bimini",
+  "local": "Bimini"
+ },
+ "BS-BY": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Berry Islands",
+  "local": "Berry Islands"
+ },
+ "BS-CI": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Cat Island",
+  "local": "Cat Island"
+ },
+ "BS-CK": {
+  "aliases": [
+   "BS-CROOKED_ISLAND"
+  ],
+  "country": "BS",
+  "latin": "Crooked Island and Long Cay",
+  "local": "Crooked Island and Long Cay"
+ },
+ "BS-ELEUTHERA": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Eleuthera",
+  "local": "Eleuthera"
+ },
+ "BS-EX": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Exuma",
+  "local": "Exuma"
+ },
+ "BS-GRAND_BAHAMA": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Grand Bahama",
+  "local": "Grand Bahama"
+ },
+ "BS-HI": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Harbour Island",
+  "local": "Harbour Island"
+ },
+ "BS-IN": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Inagua",
+  "local": "Inagua"
+ },
+ "BS-LI": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Long Island",
+  "local": "Long Island"
+ },
+ "BS-MG": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Mayaguana",
+  "local": "Mayaguana"
+ },
+ "BS-NP": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "New Providence",
+  "local": "New Providence"
+ },
+ "BS-RC": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Rum Cay",
+  "local": "Rum Cay"
+ },
+ "BS-RI": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Ragged Island",
+  "local": "Ragged Island"
+ },
+ "BS-SS": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "San Salvador",
+  "local": "San Salvador"
+ },
+ "BS-SW": {
+  "aliases": [],
+  "country": "BS",
+  "latin": "Spanish Wells",
+  "local": "Spanish Wells"
+ },
+ "BY-BR": {
+  "aliases": [],
+  "country": "BY",
+  "latin": "Bresckaja voblasć",
+  "local": "Брэсцкая вобласць"
+ },
+ "BY-HM": {
+  "aliases": [],
+  "country": "BY",
+  "latin": "Horad Minsk",
+  "local": "горад Мінск"
+ },
+ "BY-HO": {
+  "aliases": [],
+  "country": "BY",
+  "latin": "Homieĺskaja voblasć",
+  "local": "Гомельская вобласць"
+ },
+ "BY-HR": {
+  "aliases": [],
+  "country": "BY",
+  "latin": "Hrodzienskaja voblasć",
+  "local": "Гродзенская вобласць"
+ },
+ "BY-MA": {
+  "aliases": [],
+  "country": "BY",
+  "latin": "Mahilioŭskaja voblasć",
+  "local": "Магілёўская вобласць"
+ },
+ "BY-MI": {
+  "aliases": [],
+  "country": "BY",
+  "latin": "Minskaja voblasć",
+  "local": "Мінская вобласць"
+ },
+ "BY-VI": {
+  "aliases": [],
+  "country": "BY",
+  "latin": "Viciebskaja voblasć",
+  "local": "Віцебская вобласць"
+ },
+ "CA-AB": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "Alberta",
+  "local": "Alberta"
+ },
+ "CA-BC": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "British Columbia",
+  "local": "British Columbia"
+ },
+ "CA-MB": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "Manitoba",
+  "local": "Manitoba"
+ },
+ "CA-NB": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "New Brunswick",
+  "local": "New Brunswick"
+ },
+ "CA-NL": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "Newfoundland and Labrador",
+  "local": "Newfoundland and Labrador"
+ },
+ "CA-NS": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "Nova Scotia",
+  "local": "Nova Scotia"
+ },
+ "CA-NT": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "Northwest Territories",
+  "local": "Northwest Territories"
+ },
+ "CA-NU": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "Nunavut",
+  "local": "Nunavut"
+ },
+ "CA-ON": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "Ontario",
+  "local": "Ontario"
+ },
+ "CA-PE": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "Prince Edward Island",
+  "local": "Prince Edward Island"
+ },
+ "CA-QC": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "Quebec",
+  "local": "Quebec"
+ },
+ "CA-SK": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "Saskatchewan",
+  "local": "Saskatchewan"
+ },
+ "CA-YT": {
+  "aliases": [],
+  "country": "CA",
+  "latin": "Yukon",
+  "local": "Yukon"
+ },
+ "CD-BC": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Kongo Central",
+  "local": "Kongo Central"
+ },
+ "CD-BU": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Bas-Uélé",
+  "local": "Bas-Uélé"
+ },
+ "CD-EQ": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Équateur",
+  "local": "Équateur"
+ },
+ "CD-HK": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Haut-Katanga",
+  "local": "Haut-Katanga"
+ },
+ "CD-HL": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Haut-Lomami",
+  "local": "Haut-Lomami"
+ },
+ "CD-HU": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Haut-Uélé",
+  "local": "Haut-Uélé"
+ },
+ "CD-IT": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Ituri",
+  "local": "Ituri"
+ },
+ "CD-KC": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Kasaï Central",
+  "local": "Kasaï Central"
+ },
+ "CD-KE": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Kasaï Oriental",
+  "local": "Kasaï Oriental"
+ },
+ "CD-KG": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Kwango",
+  "local": "Kwango"
+ },
+ "CD-KL": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Kwilu",
+  "local": "Kwilu"
+ },
+ "CD-KN": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Kinshasa",
+  "local": "Kinshasa"
+ },
+ "CD-KS": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Kasaï",
+  "local": "Kasaï"
+ },
+ "CD-LO": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Lomami",
+  "local": "Lomami"
+ },
+ "CD-LU": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Lualaba",
+  "local": "Lualaba"
+ },
+ "CD-MA": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Maniema",
+  "local": "Maniema"
+ },
+ "CD-MN": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Mai-Ndombe",
+  "local": "Mai-Ndombe"
+ },
+ "CD-MO": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Mongala",
+  "local": "Mongala"
+ },
+ "CD-NK": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Nord-Kivu",
+  "local": "Nord-Kivu"
+ },
+ "CD-NU": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Nord-Ubangi",
+  "local": "Nord-Ubangi"
+ },
+ "CD-SA": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Sankuru",
+  "local": "Sankuru"
+ },
+ "CD-SK": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Sud-Kivu",
+  "local": "Sud-Kivu"
+ },
+ "CD-SU": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Sud-Ubangi",
+  "local": "Sud-Ubangi"
+ },
+ "CD-TA": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Tanganyika",
+  "local": "Tanganyika"
+ },
+ "CD-TO": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Tshopo",
+  "local": "Tshopo"
+ },
+ "CD-TU": {
+  "aliases": [],
+  "country": "CD",
+  "latin": "Tshuapa",
+  "local": "Tshuapa"
+ },
+ "CL-AI": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Aysén del General Carlos Ibáñez del Campo",
+  "local": "Aysén del General Carlos Ibáñez del Campo"
+ },
+ "CL-AN": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Antofagasta",
+  "local": "Antofagasta"
+ },
+ "CL-AP": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Arica y Parinacota",
+  "local": "Arica y Parinacota"
+ },
+ "CL-AR": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "La Araucanía",
+  "local": "La Araucanía"
+ },
+ "CL-AT": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Atacama",
+  "local": "Atacama"
+ },
+ "CL-BI": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Biobío",
+  "local": "Biobío"
+ },
+ "CL-CO": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Coquimbo",
+  "local": "Coquimbo"
+ },
+ "CL-LI": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Libertador General Bernardo O'Higgins",
+  "local": "Libertador General Bernardo O'Higgins"
+ },
+ "CL-LL": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Los Lagos",
+  "local": "Los Lagos"
+ },
+ "CL-LR": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Los Ríos",
+  "local": "Los Ríos"
+ },
+ "CL-MA": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Magallanes",
+  "local": "Magallanes"
+ },
+ "CL-ML": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Maule",
+  "local": "Maule"
+ },
+ "CL-NB": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Ñuble",
+  "local": "Ñuble"
+ },
+ "CL-RM": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Región Metropolitana de Santiago",
+  "local": "Región Metropolitana de Santiago"
+ },
+ "CL-TA": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Tarapacá",
+  "local": "Tarapacá"
+ },
+ "CL-VS": {
+  "aliases": [],
+  "country": "CL",
+  "latin": "Valparaíso",
+  "local": "Valparaíso"
+ },
+ "CN-AH": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Anhui Sheng",
+  "local": "安徽省"
+ },
+ "CN-BJ": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Beijing Shi",
+  "local": "北京市"
+ },
+ "CN-CQ": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Chongqing Shi",
+  "local": "重庆市"
+ },
+ "CN-FJ": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Fujian Sheng",
+  "local": "福建省"
+ },
+ "CN-GD": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Guangdong Sheng",
+  "local": "广东省"
+ },
+ "CN-GS": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Gansu Sheng",
+  "local": "甘肃省"
+ },
+ "CN-GX": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Guangxi Zhuangzu Zizhiqu",
+  "local": "广西"
+ },
+ "CN-GZ": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Guizhou Sheng",
+  "local": "贵州省"
+ },
+ "CN-HA": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Henan Sheng",
+  "local": "河南省"
+ },
+ "CN-HB": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Hubei Sheng",
+  "local": "湖北省"
+ },
+ "CN-HE": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Hebei Sheng",
+  "local": "河北省"
+ },
+ "CN-HI": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Hainan Sheng",
+  "local": "海南省"
+ },
+ "CN-HL": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Heilongjiang Sheng",
+  "local": "黑龙江省"
+ },
+ "CN-HN": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Hunan Sheng",
+  "local": "湖南省"
+ },
+ "CN-JL": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Jilin Sheng",
+  "local": "吉林省"
+ },
+ "CN-JS": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Jiangsu Sheng",
+  "local": "江苏省"
+ },
+ "CN-JX": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Jiangxi Sheng",
+  "local": "江西省"
+ },
+ "CN-LN": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Liaoning Sheng",
+  "local": "辽宁省"
+ },
+ "CN-NM": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Nei Mongol Zizhiqu",
+  "local": "内蒙古"
+ },
+ "CN-NX": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Ningxia Huizu Zizhiqu",
+  "local": "宁夏"
+ },
+ "CN-QH": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Qinghai Sheng",
+  "local": "青海省"
+ },
+ "CN-SC": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Sichuan Sheng",
+  "local": "四川省"
+ },
+ "CN-SD": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Shandong Sheng",
+  "local": "山东省"
+ },
+ "CN-SH": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Shanghai Shi",
+  "local": "上海市"
+ },
+ "CN-SN": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Shaanxi Sheng",
+  "local": "陕西省"
+ },
+ "CN-SX": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Shanxi Sheng",
+  "local": "山西省"
+ },
+ "CN-TJ": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Tianjin Shi",
+  "local": "天津市"
+ },
+ "CN-XJ": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Xinjiang Uygur Zizhiqu",
+  "local": "新疆"
+ },
+ "CN-XZ": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Xizang Zizhiqu",
+  "local": "西藏"
+ },
+ "CN-YN": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Yunnan Sheng",
+  "local": "云南省"
+ },
+ "CN-ZJ": {
+  "aliases": [],
+  "country": "CN",
+  "latin": "Zhejiang Sheng",
+  "local": "浙江省"
+ },
+ "CO-AMA": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Amazonas",
+  "local": "Amazonas"
+ },
+ "CO-ANT": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Antioquia",
+  "local": "Antioquia"
+ },
+ "CO-ARA": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Arauca",
+  "local": "Arauca"
+ },
+ "CO-ATL": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Atlántico",
+  "local": "Atlántico"
+ },
+ "CO-BOL": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Bolívar",
+  "local": "Bolívar"
+ },
+ "CO-BOY": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Boyacá",
+  "local": "Boyacá"
+ },
+ "CO-CAL": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Caldas",
+  "local": "Caldas"
+ },
+ "CO-CAQ": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Caquetá",
+  "local": "Caquetá"
+ },
+ "CO-CAS": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Casanare",
+  "local": "Casanare"
+ },
+ "CO-CAU": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Cauca",
+  "local": "Cauca"
+ },
+ "CO-CES": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Cesar",
+  "local": "Cesar"
+ },
+ "CO-CHO": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Chocó",
+  "local": "Chocó"
+ },
+ "CO-COR": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Córdoba",
+  "local": "Córdoba"
+ },
+ "CO-CUN": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Cundinamarca",
+  "local": "Cundinamarca"
+ },
+ "CO-DC": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Distrito Capital de Bogotá",
+  "local": "Distrito Capital de Bogotá"
+ },
+ "CO-GUA": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Guainía",
+  "local": "Guainía"
+ },
+ "CO-GUV": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Guaviare",
+  "local": "Guaviare"
+ },
+ "CO-HUI": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Huila",
+  "local": "Huila"
+ },
+ "CO-LAG": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "La Guajira",
+  "local": "La Guajira"
+ },
+ "CO-MAG": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Magdalena",
+  "local": "Magdalena"
+ },
+ "CO-MET": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Meta",
+  "local": "Meta"
+ },
+ "CO-NAR": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Nariño",
+  "local": "Nariño"
+ },
+ "CO-NSA": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Norte de Santander",
+  "local": "Norte de Santander"
+ },
+ "CO-PUT": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Putumayo",
+  "local": "Putumayo"
+ },
+ "CO-QUI": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Quindío",
+  "local": "Quindío"
+ },
+ "CO-RIS": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Risaralda",
+  "local": "Risaralda"
+ },
+ "CO-SAN": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Santander",
+  "local": "Santander"
+ },
+ "CO-SAP": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "San Andrés, Providencia y Santa Catalina",
+  "local": "San Andrés, Providencia y Santa Catalina"
+ },
+ "CO-SUC": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Sucre",
+  "local": "Sucre"
+ },
+ "CO-TOL": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Tolima",
+  "local": "Tolima"
+ },
+ "CO-VAC": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Valle del Cauca",
+  "local": "Valle del Cauca"
+ },
+ "CO-VAU": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Vaupés",
+  "local": "Vaupés"
+ },
+ "CO-VID": {
+  "aliases": [],
+  "country": "CO",
+  "latin": "Vichada",
+  "local": "Vichada"
+ },
+ "CR-A": {
+  "aliases": [],
+  "country": "CR",
+  "latin": "Alajuela",
+  "local": "Alajuela"
+ },
+ "CR-C": {
+  "aliases": [],
+  "country": "CR",
+  "latin": "Cartago",
+  "local": "Cartago"
+ },
+ "CR-G": {
+  "aliases": [],
+  "country": "CR",
+  "latin": "Guanacaste",
+  "local": "Guanacaste"
+ },
+ "CR-H": {
+  "aliases": [],
+  "country": "CR",
+  "latin": "Heredia",
+  "local": "Heredia"
+ },
+ "CR-L": {
+  "aliases": [],
+  "country": "CR",
+  "latin": "Limón",
+  "local": "Limón"
+ },
+ "CR-P": {
+  "aliases": [],
+  "country": "CR",
+  "latin": "Puntarenas",
+  "local": "Puntarenas"
+ },
+ "CR-SJ": {
+  "aliases": [],
+  "country": "CR",
+  "latin": "San José",
+  "local": "San José"
+ },
+ "CV-BR": {
+  "aliases": [],
+  "country": "CV",
+  "latin": "Brava",
+  "local": "Brava"
+ },
+ "CV-BV": {
+  "aliases": [],
+  "country": "CV",
+  "latin": "Boa Vista",
+  "local": "Boa Vista"
+ },
+ "CV-FOGO": {
+  "aliases": [],
+  "country": "CV",
+  "latin": "Fogo",
+  "local": "Fogo"
+ },
+ "CV-MA": {
+  "aliases": [],
+  "country": "CV",
+  "latin": "Maio",
+  "local": "Maio"
+ },
+ "CV-SANTIAGO": {
+  "aliases": [],
+  "country": "CV",
+  "latin": "Santiago",
+  "local": "Santiago"
+ },
+ "CV-SANTO_ANTAO": {
+  "aliases": [],
+  "country": "CV",
+  "latin": "Santo Antão",
+  "local": "Santo Antão"
+ },
+ "CV-SAO_NICOLAU": {
+  "aliases": [],
+  "country": "CV",
+  "latin": "São Nicolau",
+  "local": "São Nicolau"
+ },
+ "CV-SL": {
+  "aliases": [],
+  "country": "CV",
+  "latin": "Sal",
+  "local": "Sal"
+ },
+ "CV-SV": {
+  "aliases": [],
+  "country": "CV",
+  "latin": "São Vicente",
+  "local": "São Vicente"
+ },
+ "EE-37": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Harjumaa",
+  "local": "Harjumaa"
+ },
+ "EE-39": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Hiiumaa",
+  "local": "Hiiumaa"
+ },
+ "EE-45": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Ida-Virumaa",
+  "local": "Ida-Virumaa"
+ },
+ "EE-50": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Jõgevamaa",
+  "local": "Jõgevamaa"
+ },
+ "EE-52": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Järvamaa",
+  "local": "Järvamaa"
+ },
+ "EE-56": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Läänemaa",
+  "local": "Läänemaa"
+ },
+ "EE-60": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Lääne-Virumaa",
+  "local": "Lääne-Virumaa"
+ },
+ "EE-64": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Põlvamaa",
+  "local": "Põlvamaa"
+ },
+ "EE-68": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Pärnumaa",
+  "local": "Pärnumaa"
+ },
+ "EE-71": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Raplamaa",
+  "local": "Raplamaa"
+ },
+ "EE-74": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Saaremaa",
+  "local": "Saaremaa"
+ },
+ "EE-79": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Tartumaa",
+  "local": "Tartumaa"
+ },
+ "EE-81": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Valgamaa",
+  "local": "Valgamaa"
+ },
+ "EE-84": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Viljandimaa",
+  "local": "Viljandimaa"
+ },
+ "EE-87": {
+  "aliases": [],
+  "country": "EE",
+  "latin": "Võrumaa",
+  "local": "Võrumaa"
+ },
+ "EG-ALX": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Alexandria",
+  "local": "الإسكندرية"
+ },
+ "EG-ASN": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Aswan",
+  "local": "أسوان"
+ },
+ "EG-AST": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Asyut",
+  "local": "أسيوط"
+ },
+ "EG-BA": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Red Sea",
+  "local": "البحر الأحمر"
+ },
+ "EG-BH": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Beheira",
+  "local": "البحيرة"
+ },
+ "EG-BNS": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Beni Suef",
+  "local": "بني سويف"
+ },
+ "EG-C": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Cairo",
+  "local": "القاهرة"
+ },
+ "EG-DK": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Dakahlia",
+  "local": "الدقهلية"
+ },
+ "EG-DT": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Damietta",
+  "local": "دمياط"
+ },
+ "EG-FYM": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Faiyum",
+  "local": "الفيوم"
+ },
+ "EG-GH": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Gharbia",
+  "local": "الغربية"
+ },
+ "EG-GZ": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Giza",
+  "local": "الجيزة"
+ },
+ "EG-IS": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Ismailia",
+  "local": "الإسماعيلية"
+ },
+ "EG-JS": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "South Sinai",
+  "local": "جنوب سيناء"
+ },
+ "EG-KB": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Qalyubia",
+  "local": "القليوبية"
+ },
+ "EG-KFS": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Kafr el-Sheikh",
+  "local": "كفر الشيخ"
+ },
+ "EG-KN": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Qena",
+  "local": "قنا"
+ },
+ "EG-LX": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Luxor",
+  "local": "الأقصر"
+ },
+ "EG-MN": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Minya",
+  "local": "المنيا"
+ },
+ "EG-MNF": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Monufia",
+  "local": "المنوفية"
+ },
+ "EG-MT": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Matrouh",
+  "local": "مطروح"
+ },
+ "EG-PTS": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Port Said",
+  "local": "بورسعيد"
+ },
+ "EG-SHG": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Sohag",
+  "local": "سوهاج"
+ },
+ "EG-SHR": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Al Sharqia",
+  "local": "الشرقية"
+ },
+ "EG-SIN": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "North Sinai",
+  "local": "شمال سيناء"
+ },
+ "EG-SUZ": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "Suez",
+  "local": "السويس"
+ },
+ "EG-WAD": {
+  "aliases": [],
+  "country": "EG",
+  "latin": "New Valley",
+  "local": "الوادي الجديد"
+ },
+ "ES-A": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Alicante",
+  "local": "Alicante"
+ },
+ "ES-AB": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Albacete",
+  "local": "Albacete"
+ },
+ "ES-AL": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Almería",
+  "local": "Almería"
+ },
+ "ES-AV": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Ávila",
+  "local": "Ávila"
+ },
+ "ES-B": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Barcelona [Barcelona]",
+  "local": "Barcelona [Barcelona]"
+ },
+ "ES-BA": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Badajoz",
+  "local": "Badajoz"
+ },
+ "ES-BI": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Bizkaia",
+  "local": "Bizkaia"
+ },
+ "ES-BU": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Burgos",
+  "local": "Burgos"
+ },
+ "ES-C": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "A Coruña [La Coruña]",
+  "local": "A Coruña [La Coruña]"
+ },
+ "ES-CA": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Cádiz",
+  "local": "Cádiz"
+ },
+ "ES-CC": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Cáceres",
+  "local": "Cáceres"
+ },
+ "ES-CE": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Ceuta",
+  "local": "Ceuta"
+ },
+ "ES-CO": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Córdoba",
+  "local": "Córdoba"
+ },
+ "ES-CR": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Ciudad Real",
+  "local": "Ciudad Real"
+ },
+ "ES-CS": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Castellón",
+  "local": "Castellón"
+ },
+ "ES-CU": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Cuenca",
+  "local": "Cuenca"
+ },
+ "ES-GC": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Las Palmas",
+  "local": "Las Palmas"
+ },
+ "ES-GI": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Girona [Gerona]",
+  "local": "Girona [Gerona]"
+ },
+ "ES-GR": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Granada",
+  "local": "Granada"
+ },
+ "ES-GU": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Guadalajara",
+  "local": "Guadalajara"
+ },
+ "ES-H": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Huelva",
+  "local": "Huelva"
+ },
+ "ES-HU": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Huesca",
+  "local": "Huesca"
+ },
+ "ES-J": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Jaén",
+  "local": "Jaén"
+ },
+ "ES-L": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Lleida [Lérida]",
+  "local": "Lleida [Lérida]"
+ },
+ "ES-LE": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "León",
+  "local": "León"
+ },
+ "ES-LO": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "La Rioja",
+  "local": "La Rioja"
+ },
+ "ES-LU": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Lugo [Lugo]",
+  "local": "Lugo [Lugo]"
+ },
+ "ES-M": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Madrid",
+  "local": "Madrid"
+ },
+ "ES-MA": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Málaga",
+  "local": "Málaga"
+ },
+ "ES-ML": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Melilla",
+  "local": "Melilla"
+ },
+ "ES-MU": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Murcia",
+  "local": "Murcia"
+ },
+ "ES-NA": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Navarra",
+  "local": "Navarra"
+ },
+ "ES-O": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Asturias",
+  "local": "Asturias"
+ },
+ "ES-OR": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Ourense [Orense]",
+  "local": "Ourense [Orense]"
+ },
+ "ES-P": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Palencia",
+  "local": "Palencia"
+ },
+ "ES-PM": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Illes Balears [Islas Baleares]",
+  "local": "Illes Balears [Islas Baleares]"
+ },
+ "ES-PO": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Pontevedra [Pontevedra]",
+  "local": "Pontevedra [Pontevedra]"
+ },
+ "ES-S": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Cantabria",
+  "local": "Cantabria"
+ },
+ "ES-SA": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Salamanca",
+  "local": "Salamanca"
+ },
+ "ES-SE": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Sevilla",
+  "local": "Sevilla"
+ },
+ "ES-SG": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Segovia",
+  "local": "Segovia"
+ },
+ "ES-SO": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Soria",
+  "local": "Soria"
+ },
+ "ES-SS": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Gipuzkoa",
+  "local": "Gipuzkoa"
+ },
+ "ES-T": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Tarragona [Tarragona]",
+  "local": "Tarragona [Tarragona]"
+ },
+ "ES-TE": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Teruel",
+  "local": "Teruel"
+ },
+ "ES-TF": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Santa Cruz de Tenerife",
+  "local": "Santa Cruz de Tenerife"
+ },
+ "ES-TO": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Toledo",
+  "local": "Toledo"
+ },
+ "ES-V": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Valencia",
+  "local": "Valencia"
+ },
+ "ES-VA": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Valladolid",
+  "local": "Valladolid"
+ },
+ "ES-VI": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Álava",
+  "local": "Álava"
+ },
+ "ES-Z": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Zaragoza",
+  "local": "Zaragoza"
+ },
+ "ES-ZA": {
+  "aliases": [],
+  "country": "ES",
+  "latin": "Zamora",
+  "local": "Zamora"
+ },
+ "FM-KSA": {
+  "aliases": [],
+  "country": "FM",
+  "latin": "Kosrae",
+  "local": "Kosrae"
+ },
+ "FM-PNI": {
+  "aliases": [],
+  "country": "FM",
+  "latin": "Pohnpei",
+  "local": "Pohnpei"
+ },
+ "FM-TRK": {
+  "aliases": [],
+  "country": "FM",
+  "latin": "Chuuk",
+  "local": "Chuuk"
+ },
+ "FM-YAP": {
+  "aliases": [],
+  "country": "FM",
+  "latin": "Yap",
+  "local": "Yap"
+ },
+ "GH-AA": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Greater Accra",
+  "local": "Greater Accra"
+ },
+ "GH-AF": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Ahafo",
+  "local": "Ahafo"
+ },
+ "GH-AH": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Ashanti",
+  "local": "Ashanti"
+ },
+ "GH-BE": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Bono East",
+  "local": "Bono East"
+ },
+ "GH-BO": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Bono",
+  "local": "Bono"
+ },
+ "GH-CP": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Central",
+  "local": "Central"
+ },
+ "GH-EP": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Eastern",
+  "local": "Eastern"
+ },
+ "GH-NE": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "North East",
+  "local": "North East"
+ },
+ "GH-NP": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Northern",
+  "local": "Northern"
+ },
+ "GH-OT": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Oti",
+  "local": "Oti"
+ },
+ "GH-SV": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Savannah",
+  "local": "Savannah"
+ },
+ "GH-TV": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Volta",
+  "local": "Volta"
+ },
+ "GH-UE": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Upper East",
+  "local": "Upper East"
+ },
+ "GH-UW": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Upper West",
+  "local": "Upper West"
+ },
+ "GH-WN": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Western North",
+  "local": "Western North"
+ },
+ "GH-WP": {
+  "aliases": [],
+  "country": "GH",
+  "latin": "Western",
+  "local": "Western"
+ },
+ "HK-HONG_KONG_ISLAND": {
+  "aliases": [],
+  "country": "HK",
+  "latin": "Hong Kong Island",
+  "local": "香港島"
+ },
+ "HK-KOWLOON": {
+  "aliases": [],
+  "country": "HK",
+  "latin": "Kowloon",
+  "local": "九龍"
+ },
+ "HK-NEW_TERRITORIES": {
+  "aliases": [],
+  "country": "HK",
+  "latin": "New Territories",
+  "local": "新界"
+ },
+ "HN-AT": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Atlántida",
+  "local": "Atlántida"
+ },
+ "HN-CH": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Choluteca",
+  "local": "Choluteca"
+ },
+ "HN-CL": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Colón",
+  "local": "Colón"
+ },
+ "HN-CM": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Comayagua",
+  "local": "Comayagua"
+ },
+ "HN-CP": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Copán",
+  "local": "Copán"
+ },
+ "HN-CR": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Cortés",
+  "local": "Cortés"
+ },
+ "HN-EP": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "El Paraíso",
+  "local": "El Paraíso"
+ },
+ "HN-FM": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Francisco Morazán",
+  "local": "Francisco Morazán"
+ },
+ "HN-GD": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Gracias a Dios",
+  "local": "Gracias a Dios"
+ },
+ "HN-IB": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Islas de la Bahía",
+  "local": "Islas de la Bahía"
+ },
+ "HN-IN": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Intibucá",
+  "local": "Intibucá"
+ },
+ "HN-LE": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Lempira",
+  "local": "Lempira"
+ },
+ "HN-LP": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "La Paz",
+  "local": "La Paz"
+ },
+ "HN-OC": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Ocotepeque",
+  "local": "Ocotepeque"
+ },
+ "HN-OL": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Olancho",
+  "local": "Olancho"
+ },
+ "HN-SB": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Santa Bárbara",
+  "local": "Santa Bárbara"
+ },
+ "HN-VA": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Valle",
+  "local": "Valle"
+ },
+ "HN-YO": {
+  "aliases": [],
+  "country": "HN",
+  "latin": "Yoro",
+  "local": "Yoro"
+ },
+ "ID-AC": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Aceh",
+  "local": "Aceh"
+ },
+ "ID-BA": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Bali",
+  "local": "Bali"
+ },
+ "ID-BB": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Kepulauan Bangka Belitung",
+  "local": "Kepulauan Bangka Belitung"
+ },
+ "ID-BE": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Bengkulu",
+  "local": "Bengkulu"
+ },
+ "ID-BT": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Banten",
+  "local": "Banten"
+ },
+ "ID-GO": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Gorontalo",
+  "local": "Gorontalo"
+ },
+ "ID-JA": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Jambi",
+  "local": "Jambi"
+ },
+ "ID-JB": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Jawa Barat",
+  "local": "Jawa Barat"
+ },
+ "ID-JI": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Jawa Timur",
+  "local": "Jawa Timur"
+ },
+ "ID-JK": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "DKI Jakarta",
+  "local": "DKI Jakarta"
+ },
+ "ID-JT": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Jawa Tengah",
+  "local": "Jawa Tengah"
+ },
+ "ID-KB": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Kalimantan Barat",
+  "local": "Kalimantan Barat"
+ },
+ "ID-KI": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Kalimantan Timur",
+  "local": "Kalimantan Timur"
+ },
+ "ID-KR": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Kepulauan Riau",
+  "local": "Kepulauan Riau"
+ },
+ "ID-KS": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Kalimantan Selatan",
+  "local": "Kalimantan Selatan"
+ },
+ "ID-KT": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Kalimantan Tengah",
+  "local": "Kalimantan Tengah"
+ },
+ "ID-KU": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Kalimantan Utara",
+  "local": "Kalimantan Utara"
+ },
+ "ID-LA": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Lampung",
+  "local": "Lampung"
+ },
+ "ID-MA": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Maluku",
+  "local": "Maluku"
+ },
+ "ID-MU": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Maluku Utara",
+  "local": "Maluku Utara"
+ },
+ "ID-NB": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Nusa Tenggara Barat",
+  "local": "Nusa Tenggara Barat"
+ },
+ "ID-NT": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Nusa Tenggara Timur",
+  "local": "Nusa Tenggara Timur"
+ },
+ "ID-PA": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Papua",
+  "local": "Papua"
+ },
+ "ID-PB": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Papua Barat",
+  "local": "Papua Barat"
+ },
+ "ID-PD": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Papua Barat Daya",
+  "local": "Papua Barat Daya"
+ },
+ "ID-PE": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Papua Pegunungan",
+  "local": "Papua Pegunungan"
+ },
+ "ID-PS": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Papua Selatan",
+  "local": "Papua Selatan"
+ },
+ "ID-PT": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Papua Tengah",
+  "local": "Papua Tengah"
+ },
+ "ID-RI": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Riau",
+  "local": "Riau"
+ },
+ "ID-SA": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Sulawesi Utara",
+  "local": "Sulawesi Utara"
+ },
+ "ID-SB": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Sumatera Barat",
+  "local": "Sumatera Barat"
+ },
+ "ID-SG": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Sulawesi Tenggara",
+  "local": "Sulawesi Tenggara"
+ },
+ "ID-SN": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Sulawesi Selatan",
+  "local": "Sulawesi Selatan"
+ },
+ "ID-SR": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Sulawesi Barat",
+  "local": "Sulawesi Barat"
+ },
+ "ID-SS": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Sumatera Selatan",
+  "local": "Sumatera Selatan"
+ },
+ "ID-ST": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Sulawesi Tengah",
+  "local": "Sulawesi Tengah"
+ },
+ "ID-SU": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Sumatera Utara",
+  "local": "Sumatera Utara"
+ },
+ "ID-YO": {
+  "aliases": [],
+  "country": "ID",
+  "latin": "Yogyakarta",
+  "local": "Yogyakarta"
+ },
+ "IE-CE": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Clare",
+  "local": "Clare"
+ },
+ "IE-CN": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Cavan",
+  "local": "Cavan"
+ },
+ "IE-CO": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Cork",
+  "local": "Cork"
+ },
+ "IE-CW": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Carlow",
+  "local": "Carlow"
+ },
+ "IE-D": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Dublin",
+  "local": "Dublin"
+ },
+ "IE-DL": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Donegal",
+  "local": "Donegal"
+ },
+ "IE-G": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Galway",
+  "local": "Galway"
+ },
+ "IE-KE": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Kildare",
+  "local": "Kildare"
+ },
+ "IE-KK": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Kilkenny",
+  "local": "Kilkenny"
+ },
+ "IE-KY": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Kerry",
+  "local": "Kerry"
+ },
+ "IE-LD": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Longford",
+  "local": "Longford"
+ },
+ "IE-LH": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Louth",
+  "local": "Louth"
+ },
+ "IE-LK": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Limerick",
+  "local": "Limerick"
+ },
+ "IE-LM": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Leitrim",
+  "local": "Leitrim"
+ },
+ "IE-LS": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Laois",
+  "local": "Laois"
+ },
+ "IE-MH": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Meath",
+  "local": "Meath"
+ },
+ "IE-MN": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Monaghan",
+  "local": "Monaghan"
+ },
+ "IE-MO": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Mayo",
+  "local": "Mayo"
+ },
+ "IE-OY": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Offaly",
+  "local": "Offaly"
+ },
+ "IE-RN": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Roscommon",
+  "local": "Roscommon"
+ },
+ "IE-SO": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Sligo",
+  "local": "Sligo"
+ },
+ "IE-TA": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Tipperary",
+  "local": "Tipperary"
+ },
+ "IE-WD": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Waterford",
+  "local": "Waterford"
+ },
+ "IE-WH": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Westmeath",
+  "local": "Westmeath"
+ },
+ "IE-WW": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Wicklow",
+  "local": "Wicklow"
+ },
+ "IE-WX": {
+  "aliases": [],
+  "country": "IE",
+  "latin": "Wexford",
+  "local": "Wexford"
+ },
+ "IN-AN": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Andaman and Nicobar Islands",
+  "local": "अण्डमान और निकोबार द्वीपसमूह"
+ },
+ "IN-AP": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Andhra Pradesh",
+  "local": "आन्ध्र प्रदेश"
+ },
+ "IN-AR": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Arunachal Pradesh",
+  "local": "अरुणाचल प्रदेश"
+ },
+ "IN-AS": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Assam",
+  "local": "असम"
+ },
+ "IN-BR": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Bihar",
+  "local": "बिहार"
+ },
+ "IN-CG": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Chhattisgarh",
+  "local": "छत्तीसगढ़"
+ },
+ "IN-CH": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Chandigarh",
+  "local": "चंडीगढ़"
+ },
+ "IN-DH": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Dadra and Nagar Haveli and Daman and Diu",
+  "local": "दादरा और नगर हवेली और दमन और दीव"
+ },
+ "IN-DL": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Delhi",
+  "local": "राष्ट्रीय राजधानी क्षेत्र दिल्ली"
+ },
+ "IN-GA": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Goa",
+  "local": "गोवा"
+ },
+ "IN-GJ": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Gujarat",
+  "local": "गुजरात"
+ },
+ "IN-HP": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Himachal Pradesh",
+  "local": "हिमाचल प्रदेश"
+ },
+ "IN-HR": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Haryana",
+  "local": "हरियाणा"
+ },
+ "IN-JH": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Jharkhand",
+  "local": "झारखण्ड"
+ },
+ "IN-JK": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Jammu and Kashmir",
+  "local": "जम्मू और कश्मीर"
+ },
+ "IN-KA": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Karnataka",
+  "local": "कर्नाटक"
+ },
+ "IN-KL": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Kerala",
+  "local": "केरल"
+ },
+ "IN-LA": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Ladakh",
+  "local": "लद्दाख़"
+ },
+ "IN-LD": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Lakshadweep",
+  "local": "लक्षद्वीप"
+ },
+ "IN-MH": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Maharashtra",
+  "local": "महाराष्ट्र"
+ },
+ "IN-ML": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Meghalaya",
+  "local": "मेघालय"
+ },
+ "IN-MN": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Manipur",
+  "local": "मणिपुर"
+ },
+ "IN-MP": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Madhya Pradesh",
+  "local": "मध्य प्रदेश"
+ },
+ "IN-MZ": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Mizoram",
+  "local": "मिज़ोरम"
+ },
+ "IN-NL": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Nagaland",
+  "local": "नागालैण्ड"
+ },
+ "IN-OD": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Odisha",
+  "local": "ओडिशा"
+ },
+ "IN-PB": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Punjab",
+  "local": "पंजाब"
+ },
+ "IN-PY": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Puducherry",
+  "local": "पुदुचेरी"
+ },
+ "IN-RJ": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Rajasthan",
+  "local": "राजस्थान"
+ },
+ "IN-SK": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Sikkim",
+  "local": "सिक्किम"
+ },
+ "IN-TN": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Tamil Nadu",
+  "local": "तमिल नाडु"
+ },
+ "IN-TR": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Tripura",
+  "local": "त्रिपुरा"
+ },
+ "IN-TS": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Telangana",
+  "local": "तेलंगाना"
+ },
+ "IN-UK": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Uttarakhand",
+  "local": "उत्तराखण्ड"
+ },
+ "IN-UP": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "Uttar Pradesh",
+  "local": "उत्तर प्रदेश"
+ },
+ "IN-WB": {
+  "aliases": [],
+  "country": "IN",
+  "latin": "West Bengal",
+  "local": "पश्चिम बंगाल"
+ },
+ "IQ-AN": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Al Anbar",
+  "local": "الانبار"
+ },
+ "IQ-AR": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Erbil",
+  "local": "أربيل"
+ },
+ "IQ-BA": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Basra",
+  "local": "البصرة"
+ },
+ "IQ-BB": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Babil",
+  "local": "بابل"
+ },
+ "IQ-BG": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Baghdad",
+  "local": "بغداد"
+ },
+ "IQ-DA": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Duhok",
+  "local": "دهوك"
+ },
+ "IQ-DI": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Diyala",
+  "local": "ديالى"
+ },
+ "IQ-DQ": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Dhi Qar",
+  "local": "ذي قار"
+ },
+ "IQ-HALABJA": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Halabja",
+  "local": "حلبجة"
+ },
+ "IQ-KA": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Karbala",
+  "local": "كربلاء"
+ },
+ "IQ-KI": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Kirkuk",
+  "local": "كركوك"
+ },
+ "IQ-MA": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Maysan",
+  "local": "ميسان"
+ },
+ "IQ-MU": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Al Muthanna",
+  "local": "المثنى"
+ },
+ "IQ-NA": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Najaf",
+  "local": "النجف"
+ },
+ "IQ-NI": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Nineveh",
+  "local": "نينوى"
+ },
+ "IQ-QA": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Al-Qadisiyah",
+  "local": "القادسية"
+ },
+ "IQ-SD": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Salah al-Din",
+  "local": "صلاح الدين"
+ },
+ "IQ-SU": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Sulaymaniyah",
+  "local": "السليمانية"
+ },
+ "IQ-WA": {
+  "aliases": [],
+  "country": "IQ",
+  "latin": "Wasit",
+  "local": "واسط"
+ },
+ "IR-00": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Markazi",
+  "local": "استان مرکزی"
+ },
+ "IR-01": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Gilan",
+  "local": "استان گیلان"
+ },
+ "IR-02": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Mazandaran",
+  "local": "استان مازندران"
+ },
+ "IR-03": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "East Azerbaijan",
+  "local": "استان آذربایجان شرقی"
+ },
+ "IR-04": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "West Azarbaijan",
+  "local": "استان آذربایجان غربی"
+ },
+ "IR-05": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Kermanshah",
+  "local": "استان کرمانشاه"
+ },
+ "IR-06": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Khuzestan",
+  "local": "استان خوزستان"
+ },
+ "IR-07": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Fars",
+  "local": "استان فارس"
+ },
+ "IR-08": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Kerman",
+  "local": "استان کرمان"
+ },
+ "IR-09": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Razavi Khorasan",
+  "local": "استان خراسان رضوی"
+ },
+ "IR-10": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Isfahan",
+  "local": "استان اصفهان"
+ },
+ "IR-11": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Sistan and Baluchestan",
+  "local": "استان سیستان و بلوچستان"
+ },
+ "IR-12": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Kurdistan",
+  "local": "استان کردستان"
+ },
+ "IR-13": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Hamadan",
+  "local": "استان همدان"
+ },
+ "IR-14": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Chaharmahal and Bakhtiari",
+  "local": "استان چهارمحال و بختیاری"
+ },
+ "IR-15": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Lorestan",
+  "local": "استان لرستان"
+ },
+ "IR-16": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Ilam",
+  "local": "استان ایلام"
+ },
+ "IR-17": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Kohgiluyeh and Boyer-Ahmad",
+  "local": "استان کهگیلویه و بویراحمد"
+ },
+ "IR-18": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Bushehr",
+  "local": "استان بوشهر"
+ },
+ "IR-19": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Zanjan",
+  "local": "استان زنجان"
+ },
+ "IR-20": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Semnan",
+  "local": "استان سمنان"
+ },
+ "IR-21": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Yazd",
+  "local": "استان یزد"
+ },
+ "IR-22": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Hormozgan",
+  "local": "استان هرمزگان"
+ },
+ "IR-23": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Tehran",
+  "local": "استان تهران"
+ },
+ "IR-24": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Ardabil",
+  "local": "استان اردبیل"
+ },
+ "IR-25": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Qom",
+  "local": "استان قم"
+ },
+ "IR-26": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Qazvin",
+  "local": "استان قزوین"
+ },
+ "IR-27": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Golestan",
+  "local": "استان گلستان"
+ },
+ "IR-28": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "North Khorasan",
+  "local": "استان خراسان شمالی"
+ },
+ "IR-29": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "South Khorasan",
+  "local": "استان خراسان جنوبی"
+ },
+ "IR-30": {
+  "aliases": [],
+  "country": "IR",
+  "latin": "Alborz",
+  "local": "استان البرز"
+ },
+ "IT-23": {
+  "aliases": [
+   "IT-AO"
+  ],
+  "country": "IT",
+  "latin": "Valle d'Aosta / Vallée d'Aoste",
+  "local": "Valle d'Aosta / Vallée d'Aoste"
+ },
+ "IT-AG": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Agrigento",
+  "local": "Agrigento"
+ },
+ "IT-AL": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Alessandria",
+  "local": "Alessandria"
+ },
+ "IT-AN": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Ancona",
+  "local": "Ancona"
+ },
+ "IT-AP": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Ascoli Piceno",
+  "local": "Ascoli Piceno"
+ },
+ "IT-AQ": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "L'Aquila",
+  "local": "L'Aquila"
+ },
+ "IT-AR": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Arezzo",
+  "local": "Arezzo"
+ },
+ "IT-AT": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Asti",
+  "local": "Asti"
+ },
+ "IT-AV": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Avellino",
+  "local": "Avellino"
+ },
+ "IT-BA": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Bari",
+  "local": "Bari"
+ },
+ "IT-BG": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Bergamo",
+  "local": "Bergamo"
+ },
+ "IT-BI": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Biella",
+  "local": "Biella"
+ },
+ "IT-BL": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Belluno",
+  "local": "Belluno"
+ },
+ "IT-BN": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Benevento",
+  "local": "Benevento"
+ },
+ "IT-BO": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Bologna",
+  "local": "Bologna"
+ },
+ "IT-BR": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Brindisi",
+  "local": "Brindisi"
+ },
+ "IT-BS": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Brescia",
+  "local": "Brescia"
+ },
+ "IT-BT": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Barletta-Andria-Trani",
+  "local": "Barletta-Andria-Trani"
+ },
+ "IT-BZ": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Bolzano / Bozen",
+  "local": "Bolzano / Bozen"
+ },
+ "IT-CA": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Cagliari",
+  "local": "Cagliari"
+ },
+ "IT-CB": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Campobasso",
+  "local": "Campobasso"
+ },
+ "IT-CE": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Caserta",
+  "local": "Caserta"
+ },
+ "IT-CH": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Chieti",
+  "local": "Chieti"
+ },
+ "IT-CL": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Caltanissetta",
+  "local": "Caltanissetta"
+ },
+ "IT-CN": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Cuneo",
+  "local": "Cuneo"
+ },
+ "IT-CO": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Como",
+  "local": "Como"
+ },
+ "IT-CR": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Cremona",
+  "local": "Cremona"
+ },
+ "IT-CS": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Cosenza",
+  "local": "Cosenza"
+ },
+ "IT-CT": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Catania",
+  "local": "Catania"
+ },
+ "IT-CZ": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Catanzaro",
+  "local": "Catanzaro"
+ },
+ "IT-EN": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Enna",
+  "local": "Enna"
+ },
+ "IT-FC": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Forlì-Cesena",
+  "local": "Forlì-Cesena"
+ },
+ "IT-FE": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Ferrara",
+  "local": "Ferrara"
+ },
+ "IT-FG": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Foggia",
+  "local": "Foggia"
+ },
+ "IT-FI": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Firenze",
+  "local": "Firenze"
+ },
+ "IT-FM": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Fermo",
+  "local": "Fermo"
+ },
+ "IT-FR": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Frosinone",
+  "local": "Frosinone"
+ },
+ "IT-GALLURA_NORD_EST_SARDEGNA": {
+  "aliases": [
+   "IT-GA"
+  ],
+  "country": "IT",
+  "latin": "Gallura Nord-Est Sardegna",
+  "local": "Gallura Nord-Est Sardegna"
+ },
+ "IT-GE": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Genova",
+  "local": "Genova"
+ },
+ "IT-GO": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Gorizia",
+  "local": "Gorizia"
+ },
+ "IT-GR": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Grosseto",
+  "local": "Grosseto"
+ },
+ "IT-IM": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Imperia",
+  "local": "Imperia"
+ },
+ "IT-IS": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Isernia",
+  "local": "Isernia"
+ },
+ "IT-KR": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Crotone",
+  "local": "Crotone"
+ },
+ "IT-LC": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Lecco",
+  "local": "Lecco"
+ },
+ "IT-LE": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Lecce",
+  "local": "Lecce"
+ },
+ "IT-LI": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Livorno",
+  "local": "Livorno"
+ },
+ "IT-LO": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Lodi",
+  "local": "Lodi"
+ },
+ "IT-LT": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Latina",
+  "local": "Latina"
+ },
+ "IT-LU": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Lucca",
+  "local": "Lucca"
+ },
+ "IT-MB": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Monza e Brianza",
+  "local": "Monza e Brianza"
+ },
+ "IT-MC": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Macerata",
+  "local": "Macerata"
+ },
+ "IT-ME": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Messina",
+  "local": "Messina"
+ },
+ "IT-MEDIO_CAMPIDANO": {
+  "aliases": [
+   "IT-VS"
+  ],
+  "country": "IT",
+  "latin": "Medio Campidano",
+  "local": "Medio Campidano"
+ },
+ "IT-MI": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Milano",
+  "local": "Milano"
+ },
+ "IT-MN": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Mantova",
+  "local": "Mantova"
+ },
+ "IT-MO": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Modena",
+  "local": "Modena"
+ },
+ "IT-MS": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Massa-Carrara",
+  "local": "Massa-Carrara"
+ },
+ "IT-MT": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Matera",
+  "local": "Matera"
+ },
+ "IT-NA": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Napoli",
+  "local": "Napoli"
+ },
+ "IT-NO": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Novara",
+  "local": "Novara"
+ },
+ "IT-NU": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Nuoro",
+  "local": "Nuoro"
+ },
+ "IT-OGLIASTRA": {
+  "aliases": [
+   "IT-OG"
+  ],
+  "country": "IT",
+  "latin": "Ogliastra",
+  "local": "Ogliastra"
+ },
+ "IT-OR": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Oristano",
+  "local": "Oristano"
+ },
+ "IT-PA": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Palermo",
+  "local": "Palermo"
+ },
+ "IT-PC": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Piacenza",
+  "local": "Piacenza"
+ },
+ "IT-PD": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Padova",
+  "local": "Padova"
+ },
+ "IT-PE": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Pescara",
+  "local": "Pescara"
+ },
+ "IT-PG": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Perugia",
+  "local": "Perugia"
+ },
+ "IT-PI": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Pisa",
+  "local": "Pisa"
+ },
+ "IT-PN": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Pordenone",
+  "local": "Pordenone"
+ },
+ "IT-PO": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Prato",
+  "local": "Prato"
+ },
+ "IT-PR": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Parma",
+  "local": "Parma"
+ },
+ "IT-PT": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Pistoia",
+  "local": "Pistoia"
+ },
+ "IT-PU": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Pesaro e Urbino",
+  "local": "Pesaro e Urbino"
+ },
+ "IT-PV": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Pavia",
+  "local": "Pavia"
+ },
+ "IT-PZ": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Potenza",
+  "local": "Potenza"
+ },
+ "IT-RA": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Ravenna",
+  "local": "Ravenna"
+ },
+ "IT-RC": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Reggio Calabria",
+  "local": "Reggio Calabria"
+ },
+ "IT-RE": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Reggio Emilia",
+  "local": "Reggio Emilia"
+ },
+ "IT-RG": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Ragusa",
+  "local": "Ragusa"
+ },
+ "IT-RI": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Rieti",
+  "local": "Rieti"
+ },
+ "IT-RM": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Roma",
+  "local": "Roma"
+ },
+ "IT-RN": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Rimini",
+  "local": "Rimini"
+ },
+ "IT-RO": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Rovigo",
+  "local": "Rovigo"
+ },
+ "IT-SA": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Salerno",
+  "local": "Salerno"
+ },
+ "IT-SI": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Siena",
+  "local": "Siena"
+ },
+ "IT-SO": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Sondrio",
+  "local": "Sondrio"
+ },
+ "IT-SP": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "La Spezia",
+  "local": "La Spezia"
+ },
+ "IT-SR": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Siracusa",
+  "local": "Siracusa"
+ },
+ "IT-SS": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Sassari",
+  "local": "Sassari"
+ },
+ "IT-SULCIS_IGLESIENTE": {
+  "aliases": [
+   "IT-SD",
+   "IT-SU"
+  ],
+  "country": "IT",
+  "latin": "Sulcis Iglesiente",
+  "local": "Sulcis Iglesiente"
+ },
+ "IT-SV": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Savona",
+  "local": "Savona"
+ },
+ "IT-TA": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Taranto",
+  "local": "Taranto"
+ },
+ "IT-TE": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Teramo",
+  "local": "Teramo"
+ },
+ "IT-TN": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Trento",
+  "local": "Trento"
+ },
+ "IT-TO": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Torino",
+  "local": "Torino"
+ },
+ "IT-TP": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Trapani",
+  "local": "Trapani"
+ },
+ "IT-TR": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Terni",
+  "local": "Terni"
+ },
+ "IT-TS": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Trieste",
+  "local": "Trieste"
+ },
+ "IT-TV": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Treviso",
+  "local": "Treviso"
+ },
+ "IT-UD": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Udine",
+  "local": "Udine"
+ },
+ "IT-VA": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Varese",
+  "local": "Varese"
+ },
+ "IT-VB": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Verbano-Cusio-Ossola",
+  "local": "Verbano-Cusio-Ossola"
+ },
+ "IT-VC": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Vercelli",
+  "local": "Vercelli"
+ },
+ "IT-VE": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Venezia",
+  "local": "Venezia"
+ },
+ "IT-VI": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Vicenza",
+  "local": "Vicenza"
+ },
+ "IT-VR": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Verona",
+  "local": "Verona"
+ },
+ "IT-VT": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Viterbo",
+  "local": "Viterbo"
+ },
+ "IT-VV": {
+  "aliases": [],
+  "country": "IT",
+  "latin": "Vibo Valentia",
+  "local": "Vibo Valentia"
+ },
+ "JM-01": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Kingston",
+  "local": "Kingston"
+ },
+ "JM-02": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Saint Andrew",
+  "local": "Saint Andrew"
+ },
+ "JM-03": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Saint Thomas",
+  "local": "Saint Thomas"
+ },
+ "JM-04": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Portland",
+  "local": "Portland"
+ },
+ "JM-05": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Saint Mary",
+  "local": "Saint Mary"
+ },
+ "JM-06": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Saint Ann",
+  "local": "Saint Ann"
+ },
+ "JM-07": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Trelawny",
+  "local": "Trelawny"
+ },
+ "JM-08": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Saint James",
+  "local": "Saint James"
+ },
+ "JM-09": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Hanover",
+  "local": "Hanover"
+ },
+ "JM-10": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Westmoreland",
+  "local": "Westmoreland"
+ },
+ "JM-11": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Saint Elizabeth",
+  "local": "Saint Elizabeth"
+ },
+ "JM-12": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Manchester",
+  "local": "Manchester"
+ },
+ "JM-13": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Clarendon",
+  "local": "Clarendon"
+ },
+ "JM-14": {
+  "aliases": [],
+  "country": "JM",
+  "latin": "Saint Catherine",
+  "local": "Saint Catherine"
+ },
+ "JP-01": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Hokkaido",
+  "local": "北海道"
+ },
+ "JP-02": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Aomori",
+  "local": "青森県"
+ },
+ "JP-03": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Iwate",
+  "local": "岩手県"
+ },
+ "JP-04": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Miyagi",
+  "local": "宮城県"
+ },
+ "JP-05": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Akita",
+  "local": "秋田県"
+ },
+ "JP-06": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Yamagata",
+  "local": "山形県"
+ },
+ "JP-07": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Fukushima",
+  "local": "福島県"
+ },
+ "JP-08": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Ibaraki",
+  "local": "茨城県"
+ },
+ "JP-09": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Tochigi",
+  "local": "栃木県"
+ },
+ "JP-10": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Gunma",
+  "local": "群馬県"
+ },
+ "JP-11": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Saitama",
+  "local": "埼玉県"
+ },
+ "JP-12": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Chiba",
+  "local": "千葉県"
+ },
+ "JP-13": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Tokyo",
+  "local": "東京都"
+ },
+ "JP-14": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Kanagawa",
+  "local": "神奈川県"
+ },
+ "JP-15": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Niigata",
+  "local": "新潟県"
+ },
+ "JP-16": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Toyama",
+  "local": "富山県"
+ },
+ "JP-17": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Ishikawa",
+  "local": "石川県"
+ },
+ "JP-18": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Fukui",
+  "local": "福井県"
+ },
+ "JP-19": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Yamanashi",
+  "local": "山梨県"
+ },
+ "JP-20": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Nagano",
+  "local": "長野県"
+ },
+ "JP-21": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Gifu",
+  "local": "岐阜県"
+ },
+ "JP-22": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Shizuoka",
+  "local": "静岡県"
+ },
+ "JP-23": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Aichi",
+  "local": "愛知県"
+ },
+ "JP-24": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Mie",
+  "local": "三重県"
+ },
+ "JP-25": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Shiga",
+  "local": "滋賀県"
+ },
+ "JP-26": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Kyoto",
+  "local": "京都府"
+ },
+ "JP-27": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Osaka",
+  "local": "大阪府"
+ },
+ "JP-28": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Hyogo",
+  "local": "兵庫県"
+ },
+ "JP-29": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Nara",
+  "local": "奈良県"
+ },
+ "JP-30": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Wakayama",
+  "local": "和歌山県"
+ },
+ "JP-31": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Tottori",
+  "local": "鳥取県"
+ },
+ "JP-32": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Shimane",
+  "local": "島根県"
+ },
+ "JP-33": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Okayama",
+  "local": "岡山県"
+ },
+ "JP-34": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Hiroshima",
+  "local": "広島県"
+ },
+ "JP-35": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Yamaguchi",
+  "local": "山口県"
+ },
+ "JP-36": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Tokushima",
+  "local": "徳島県"
+ },
+ "JP-37": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Kagawa",
+  "local": "香川県"
+ },
+ "JP-38": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Ehime",
+  "local": "愛媛県"
+ },
+ "JP-39": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Kochi",
+  "local": "高知県"
+ },
+ "JP-40": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Fukuoka",
+  "local": "福岡県"
+ },
+ "JP-41": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Saga",
+  "local": "佐賀県"
+ },
+ "JP-42": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Nagasaki",
+  "local": "長崎県"
+ },
+ "JP-43": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Kumamoto",
+  "local": "熊本県"
+ },
+ "JP-44": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Oita",
+  "local": "大分県"
+ },
+ "JP-45": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Miyazaki",
+  "local": "宮崎県"
+ },
+ "JP-46": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Kagoshima",
+  "local": "鹿児島県"
+ },
+ "JP-47": {
+  "aliases": [],
+  "country": "JP",
+  "latin": "Okinawa",
+  "local": "沖縄県"
+ },
+ "KN-K": {
+  "aliases": [],
+  "country": "KN",
+  "latin": "Saint Kitts",
+  "local": "Saint Kitts"
+ },
+ "KN-N": {
+  "aliases": [],
+  "country": "KN",
+  "latin": "Nevis",
+  "local": "Nevis"
+ },
+ "KP-01": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Phyeongyang",
+  "local": "평양시"
+ },
+ "KP-02": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Phyeongannamto",
+  "local": "평안남도"
+ },
+ "KP-03": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Phyeonganpukto",
+  "local": "평안북도"
+ },
+ "KP-04": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Jakangto",
+  "local": "자강도"
+ },
+ "KP-05": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Hwanghainamto",
+  "local": "황해남도"
+ },
+ "KP-06": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Hwanghaipukto",
+  "local": "황해북도"
+ },
+ "KP-07": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Kangweonto",
+  "local": "강원도"
+ },
+ "KP-08": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Hamkyeongnamto",
+  "local": "함경남도"
+ },
+ "KP-09": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Hamkyeongpukto",
+  "local": "함경북도"
+ },
+ "KP-10": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Ryangkangto",
+  "local": "량강도"
+ },
+ "KP-13": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Raseon",
+  "local": "라선시"
+ },
+ "KP-14": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Nampho",
+  "local": "남포시"
+ },
+ "KP-15": {
+  "aliases": [],
+  "country": "KP",
+  "latin": "Kaeseong",
+  "local": "개성시"
+ },
+ "KR-11": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Seoul-teukbyeolsi",
+  "local": "서울특별시"
+ },
+ "KR-26": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Busan-gwangyeoksi",
+  "local": "부산광역시"
+ },
+ "KR-27": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Daegu-gwangyeoksi",
+  "local": "대구광역시"
+ },
+ "KR-28": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Incheon-gwangyeoksi",
+  "local": "인천광역시"
+ },
+ "KR-30": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Daejeon-gwangyeoksi",
+  "local": "대전광역시"
+ },
+ "KR-31": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Ulsan-gwangyeoksi",
+  "local": "울산광역시"
+ },
+ "KR-41": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Gyeonggi-do",
+  "local": "경기도"
+ },
+ "KR-42": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Gangwon-teukbyeoljachido",
+  "local": "강원특별자치도"
+ },
+ "KR-43": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Chungcheongbuk-do",
+  "local": "충청북도"
+ },
+ "KR-44": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Chungcheongnam-do",
+  "local": "충청남도"
+ },
+ "KR-45": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Jeonbuk-teukbyeoljachido",
+  "local": "전북특별자치도"
+ },
+ "KR-47": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Gyeongsangbuk-do",
+  "local": "경상북도"
+ },
+ "KR-48": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Gyeongsangnam-do",
+  "local": "경상남도"
+ },
+ "KR-49": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Jeju-teukbyeoljachido",
+  "local": "제주특별자치도"
+ },
+ "KR-50": {
+  "aliases": [],
+  "country": "KR",
+  "latin": "Sejong-teukbyeoljachisi",
+  "local": "세종특별자치시"
+ },
+ "KR-JEONNAM_GWANGJU": {
+  "aliases": [
+   "KR-29",
+   "KR-46"
+  ],
+  "country": "KR",
+  "latin": "Jeonnam-Gwangju-tonghapteukbyeolsi",
+  "local": "전남광주통합특별시"
+ },
+ "KY-CAYMAN_BRAC": {
+  "aliases": [],
+  "country": "KY",
+  "latin": "Cayman Brac",
+  "local": "Cayman Brac"
+ },
+ "KY-GRAND_CAYMAN": {
+  "aliases": [],
+  "country": "KY",
+  "latin": "Grand Cayman",
+  "local": "Grand Cayman"
+ },
+ "KY-LITTLE_CAYMAN": {
+  "aliases": [],
+  "country": "KY",
+  "latin": "Little Cayman",
+  "local": "Little Cayman"
+ },
+ "KZ-10": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Abay oblysy",
+  "local": "Абай облысы"
+ },
+ "KZ-11": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Aqmola oblysy",
+  "local": "Ақмола облысы"
+ },
+ "KZ-15": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Aqtöbe oblysy",
+  "local": "Ақтөбе облысы"
+ },
+ "KZ-19": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Almaty oblysy",
+  "local": "Алматы облысы"
+ },
+ "KZ-23": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Atyraū oblysy",
+  "local": "Атырау облысы"
+ },
+ "KZ-27": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Batys Qazaqstan oblysy",
+  "local": "Батыс Қазақстан облысы"
+ },
+ "KZ-31": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Zhambyl oblysy",
+  "local": "Жамбыл облысы"
+ },
+ "KZ-33": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Zhetisū oblysy",
+  "local": "Жетісу облысы"
+ },
+ "KZ-35": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Qaraghandy oblysy",
+  "local": "Қарағанды облысы"
+ },
+ "KZ-39": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Qostanay oblysy",
+  "local": "Қостанай облысы"
+ },
+ "KZ-43": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Qyzylorda oblysy",
+  "local": "Қызылорда облысы"
+ },
+ "KZ-47": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Mangghystaū oblysy",
+  "local": "Маңғыстау облысы"
+ },
+ "KZ-55": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Pavlodar oblysy",
+  "local": "Павлодар облысы"
+ },
+ "KZ-59": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Soltüstik Qazaqstan oblysy",
+  "local": "Солтүстік Қазақстан облысы"
+ },
+ "KZ-61": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Türkistan oblysy",
+  "local": "Түркістан облысы"
+ },
+ "KZ-62": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Ulytaū oblysy",
+  "local": "Ұлытау облысы"
+ },
+ "KZ-63": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Shyghys Qazaqstan oblysy",
+  "local": "Шығыс Қазақстан облысы"
+ },
+ "KZ-71": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Astana",
+  "local": "Астана"
+ },
+ "KZ-75": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Almaty",
+  "local": "Алматы"
+ },
+ "KZ-79": {
+  "aliases": [],
+  "country": "KZ",
+  "latin": "Shymkent",
+  "local": "Шымкент"
+ },
+ "MM-01": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Sagaing",
+  "local": "စစ်ကိုင်းတိုင်း"
+ },
+ "MM-02": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Bago",
+  "local": "ပဲခူးတိုင်း"
+ },
+ "MM-03": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Magway",
+  "local": "မကွေးတိုင်း"
+ },
+ "MM-04": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Mandalay",
+  "local": "မန္တလေးတိုင်း"
+ },
+ "MM-05": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Tanintharyi",
+  "local": "တနင်္သာရီတိုင်း"
+ },
+ "MM-06": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Yangon",
+  "local": "ရန်ကုန်တိုင်းဒေသကြီး"
+ },
+ "MM-07": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Ayeyarwady",
+  "local": "ဧရာဝတီတိုင်း"
+ },
+ "MM-11": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Kachin",
+  "local": "ကချင်ပြည်နယ်"
+ },
+ "MM-12": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Kayah",
+  "local": "ကယားပြည်နယ်"
+ },
+ "MM-13": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Kayin",
+  "local": "ကရင်ပြည်နယ်"
+ },
+ "MM-14": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Chin",
+  "local": "ချင်းပြည်နယ်"
+ },
+ "MM-15": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Mon",
+  "local": "မွန်ပြည်နယ်"
+ },
+ "MM-16": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Rakhine",
+  "local": "ရခိုင်ပြည်နယ်"
+ },
+ "MM-17": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Shan",
+  "local": "ရှမ်းပြည်နယ်"
+ },
+ "MM-18": {
+  "aliases": [],
+  "country": "MM",
+  "latin": "Nay Pyi Taw",
+  "local": "နေပြည်တော် ပြည်ထောင်စုနယ်မြေ"
+ },
+ "MN-035": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Orhon",
+  "local": "Орхон"
+ },
+ "MN-037": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Darhan uul",
+  "local": "Дархан-Уул"
+ },
+ "MN-039": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Hentiy",
+  "local": "Хэнтий"
+ },
+ "MN-041": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Hövsgöl",
+  "local": "Хөвсгөл"
+ },
+ "MN-043": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Hovd",
+  "local": "Ховд"
+ },
+ "MN-046": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Uvs",
+  "local": "Увс"
+ },
+ "MN-047": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Töv",
+  "local": "Төв"
+ },
+ "MN-049": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Selenge",
+  "local": "Сэлэнгэ"
+ },
+ "MN-051": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Sühbaatar",
+  "local": "Сүхбаатар"
+ },
+ "MN-053": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Ömnögovĭ",
+  "local": "Өмнөговь"
+ },
+ "MN-055": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Övörhangay",
+  "local": "Өвөрхангай"
+ },
+ "MN-057": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Dzavhan",
+  "local": "Завхан"
+ },
+ "MN-059": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Dundgovĭ",
+  "local": "Дундговь"
+ },
+ "MN-061": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Dornod",
+  "local": "Дорнод"
+ },
+ "MN-063": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Dornogovĭ",
+  "local": "Дорноговь"
+ },
+ "MN-064": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Govĭ-Sümber",
+  "local": "Говьсүмбэр"
+ },
+ "MN-065": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Govĭ-Altay",
+  "local": "Говь-Алтай"
+ },
+ "MN-067": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Bulgan",
+  "local": "Булган"
+ },
+ "MN-069": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Bayanhongor",
+  "local": "Баянхонгор"
+ },
+ "MN-071": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Bayan-Ölgiy",
+  "local": "Баян-Өлгий"
+ },
+ "MN-073": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Arhangay",
+  "local": "Архангай"
+ },
+ "MN-1": {
+  "aliases": [],
+  "country": "MN",
+  "latin": "Ulaanbaatar",
+  "local": "Улаанбаатар"
+ },
+ "MX-AGU": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Aguascalientes",
+  "local": "Aguascalientes"
+ },
+ "MX-BCN": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Baja California",
+  "local": "Baja California"
+ },
+ "MX-BCS": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Baja California Sur",
+  "local": "Baja California Sur"
+ },
+ "MX-CAM": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Campeche",
+  "local": "Campeche"
+ },
+ "MX-CHH": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Chihuahua",
+  "local": "Chihuahua"
+ },
+ "MX-CHP": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Chiapas",
+  "local": "Chiapas"
+ },
+ "MX-CMX": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Ciudad de México",
+  "local": "Ciudad de México"
+ },
+ "MX-COA": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Coahuila de Zaragoza",
+  "local": "Coahuila de Zaragoza"
+ },
+ "MX-COL": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Colima",
+  "local": "Colima"
+ },
+ "MX-DUR": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Durango",
+  "local": "Durango"
+ },
+ "MX-GRO": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Guerrero",
+  "local": "Guerrero"
+ },
+ "MX-GUA": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Guanajuato",
+  "local": "Guanajuato"
+ },
+ "MX-HID": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Hidalgo",
+  "local": "Hidalgo"
+ },
+ "MX-JAL": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Jalisco",
+  "local": "Jalisco"
+ },
+ "MX-MEX": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "México",
+  "local": "México"
+ },
+ "MX-MIC": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Michoacán de Ocampo",
+  "local": "Michoacán de Ocampo"
+ },
+ "MX-MOR": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Morelos",
+  "local": "Morelos"
+ },
+ "MX-NAY": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Nayarit",
+  "local": "Nayarit"
+ },
+ "MX-NLE": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Nuevo León",
+  "local": "Nuevo León"
+ },
+ "MX-OAX": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Oaxaca",
+  "local": "Oaxaca"
+ },
+ "MX-PUE": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Puebla",
+  "local": "Puebla"
+ },
+ "MX-QUE": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Querétaro",
+  "local": "Querétaro"
+ },
+ "MX-ROO": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Quintana Roo",
+  "local": "Quintana Roo"
+ },
+ "MX-SIN": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Sinaloa",
+  "local": "Sinaloa"
+ },
+ "MX-SLP": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "San Luis Potosí",
+  "local": "San Luis Potosí"
+ },
+ "MX-SON": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Sonora",
+  "local": "Sonora"
+ },
+ "MX-TAB": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Tabasco",
+  "local": "Tabasco"
+ },
+ "MX-TAM": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Tamaulipas",
+  "local": "Tamaulipas"
+ },
+ "MX-TLA": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Tlaxcala",
+  "local": "Tlaxcala"
+ },
+ "MX-VER": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Veracruz de Ignacio de la Llave",
+  "local": "Veracruz de Ignacio de la Llave"
+ },
+ "MX-YUC": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Yucatán",
+  "local": "Yucatán"
+ },
+ "MX-ZAC": {
+  "aliases": [],
+  "country": "MX",
+  "latin": "Zacatecas",
+  "local": "Zacatecas"
+ },
+ "MY-01": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Johor",
+  "local": "Johor"
+ },
+ "MY-02": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Kedah",
+  "local": "Kedah"
+ },
+ "MY-03": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Kelantan",
+  "local": "Kelantan"
+ },
+ "MY-04": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Melaka",
+  "local": "Melaka"
+ },
+ "MY-05": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Negeri Sembilan",
+  "local": "Negeri Sembilan"
+ },
+ "MY-06": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Pahang",
+  "local": "Pahang"
+ },
+ "MY-07": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Pulau Pinang",
+  "local": "Pulau Pinang"
+ },
+ "MY-08": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Perak",
+  "local": "Perak"
+ },
+ "MY-09": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Perlis",
+  "local": "Perlis"
+ },
+ "MY-10": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Selangor",
+  "local": "Selangor"
+ },
+ "MY-11": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Terengganu",
+  "local": "Terengganu"
+ },
+ "MY-12": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Sabah",
+  "local": "Sabah"
+ },
+ "MY-13": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Sarawak",
+  "local": "Sarawak"
+ },
+ "MY-14": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Wilayah Persekutuan Kuala Lumpur",
+  "local": "Wilayah Persekutuan Kuala Lumpur"
+ },
+ "MY-15": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Wilayah Persekutuan Labuan",
+  "local": "Wilayah Persekutuan Labuan"
+ },
+ "MY-16": {
+  "aliases": [],
+  "country": "MY",
+  "latin": "Wilayah Persekutuan Putrajaya",
+  "local": "Wilayah Persekutuan Putrajaya"
+ },
+ "MZ-A": {
+  "aliases": [],
+  "country": "MZ",
+  "latin": "Niassa",
+  "local": "Niassa"
+ },
+ "MZ-B": {
+  "aliases": [],
+  "country": "MZ",
+  "latin": "Manica",
+  "local": "Manica"
+ },
+ "MZ-G": {
+  "aliases": [],
+  "country": "MZ",
+  "latin": "Gaza",
+  "local": "Gaza"
+ },
+ "MZ-I": {
+  "aliases": [],
+  "country": "MZ",
+  "latin": "Inhambane",
+  "local": "Inhambane"
+ },
+ "MZ-L": {
+  "aliases": [],
+  "country": "MZ",
+  "latin": "Maputo",
+  "local": "Maputo"
+ },
+ "MZ-MPM": {
+  "aliases": [],
+  "country": "MZ",
+  "latin": "Maputo",
+  "local": "Maputo"
+ },
+ "MZ-N": {
+  "aliases": [],
+  "country": "MZ",
+  "latin": "Nampula",
+  "local": "Nampula"
+ },
+ "MZ-P": {
+  "aliases": [],
+  "country": "MZ",
+  "latin": "Cabo Delgado",
+  "local": "Cabo Delgado"
+ },
+ "MZ-Q": {
+  "aliases": [],
+  "country": "MZ",
+  "latin": "Zambézia",
+  "local": "Zambézia"
+ },
+ "MZ-S": {
+  "aliases": [],
+  "country": "MZ",
+  "latin": "Sofala",
+  "local": "Sofala"
+ },
+ "MZ-T": {
+  "aliases": [],
+  "country": "MZ",
+  "latin": "Tete",
+  "local": "Tete"
+ },
+ "NG-AB": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Abia",
+  "local": "Abia"
+ },
+ "NG-AD": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Adamawa",
+  "local": "Adamawa"
+ },
+ "NG-AK": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Akwa Ibom",
+  "local": "Akwa Ibom"
+ },
+ "NG-AN": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Anambra",
+  "local": "Anambra"
+ },
+ "NG-BA": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Bauchi",
+  "local": "Bauchi"
+ },
+ "NG-BE": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Benue",
+  "local": "Benue"
+ },
+ "NG-BO": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Borno",
+  "local": "Borno"
+ },
+ "NG-BY": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Bayelsa",
+  "local": "Bayelsa"
+ },
+ "NG-CR": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Cross River",
+  "local": "Cross River"
+ },
+ "NG-DE": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Delta",
+  "local": "Delta"
+ },
+ "NG-EB": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Ebonyi",
+  "local": "Ebonyi"
+ },
+ "NG-ED": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Edo",
+  "local": "Edo"
+ },
+ "NG-EK": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Ekiti",
+  "local": "Ekiti"
+ },
+ "NG-EN": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Enugu",
+  "local": "Enugu"
+ },
+ "NG-FC": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Abuja Federal Capital Territory",
+  "local": "Abuja Federal Capital Territory"
+ },
+ "NG-GO": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Gombe",
+  "local": "Gombe"
+ },
+ "NG-IM": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Imo",
+  "local": "Imo"
+ },
+ "NG-JI": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Jigawa",
+  "local": "Jigawa"
+ },
+ "NG-KD": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Kaduna",
+  "local": "Kaduna"
+ },
+ "NG-KE": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Kebbi",
+  "local": "Kebbi"
+ },
+ "NG-KN": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Kano",
+  "local": "Kano"
+ },
+ "NG-KO": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Kogi",
+  "local": "Kogi"
+ },
+ "NG-KT": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Katsina",
+  "local": "Katsina"
+ },
+ "NG-KW": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Kwara",
+  "local": "Kwara"
+ },
+ "NG-LA": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Lagos",
+  "local": "Lagos"
+ },
+ "NG-NA": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Nasarawa",
+  "local": "Nasarawa"
+ },
+ "NG-NI": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Niger",
+  "local": "Niger"
+ },
+ "NG-OG": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Ogun",
+  "local": "Ogun"
+ },
+ "NG-ON": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Ondo",
+  "local": "Ondo"
+ },
+ "NG-OS": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Osun",
+  "local": "Osun"
+ },
+ "NG-OY": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Oyo",
+  "local": "Oyo"
+ },
+ "NG-PL": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Plateau",
+  "local": "Plateau"
+ },
+ "NG-RI": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Rivers",
+  "local": "Rivers"
+ },
+ "NG-SO": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Sokoto",
+  "local": "Sokoto"
+ },
+ "NG-TA": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Taraba",
+  "local": "Taraba"
+ },
+ "NG-YO": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Yobe",
+  "local": "Yobe"
+ },
+ "NG-ZA": {
+  "aliases": [],
+  "country": "NG",
+  "latin": "Zamfara",
+  "local": "Zamfara"
+ },
+ "NI-AN": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Costa Caribe Norte",
+  "local": "Costa Caribe Norte"
+ },
+ "NI-AS": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Costa Caribe Sur",
+  "local": "Costa Caribe Sur"
+ },
+ "NI-BO": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Boaco",
+  "local": "Boaco"
+ },
+ "NI-CA": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Carazo",
+  "local": "Carazo"
+ },
+ "NI-CI": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Chinandega",
+  "local": "Chinandega"
+ },
+ "NI-CO": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Chontales",
+  "local": "Chontales"
+ },
+ "NI-ES": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Estelí",
+  "local": "Estelí"
+ },
+ "NI-GR": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Granada",
+  "local": "Granada"
+ },
+ "NI-JI": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Jinotega",
+  "local": "Jinotega"
+ },
+ "NI-LE": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "León",
+  "local": "León"
+ },
+ "NI-MD": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Madriz",
+  "local": "Madriz"
+ },
+ "NI-MN": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Managua",
+  "local": "Managua"
+ },
+ "NI-MS": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Masaya",
+  "local": "Masaya"
+ },
+ "NI-MT": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Matagalpa",
+  "local": "Matagalpa"
+ },
+ "NI-NS": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Nueva Segovia",
+  "local": "Nueva Segovia"
+ },
+ "NI-RI": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Rivas",
+  "local": "Rivas"
+ },
+ "NI-SJ": {
+  "aliases": [],
+  "country": "NI",
+  "latin": "Río San Juan",
+  "local": "Río San Juan"
+ },
+ "NR-01": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Aiwo",
+  "local": "Aiwo"
+ },
+ "NR-02": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Anabar",
+  "local": "Anabar"
+ },
+ "NR-03": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Anetan",
+  "local": "Anetan"
+ },
+ "NR-04": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Anibare",
+  "local": "Anibare"
+ },
+ "NR-05": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Baitsi",
+  "local": "Baitsi"
+ },
+ "NR-06": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Boe",
+  "local": "Boe"
+ },
+ "NR-07": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Buada",
+  "local": "Buada"
+ },
+ "NR-08": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Denigomodu",
+  "local": "Denigomodu"
+ },
+ "NR-09": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Ewa",
+  "local": "Ewa"
+ },
+ "NR-10": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Ijuw",
+  "local": "Ijuw"
+ },
+ "NR-11": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Meneng",
+  "local": "Meneng"
+ },
+ "NR-12": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Nibok",
+  "local": "Nibok"
+ },
+ "NR-13": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Uaboe",
+  "local": "Uaboe"
+ },
+ "NR-14": {
+  "aliases": [],
+  "country": "NR",
+  "latin": "Yaren",
+  "local": "Yaren"
+ },
+ "PA-1": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Bocas del Toro",
+  "local": "Bocas del Toro"
+ },
+ "PA-10": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Panamá Oeste",
+  "local": "Panamá Oeste"
+ },
+ "PA-2": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Coclé",
+  "local": "Coclé"
+ },
+ "PA-3": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Colón",
+  "local": "Colón"
+ },
+ "PA-4": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Chiriquí",
+  "local": "Chiriquí"
+ },
+ "PA-5": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Darién",
+  "local": "Darién"
+ },
+ "PA-6": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Herrera",
+  "local": "Herrera"
+ },
+ "PA-7": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Los Santos",
+  "local": "Los Santos"
+ },
+ "PA-8": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Panamá",
+  "local": "Panamá"
+ },
+ "PA-9": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Veraguas",
+  "local": "Veraguas"
+ },
+ "PA-EM": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Emberá",
+  "local": "Emberá"
+ },
+ "PA-KY": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Guna Yala",
+  "local": "Guna Yala"
+ },
+ "PA-NB": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Ngäbe-Buglé",
+  "local": "Ngäbe-Buglé"
+ },
+ "PA-NT": {
+  "aliases": [],
+  "country": "PA",
+  "latin": "Naso Tjër Di",
+  "local": "Naso Tjër Di"
+ },
+ "PE-AMA": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Amazonas",
+  "local": "Amazonas"
+ },
+ "PE-ANC": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Ancash",
+  "local": "Ancash"
+ },
+ "PE-APU": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Apurímac",
+  "local": "Apurímac"
+ },
+ "PE-ARE": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Arequipa",
+  "local": "Arequipa"
+ },
+ "PE-AYA": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Ayacucho",
+  "local": "Ayacucho"
+ },
+ "PE-CAJ": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Cajamarca",
+  "local": "Cajamarca"
+ },
+ "PE-CAL": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "El Callao",
+  "local": "El Callao"
+ },
+ "PE-CUS": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Cusco",
+  "local": "Cusco"
+ },
+ "PE-HUC": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Huánuco",
+  "local": "Huánuco"
+ },
+ "PE-HUV": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Huancavelica",
+  "local": "Huancavelica"
+ },
+ "PE-ICA": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Ica",
+  "local": "Ica"
+ },
+ "PE-JUN": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Junín",
+  "local": "Junín"
+ },
+ "PE-LAL": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "La Libertad",
+  "local": "La Libertad"
+ },
+ "PE-LAM": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Lambayeque",
+  "local": "Lambayeque"
+ },
+ "PE-LIM": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Lima",
+  "local": "Lima"
+ },
+ "PE-LMA": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Municipalidad Metropolitana de Lima",
+  "local": "Municipalidad Metropolitana de Lima"
+ },
+ "PE-LOR": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Loreto",
+  "local": "Loreto"
+ },
+ "PE-MDD": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Madre de Dios",
+  "local": "Madre de Dios"
+ },
+ "PE-MOQ": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Moquegua",
+  "local": "Moquegua"
+ },
+ "PE-PAS": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Pasco",
+  "local": "Pasco"
+ },
+ "PE-PIU": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Piura",
+  "local": "Piura"
+ },
+ "PE-PUN": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Puno",
+  "local": "Puno"
+ },
+ "PE-SAM": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "San Martín",
+  "local": "San Martín"
+ },
+ "PE-TAC": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Tacna",
+  "local": "Tacna"
+ },
+ "PE-TUM": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Tumbes",
+  "local": "Tumbes"
+ },
+ "PE-UCA": {
+  "aliases": [],
+  "country": "PE",
+  "latin": "Ucayali",
+  "local": "Ucayali"
+ },
+ "PG-CPK": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Chimbu",
+  "local": "Chimbu"
+ },
+ "PG-CPM": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Central",
+  "local": "Central"
+ },
+ "PG-EBR": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "East New Britain",
+  "local": "East New Britain"
+ },
+ "PG-EHG": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Eastern Highlands",
+  "local": "Eastern Highlands"
+ },
+ "PG-EPW": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Enga",
+  "local": "Enga"
+ },
+ "PG-ESW": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "East Sepik",
+  "local": "East Sepik"
+ },
+ "PG-GPK": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Gulf",
+  "local": "Gulf"
+ },
+ "PG-HLA": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Hela",
+  "local": "Hela"
+ },
+ "PG-JWK": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Jiwaka",
+  "local": "Jiwaka"
+ },
+ "PG-MBA": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Milne Bay",
+  "local": "Milne Bay"
+ },
+ "PG-MPL": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Morobe",
+  "local": "Morobe"
+ },
+ "PG-MPM": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Madang",
+  "local": "Madang"
+ },
+ "PG-MRL": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Manus",
+  "local": "Manus"
+ },
+ "PG-NCD": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "National Capital District (Port Moresby)",
+  "local": "National Capital District (Port Moresby)"
+ },
+ "PG-NIK": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "New Ireland",
+  "local": "New Ireland"
+ },
+ "PG-NPP": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Northern",
+  "local": "Northern"
+ },
+ "PG-NSB": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Bougainville",
+  "local": "Bougainville"
+ },
+ "PG-SAN": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "West Sepik",
+  "local": "West Sepik"
+ },
+ "PG-SHM": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Southern Highlands",
+  "local": "Southern Highlands"
+ },
+ "PG-WBK": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "West New Britain",
+  "local": "West New Britain"
+ },
+ "PG-WHM": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Western Highlands",
+  "local": "Western Highlands"
+ },
+ "PG-WPD": {
+  "aliases": [],
+  "country": "PG",
+  "latin": "Western",
+  "local": "Western"
+ },
+ "PH-00": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Metro Manila",
+  "local": "Metro Manila"
+ },
+ "PH-ABR": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Abra",
+  "local": "Abra"
+ },
+ "PH-AGN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Agusan del Norte",
+  "local": "Agusan del Norte"
+ },
+ "PH-AGS": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Agusan del Sur",
+  "local": "Agusan del Sur"
+ },
+ "PH-AKL": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Aklan",
+  "local": "Aklan"
+ },
+ "PH-ALB": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Albay",
+  "local": "Albay"
+ },
+ "PH-ANT": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Antique",
+  "local": "Antique"
+ },
+ "PH-APA": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Apayao",
+  "local": "Apayao"
+ },
+ "PH-AUR": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Aurora",
+  "local": "Aurora"
+ },
+ "PH-BAN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Bataan",
+  "local": "Bataan"
+ },
+ "PH-BAS": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Basilan",
+  "local": "Basilan"
+ },
+ "PH-BEN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Benguet",
+  "local": "Benguet"
+ },
+ "PH-BIL": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Biliran",
+  "local": "Biliran"
+ },
+ "PH-BOH": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Bohol",
+  "local": "Bohol"
+ },
+ "PH-BTG": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Batangas",
+  "local": "Batangas"
+ },
+ "PH-BTN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Batanes",
+  "local": "Batanes"
+ },
+ "PH-BUK": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Bukidnon",
+  "local": "Bukidnon"
+ },
+ "PH-BUL": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Bulacan",
+  "local": "Bulacan"
+ },
+ "PH-CAG": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Cagayan",
+  "local": "Cagayan"
+ },
+ "PH-CAM": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Camiguin",
+  "local": "Camiguin"
+ },
+ "PH-CAN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Camarines Norte",
+  "local": "Camarines Norte"
+ },
+ "PH-CAP": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Capiz",
+  "local": "Capiz"
+ },
+ "PH-CAS": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Camarines Sur",
+  "local": "Camarines Sur"
+ },
+ "PH-CAT": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Catanduanes",
+  "local": "Catanduanes"
+ },
+ "PH-CAV": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Cavite",
+  "local": "Cavite"
+ },
+ "PH-CEB": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Cebu",
+  "local": "Cebu"
+ },
+ "PH-COM": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Davao de Oro",
+  "local": "Davao de Oro"
+ },
+ "PH-DAO": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Davao Oriental",
+  "local": "Davao Oriental"
+ },
+ "PH-DAS": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Davao del Sur",
+  "local": "Davao del Sur"
+ },
+ "PH-DAV": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Davao del Norte",
+  "local": "Davao del Norte"
+ },
+ "PH-DIN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Dinagat Islands",
+  "local": "Dinagat Islands"
+ },
+ "PH-DVO": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Davao Occidental",
+  "local": "Davao Occidental"
+ },
+ "PH-EAS": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Eastern Samar",
+  "local": "Eastern Samar"
+ },
+ "PH-GUI": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Guimaras",
+  "local": "Guimaras"
+ },
+ "PH-IFU": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Ifugao",
+  "local": "Ifugao"
+ },
+ "PH-ILI": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Iloilo",
+  "local": "Iloilo"
+ },
+ "PH-ILN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Ilocos Norte",
+  "local": "Ilocos Norte"
+ },
+ "PH-ILS": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Ilocos Sur",
+  "local": "Ilocos Sur"
+ },
+ "PH-ISA": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Isabela",
+  "local": "Isabela"
+ },
+ "PH-KAL": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Kalinga",
+  "local": "Kalinga"
+ },
+ "PH-LAG": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Laguna",
+  "local": "Laguna"
+ },
+ "PH-LAN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Lanao del Norte",
+  "local": "Lanao del Norte"
+ },
+ "PH-LAS": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Lanao del Sur",
+  "local": "Lanao del Sur"
+ },
+ "PH-LEY": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Leyte",
+  "local": "Leyte"
+ },
+ "PH-LUN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "La Union",
+  "local": "La Union"
+ },
+ "PH-MAD": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Marinduque",
+  "local": "Marinduque"
+ },
+ "PH-MAS": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Masbate",
+  "local": "Masbate"
+ },
+ "PH-MDC": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Mindoro Occidental",
+  "local": "Mindoro Occidental"
+ },
+ "PH-MDR": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Mindoro Oriental",
+  "local": "Mindoro Oriental"
+ },
+ "PH-MGN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Maguindanao del Norte",
+  "local": "Maguindanao del Norte"
+ },
+ "PH-MGS": {
+  "aliases": [
+   "PH-MAG"
+  ],
+  "country": "PH",
+  "latin": "Maguindanao del Sur",
+  "local": "Maguindanao del Sur"
+ },
+ "PH-MOU": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Mountain Province",
+  "local": "Mountain Province"
+ },
+ "PH-MSC": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Misamis Occidental",
+  "local": "Misamis Occidental"
+ },
+ "PH-MSR": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Misamis Oriental",
+  "local": "Misamis Oriental"
+ },
+ "PH-NCO": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Cotabato",
+  "local": "Cotabato"
+ },
+ "PH-NEC": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Negros Occidental",
+  "local": "Negros Occidental"
+ },
+ "PH-NER": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Negros Oriental",
+  "local": "Negros Oriental"
+ },
+ "PH-NSA": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Northern Samar",
+  "local": "Northern Samar"
+ },
+ "PH-NUE": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Nueva Ecija",
+  "local": "Nueva Ecija"
+ },
+ "PH-NUV": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Nueva Vizcaya",
+  "local": "Nueva Vizcaya"
+ },
+ "PH-PAM": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Pampanga",
+  "local": "Pampanga"
+ },
+ "PH-PAN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Pangasinan",
+  "local": "Pangasinan"
+ },
+ "PH-PLW": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Palawan",
+  "local": "Palawan"
+ },
+ "PH-QUE": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Quezon",
+  "local": "Quezon"
+ },
+ "PH-QUI": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Quirino",
+  "local": "Quirino"
+ },
+ "PH-RIZ": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Rizal",
+  "local": "Rizal"
+ },
+ "PH-ROM": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Romblon",
+  "local": "Romblon"
+ },
+ "PH-SAR": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Sarangani",
+  "local": "Sarangani"
+ },
+ "PH-SCO": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "South Cotabato",
+  "local": "South Cotabato"
+ },
+ "PH-SIG": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Siquijor",
+  "local": "Siquijor"
+ },
+ "PH-SLE": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Southern Leyte",
+  "local": "Southern Leyte"
+ },
+ "PH-SLU": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Sulu",
+  "local": "Sulu"
+ },
+ "PH-SOR": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Sorsogon",
+  "local": "Sorsogon"
+ },
+ "PH-SUK": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Sultan Kudarat",
+  "local": "Sultan Kudarat"
+ },
+ "PH-SUN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Surigao del Norte",
+  "local": "Surigao del Norte"
+ },
+ "PH-SUR": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Surigao del Sur",
+  "local": "Surigao del Sur"
+ },
+ "PH-TAR": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Tarlac",
+  "local": "Tarlac"
+ },
+ "PH-TAW": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Tawi-Tawi",
+  "local": "Tawi-Tawi"
+ },
+ "PH-WSA": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Samar",
+  "local": "Samar"
+ },
+ "PH-ZAN": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Zamboanga del Norte",
+  "local": "Zamboanga del Norte"
+ },
+ "PH-ZAS": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Zamboanga del Sur",
+  "local": "Zamboanga del Sur"
+ },
+ "PH-ZMB": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Zambales",
+  "local": "Zambales"
+ },
+ "PH-ZSI": {
+  "aliases": [],
+  "country": "PH",
+  "latin": "Zamboanga Sibugay",
+  "local": "Zamboanga Sibugay"
+ },
+ "PW-002": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Aimeliik",
+  "local": "Aimeliik"
+ },
+ "PW-004": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Airai",
+  "local": "Airai"
+ },
+ "PW-010": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Angaur",
+  "local": "Angaur"
+ },
+ "PW-050": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Hatohobei",
+  "local": "Hatohobei"
+ },
+ "PW-100": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Kayangel",
+  "local": "Kayangel"
+ },
+ "PW-150": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Koror",
+  "local": "Koror"
+ },
+ "PW-212": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Melekeok",
+  "local": "Melekeok"
+ },
+ "PW-214": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Ngaraard",
+  "local": "Ngaraard"
+ },
+ "PW-218": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Ngarchelong",
+  "local": "Ngarchelong"
+ },
+ "PW-222": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Ngardmau",
+  "local": "Ngardmau"
+ },
+ "PW-224": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Ngatpang",
+  "local": "Ngatpang"
+ },
+ "PW-226": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Ngchesar",
+  "local": "Ngchesar"
+ },
+ "PW-227": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Ngeremlengui",
+  "local": "Ngeremlengui"
+ },
+ "PW-228": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Ngiwal",
+  "local": "Ngiwal"
+ },
+ "PW-350": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Peleliu",
+  "local": "Peleliu"
+ },
+ "PW-370": {
+  "aliases": [],
+  "country": "PW",
+  "latin": "Sonsorol",
+  "local": "Sonsorol"
+ },
+ "PY-1": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Concepción",
+  "local": "Concepción"
+ },
+ "PY-10": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Alto Paraná",
+  "local": "Alto Paraná"
+ },
+ "PY-11": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Central",
+  "local": "Central"
+ },
+ "PY-12": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Ñeembucú",
+  "local": "Ñeembucú"
+ },
+ "PY-13": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Amambay",
+  "local": "Amambay"
+ },
+ "PY-14": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Canindeyú",
+  "local": "Canindeyú"
+ },
+ "PY-15": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Presidente Hayes",
+  "local": "Presidente Hayes"
+ },
+ "PY-16": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Alto Paraguay",
+  "local": "Alto Paraguay"
+ },
+ "PY-19": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Boquerón",
+  "local": "Boquerón"
+ },
+ "PY-2": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "San Pedro",
+  "local": "San Pedro"
+ },
+ "PY-3": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Cordillera",
+  "local": "Cordillera"
+ },
+ "PY-4": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Guairá",
+  "local": "Guairá"
+ },
+ "PY-5": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Caaguazú",
+  "local": "Caaguazú"
+ },
+ "PY-6": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Caazapá",
+  "local": "Caazapá"
+ },
+ "PY-7": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Itapúa",
+  "local": "Itapúa"
+ },
+ "PY-8": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Misiones",
+  "local": "Misiones"
+ },
+ "PY-9": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Paraguarí",
+  "local": "Paraguarí"
+ },
+ "PY-ASU": {
+  "aliases": [],
+  "country": "PY",
+  "latin": "Asunción",
+  "local": "Asunción"
+ },
+ "RO-AB": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Alba",
+  "local": "Alba"
+ },
+ "RO-AG": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Argeș",
+  "local": "Argeș"
+ },
+ "RO-AR": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Arad",
+  "local": "Arad"
+ },
+ "RO-B": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "București",
+  "local": "București"
+ },
+ "RO-BC": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Bacău",
+  "local": "Bacău"
+ },
+ "RO-BH": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Bihor",
+  "local": "Bihor"
+ },
+ "RO-BN": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Bistrița-Năsăud",
+  "local": "Bistrița-Năsăud"
+ },
+ "RO-BR": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Brăila",
+  "local": "Brăila"
+ },
+ "RO-BT": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Botoșani",
+  "local": "Botoșani"
+ },
+ "RO-BV": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Brașov",
+  "local": "Brașov"
+ },
+ "RO-BZ": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Buzău",
+  "local": "Buzău"
+ },
+ "RO-CJ": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Cluj",
+  "local": "Cluj"
+ },
+ "RO-CL": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Călărași",
+  "local": "Călărași"
+ },
+ "RO-CS": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Caraș-Severin",
+  "local": "Caraș-Severin"
+ },
+ "RO-CT": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Constanța",
+  "local": "Constanța"
+ },
+ "RO-CV": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Covasna",
+  "local": "Covasna"
+ },
+ "RO-DB": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Dâmbovița",
+  "local": "Dâmbovița"
+ },
+ "RO-DJ": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Dolj",
+  "local": "Dolj"
+ },
+ "RO-GJ": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Gorj",
+  "local": "Gorj"
+ },
+ "RO-GL": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Galați",
+  "local": "Galați"
+ },
+ "RO-GR": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Giurgiu",
+  "local": "Giurgiu"
+ },
+ "RO-HD": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Hunedoara",
+  "local": "Hunedoara"
+ },
+ "RO-HR": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Harghita",
+  "local": "Harghita"
+ },
+ "RO-IF": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Ilfov",
+  "local": "Ilfov"
+ },
+ "RO-IL": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Ialomița",
+  "local": "Ialomița"
+ },
+ "RO-IS": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Iași",
+  "local": "Iași"
+ },
+ "RO-MH": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Mehedinți",
+  "local": "Mehedinți"
+ },
+ "RO-MM": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Maramureș",
+  "local": "Maramureș"
+ },
+ "RO-MS": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Mureș",
+  "local": "Mureș"
+ },
+ "RO-NT": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Neamț",
+  "local": "Neamț"
+ },
+ "RO-OT": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Olt",
+  "local": "Olt"
+ },
+ "RO-PH": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Prahova",
+  "local": "Prahova"
+ },
+ "RO-SB": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Sibiu",
+  "local": "Sibiu"
+ },
+ "RO-SJ": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Sălaj",
+  "local": "Sălaj"
+ },
+ "RO-SM": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Satu Mare",
+  "local": "Satu Mare"
+ },
+ "RO-SV": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Suceava",
+  "local": "Suceava"
+ },
+ "RO-TL": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Tulcea",
+  "local": "Tulcea"
+ },
+ "RO-TM": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Timiș",
+  "local": "Timiș"
+ },
+ "RO-TR": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Teleorman",
+  "local": "Teleorman"
+ },
+ "RO-VL": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Vâlcea",
+  "local": "Vâlcea"
+ },
+ "RO-VN": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Vrancea",
+  "local": "Vrancea"
+ },
+ "RO-VS": {
+  "aliases": [],
+  "country": "RO",
+  "latin": "Vaslui",
+  "local": "Vaslui"
+ },
+ "RU-AD": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Adygeya",
+  "local": "Республика Адыгея"
+ },
+ "RU-AL": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Altay",
+  "local": "Республика Алтай"
+ },
+ "RU-ALT": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Altayskiy kray",
+  "local": "Алтайский край"
+ },
+ "RU-AMU": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Amurskaya oblast'",
+  "local": "Амурская область"
+ },
+ "RU-ARK": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Arkhangel'skaya oblast'",
+  "local": "Архангельская область"
+ },
+ "RU-AST": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Astrakhanskaya oblast'",
+  "local": "Астраханская область"
+ },
+ "RU-BA": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Bashkortostan",
+  "local": "Республика Башкортостан"
+ },
+ "RU-BEL": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Belgorodskaya oblast'",
+  "local": "Белгородская область"
+ },
+ "RU-BRY": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Bryanskaya oblast'",
+  "local": "Брянская область"
+ },
+ "RU-BU": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Buryatiya",
+  "local": "Республика Бурятия"
+ },
+ "RU-CE": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Chechenskaya Respublika",
+  "local": "Чеченская Республика"
+ },
+ "RU-CHE": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Chelyabinskaya oblast'",
+  "local": "Челябинская область"
+ },
+ "RU-CHU": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Chukotskiy avtonomnyy okrug",
+  "local": "Чукотский автономный округ"
+ },
+ "RU-CU": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Chuvashskaya Respublika",
+  "local": "Чувашская Республика"
+ },
+ "RU-DA": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Dagestan",
+  "local": "Республика Дагестан"
+ },
+ "RU-IN": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Ingushetiya",
+  "local": "Республика Ингушетия"
+ },
+ "RU-IRK": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Irkutskaya oblast'",
+  "local": "Иркутская область"
+ },
+ "RU-IVA": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Ivanovskaya oblast'",
+  "local": "Ивановская область"
+ },
+ "RU-KAM": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Kamchatskiy kray",
+  "local": "Камчатский край"
+ },
+ "RU-KB": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Kabardino-Balkarskaya Respublika",
+  "local": "Кабардино-Балкарская Республика"
+ },
+ "RU-KC": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Karachayevo-Cherkesskaya Respublika",
+  "local": "Карачаево-Черкесская Республика"
+ },
+ "RU-KDA": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Krasnodarskiy kray",
+  "local": "Краснодарский край"
+ },
+ "RU-KEM": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Kemerovskaya oblast'",
+  "local": "Кемеровская область"
+ },
+ "RU-KGD": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Kaliningradskaya oblast'",
+  "local": "Калининградская область"
+ },
+ "RU-KGN": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Kurganskaya oblast'",
+  "local": "Курганская область"
+ },
+ "RU-KHA": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Khabarovskiy kray",
+  "local": "Хабаровский край"
+ },
+ "RU-KHM": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Khanty-Mansiyskiy avtonomnyy okrug",
+  "local": "Ханты-Мансийский автономный округ"
+ },
+ "RU-KIR": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Kirovskaya oblast'",
+  "local": "Кировская область"
+ },
+ "RU-KK": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Khakasiya",
+  "local": "Республика Хакасия"
+ },
+ "RU-KL": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Kalmykiya",
+  "local": "Республика Калмыкия"
+ },
+ "RU-KLU": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Kaluzhskaya oblast'",
+  "local": "Калужская область"
+ },
+ "RU-KO": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Komi",
+  "local": "Республика Коми"
+ },
+ "RU-KOS": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Kostromskaya oblast'",
+  "local": "Костромская область"
+ },
+ "RU-KR": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Kareliya",
+  "local": "Республика Карелия"
+ },
+ "RU-KRS": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Kurskaya oblast'",
+  "local": "Курская область"
+ },
+ "RU-KYA": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Krasnoyarskiy kray",
+  "local": "Красноярский край"
+ },
+ "RU-LEN": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Leningradskaya oblast'",
+  "local": "Ленинградская область"
+ },
+ "RU-LIP": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Lipetskaya oblast'",
+  "local": "Липецкая область"
+ },
+ "RU-MAG": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Magadanskaya oblast'",
+  "local": "Магаданская область"
+ },
+ "RU-ME": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Mariy El",
+  "local": "Республика Марий Эл"
+ },
+ "RU-MO": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Mordoviya",
+  "local": "Республика Мордовия"
+ },
+ "RU-MOS": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Moskovskaya oblast'",
+  "local": "Московская область"
+ },
+ "RU-MOW": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Moskva",
+  "local": "Москва"
+ },
+ "RU-MUR": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Murmanskaya oblast'",
+  "local": "Мурманская область"
+ },
+ "RU-NEN": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Nenetskiy avtonomnyy okrug",
+  "local": "Ненецкий автономный округ"
+ },
+ "RU-NGR": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Novgorodskaya oblast'",
+  "local": "Новгородская область"
+ },
+ "RU-NIZ": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Nizhegorodskaya oblast'",
+  "local": "Нижегородская область"
+ },
+ "RU-NVS": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Novosibirskaya oblast'",
+  "local": "Новосибирская область"
+ },
+ "RU-OMS": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Omskaya oblast'",
+  "local": "Омская область"
+ },
+ "RU-ORE": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Orenburgskaya oblast'",
+  "local": "Оренбургская область"
+ },
+ "RU-ORL": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Orlovskaya oblast'",
+  "local": "Орловская область"
+ },
+ "RU-PER": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Permskiy kray",
+  "local": "Пермский край"
+ },
+ "RU-PNZ": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Penzenskaya oblast'",
+  "local": "Пензенская область"
+ },
+ "RU-PRI": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Primorskiy kray",
+  "local": "Приморский край"
+ },
+ "RU-PSK": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Pskovskaya oblast'",
+  "local": "Псковская область"
+ },
+ "RU-ROS": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Rostovskaya oblast'",
+  "local": "Ростовская область"
+ },
+ "RU-RYA": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Ryazanskaya oblast'",
+  "local": "Рязанская область"
+ },
+ "RU-SA": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Saha",
+  "local": "Республика Саха (Якутия)"
+ },
+ "RU-SAK": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Sakhalinskaya oblast'",
+  "local": "Сахалинская область"
+ },
+ "RU-SAM": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Samarskaya oblast'",
+  "local": "Самарская область"
+ },
+ "RU-SAR": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Saratovskaya oblast'",
+  "local": "Саратовская область"
+ },
+ "RU-SE": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Severnaya Osetiya",
+  "local": "Республика Северная Осетия-Алания"
+ },
+ "RU-SMO": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Smolenskaya oblast'",
+  "local": "Смоленская область"
+ },
+ "RU-SPE": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Sankt-Peterburg",
+  "local": "Санкт-Петербург"
+ },
+ "RU-STA": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Stavropol'skiy kray",
+  "local": "Ставропольский край"
+ },
+ "RU-SVE": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Sverdlovskaya oblast'",
+  "local": "Свердловская область"
+ },
+ "RU-TA": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Tatarstan",
+  "local": "Республика Татарстан"
+ },
+ "RU-TAM": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Tambovskaya oblast'",
+  "local": "Тамбовская область"
+ },
+ "RU-TOM": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Tomskaya oblast'",
+  "local": "Томская область"
+ },
+ "RU-TUL": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Tul'skaya oblast'",
+  "local": "Тульская область"
+ },
+ "RU-TVE": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Tverskaya oblast'",
+  "local": "Тверская область"
+ },
+ "RU-TY": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Respublika Tyva",
+  "local": "Республика Тыва"
+ },
+ "RU-TYU": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Tyumenskaya oblast'",
+  "local": "Тюменская область"
+ },
+ "RU-UD": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Udmurtskaya Respublika",
+  "local": "Республика Удмуртия"
+ },
+ "RU-ULY": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Ul'yanovskaya oblast'",
+  "local": "Ульяновская область"
+ },
+ "RU-VGG": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Volgogradskaya oblast'",
+  "local": "Волгоградская область"
+ },
+ "RU-VLA": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Vladimirskaya oblast'",
+  "local": "Владимирская область"
+ },
+ "RU-VLG": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Vologodskaya oblast'",
+  "local": "Вологодская область"
+ },
+ "RU-VOR": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Voronezhskaya oblast'",
+  "local": "Воронежская область"
+ },
+ "RU-YAN": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Yamalo-Nenetskiy avtonomnyy okrug",
+  "local": "Ямало-Ненецкий автономный округ"
+ },
+ "RU-YAR": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Yaroslavskaya oblast'",
+  "local": "Ярославская область"
+ },
+ "RU-YEV": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Yevreyskaya avtonomnaya oblast'",
+  "local": "Еврейская автономная область"
+ },
+ "RU-ZAB": {
+  "aliases": [],
+  "country": "RU",
+  "latin": "Zabaykal'skiy kray",
+  "local": "Забайкальский край"
+ },
+ "SO-AW": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Awdal",
+  "local": "Awdal"
+ },
+ "SO-BK": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Bakool",
+  "local": "Bakool"
+ },
+ "SO-BN": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Banaadir",
+  "local": "Banaadir"
+ },
+ "SO-BR": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Bari",
+  "local": "Bari"
+ },
+ "SO-BY": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Bay",
+  "local": "Bay"
+ },
+ "SO-GA": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Galguduud",
+  "local": "Galguduud"
+ },
+ "SO-GE": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Gedo",
+  "local": "Gedo"
+ },
+ "SO-HI": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Hiiraan",
+  "local": "Hiiraan"
+ },
+ "SO-JD": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Jubbada Dhexe",
+  "local": "Jubbada Dhexe"
+ },
+ "SO-JH": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Jubbada Hoose",
+  "local": "Jubbada Hoose"
+ },
+ "SO-MU": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Mudug",
+  "local": "Mudug"
+ },
+ "SO-NU": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Nugaal",
+  "local": "Nugaal"
+ },
+ "SO-SA": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Sanaag",
+  "local": "Sanaag"
+ },
+ "SO-SD": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Shabeellaha Dhexe",
+  "local": "Shabeellaha Dhexe"
+ },
+ "SO-SH": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Shabeellaha Hoose",
+  "local": "Shabeellaha Hoose"
+ },
+ "SO-SO": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Sool",
+  "local": "Sool"
+ },
+ "SO-TO": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Togdheer",
+  "local": "Togdheer"
+ },
+ "SO-WO": {
+  "aliases": [],
+  "country": "SO",
+  "latin": "Woqooyi Galbeed",
+  "local": "Woqooyi Galbeed"
+ },
+ "SR-BR": {
+  "aliases": [],
+  "country": "SR",
+  "latin": "Brokopondo",
+  "local": "Brokopondo"
+ },
+ "SR-CM": {
+  "aliases": [],
+  "country": "SR",
+  "latin": "Commewijne",
+  "local": "Commewijne"
+ },
+ "SR-CR": {
+  "aliases": [],
+  "country": "SR",
+  "latin": "Coronie",
+  "local": "Coronie"
+ },
+ "SR-MA": {
+  "aliases": [],
+  "country": "SR",
+  "latin": "Marowijne",
+  "local": "Marowijne"
+ },
+ "SR-NI": {
+  "aliases": [],
+  "country": "SR",
+  "latin": "Nickerie",
+  "local": "Nickerie"
+ },
+ "SR-PM": {
+  "aliases": [],
+  "country": "SR",
+  "latin": "Paramaribo",
+  "local": "Paramaribo"
+ },
+ "SR-PR": {
+  "aliases": [],
+  "country": "SR",
+  "latin": "Para",
+  "local": "Para"
+ },
+ "SR-SA": {
+  "aliases": [],
+  "country": "SR",
+  "latin": "Saramacca",
+  "local": "Saramacca"
+ },
+ "SR-SI": {
+  "aliases": [],
+  "country": "SR",
+  "latin": "Sipaliwini",
+  "local": "Sipaliwini"
+ },
+ "SR-WA": {
+  "aliases": [],
+  "country": "SR",
+  "latin": "Wanica",
+  "local": "Wanica"
+ },
+ "SV-AH": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "Ahuachapán",
+  "local": "Ahuachapán"
+ },
+ "SV-CA": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "Cabañas",
+  "local": "Cabañas"
+ },
+ "SV-CH": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "Chalatenango",
+  "local": "Chalatenango"
+ },
+ "SV-CU": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "Cuscatlán",
+  "local": "Cuscatlán"
+ },
+ "SV-LI": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "La Libertad",
+  "local": "La Libertad"
+ },
+ "SV-MO": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "Morazán",
+  "local": "Morazán"
+ },
+ "SV-PA": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "La Paz",
+  "local": "La Paz"
+ },
+ "SV-SA": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "Santa Ana",
+  "local": "Santa Ana"
+ },
+ "SV-SM": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "San Miguel",
+  "local": "San Miguel"
+ },
+ "SV-SO": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "Sonsonate",
+  "local": "Sonsonate"
+ },
+ "SV-SS": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "San Salvador",
+  "local": "San Salvador"
+ },
+ "SV-SV": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "San Vicente",
+  "local": "San Vicente"
+ },
+ "SV-UN": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "La Unión",
+  "local": "La Unión"
+ },
+ "SV-US": {
+  "aliases": [],
+  "country": "SV",
+  "latin": "Usulután",
+  "local": "Usulután"
+ },
+ "TH-10": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Krung Thep Maha Nakhon",
+  "local": "กรุงเทพมหานคร"
+ },
+ "TH-11": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Samut Prakan",
+  "local": "สมุทรปราการ"
+ },
+ "TH-12": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Nonthaburi",
+  "local": "นนทบุรี"
+ },
+ "TH-13": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Pathum Thani",
+  "local": "ปทุมธานี"
+ },
+ "TH-14": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Phra Nakhon Si Ayutthaya",
+  "local": "พระนครศรีอยุธยา"
+ },
+ "TH-15": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Ang Thong",
+  "local": "อ่างทอง"
+ },
+ "TH-16": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Lop Buri",
+  "local": "ลพบุรี"
+ },
+ "TH-17": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Sing Buri",
+  "local": "สิงห์บุรี"
+ },
+ "TH-18": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Chai Nat",
+  "local": "ชัยนาท"
+ },
+ "TH-19": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Saraburi",
+  "local": "สระบุรี"
+ },
+ "TH-20": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Chon Buri",
+  "local": "ชลบุรี"
+ },
+ "TH-21": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Rayong",
+  "local": "ระยอง"
+ },
+ "TH-22": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Chanthaburi",
+  "local": "จันทบุรี"
+ },
+ "TH-23": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Trat",
+  "local": "ตราด"
+ },
+ "TH-24": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Chachoengsao",
+  "local": "ฉะเชิงเทรา"
+ },
+ "TH-25": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Prachin Buri",
+  "local": "ปราจีนบุรี"
+ },
+ "TH-26": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Nakhon Nayok",
+  "local": "นครนายก"
+ },
+ "TH-27": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Sa Kaeo",
+  "local": "สระแก้ว"
+ },
+ "TH-30": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Nakhon Ratchasima",
+  "local": "นครราชสีมา"
+ },
+ "TH-31": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Buri Ram",
+  "local": "บุรีรัมย์"
+ },
+ "TH-32": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Surin",
+  "local": "สุรินทร์"
+ },
+ "TH-33": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Si Sa Ket",
+  "local": "ศรีสะเกษ"
+ },
+ "TH-34": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Ubon Ratchathani",
+  "local": "อุบลราชธานี"
+ },
+ "TH-35": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Yasothon",
+  "local": "ยโสธร"
+ },
+ "TH-36": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Chaiyaphum",
+  "local": "ชัยภูมิ"
+ },
+ "TH-37": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Amnat Charoen",
+  "local": "อำนาจเจริญ"
+ },
+ "TH-38": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Bueng Kan",
+  "local": "จังหวัด บึงกาฬ"
+ },
+ "TH-39": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Nong Bua Lam Phu",
+  "local": "หนองบัวลำภู"
+ },
+ "TH-40": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Khon Kaen",
+  "local": "ขอนแก่น"
+ },
+ "TH-41": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Udon Thani",
+  "local": "อุดรธานี"
+ },
+ "TH-42": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Loei",
+  "local": "เลย"
+ },
+ "TH-43": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Nong Khai",
+  "local": "หนองคาย"
+ },
+ "TH-44": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Maha Sarakham",
+  "local": "มหาสารคาม"
+ },
+ "TH-45": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Roi Et",
+  "local": "ร้อยเอ็ด"
+ },
+ "TH-46": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Kalasin",
+  "local": "กาฬสินธุ์"
+ },
+ "TH-47": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Sakon Nakhon",
+  "local": "สกลนคร"
+ },
+ "TH-48": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Nakhon Phanom",
+  "local": "นครพนม"
+ },
+ "TH-49": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Mukdahan",
+  "local": "มุกดาหาร"
+ },
+ "TH-50": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Chiang Mai",
+  "local": "เชียงใหม่"
+ },
+ "TH-51": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Lamphun",
+  "local": "ลำพูน"
+ },
+ "TH-52": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Lampang",
+  "local": "ลำปาง"
+ },
+ "TH-53": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Uttaradit",
+  "local": "อุตรดิตถ์"
+ },
+ "TH-54": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Phrae",
+  "local": "แพร่"
+ },
+ "TH-55": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Nan",
+  "local": "น่าน"
+ },
+ "TH-56": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Phayao",
+  "local": "พะเยา"
+ },
+ "TH-57": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Chiang Rai",
+  "local": "เชียงราย"
+ },
+ "TH-58": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Mae Hong Son",
+  "local": "แม่ฮ่องสอน"
+ },
+ "TH-60": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Nakhon Sawan",
+  "local": "นครสวรรค์"
+ },
+ "TH-61": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Uthai Thani",
+  "local": "อุทัยธานี"
+ },
+ "TH-62": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Kamphaeng Phet",
+  "local": "กำแพงเพชร"
+ },
+ "TH-63": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Tak",
+  "local": "ตาก"
+ },
+ "TH-64": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Sukhothai",
+  "local": "สุโขทัย"
+ },
+ "TH-65": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Phitsanulok",
+  "local": "พิษณุโลก"
+ },
+ "TH-66": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Phichit",
+  "local": "พิจิตร"
+ },
+ "TH-67": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Phetchabun",
+  "local": "เพชรบูรณ์"
+ },
+ "TH-70": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Ratchaburi",
+  "local": "ราชบุรี"
+ },
+ "TH-71": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Kanchanaburi",
+  "local": "กาญจนบุรี"
+ },
+ "TH-72": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Suphan Buri",
+  "local": "สุพรรณบุรี"
+ },
+ "TH-73": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Nakhon Pathom",
+  "local": "นครปฐม"
+ },
+ "TH-74": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Samut Sakhon",
+  "local": "สมุทรสาคร"
+ },
+ "TH-75": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Samut Songkhram",
+  "local": "สมุทรสงคราม"
+ },
+ "TH-76": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Phetchaburi",
+  "local": "เพชรบุรี"
+ },
+ "TH-77": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Prachuap Khiri Khan",
+  "local": "ประจวบคีรีขันธ์"
+ },
+ "TH-80": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Nakhon Si Thammarat",
+  "local": "นครศรีธรรมราช"
+ },
+ "TH-81": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Krabi",
+  "local": "กระบี่"
+ },
+ "TH-82": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Phangnga",
+  "local": "พังงา"
+ },
+ "TH-83": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Phuket",
+  "local": "ภูเก็ต"
+ },
+ "TH-84": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Surat Thani",
+  "local": "สุราษฎร์ธานี"
+ },
+ "TH-85": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Ranong",
+  "local": "ระนอง"
+ },
+ "TH-86": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Chumphon",
+  "local": "ชุมพร"
+ },
+ "TH-90": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Songkhla",
+  "local": "สงขลา"
+ },
+ "TH-91": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Satun",
+  "local": "สตูล"
+ },
+ "TH-92": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Trang",
+  "local": "ตรัง"
+ },
+ "TH-93": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Phatthalung",
+  "local": "พัทลุง"
+ },
+ "TH-94": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Pattani",
+  "local": "ปัตตานี"
+ },
+ "TH-95": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Yala",
+  "local": "ยะลา"
+ },
+ "TH-96": {
+  "aliases": [],
+  "country": "TH",
+  "latin": "Narathiwat",
+  "local": "นราธิวาส"
+ },
+ "TM-A": {
+  "aliases": [],
+  "country": "TM",
+  "latin": "Ahal",
+  "local": "Ahal"
+ },
+ "TM-B": {
+  "aliases": [],
+  "country": "TM",
+  "latin": "Balkan",
+  "local": "Balkan"
+ },
+ "TM-D": {
+  "aliases": [],
+  "country": "TM",
+  "latin": "Daşoguz",
+  "local": "Daşoguz"
+ },
+ "TM-L": {
+  "aliases": [],
+  "country": "TM",
+  "latin": "Lebap",
+  "local": "Lebap"
+ },
+ "TM-M": {
+  "aliases": [],
+  "country": "TM",
+  "latin": "Mary",
+  "local": "Mary"
+ },
+ "TM-S": {
+  "aliases": [],
+  "country": "TM",
+  "latin": "Aşgabat",
+  "local": "Aşgabat"
+ },
+ "TR-01": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Adana",
+  "local": "Adana"
+ },
+ "TR-02": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Adıyaman",
+  "local": "Adıyaman"
+ },
+ "TR-03": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Afyonkarahisar",
+  "local": "Afyonkarahisar"
+ },
+ "TR-04": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Ağrı",
+  "local": "Ağrı"
+ },
+ "TR-05": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Amasya",
+  "local": "Amasya"
+ },
+ "TR-06": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Ankara",
+  "local": "Ankara"
+ },
+ "TR-07": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Antalya",
+  "local": "Antalya"
+ },
+ "TR-08": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Artvin",
+  "local": "Artvin"
+ },
+ "TR-09": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Aydın",
+  "local": "Aydın"
+ },
+ "TR-10": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Balıkesir",
+  "local": "Balıkesir"
+ },
+ "TR-11": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Bilecik",
+  "local": "Bilecik"
+ },
+ "TR-12": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Bingöl",
+  "local": "Bingöl"
+ },
+ "TR-13": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Bitlis",
+  "local": "Bitlis"
+ },
+ "TR-14": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Bolu",
+  "local": "Bolu"
+ },
+ "TR-15": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Burdur",
+  "local": "Burdur"
+ },
+ "TR-16": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Bursa",
+  "local": "Bursa"
+ },
+ "TR-17": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Çanakkale",
+  "local": "Çanakkale"
+ },
+ "TR-18": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Çankırı",
+  "local": "Çankırı"
+ },
+ "TR-19": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Çorum",
+  "local": "Çorum"
+ },
+ "TR-20": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Denizli",
+  "local": "Denizli"
+ },
+ "TR-21": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Diyarbakır",
+  "local": "Diyarbakır"
+ },
+ "TR-22": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Edirne",
+  "local": "Edirne"
+ },
+ "TR-23": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Elazığ",
+  "local": "Elazığ"
+ },
+ "TR-24": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Erzincan",
+  "local": "Erzincan"
+ },
+ "TR-25": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Erzurum",
+  "local": "Erzurum"
+ },
+ "TR-26": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Eskişehir",
+  "local": "Eskişehir"
+ },
+ "TR-27": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Gaziantep",
+  "local": "Gaziantep"
+ },
+ "TR-28": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Giresun",
+  "local": "Giresun"
+ },
+ "TR-29": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Gümüşhane",
+  "local": "Gümüşhane"
+ },
+ "TR-30": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Hakkâri",
+  "local": "Hakkâri"
+ },
+ "TR-31": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Hatay",
+  "local": "Hatay"
+ },
+ "TR-32": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Isparta",
+  "local": "Isparta"
+ },
+ "TR-33": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Mersin",
+  "local": "Mersin"
+ },
+ "TR-34": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "İstanbul",
+  "local": "İstanbul"
+ },
+ "TR-35": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "İzmir",
+  "local": "İzmir"
+ },
+ "TR-36": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Kars",
+  "local": "Kars"
+ },
+ "TR-37": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Kastamonu",
+  "local": "Kastamonu"
+ },
+ "TR-38": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Kayseri",
+  "local": "Kayseri"
+ },
+ "TR-39": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Kırklareli",
+  "local": "Kırklareli"
+ },
+ "TR-40": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Kırşehir",
+  "local": "Kırşehir"
+ },
+ "TR-41": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Kocaeli",
+  "local": "Kocaeli"
+ },
+ "TR-42": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Konya",
+  "local": "Konya"
+ },
+ "TR-43": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Kütahya",
+  "local": "Kütahya"
+ },
+ "TR-44": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Malatya",
+  "local": "Malatya"
+ },
+ "TR-45": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Manisa",
+  "local": "Manisa"
+ },
+ "TR-46": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Kahramanmaraş",
+  "local": "Kahramanmaraş"
+ },
+ "TR-47": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Mardin",
+  "local": "Mardin"
+ },
+ "TR-48": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Muğla",
+  "local": "Muğla"
+ },
+ "TR-49": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Muş",
+  "local": "Muş"
+ },
+ "TR-50": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Nevşehir",
+  "local": "Nevşehir"
+ },
+ "TR-51": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Niğde",
+  "local": "Niğde"
+ },
+ "TR-52": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Ordu",
+  "local": "Ordu"
+ },
+ "TR-53": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Rize",
+  "local": "Rize"
+ },
+ "TR-54": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Sakarya",
+  "local": "Sakarya"
+ },
+ "TR-55": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Samsun",
+  "local": "Samsun"
+ },
+ "TR-56": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Siirt",
+  "local": "Siirt"
+ },
+ "TR-57": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Sinop",
+  "local": "Sinop"
+ },
+ "TR-58": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Sivas",
+  "local": "Sivas"
+ },
+ "TR-59": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Tekirdağ",
+  "local": "Tekirdağ"
+ },
+ "TR-60": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Tokat",
+  "local": "Tokat"
+ },
+ "TR-61": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Trabzon",
+  "local": "Trabzon"
+ },
+ "TR-62": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Tunceli",
+  "local": "Tunceli"
+ },
+ "TR-63": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Şanlıurfa",
+  "local": "Şanlıurfa"
+ },
+ "TR-64": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Uşak",
+  "local": "Uşak"
+ },
+ "TR-65": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Van",
+  "local": "Van"
+ },
+ "TR-66": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Yozgat",
+  "local": "Yozgat"
+ },
+ "TR-67": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Zonguldak",
+  "local": "Zonguldak"
+ },
+ "TR-68": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Aksaray",
+  "local": "Aksaray"
+ },
+ "TR-69": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Bayburt",
+  "local": "Bayburt"
+ },
+ "TR-70": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Karaman",
+  "local": "Karaman"
+ },
+ "TR-71": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Kırıkkale",
+  "local": "Kırıkkale"
+ },
+ "TR-72": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Batman",
+  "local": "Batman"
+ },
+ "TR-73": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Şırnak",
+  "local": "Şırnak"
+ },
+ "TR-74": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Bartın",
+  "local": "Bartın"
+ },
+ "TR-75": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Ardahan",
+  "local": "Ardahan"
+ },
+ "TR-76": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Iğdır",
+  "local": "Iğdır"
+ },
+ "TR-77": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Yalova",
+  "local": "Yalova"
+ },
+ "TR-78": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Karabük",
+  "local": "Karabük"
+ },
+ "TR-79": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Kilis",
+  "local": "Kilis"
+ },
+ "TR-80": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Osmaniye",
+  "local": "Osmaniye"
+ },
+ "TR-81": {
+  "aliases": [],
+  "country": "TR",
+  "latin": "Düzce",
+  "local": "Düzce"
+ },
+ "TV-FUN": {
+  "aliases": [],
+  "country": "TV",
+  "latin": "Funafuti",
+  "local": "Funafuti"
+ },
+ "TV-NIT": {
+  "aliases": [],
+  "country": "TV",
+  "latin": "Niutao",
+  "local": "Niutao"
+ },
+ "TV-NIULAKITA": {
+  "aliases": [],
+  "country": "TV",
+  "latin": "Niulakita",
+  "local": "Niulakita"
+ },
+ "TV-NKF": {
+  "aliases": [],
+  "country": "TV",
+  "latin": "Nukufetau",
+  "local": "Nukufetau"
+ },
+ "TV-NKL": {
+  "aliases": [],
+  "country": "TV",
+  "latin": "Nukulaelae",
+  "local": "Nukulaelae"
+ },
+ "TV-NMA": {
+  "aliases": [],
+  "country": "TV",
+  "latin": "Nanumea",
+  "local": "Nanumea"
+ },
+ "TV-NMG": {
+  "aliases": [],
+  "country": "TV",
+  "latin": "Nanumaga",
+  "local": "Nanumaga"
+ },
+ "TV-NUI": {
+  "aliases": [],
+  "country": "TV",
+  "latin": "Nui",
+  "local": "Nui"
+ },
+ "TV-VAI": {
+  "aliases": [],
+  "country": "TV",
+  "latin": "Vaitupu",
+  "local": "Vaitupu"
+ },
+ "TW-CHA": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Changhua",
+  "local": "彰化縣"
+ },
+ "TW-CYI": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Chiayi City",
+  "local": "嘉義市"
+ },
+ "TW-CYQ": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Chiayi County",
+  "local": "嘉義縣"
+ },
+ "TW-HSQ": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Hsinchu County",
+  "local": "新竹縣"
+ },
+ "TW-HSZ": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Hsinchu City",
+  "local": "新竹市"
+ },
+ "TW-HUA": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Hualien",
+  "local": "花蓮縣"
+ },
+ "TW-ILA": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Yilan",
+  "local": "宜蘭縣"
+ },
+ "TW-KEE": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Keelung",
+  "local": "基隆市"
+ },
+ "TW-KHH": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Kaohsiung",
+  "local": "高雄市"
+ },
+ "TW-KIN": {
+  "aliases": [
+   "TW-KINMEN_COUNTY"
+  ],
+  "country": "TW",
+  "latin": "Kinmen",
+  "local": "金門縣"
+ },
+ "TW-LIE": {
+  "aliases": [
+   "TW-LIENCHIANG_COUNTY"
+  ],
+  "country": "TW",
+  "latin": "Lienchiang",
+  "local": "連江縣"
+ },
+ "TW-MIA": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Miaoli",
+  "local": "苗栗縣"
+ },
+ "TW-NAN": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Nantou",
+  "local": "南投縣"
+ },
+ "TW-NWT": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "New Taipei",
+  "local": "新北市"
+ },
+ "TW-PEN": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Penghu",
+  "local": "澎湖縣"
+ },
+ "TW-PIF": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Pingtung",
+  "local": "屏東縣"
+ },
+ "TW-TAO": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Taoyuan",
+  "local": "桃園市"
+ },
+ "TW-TNN": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Tainan",
+  "local": "台南市"
+ },
+ "TW-TPE": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Taipei",
+  "local": "台北市"
+ },
+ "TW-TTT": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Taitung",
+  "local": "台東縣"
+ },
+ "TW-TXG": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Taichung",
+  "local": "台中市"
+ },
+ "TW-YUN": {
+  "aliases": [],
+  "country": "TW",
+  "latin": "Yunlin",
+  "local": "雲林縣"
+ },
+ "TZ-01": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Arusha",
+  "local": "Arusha"
+ },
+ "TZ-02": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Dar es Salaam",
+  "local": "Dar es Salaam"
+ },
+ "TZ-03": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Dodoma",
+  "local": "Dodoma"
+ },
+ "TZ-04": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Iringa",
+  "local": "Iringa"
+ },
+ "TZ-05": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Kagera",
+  "local": "Kagera"
+ },
+ "TZ-06": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Pemba North",
+  "local": "Pemba North"
+ },
+ "TZ-07": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Zanzibar North",
+  "local": "Zanzibar North"
+ },
+ "TZ-08": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Kigoma",
+  "local": "Kigoma"
+ },
+ "TZ-09": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Kilimanjaro",
+  "local": "Kilimanjaro"
+ },
+ "TZ-10": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Pemba South",
+  "local": "Pemba South"
+ },
+ "TZ-11": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Zanzibar South",
+  "local": "Zanzibar South"
+ },
+ "TZ-12": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Lindi",
+  "local": "Lindi"
+ },
+ "TZ-13": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Mara",
+  "local": "Mara"
+ },
+ "TZ-14": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Mbeya",
+  "local": "Mbeya"
+ },
+ "TZ-15": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Zanzibar West",
+  "local": "Zanzibar West"
+ },
+ "TZ-16": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Morogoro",
+  "local": "Morogoro"
+ },
+ "TZ-17": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Mtwara",
+  "local": "Mtwara"
+ },
+ "TZ-18": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Mwanza",
+  "local": "Mwanza"
+ },
+ "TZ-19": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Coast",
+  "local": "Coast"
+ },
+ "TZ-20": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Rukwa",
+  "local": "Rukwa"
+ },
+ "TZ-21": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Ruvuma",
+  "local": "Ruvuma"
+ },
+ "TZ-22": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Shinyanga",
+  "local": "Shinyanga"
+ },
+ "TZ-23": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Singida",
+  "local": "Singida"
+ },
+ "TZ-24": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Tabora",
+  "local": "Tabora"
+ },
+ "TZ-25": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Tanga",
+  "local": "Tanga"
+ },
+ "TZ-26": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Manyara",
+  "local": "Manyara"
+ },
+ "TZ-27": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Geita",
+  "local": "Geita"
+ },
+ "TZ-28": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Katavi",
+  "local": "Katavi"
+ },
+ "TZ-29": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Njombe",
+  "local": "Njombe"
+ },
+ "TZ-30": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Simiyu",
+  "local": "Simiyu"
+ },
+ "TZ-31": {
+  "aliases": [],
+  "country": "TZ",
+  "latin": "Songwe",
+  "local": "Songwe"
+ },
+ "UA-05": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Vinnytska oblast",
+  "local": "Вінницька область"
+ },
+ "UA-07": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Volynska oblast",
+  "local": "Волинська область"
+ },
+ "UA-09": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Luhanska oblast",
+  "local": "Луганська область"
+ },
+ "UA-12": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Dnipropetrovska oblast",
+  "local": "Дніпропетровська область"
+ },
+ "UA-14": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Donetska oblast",
+  "local": "Донецька область"
+ },
+ "UA-18": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Zhytomyrska oblast",
+  "local": "Житомирська область"
+ },
+ "UA-21": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Zakarpatska oblast",
+  "local": "Закарпатська область"
+ },
+ "UA-23": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Zaporizka oblast",
+  "local": "Запорізька область"
+ },
+ "UA-26": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Ivano-Frankivska oblast",
+  "local": "Івано-Франківська область"
+ },
+ "UA-30": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Kyiv",
+  "local": "Київ"
+ },
+ "UA-32": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Kyivska oblast",
+  "local": "Київська область"
+ },
+ "UA-35": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Kirovohradska oblast",
+  "local": "Кіровоградська область"
+ },
+ "UA-40": {
+  "aliases": [
+   "RU-SEVASTOPOL"
+  ],
+  "country": "UA",
+  "latin": "Sevastopol",
+  "local": "Севастополь"
+ },
+ "UA-43": {
+  "aliases": [
+   "RU-RESPUBLIKA_KRYM"
+  ],
+  "country": "UA",
+  "latin": "Avtonomna Respublika Krym",
+  "local": "Автономна Республіка Крим"
+ },
+ "UA-46": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Lvivska oblast",
+  "local": "Львівська область"
+ },
+ "UA-48": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Mykolaivska oblast",
+  "local": "Миколаївська область"
+ },
+ "UA-51": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Odeska oblast",
+  "local": "Одеська область"
+ },
+ "UA-53": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Poltavska oblast",
+  "local": "Полтавська область"
+ },
+ "UA-56": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Rivnenska oblast",
+  "local": "Рівненська область"
+ },
+ "UA-59": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Sumska oblast",
+  "local": "Сумська область"
+ },
+ "UA-61": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Ternopilska oblast",
+  "local": "Тернопільська область"
+ },
+ "UA-63": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Kharkivska oblast",
+  "local": "Харківська область"
+ },
+ "UA-65": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Khersonska oblast",
+  "local": "Херсонська область"
+ },
+ "UA-68": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Khmelnytska oblast",
+  "local": "Хмельницька область"
+ },
+ "UA-71": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Cherkaska oblast",
+  "local": "Черкаська область"
+ },
+ "UA-74": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Chernihivska oblast",
+  "local": "Чернігівська область"
+ },
+ "UA-77": {
+  "aliases": [],
+  "country": "UA",
+  "latin": "Chernivetska oblast",
+  "local": "Чернівецька область"
+ },
+ "US-AA": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Armed Forces Americas",
+  "local": "Armed Forces Americas"
+ },
+ "US-AE": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Armed Forces Europe",
+  "local": "Armed Forces Europe"
+ },
+ "US-AK": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Alaska",
+  "local": "Alaska"
+ },
+ "US-AL": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Alabama",
+  "local": "Alabama"
+ },
+ "US-AP": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Armed Forces Pacific",
+  "local": "Armed Forces Pacific"
+ },
+ "US-AR": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Arkansas",
+  "local": "Arkansas"
+ },
+ "US-AS": {
+  "aliases": [],
+  "country": "US",
+  "latin": "American Samoa",
+  "local": "American Samoa"
+ },
+ "US-AZ": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Arizona",
+  "local": "Arizona"
+ },
+ "US-CA": {
+  "aliases": [],
+  "country": "US",
+  "latin": "California",
+  "local": "California"
+ },
+ "US-CO": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Colorado",
+  "local": "Colorado"
+ },
+ "US-CT": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Connecticut",
+  "local": "Connecticut"
+ },
+ "US-DC": {
+  "aliases": [],
+  "country": "US",
+  "latin": "District of Columbia",
+  "local": "District of Columbia"
+ },
+ "US-DE": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Delaware",
+  "local": "Delaware"
+ },
+ "US-FL": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Florida",
+  "local": "Florida"
+ },
+ "US-FM": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Federated States of Micronesia",
+  "local": "Federated States of Micronesia"
+ },
+ "US-GA": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Georgia",
+  "local": "Georgia"
+ },
+ "US-GU": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Guam",
+  "local": "Guam"
+ },
+ "US-HI": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Hawaii",
+  "local": "Hawaii"
+ },
+ "US-IA": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Iowa",
+  "local": "Iowa"
+ },
+ "US-ID": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Idaho",
+  "local": "Idaho"
+ },
+ "US-IL": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Illinois",
+  "local": "Illinois"
+ },
+ "US-IN": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Indiana",
+  "local": "Indiana"
+ },
+ "US-KS": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Kansas",
+  "local": "Kansas"
+ },
+ "US-KY": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Kentucky",
+  "local": "Kentucky"
+ },
+ "US-LA": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Louisiana",
+  "local": "Louisiana"
+ },
+ "US-MA": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Massachusetts",
+  "local": "Massachusetts"
+ },
+ "US-MD": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Maryland",
+  "local": "Maryland"
+ },
+ "US-ME": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Maine",
+  "local": "Maine"
+ },
+ "US-MH": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Marshall Islands",
+  "local": "Marshall Islands"
+ },
+ "US-MI": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Michigan",
+  "local": "Michigan"
+ },
+ "US-MN": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Minnesota",
+  "local": "Minnesota"
+ },
+ "US-MO": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Missouri",
+  "local": "Missouri"
+ },
+ "US-MP": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Northern Mariana Islands",
+  "local": "Northern Mariana Islands"
+ },
+ "US-MS": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Mississippi",
+  "local": "Mississippi"
+ },
+ "US-MT": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Montana",
+  "local": "Montana"
+ },
+ "US-NC": {
+  "aliases": [],
+  "country": "US",
+  "latin": "North Carolina",
+  "local": "North Carolina"
+ },
+ "US-ND": {
+  "aliases": [],
+  "country": "US",
+  "latin": "North Dakota",
+  "local": "North Dakota"
+ },
+ "US-NE": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Nebraska",
+  "local": "Nebraska"
+ },
+ "US-NH": {
+  "aliases": [],
+  "country": "US",
+  "latin": "New Hampshire",
+  "local": "New Hampshire"
+ },
+ "US-NJ": {
+  "aliases": [],
+  "country": "US",
+  "latin": "New Jersey",
+  "local": "New Jersey"
+ },
+ "US-NM": {
+  "aliases": [],
+  "country": "US",
+  "latin": "New Mexico",
+  "local": "New Mexico"
+ },
+ "US-NV": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Nevada",
+  "local": "Nevada"
+ },
+ "US-NY": {
+  "aliases": [],
+  "country": "US",
+  "latin": "New York",
+  "local": "New York"
+ },
+ "US-OH": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Ohio",
+  "local": "Ohio"
+ },
+ "US-OK": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Oklahoma",
+  "local": "Oklahoma"
+ },
+ "US-OR": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Oregon",
+  "local": "Oregon"
+ },
+ "US-PA": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Pennsylvania",
+  "local": "Pennsylvania"
+ },
+ "US-PR": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Puerto Rico",
+  "local": "Puerto Rico"
+ },
+ "US-PW": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Palau",
+  "local": "Palau"
+ },
+ "US-RI": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Rhode Island",
+  "local": "Rhode Island"
+ },
+ "US-SC": {
+  "aliases": [],
+  "country": "US",
+  "latin": "South Carolina",
+  "local": "South Carolina"
+ },
+ "US-SD": {
+  "aliases": [],
+  "country": "US",
+  "latin": "South Dakota",
+  "local": "South Dakota"
+ },
+ "US-TN": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Tennessee",
+  "local": "Tennessee"
+ },
+ "US-TX": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Texas",
+  "local": "Texas"
+ },
+ "US-UT": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Utah",
+  "local": "Utah"
+ },
+ "US-VA": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Virginia",
+  "local": "Virginia"
+ },
+ "US-VI": {
+  "aliases": [],
+  "country": "US",
+  "latin": "U.S. Virgin Islands",
+  "local": "U.S. Virgin Islands"
+ },
+ "US-VT": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Vermont",
+  "local": "Vermont"
+ },
+ "US-WA": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Washington",
+  "local": "Washington"
+ },
+ "US-WI": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Wisconsin",
+  "local": "Wisconsin"
+ },
+ "US-WV": {
+  "aliases": [],
+  "country": "US",
+  "latin": "West Virginia",
+  "local": "West Virginia"
+ },
+ "US-WY": {
+  "aliases": [],
+  "country": "US",
+  "latin": "Wyoming",
+  "local": "Wyoming"
+ },
+ "UY-AR": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Artigas",
+  "local": "Artigas"
+ },
+ "UY-CA": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Canelones",
+  "local": "Canelones"
+ },
+ "UY-CL": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Cerro Largo",
+  "local": "Cerro Largo"
+ },
+ "UY-CO": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Colonia",
+  "local": "Colonia"
+ },
+ "UY-DU": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Durazno",
+  "local": "Durazno"
+ },
+ "UY-FD": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Florida",
+  "local": "Florida"
+ },
+ "UY-FS": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Flores",
+  "local": "Flores"
+ },
+ "UY-LA": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Lavalleja",
+  "local": "Lavalleja"
+ },
+ "UY-MA": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Maldonado",
+  "local": "Maldonado"
+ },
+ "UY-MO": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Montevideo",
+  "local": "Montevideo"
+ },
+ "UY-PA": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Paysandú",
+  "local": "Paysandú"
+ },
+ "UY-RN": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Río Negro",
+  "local": "Río Negro"
+ },
+ "UY-RO": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Rocha",
+  "local": "Rocha"
+ },
+ "UY-RV": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Rivera",
+  "local": "Rivera"
+ },
+ "UY-SA": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Salto",
+  "local": "Salto"
+ },
+ "UY-SJ": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "San José",
+  "local": "San José"
+ },
+ "UY-SO": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Soriano",
+  "local": "Soriano"
+ },
+ "UY-TA": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Tacuarembó",
+  "local": "Tacuarembó"
+ },
+ "UY-TT": {
+  "aliases": [],
+  "country": "UY",
+  "latin": "Treinta y Tres",
+  "local": "Treinta y Tres"
+ },
+ "UZ-AN": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Andijon",
+  "local": "Andijon"
+ },
+ "UZ-BU": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Buxoro",
+  "local": "Buxoro"
+ },
+ "UZ-FA": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Farg‘ona",
+  "local": "Farg‘ona"
+ },
+ "UZ-JI": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Jizzax",
+  "local": "Jizzax"
+ },
+ "UZ-NG": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Namangan",
+  "local": "Namangan"
+ },
+ "UZ-NW": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Navoiy",
+  "local": "Navoiy"
+ },
+ "UZ-QA": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Qashqadaryo",
+  "local": "Qashqadaryo"
+ },
+ "UZ-QR": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Qoraqalpog‘iston Respublikasi",
+  "local": "Qoraqalpog‘iston Respublikasi"
+ },
+ "UZ-SA": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Samarqand",
+  "local": "Samarqand"
+ },
+ "UZ-SI": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Sirdaryo",
+  "local": "Sirdaryo"
+ },
+ "UZ-SU": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Surxondaryo",
+  "local": "Surxondaryo"
+ },
+ "UZ-TK": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Toshkent shahri",
+  "local": "Toshkent shahri"
+ },
+ "UZ-TO": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Toshkent viloyati",
+  "local": "Toshkent viloyati"
+ },
+ "UZ-XO": {
+  "aliases": [],
+  "country": "UZ",
+  "latin": "Xorazm",
+  "local": "Xorazm"
+ },
+ "VE-A": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Distrito Capital",
+  "local": "Distrito Capital"
+ },
+ "VE-B": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Anzoátegui",
+  "local": "Anzoátegui"
+ },
+ "VE-C": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Apure",
+  "local": "Apure"
+ },
+ "VE-D": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Aragua",
+  "local": "Aragua"
+ },
+ "VE-E": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Barinas",
+  "local": "Barinas"
+ },
+ "VE-F": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Bolívar",
+  "local": "Bolívar"
+ },
+ "VE-G": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Carabobo",
+  "local": "Carabobo"
+ },
+ "VE-H": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Cojedes",
+  "local": "Cojedes"
+ },
+ "VE-I": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Falcón",
+  "local": "Falcón"
+ },
+ "VE-J": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Guárico",
+  "local": "Guárico"
+ },
+ "VE-K": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Lara",
+  "local": "Lara"
+ },
+ "VE-L": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Mérida",
+  "local": "Mérida"
+ },
+ "VE-M": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Miranda",
+  "local": "Miranda"
+ },
+ "VE-N": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Monagas",
+  "local": "Monagas"
+ },
+ "VE-O": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Nueva Esparta",
+  "local": "Nueva Esparta"
+ },
+ "VE-P": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Portuguesa",
+  "local": "Portuguesa"
+ },
+ "VE-R": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Sucre",
+  "local": "Sucre"
+ },
+ "VE-S": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Táchira",
+  "local": "Táchira"
+ },
+ "VE-T": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Trujillo",
+  "local": "Trujillo"
+ },
+ "VE-U": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Yaracuy",
+  "local": "Yaracuy"
+ },
+ "VE-V": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Zulia",
+  "local": "Zulia"
+ },
+ "VE-W": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Dependencias Federales",
+  "local": "Dependencias Federales"
+ },
+ "VE-X": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "La Guaira",
+  "local": "La Guaira"
+ },
+ "VE-Y": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Delta Amacuro",
+  "local": "Delta Amacuro"
+ },
+ "VE-Z": {
+  "aliases": [],
+  "country": "VE",
+  "latin": "Amazonas",
+  "local": "Amazonas"
+ },
+ "VN-01": {
+  "aliases": [],
+  "country": "VN",
+  "latin": "Lai Châu",
+  "local": "Lai Châu"
+ },
+ "VN-02": {
+  "aliases": [
+   "VN-06"
+  ],
+  "country": "VN",
+  "latin": "Lào Cai",
+  "local": "Lào Cai"
+ },
+ "VN-04": {
+  "aliases": [],
+  "country": "VN",
+  "latin": "Cao Bằng",
+  "local": "Cao Bằng"
+ },
+ "VN-05": {
+  "aliases": [],
+  "country": "VN",
+  "latin": "Sơn La",
+  "local": "Sơn La"
+ },
+ "VN-07": {
+  "aliases": [
+   "VN-03"
+  ],
+  "country": "VN",
+  "latin": "Tuyên Quang",
+  "local": "Tuyên Quang"
+ },
+ "VN-09": {
+  "aliases": [],
+  "country": "VN",
+  "latin": "Lạng Sơn",
+  "local": "Lạng Sơn"
+ },
+ "VN-13": {
+  "aliases": [],
+  "country": "VN",
+  "latin": "Quảng Ninh",
+  "local": "Quảng Ninh"
+ },
+ "VN-18": {
+  "aliases": [
+   "VN-63",
+   "VN-67"
+  ],
+  "country": "VN",
+  "latin": "Ninh Bình",
+  "local": "Ninh Bình"
+ },
+ "VN-21": {
+  "aliases": [],
+  "country": "VN",
+  "latin": "Thanh Hóa",
+  "local": "Thanh Hóa"
+ },
+ "VN-22": {
+  "aliases": [],
+  "country": "VN",
+  "latin": "Nghệ An",
+  "local": "Nghệ An"
+ },
+ "VN-23": {
+  "aliases": [],
+  "country": "VN",
+  "latin": "Hà Tĩnh",
+  "local": "Hà Tĩnh"
+ },
+ "VN-25": {
+  "aliases": [
+   "VN-24"
+  ],
+  "country": "VN",
+  "latin": "Quảng Trị",
+  "local": "Quảng Trị"
+ },
+ "VN-26": {
+  "aliases": [],
+  "country": "VN",
+  "latin": "Huế",
+  "local": "Huế"
+ },
+ "VN-29": {
+  "aliases": [
+   "VN-28"
+  ],
+  "country": "VN",
+  "latin": "Quảng Ngãi",
+  "local": "Quảng Ngãi"
+ },
+ "VN-30": {
+  "aliases": [
+   "VN-31"
+  ],
+  "country": "VN",
+  "latin": "Gia Lai",
+  "local": "Gia Lai"
+ },
+ "VN-33": {
+  "aliases": [
+   "VN-32"
+  ],
+  "country": "VN",
+  "latin": "Đắk Lắk",
+  "local": "Đắk Lắk"
+ },
+ "VN-34": {
+  "aliases": [
+   "VN-36"
+  ],
+  "country": "VN",
+  "latin": "Khánh Hòa",
+  "local": "Khánh Hòa"
+ },
+ "VN-35": {
+  "aliases": [
+   "VN-72",
+   "VN-40"
+  ],
+  "country": "VN",
+  "latin": "Lâm Đồng",
+  "local": "Lâm Đồng"
+ },
+ "VN-37": {
+  "aliases": [
+   "VN-41"
+  ],
+  "country": "VN",
+  "latin": "Tây Ninh",
+  "local": "Tây Ninh"
+ },
+ "VN-39": {
+  "aliases": [
+   "VN-58"
+  ],
+  "country": "VN",
+  "latin": "Đồng Nai",
+  "local": "Đồng Nai"
+ },
+ "VN-44": {
+  "aliases": [
+   "VN-47"
+  ],
+  "country": "VN",
+  "latin": "An Giang",
+  "local": "An Giang"
+ },
+ "VN-45": {
+  "aliases": [
+   "VN-46"
+  ],
+  "country": "VN",
+  "latin": "Đồng Tháp",
+  "local": "Đồng Tháp"
+ },
+ "VN-49": {
+  "aliases": [
+   "VN-50",
+   "VN-51"
+  ],
+  "country": "VN",
+  "latin": "Vĩnh Long",
+  "local": "Vĩnh Long"
+ },
+ "VN-56": {
+  "aliases": [
+   "VN-54"
+  ],
+  "country": "VN",
+  "latin": "Bắc Ninh",
+  "local": "Bắc Ninh"
+ },
+ "VN-59": {
+  "aliases": [
+   "VN-55"
+  ],
+  "country": "VN",
+  "latin": "Cà Mau",
+  "local": "Cà Mau"
+ },
+ "VN-66": {
+  "aliases": [
+   "VN-20"
+  ],
+  "country": "VN",
+  "latin": "Hưng Yên",
+  "local": "Hưng Yên"
+ },
+ "VN-68": {
+  "aliases": [
+   "VN-70",
+   "VN-14"
+  ],
+  "country": "VN",
+  "latin": "Phú Thọ",
+  "local": "Phú Thọ"
+ },
+ "VN-69": {
+  "aliases": [
+   "VN-53"
+  ],
+  "country": "VN",
+  "latin": "Thái Nguyên",
+  "local": "Thái Nguyên"
+ },
+ "VN-71": {
+  "aliases": [],
+  "country": "VN",
+  "latin": "Điện Biên",
+  "local": "Điện Biên"
+ },
+ "VN-CT": {
+  "aliases": [
+   "VN-52",
+   "VN-73"
+  ],
+  "country": "VN",
+  "latin": "Cần Thơ",
+  "local": "Cần Thơ"
+ },
+ "VN-DN": {
+  "aliases": [
+   "VN-27"
+  ],
+  "country": "VN",
+  "latin": "Đà Nẵng",
+  "local": "Đà Nẵng"
+ },
+ "VN-HN": {
+  "aliases": [],
+  "country": "VN",
+  "latin": "Hà Nội",
+  "local": "Hà Nội"
+ },
+ "VN-HP": {
+  "aliases": [
+   "VN-61"
+  ],
+  "country": "VN",
+  "latin": "Hải Phòng",
+  "local": "Hải Phòng"
+ },
+ "VN-SG": {
+  "aliases": [
+   "VN-43",
+   "VN-57"
+  ],
+  "country": "VN",
+  "latin": "Hồ Chí Minh",
+  "local": "Hồ Chí Minh"
+ }
+}

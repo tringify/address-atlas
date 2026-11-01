@@ -1,0 +1,1291 @@
+{
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "generated": "2026-11-02",
+ "countries": {
+  "AE": {
+   "level": "emirate",
+   "units": 7,
+   "iso_units": 7,
+   "non_iso_units": [],
+   "previous_tsv_units": 7,
+   "changes": [],
+   "confidence": "high"
+  },
+  "AF": {
+   "level": "province",
+   "units": 34,
+   "iso_units": 34,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added AF-BAL Balkh",
+    "added AF-BAM Bamyan",
+    "added AF-BDG Badghis",
+    "added AF-BDS Badakhshan",
+    "added AF-BGL Baghlan",
+    "added AF-DAY Daykundi",
+    "added AF-FRA Farah",
+    "added AF-FYB Faryab",
+    "added AF-GHA Ghazni",
+    "added AF-GHO Ghor",
+    "added AF-HEL Helmand",
+    "added AF-HER Herat",
+    "added AF-JOW Jowzjan",
+    "added AF-KAB Kabul",
+    "added AF-KAN Kandahar",
+    "added AF-KAP Kapisa",
+    "added AF-KDZ Kunduz",
+    "added AF-KHO Khost",
+    "added AF-KNR Kunar",
+    "added AF-LAG Laghman",
+    "added AF-LOG Logar",
+    "added AF-NAN Nangarhar",
+    "added AF-NIM Nimroz",
+    "added AF-NUR Nuristan",
+    "added AF-PAN Panjshayr",
+    "added AF-PAR Parwan",
+    "added AF-PIA Paktiya",
+    "added AF-PKA Paktika",
+    "added AF-SAM Samangan",
+    "added AF-SAR Sar-e Pul",
+    "added AF-TAK Takhar",
+    "added AF-URU Uruzgan",
+    "added AF-WAR Wardak",
+    "added AF-ZAB Zabul"
+   ],
+   "confidence": "low"
+  },
+  "AM": {
+   "level": "province",
+   "units": 11,
+   "iso_units": 11,
+   "non_iso_units": [],
+   "previous_tsv_units": 11,
+   "changes": [],
+   "confidence": "high"
+  },
+  "AR": {
+   "level": "province",
+   "units": 24,
+   "iso_units": 24,
+   "non_iso_units": [],
+   "previous_tsv_units": 24,
+   "changes": [],
+   "confidence": "high"
+  },
+  "AS": {
+   "level": "state",
+   "units": 0,
+   "iso_units": 0,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [],
+   "confidence": "high"
+  },
+  "AU": {
+   "level": "state",
+   "units": 9,
+   "iso_units": 8,
+   "non_iso_units": [
+    "AU-JBT"
+   ],
+   "previous_tsv_units": 9,
+   "changes": [],
+   "confidence": "high"
+  },
+  "BB": {
+   "level": "parish",
+   "units": 11,
+   "iso_units": 11,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added BB-01 Christ Church",
+    "added BB-02 Saint Andrew",
+    "added BB-03 Saint George",
+    "added BB-04 Saint James",
+    "added BB-05 Saint John",
+    "added BB-06 Saint Joseph",
+    "added BB-07 Saint Lucy",
+    "added BB-08 Saint Michael",
+    "added BB-09 Saint Peter",
+    "added BB-10 Saint Philip",
+    "added BB-11 Saint Thomas"
+   ],
+   "confidence": "high"
+  },
+  "BI": {
+   "level": "province",
+   "units": 5,
+   "iso_units": 0,
+   "non_iso_units": [
+    "BI-BUHUMUZA",
+    "BI-BUJUMBURA",
+    "BI-BURUNGA",
+    "BI-BUTANYERERA",
+    "BI-GITEGA"
+   ],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added BI-BUHUMUZA Buhumuza (non-ISO code)",
+    "added BI-BUJUMBURA Bujumbura (non-ISO code)",
+    "added BI-BURUNGA Burunga (non-ISO code)",
+    "added BI-BUTANYERERA Butanyerera (non-ISO code)",
+    "added BI-GITEGA Gitega (non-ISO code)"
+   ],
+   "confidence": "low"
+  },
+  "BR": {
+   "level": "state",
+   "units": 27,
+   "iso_units": 27,
+   "non_iso_units": [],
+   "previous_tsv_units": 27,
+   "changes": [],
+   "confidence": "high"
+  },
+  "BS": {
+   "level": "island",
+   "units": 19,
+   "iso_units": 15,
+   "non_iso_units": [
+    "BS-ABACO",
+    "BS-ANDROS",
+    "BS-ELEUTHERA",
+    "BS-GRAND_BAHAMA"
+   ],
+   "previous_tsv_units": 19,
+   "changes": [
+    "recoded BS-CROOKED_ISLAND Crooked Island -> BS-CK Crooked Island and Long Cay (old code kept as alias)"
+   ],
+   "confidence": "low"
+  },
+  "BY": {
+   "level": "oblast",
+   "units": 7,
+   "iso_units": 7,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added BY-BR Bresckaja voblasć",
+    "added BY-HM Horad Minsk",
+    "added BY-HO Homieĺskaja voblasć",
+    "added BY-HR Hrodzienskaja voblasć",
+    "added BY-MA Mahilioŭskaja voblasć",
+    "added BY-MI Minskaja voblasć",
+    "added BY-VI Viciebskaja voblasć"
+   ],
+   "confidence": "high"
+  },
+  "CA": {
+   "level": "province",
+   "units": 13,
+   "iso_units": 13,
+   "non_iso_units": [],
+   "previous_tsv_units": 13,
+   "changes": [],
+   "confidence": "high"
+  },
+  "CD": {
+   "level": "province",
+   "units": 26,
+   "iso_units": 26,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added CD-BC Kongo Central",
+    "added CD-BU Bas-Uélé",
+    "added CD-EQ Équateur",
+    "added CD-HK Haut-Katanga",
+    "added CD-HL Haut-Lomami",
+    "added CD-HU Haut-Uélé",
+    "added CD-IT Ituri",
+    "added CD-KC Kasaï Central",
+    "added CD-KE Kasaï Oriental",
+    "added CD-KG Kwango",
+    "added CD-KL Kwilu",
+    "added CD-KN Kinshasa",
+    "added CD-KS Kasaï",
+    "added CD-LO Lomami",
+    "added CD-LU Lualaba",
+    "added CD-MA Maniema",
+    "added CD-MN Mai-Ndombe",
+    "added CD-MO Mongala",
+    "added CD-NK Nord-Kivu",
+    "added CD-NU Nord-Ubangi",
+    "added CD-SA Sankuru",
+    "added CD-SK Sud-Kivu",
+    "added CD-SU Sud-Ubangi",
+    "added CD-TA Tanganyika",
+    "added CD-TO Tshopo",
+    "added CD-TU Tshuapa"
+   ],
+   "confidence": "high"
+  },
+  "CL": {
+   "level": "region",
+   "units": 16,
+   "iso_units": 16,
+   "non_iso_units": [],
+   "previous_tsv_units": 16,
+   "changes": [],
+   "confidence": "high"
+  },
+  "CN": {
+   "level": "province",
+   "units": 31,
+   "iso_units": 31,
+   "non_iso_units": [],
+   "previous_tsv_units": 34,
+   "changes": [
+    "removed CN-HK Hong Kong (Hong Kong is addressed as its own country HK; not a China Post domestic province)",
+    "removed CN-MO Macau (Macao is addressed as its own country MO; not a China Post domestic province)",
+    "removed CN-TW Taiwan (Taiwan is addressed as its own country TW; not a China Post domestic province)"
+   ],
+   "confidence": "high"
+  },
+  "CO": {
+   "level": "department",
+   "units": 33,
+   "iso_units": 33,
+   "non_iso_units": [],
+   "previous_tsv_units": 33,
+   "changes": [],
+   "confidence": "high"
+  },
+  "CR": {
+   "level": "province",
+   "units": 7,
+   "iso_units": 7,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added CR-A Alajuela",
+    "added CR-C Cartago",
+    "added CR-G Guanacaste",
+    "added CR-H Heredia",
+    "added CR-L Limón",
+    "added CR-P Puntarenas",
+    "added CR-SJ San José"
+   ],
+   "confidence": "high"
+  },
+  "CV": {
+   "level": "island",
+   "units": 9,
+   "iso_units": 5,
+   "non_iso_units": [
+    "CV-FOGO",
+    "CV-SANTIAGO",
+    "CV-SANTO_ANTAO",
+    "CV-SAO_NICOLAU"
+   ],
+   "previous_tsv_units": 9,
+   "changes": [],
+   "confidence": "low"
+  },
+  "CX": {
+   "level": "state",
+   "units": 0,
+   "iso_units": 0,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [],
+   "confidence": "high"
+  },
+  "EE": {
+   "level": "county",
+   "units": 15,
+   "iso_units": 15,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added EE-37 Harjumaa",
+    "added EE-39 Hiiumaa",
+    "added EE-45 Ida-Virumaa",
+    "added EE-50 Jõgevamaa",
+    "added EE-52 Järvamaa",
+    "added EE-56 Läänemaa",
+    "added EE-60 Lääne-Virumaa",
+    "added EE-64 Põlvamaa",
+    "added EE-68 Pärnumaa",
+    "added EE-71 Raplamaa",
+    "added EE-74 Saaremaa",
+    "added EE-79 Tartumaa",
+    "added EE-81 Valgamaa",
+    "added EE-84 Viljandimaa",
+    "added EE-87 Võrumaa"
+   ],
+   "confidence": "high"
+  },
+  "EG": {
+   "level": "governorate",
+   "units": 27,
+   "iso_units": 27,
+   "non_iso_units": [],
+   "previous_tsv_units": 27,
+   "changes": [],
+   "confidence": "high"
+  },
+  "ES": {
+   "level": "province",
+   "units": 52,
+   "iso_units": 52,
+   "non_iso_units": [],
+   "previous_tsv_units": 52,
+   "changes": [],
+   "confidence": "high"
+  },
+  "FM": {
+   "level": "state",
+   "units": 4,
+   "iso_units": 4,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added FM-KSA Kosrae",
+    "added FM-PNI Pohnpei",
+    "added FM-TRK Chuuk",
+    "added FM-YAP Yap"
+   ],
+   "confidence": "high"
+  },
+  "GH": {
+   "level": "region",
+   "units": 16,
+   "iso_units": 16,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added GH-AA Greater Accra",
+    "added GH-AF Ahafo",
+    "added GH-AH Ashanti",
+    "added GH-BE Bono East",
+    "added GH-BO Bono",
+    "added GH-CP Central",
+    "added GH-EP Eastern",
+    "added GH-NE North East",
+    "added GH-NP Northern",
+    "added GH-OT Oti",
+    "added GH-SV Savannah",
+    "added GH-TV Volta",
+    "added GH-UE Upper East",
+    "added GH-UW Upper West",
+    "added GH-WN Western North",
+    "added GH-WP Western"
+   ],
+   "confidence": "high"
+  },
+  "HK": {
+   "level": "area",
+   "units": 3,
+   "iso_units": 0,
+   "non_iso_units": [
+    "HK-HONG_KONG_ISLAND",
+    "HK-KOWLOON",
+    "HK-NEW_TERRITORIES"
+   ],
+   "previous_tsv_units": 3,
+   "changes": [],
+   "confidence": "high"
+  },
+  "HM": {
+   "level": "state",
+   "units": 0,
+   "iso_units": 0,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [],
+   "confidence": "high"
+  },
+  "HN": {
+   "level": "department",
+   "units": 18,
+   "iso_units": 18,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added HN-AT Atlántida",
+    "added HN-CH Choluteca",
+    "added HN-CL Colón",
+    "added HN-CM Comayagua",
+    "added HN-CP Copán",
+    "added HN-CR Cortés",
+    "added HN-EP El Paraíso",
+    "added HN-FM Francisco Morazán",
+    "added HN-GD Gracias a Dios",
+    "added HN-IB Islas de la Bahía",
+    "added HN-IN Intibucá",
+    "added HN-LE Lempira",
+    "added HN-LP La Paz",
+    "added HN-OC Ocotepeque",
+    "added HN-OL Olancho",
+    "added HN-SB Santa Bárbara",
+    "added HN-VA Valle",
+    "added HN-YO Yoro"
+   ],
+   "confidence": "high"
+  },
+  "ID": {
+   "level": "province",
+   "units": 38,
+   "iso_units": 38,
+   "non_iso_units": [],
+   "previous_tsv_units": 34,
+   "changes": [
+    "added ID-PD Papua Barat Daya",
+    "added ID-PE Papua Pegunungan",
+    "added ID-PS Papua Selatan",
+    "added ID-PT Papua Tengah"
+   ],
+   "confidence": "high"
+  },
+  "IE": {
+   "level": "county",
+   "units": 26,
+   "iso_units": 26,
+   "non_iso_units": [],
+   "previous_tsv_units": 26,
+   "changes": [],
+   "confidence": "high"
+  },
+  "IN": {
+   "level": "state",
+   "units": 36,
+   "iso_units": 36,
+   "non_iso_units": [],
+   "previous_tsv_units": 36,
+   "changes": [],
+   "confidence": "high"
+  },
+  "IQ": {
+   "level": "governorate",
+   "units": 19,
+   "iso_units": 18,
+   "non_iso_units": [
+    "IQ-HALABJA"
+   ],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added IQ-AN Al Anbar",
+    "added IQ-AR Erbil",
+    "added IQ-BA Basra",
+    "added IQ-BB Babil",
+    "added IQ-BG Baghdad",
+    "added IQ-DA Duhok",
+    "added IQ-DI Diyala",
+    "added IQ-DQ Dhi Qar",
+    "added IQ-HALABJA Halabja (non-ISO code)",
+    "added IQ-KA Karbala",
+    "added IQ-KI Kirkuk",
+    "added IQ-MA Maysan",
+    "added IQ-MU Al Muthanna",
+    "added IQ-NA Najaf",
+    "added IQ-NI Nineveh",
+    "added IQ-QA Al-Qadisiyah",
+    "added IQ-SD Salah al-Din",
+    "added IQ-SU Sulaymaniyah",
+    "added IQ-WA Wasit"
+   ],
+   "confidence": "high"
+  },
+  "IR": {
+   "level": "province",
+   "units": 31,
+   "iso_units": 31,
+   "non_iso_units": [],
+   "previous_tsv_units": 31,
+   "changes": [],
+   "confidence": "high"
+  },
+  "IT": {
+   "level": "province",
+   "units": 110,
+   "iso_units": 106,
+   "non_iso_units": [
+    "IT-GALLURA_NORD_EST_SARDEGNA",
+    "IT-MEDIO_CAMPIDANO",
+    "IT-OGLIASTRA",
+    "IT-SULCIS_IGLESIENTE"
+   ],
+   "previous_tsv_units": 111,
+   "changes": [
+    "recoded IT-AO Aosta -> IT-23 Valle d'Aosta / Vallée d'Aoste (old code kept as alias)",
+    "recoded IT-GA Gallura Nord-Est Sardegna -> IT-GALLURA_NORD_EST_SARDEGNA Gallura Nord-Est Sardegna (old code kept as alias)",
+    "recoded IT-OG Ogliastra -> IT-OGLIASTRA Ogliastra (old code kept as alias)",
+    "recoded IT-SD Sulcis Iglesiente -> IT-SULCIS_IGLESIENTE Sulcis Iglesiente (old code kept as alias)",
+    "merged IT-SU Sud Sardegna -> IT-SULCIS_IGLESIENTE Sulcis Iglesiente (old code kept as alias)",
+    "recoded IT-VS Medio Campidano -> IT-MEDIO_CAMPIDANO Medio Campidano (old code kept as alias)"
+   ],
+   "confidence": "low"
+  },
+  "JM": {
+   "level": "parish",
+   "units": 14,
+   "iso_units": 14,
+   "non_iso_units": [],
+   "previous_tsv_units": 14,
+   "changes": [],
+   "confidence": "high"
+  },
+  "JP": {
+   "level": "prefecture",
+   "units": 47,
+   "iso_units": 47,
+   "non_iso_units": [],
+   "previous_tsv_units": 47,
+   "changes": [],
+   "confidence": "high"
+  },
+  "KI": {
+   "level": "island",
+   "units": 0,
+   "iso_units": 0,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [],
+   "confidence": "high"
+  },
+  "KN": {
+   "level": "island",
+   "units": 2,
+   "iso_units": 2,
+   "non_iso_units": [],
+   "previous_tsv_units": 2,
+   "changes": [],
+   "confidence": "high"
+  },
+  "KP": {
+   "level": "province",
+   "units": 13,
+   "iso_units": 13,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added KP-01 Phyeongyang",
+    "added KP-02 Phyeongannamto",
+    "added KP-03 Phyeonganpukto",
+    "added KP-04 Jakangto",
+    "added KP-05 Hwanghainamto",
+    "added KP-06 Hwanghaipukto",
+    "added KP-07 Kangweonto",
+    "added KP-08 Hamkyeongnamto",
+    "added KP-09 Hamkyeongpukto",
+    "added KP-10 Ryangkangto",
+    "added KP-13 Raseon",
+    "added KP-14 Nampho",
+    "added KP-15 Kaeseong"
+   ],
+   "confidence": "low"
+  },
+  "KR": {
+   "level": "do_si",
+   "units": 16,
+   "iso_units": 15,
+   "non_iso_units": [
+    "KR-JEONNAM_GWANGJU"
+   ],
+   "previous_tsv_units": 17,
+   "changes": [
+    "merged KR-29 Gwangju City -> KR-JEONNAM_GWANGJU Jeonnam-Gwangju-tonghapteukbyeolsi (old code kept as alias)",
+    "merged KR-46 South Jeolla -> KR-JEONNAM_GWANGJU Jeonnam-Gwangju-tonghapteukbyeolsi (old code kept as alias)",
+    "renamed KR-42: 강원도 Gangwon-do -> 강원특별자치도 Gangwon-teukbyeoljachido (11 Jun 2023; code kept)",
+    "renamed KR-45: 전라북도 Jeollabuk-do -> 전북특별자치도 Jeonbuk-teukbyeoljachido (18 Jan 2024; code kept, ISO name not yet updated)"
+   ],
+   "confidence": "low"
+  },
+  "KY": {
+   "level": "island",
+   "units": 3,
+   "iso_units": 0,
+   "non_iso_units": [
+    "KY-CAYMAN_BRAC",
+    "KY-GRAND_CAYMAN",
+    "KY-LITTLE_CAYMAN"
+   ],
+   "previous_tsv_units": 3,
+   "changes": [],
+   "confidence": "high"
+  },
+  "KZ": {
+   "level": "region",
+   "units": 20,
+   "iso_units": 20,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added KZ-10 Abay oblysy",
+    "added KZ-11 Aqmola oblysy",
+    "added KZ-15 Aqtöbe oblysy",
+    "added KZ-19 Almaty oblysy",
+    "added KZ-23 Atyraū oblysy",
+    "added KZ-27 Batys Qazaqstan oblysy",
+    "added KZ-31 Zhambyl oblysy",
+    "added KZ-33 Zhetisū oblysy",
+    "added KZ-35 Qaraghandy oblysy",
+    "added KZ-39 Qostanay oblysy",
+    "added KZ-43 Qyzylorda oblysy",
+    "added KZ-47 Mangghystaū oblysy",
+    "added KZ-55 Pavlodar oblysy",
+    "added KZ-59 Soltüstik Qazaqstan oblysy",
+    "added KZ-61 Türkistan oblysy",
+    "added KZ-62 Ulytaū oblysy",
+    "added KZ-63 Shyghys Qazaqstan oblysy",
+    "added KZ-71 Astana",
+    "added KZ-75 Almaty",
+    "added KZ-79 Shymkent"
+   ],
+   "confidence": "high"
+  },
+  "MH": {
+   "level": "state",
+   "units": 0,
+   "iso_units": 0,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [],
+   "confidence": "high"
+  },
+  "MM": {
+   "level": "state",
+   "units": 15,
+   "iso_units": 15,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added MM-01 Sagaing",
+    "added MM-02 Bago",
+    "added MM-03 Magway",
+    "added MM-04 Mandalay",
+    "added MM-05 Tanintharyi",
+    "added MM-06 Yangon",
+    "added MM-07 Ayeyarwady",
+    "added MM-11 Kachin",
+    "added MM-12 Kayah",
+    "added MM-13 Kayin",
+    "added MM-14 Chin",
+    "added MM-15 Mon",
+    "added MM-16 Rakhine",
+    "added MM-17 Shan",
+    "added MM-18 Nay Pyi Taw"
+   ],
+   "confidence": "low"
+  },
+  "MN": {
+   "level": "province",
+   "units": 22,
+   "iso_units": 22,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added MN-035 Orhon",
+    "added MN-037 Darhan uul",
+    "added MN-039 Hentiy",
+    "added MN-041 Hövsgöl",
+    "added MN-043 Hovd",
+    "added MN-046 Uvs",
+    "added MN-047 Töv",
+    "added MN-049 Selenge",
+    "added MN-051 Sühbaatar",
+    "added MN-053 Ömnögovĭ",
+    "added MN-055 Övörhangay",
+    "added MN-057 Dzavhan",
+    "added MN-059 Dundgovĭ",
+    "added MN-061 Dornod",
+    "added MN-063 Dornogovĭ",
+    "added MN-064 Govĭ-Sümber",
+    "added MN-065 Govĭ-Altay",
+    "added MN-067 Bulgan",
+    "added MN-069 Bayanhongor",
+    "added MN-071 Bayan-Ölgiy",
+    "added MN-073 Arhangay",
+    "added MN-1 Ulaanbaatar"
+   ],
+   "confidence": "high"
+  },
+  "MP": {
+   "level": "state",
+   "units": 0,
+   "iso_units": 0,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [],
+   "confidence": "high"
+  },
+  "MX": {
+   "level": "state",
+   "units": 32,
+   "iso_units": 32,
+   "non_iso_units": [],
+   "previous_tsv_units": 32,
+   "changes": [],
+   "confidence": "high"
+  },
+  "MY": {
+   "level": "state",
+   "units": 16,
+   "iso_units": 16,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added MY-01 Johor",
+    "added MY-02 Kedah",
+    "added MY-03 Kelantan",
+    "added MY-04 Melaka",
+    "added MY-05 Negeri Sembilan",
+    "added MY-06 Pahang",
+    "added MY-07 Pulau Pinang",
+    "added MY-08 Perak",
+    "added MY-09 Perlis",
+    "added MY-10 Selangor",
+    "added MY-11 Terengganu",
+    "added MY-12 Sabah",
+    "added MY-13 Sarawak",
+    "added MY-14 Wilayah Persekutuan Kuala Lumpur",
+    "added MY-15 Wilayah Persekutuan Labuan",
+    "added MY-16 Wilayah Persekutuan Putrajaya"
+   ],
+   "confidence": "high"
+  },
+  "MZ": {
+   "level": "province",
+   "units": 11,
+   "iso_units": 11,
+   "non_iso_units": [],
+   "previous_tsv_units": 11,
+   "changes": [],
+   "confidence": "high"
+  },
+  "NF": {
+   "level": "state",
+   "units": 0,
+   "iso_units": 0,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [],
+   "confidence": "high"
+  },
+  "NG": {
+   "level": "state",
+   "units": 37,
+   "iso_units": 37,
+   "non_iso_units": [],
+   "previous_tsv_units": 37,
+   "changes": [],
+   "confidence": "high"
+  },
+  "NI": {
+   "level": "department",
+   "units": 17,
+   "iso_units": 17,
+   "non_iso_units": [],
+   "previous_tsv_units": 17,
+   "changes": [
+    "renamed NI-AN: Atlántico Norte -> Costa Caribe Norte (ISO 2018-04-20)",
+    "renamed NI-AS: Atlántico Sur -> Costa Caribe Sur (ISO 2018-04-20)"
+   ],
+   "confidence": "high"
+  },
+  "NR": {
+   "level": "district",
+   "units": 14,
+   "iso_units": 14,
+   "non_iso_units": [],
+   "previous_tsv_units": 14,
+   "changes": [],
+   "confidence": "high"
+  },
+  "PA": {
+   "level": "province",
+   "units": 14,
+   "iso_units": 14,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added PA-1 Bocas del Toro",
+    "added PA-10 Panamá Oeste",
+    "added PA-2 Coclé",
+    "added PA-3 Colón",
+    "added PA-4 Chiriquí",
+    "added PA-5 Darién",
+    "added PA-6 Herrera",
+    "added PA-7 Los Santos",
+    "added PA-8 Panamá",
+    "added PA-9 Veraguas",
+    "added PA-EM Emberá",
+    "added PA-KY Guna Yala",
+    "added PA-NB Ngäbe-Buglé",
+    "added PA-NT Naso Tjër Di"
+   ],
+   "confidence": "high"
+  },
+  "PE": {
+   "level": "region",
+   "units": 26,
+   "iso_units": 26,
+   "non_iso_units": [],
+   "previous_tsv_units": 26,
+   "changes": [],
+   "confidence": "high"
+  },
+  "PF": {
+   "level": "island",
+   "units": 0,
+   "iso_units": 0,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [],
+   "confidence": "high"
+  },
+  "PG": {
+   "level": "province",
+   "units": 22,
+   "iso_units": 22,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added PG-CPK Chimbu",
+    "added PG-CPM Central",
+    "added PG-EBR East New Britain",
+    "added PG-EHG Eastern Highlands",
+    "added PG-EPW Enga",
+    "added PG-ESW East Sepik",
+    "added PG-GPK Gulf",
+    "added PG-HLA Hela",
+    "added PG-JWK Jiwaka",
+    "added PG-MBA Milne Bay",
+    "added PG-MPL Morobe",
+    "added PG-MPM Madang",
+    "added PG-MRL Manus",
+    "added PG-NCD National Capital District (Port Moresby)",
+    "added PG-NIK New Ireland",
+    "added PG-NPP Northern",
+    "added PG-NSB Bougainville",
+    "added PG-SAN West Sepik",
+    "added PG-SHM Southern Highlands",
+    "added PG-WBK West New Britain",
+    "added PG-WHM Western Highlands",
+    "added PG-WPD Western"
+   ],
+   "confidence": "high"
+  },
+  "PH": {
+   "level": "province",
+   "units": 83,
+   "iso_units": 83,
+   "non_iso_units": [],
+   "previous_tsv_units": 82,
+   "changes": [
+    "added PH-MGN Maguindanao del Norte",
+    "split PH-MAG Maguindanao -> PH-MGS Maguindanao del Sur (old code kept as alias)",
+    "renamed PH-COM: Compostela Valley -> Davao de Oro (2019; code kept)"
+   ],
+   "confidence": "high"
+  },
+  "PW": {
+   "level": "state",
+   "units": 16,
+   "iso_units": 16,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added PW-002 Aimeliik",
+    "added PW-004 Airai",
+    "added PW-010 Angaur",
+    "added PW-050 Hatohobei",
+    "added PW-100 Kayangel",
+    "added PW-150 Koror",
+    "added PW-212 Melekeok",
+    "added PW-214 Ngaraard",
+    "added PW-218 Ngarchelong",
+    "added PW-222 Ngardmau",
+    "added PW-224 Ngatpang",
+    "added PW-226 Ngchesar",
+    "added PW-227 Ngeremlengui",
+    "added PW-228 Ngiwal",
+    "added PW-350 Peleliu",
+    "added PW-370 Sonsorol"
+   ],
+   "confidence": "low"
+  },
+  "PY": {
+   "level": "department",
+   "units": 18,
+   "iso_units": 18,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added PY-1 Concepción",
+    "added PY-10 Alto Paraná",
+    "added PY-11 Central",
+    "added PY-12 Ñeembucú",
+    "added PY-13 Amambay",
+    "added PY-14 Canindeyú",
+    "added PY-15 Presidente Hayes",
+    "added PY-16 Alto Paraguay",
+    "added PY-19 Boquerón",
+    "added PY-2 San Pedro",
+    "added PY-3 Cordillera",
+    "added PY-4 Guairá",
+    "added PY-5 Caaguazú",
+    "added PY-6 Caazapá",
+    "added PY-7 Itapúa",
+    "added PY-8 Misiones",
+    "added PY-9 Paraguarí",
+    "added PY-ASU Asunción"
+   ],
+   "confidence": "high"
+  },
+  "RO": {
+   "level": "county",
+   "units": 42,
+   "iso_units": 42,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added RO-AB Alba",
+    "added RO-AG Argeș",
+    "added RO-AR Arad",
+    "added RO-B București",
+    "added RO-BC Bacău",
+    "added RO-BH Bihor",
+    "added RO-BN Bistrița-Năsăud",
+    "added RO-BR Brăila",
+    "added RO-BT Botoșani",
+    "added RO-BV Brașov",
+    "added RO-BZ Buzău",
+    "added RO-CJ Cluj",
+    "added RO-CL Călărași",
+    "added RO-CS Caraș-Severin",
+    "added RO-CT Constanța",
+    "added RO-CV Covasna",
+    "added RO-DB Dâmbovița",
+    "added RO-DJ Dolj",
+    "added RO-GJ Gorj",
+    "added RO-GL Galați",
+    "added RO-GR Giurgiu",
+    "added RO-HD Hunedoara",
+    "added RO-HR Harghita",
+    "added RO-IF Ilfov",
+    "added RO-IL Ialomița",
+    "added RO-IS Iași",
+    "added RO-MH Mehedinți",
+    "added RO-MM Maramureș",
+    "added RO-MS Mureș",
+    "added RO-NT Neamț",
+    "added RO-OT Olt",
+    "added RO-PH Prahova",
+    "added RO-SB Sibiu",
+    "added RO-SJ Sălaj",
+    "added RO-SM Satu Mare",
+    "added RO-SV Suceava",
+    "added RO-TL Tulcea",
+    "added RO-TM Timiș",
+    "added RO-TR Teleorman",
+    "added RO-VL Vâlcea",
+    "added RO-VN Vrancea",
+    "added RO-VS Vaslui"
+   ],
+   "confidence": "high"
+  },
+  "RU": {
+   "level": "oblast",
+   "units": 83,
+   "iso_units": 83,
+   "non_iso_units": [],
+   "previous_tsv_units": 85,
+   "changes": [
+    "removed RU-RESPUBLIKA_KRYM Respublika Krym (Crimea is listed under UA as UA-43 (ISO); alias added there)",
+    "removed RU-SEVASTOPOL Sevastopol' (Sevastopol is listed under UA as UA-40 (ISO); alias added there)"
+   ],
+   "confidence": "high"
+  },
+  "SC": {
+   "level": "island",
+   "units": 0,
+   "iso_units": 0,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [],
+   "confidence": "high"
+  },
+  "SO": {
+   "level": "region",
+   "units": 18,
+   "iso_units": 18,
+   "non_iso_units": [],
+   "previous_tsv_units": 18,
+   "changes": [],
+   "confidence": "high"
+  },
+  "SR": {
+   "level": "district",
+   "units": 10,
+   "iso_units": 10,
+   "non_iso_units": [],
+   "previous_tsv_units": 10,
+   "changes": [],
+   "confidence": "high"
+  },
+  "SV": {
+   "level": "department",
+   "units": 14,
+   "iso_units": 14,
+   "non_iso_units": [],
+   "previous_tsv_units": 14,
+   "changes": [],
+   "confidence": "high"
+  },
+  "TH": {
+   "level": "province",
+   "units": 77,
+   "iso_units": 77,
+   "non_iso_units": [],
+   "previous_tsv_units": 77,
+   "changes": [],
+   "confidence": "high"
+  },
+  "TM": {
+   "level": "province",
+   "units": 6,
+   "iso_units": 6,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added TM-A Ahal",
+    "added TM-B Balkan",
+    "added TM-D Daşoguz",
+    "added TM-L Lebap",
+    "added TM-M Mary",
+    "added TM-S Aşgabat"
+   ],
+   "confidence": "high"
+  },
+  "TR": {
+   "level": "province",
+   "units": 81,
+   "iso_units": 81,
+   "non_iso_units": [],
+   "previous_tsv_units": 81,
+   "changes": [],
+   "confidence": "high"
+  },
+  "TV": {
+   "level": "island",
+   "units": 9,
+   "iso_units": 8,
+   "non_iso_units": [
+    "TV-NIULAKITA"
+   ],
+   "previous_tsv_units": 9,
+   "changes": [],
+   "confidence": "high"
+  },
+  "TW": {
+   "level": "county",
+   "units": 22,
+   "iso_units": 22,
+   "non_iso_units": [],
+   "previous_tsv_units": 22,
+   "changes": [
+    "recoded TW-KINMEN_COUNTY Kinmen County -> TW-KIN Kinmen (old code kept as alias)",
+    "recoded TW-LIENCHIANG_COUNTY Lienchiang County -> TW-LIE Lienchiang (old code kept as alias)",
+    "renamed TW-CYI: English name fixed: was \"Chiayi County\", is Chiayi City 嘉義市",
+    "renamed TW-CYQ: English name fixed: was \"Chiayi\", is Chiayi County 嘉義縣"
+   ],
+   "confidence": "high"
+  },
+  "TZ": {
+   "level": "region",
+   "units": 31,
+   "iso_units": 31,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added TZ-01 Arusha",
+    "added TZ-02 Dar es Salaam",
+    "added TZ-03 Dodoma",
+    "added TZ-04 Iringa",
+    "added TZ-05 Kagera",
+    "added TZ-06 Pemba North",
+    "added TZ-07 Zanzibar North",
+    "added TZ-08 Kigoma",
+    "added TZ-09 Kilimanjaro",
+    "added TZ-10 Pemba South",
+    "added TZ-11 Zanzibar South",
+    "added TZ-12 Lindi",
+    "added TZ-13 Mara",
+    "added TZ-14 Mbeya",
+    "added TZ-15 Zanzibar West",
+    "added TZ-16 Morogoro",
+    "added TZ-17 Mtwara",
+    "added TZ-18 Mwanza",
+    "added TZ-19 Coast",
+    "added TZ-20 Rukwa",
+    "added TZ-21 Ruvuma",
+    "added TZ-22 Shinyanga",
+    "added TZ-23 Singida",
+    "added TZ-24 Tabora",
+    "added TZ-25 Tanga",
+    "added TZ-26 Manyara",
+    "added TZ-27 Geita",
+    "added TZ-28 Katavi",
+    "added TZ-29 Njombe",
+    "added TZ-30 Simiyu",
+    "added TZ-31 Songwe"
+   ],
+   "confidence": "high"
+  },
+  "UA": {
+   "level": "oblast",
+   "units": 27,
+   "iso_units": 27,
+   "non_iso_units": [],
+   "previous_tsv_units": 27,
+   "changes": [
+    "RU-RESPUBLIKA_KRYM (was in the RU list) -> UA-43 Avtonomna Respublika Krym (alias)",
+    "RU-SEVASTOPOL (was in the RU list) -> UA-40 Sevastopol (alias)"
+   ],
+   "confidence": "high"
+  },
+  "UM": {
+   "level": "state",
+   "units": 0,
+   "iso_units": 0,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [],
+   "confidence": "high"
+  },
+  "US": {
+   "level": "state",
+   "units": 62,
+   "iso_units": 56,
+   "non_iso_units": [
+    "US-AA",
+    "US-AE",
+    "US-AP",
+    "US-FM",
+    "US-MH",
+    "US-PW"
+   ],
+   "previous_tsv_units": 62,
+   "changes": [],
+   "confidence": "high"
+  },
+  "UY": {
+   "level": "department",
+   "units": 19,
+   "iso_units": 19,
+   "non_iso_units": [],
+   "previous_tsv_units": 19,
+   "changes": [],
+   "confidence": "high"
+  },
+  "UZ": {
+   "level": "region",
+   "units": 14,
+   "iso_units": 14,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [
+    "added UZ-AN Andijon",
+    "added UZ-BU Buxoro",
+    "added UZ-FA Farg‘ona",
+    "added UZ-JI Jizzax",
+    "added UZ-NG Namangan",
+    "added UZ-NW Navoiy",
+    "added UZ-QA Qashqadaryo",
+    "added UZ-QR Qoraqalpog‘iston Respublikasi",
+    "added UZ-SA Samarqand",
+    "added UZ-SI Sirdaryo",
+    "added UZ-SU Surxondaryo",
+    "added UZ-TK Toshkent shahri",
+    "added UZ-TO Toshkent viloyati",
+    "added UZ-XO Xorazm"
+   ],
+   "confidence": "high"
+  },
+  "VE": {
+   "level": "state",
+   "units": 25,
+   "iso_units": 25,
+   "non_iso_units": [],
+   "previous_tsv_units": 25,
+   "changes": [
+    "renamed VE-A: Distrito Federal -> Distrito Capital",
+    "renamed VE-X: Vargas -> La Guaira (2019)"
+   ],
+   "confidence": "high"
+  },
+  "VI": {
+   "level": "state",
+   "units": 0,
+   "iso_units": 0,
+   "non_iso_units": [],
+   "previous_tsv_units": 0,
+   "changes": [],
+   "confidence": "high"
+  },
+  "VN": {
+   "level": "province",
+   "units": 34,
+   "iso_units": 34,
+   "non_iso_units": [],
+   "previous_tsv_units": 63,
+   "changes": [
+    "merged VN-03 Hà Giang -> VN-07 Tuyên Quang (old code kept as alias)",
+    "merged VN-06 Yên Bái -> VN-02 Lào Cai (old code kept as alias)",
+    "merged VN-14 Hòa Bình -> VN-68 Phú Thọ (old code kept as alias)",
+    "merged VN-20 Thái Bình -> VN-66 Hưng Yên (old code kept as alias)",
+    "merged VN-24 Quảng Bình -> VN-25 Quảng Trị (old code kept as alias)",
+    "merged VN-27 Quảng Nam -> VN-DN Đà Nẵng (old code kept as alias)",
+    "merged VN-28 Kon Tum -> VN-29 Quảng Ngãi (old code kept as alias)",
+    "merged VN-31 Bình Định -> VN-30 Gia Lai (old code kept as alias)",
+    "merged VN-32 Phú Yên -> VN-33 Đắk Lắk (old code kept as alias)",
+    "merged VN-36 Ninh Thuận -> VN-34 Khánh Hòa (old code kept as alias)",
+    "merged VN-40 Bình Thuận -> VN-35 Lâm Đồng (old code kept as alias)",
+    "merged VN-41 Long An -> VN-37 Tây Ninh (old code kept as alias)",
+    "merged VN-43 Bà Rịa–Vũng Tàu -> VN-SG Hồ Chí Minh (old code kept as alias)",
+    "merged VN-46 Tiền Giang -> VN-45 Đồng Tháp (old code kept as alias)",
+    "merged VN-47 Kiên Giang -> VN-44 An Giang (old code kept as alias)",
+    "merged VN-50 Bến Tre -> VN-49 Vĩnh Long (old code kept as alias)",
+    "merged VN-51 Trà Vinh -> VN-49 Vĩnh Long (old code kept as alias)",
+    "merged VN-52 Sóc Trăng -> VN-CT Cần Thơ (old code kept as alias)",
+    "merged VN-53 Bắc Kạn -> VN-69 Thái Nguyên (old code kept as alias)",
+    "merged VN-54 Bắc Giang -> VN-56 Bắc Ninh (old code kept as alias)",
+    "merged VN-55 Bạc Liêu -> VN-59 Cà Mau (old code kept as alias)",
+    "merged VN-57 Bình Dương -> VN-SG Hồ Chí Minh (old code kept as alias)",
+    "merged VN-58 Bình Phước -> VN-39 Đồng Nai (old code kept as alias)",
+    "merged VN-61 Hải Dương -> VN-HP Hải Phòng (old code kept as alias)",
+    "merged VN-63 Hà Nam -> VN-18 Ninh Bình (old code kept as alias)",
+    "merged VN-67 Nam Định -> VN-18 Ninh Bình (old code kept as alias)",
+    "merged VN-70 Vĩnh Phúc -> VN-68 Phú Thọ (old code kept as alias)",
+    "merged VN-72 Đăk Nông -> VN-35 Lâm Đồng (old code kept as alias)",
+    "merged VN-73 Hậu Giang -> VN-CT Cần Thơ (old code kept as alias)",
+    "renamed VN-26: Thừa Thiên-Huế -> Huế (centrally-run city from 2025-01-01; code kept, ISO name not yet updated)",
+    "type change (no code change): Đồng Nai VN-39 city from 2026-04-30, Quảng Ninh VN-13 from 2026-09-01, Bắc Ninh VN-56 from 2026-09-20"
+   ],
+   "confidence": "high"
+  }
+ },
+ "totals": {
+  "countries": 79,
+  "units": 1716,
+  "low_confidence": [
+   "AF",
+   "BI",
+   "BS",
+   "CV",
+   "IT",
+   "KP",
+   "KR",
+   "MM",
+   "PW"
+  ],
+  "not_included_tsv_countries": {
+   "AD": "7 rows in subdivisions.tsv; addresses do not name a province (D/F review province.named=false)",
+   "CU": "16 rows in subdivisions.tsv; addresses do not name a province (D/F review province.named=false)"
+  }
+ }
+}

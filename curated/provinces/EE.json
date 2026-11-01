@@ -1,0 +1,139 @@
+{
+ "country": "EE",
+ "level": "county",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "EE-37",
+   "local": "Harjumaa",
+   "latin": "Harjumaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-39",
+   "local": "Hiiumaa",
+   "latin": "Hiiumaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-45",
+   "local": "Ida-Virumaa",
+   "latin": "Ida-Virumaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-50",
+   "local": "Jõgevamaa",
+   "latin": "Jõgevamaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-52",
+   "local": "Järvamaa",
+   "latin": "Järvamaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-56",
+   "local": "Läänemaa",
+   "latin": "Läänemaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-60",
+   "local": "Lääne-Virumaa",
+   "latin": "Lääne-Virumaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-64",
+   "local": "Põlvamaa",
+   "latin": "Põlvamaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-68",
+   "local": "Pärnumaa",
+   "latin": "Pärnumaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-71",
+   "local": "Raplamaa",
+   "latin": "Raplamaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-74",
+   "local": "Saaremaa",
+   "latin": "Saaremaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-79",
+   "local": "Tartumaa",
+   "latin": "Tartumaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-81",
+   "local": "Valgamaa",
+   "latin": "Valgamaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-84",
+   "local": "Viljandimaa",
+   "latin": "Viljandimaa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EE-87",
+   "local": "Võrumaa",
+   "latin": "Võrumaa",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added EE-37 Harjumaa",
+  "added EE-39 Hiiumaa",
+  "added EE-45 Ida-Virumaa",
+  "added EE-50 Jõgevamaa",
+  "added EE-52 Järvamaa",
+  "added EE-56 Läänemaa",
+  "added EE-60 Lääne-Virumaa",
+  "added EE-64 Põlvamaa",
+  "added EE-68 Pärnumaa",
+  "added EE-71 Raplamaa",
+  "added EE-74 Saaremaa",
+  "added EE-79 Tartumaa",
+  "added EE-81 Valgamaa",
+  "added EE-84 Viljandimaa",
+  "added EE-87 Võrumaa"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/estEn.pdf",
+  "https://www.omniva.ee/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:EE",
+  "https://en.wikipedia.org/wiki/ISO_3166-2:EE",
+  "https://www.iso.org/obp/ui/#iso:code:3166:EE",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "Only the 15 counties (maakond, 2020-11-24 numeric codes). The pre-2020 letter codes are not used."
+}

@@ -1,0 +1,169 @@
+{
+ "AQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Antarikitiki"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Aland Gun"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "cf CLDR bm \"Ɛlɛni Senu\"",
+  "provenance": "curated",
+  "value": "Bartelemi Senu"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Karayibi Peyiba"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Buve Gun"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Kokosi Gun"
+ },
+ "CW": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Kurasawo"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Noɛli Gun"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sahara Tilebin"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Feroye Gun"
+ },
+ "GG": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Gɛrinizi"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Jeworiji Worodugu ni Sandwiki Worodugu Gun"
+ },
+ "HK": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Hɔngi Kɔngi"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Heard ni McDonald Gun"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Man Gun"
+ },
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Angilɛ ka ɛndu dugukolo"
+ },
+ "JE": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Jɛrize"
+ },
+ "ME": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR bm uses for comparable territories",
+  "provenance": "curated",
+  "value": "Montenegro"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Marten Senu"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "cf CLDR bm MP \"Kɛɲɛka Mariyani Gun\"",
+  "provenance": "curated",
+  "value": "Kɛɲɛka Masedwani"
+ },
+ "MO": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Makawo"
+ },
+ "RS": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sɛribi"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Svalbard ni Jan Mayen"
+ },
+ "SS": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Worodugu Sudaŋ"
+ },
+ "SX": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR bm uses for comparable territories",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Faransi ka Worodugu Dugukolow"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "constructed on CLDR bm patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Ameriki ka Gun Yɔrɔjanw"
+ },
+ "XK": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR bm uses for comparable territories",
+  "provenance": "curated",
+  "value": "Kosovo"
+ }
+}

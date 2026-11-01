@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Ism",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Familiya",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Xonadon, qavat va h.k. (ixtiyoriy)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Tashkilot",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Manzil",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Mamlakat / hudud",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Shahar",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Post-taun",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Shaharcha",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Tuman",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Qishloq / shaharcha",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Tuman",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Mahalla",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Tuman",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Okrug",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Okrug",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Tuman",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Viloyat/shahar",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Amirlik",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Orol",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Okrug",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Prefektura",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Tuman",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Shtat",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Pochta indeksi",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Pochta indeksi",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN kod",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode kodi",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Bu band kiritilishi shart.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} - ushbu qator uchun to‘g‘ri kelmaydigan qiymat.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Ushbu manzilda pochta qutisi ko‘rsatilganga o‘xshaydi. Iltimos, ko‘cha nomi yoki bino raqamidan foydalaning.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Pochta indeksi noto‘g‘ri formatda kiritildi. To‘g‘ri yozilish namunasi: {EXAMPLE}",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Pochta indeksi noto‘g‘ri kiritildi. To‘g‘ri formatdagi indeksga misol: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Ushbu pochta indeksi siz kiritgan manzilga to‘g‘ri kelmaydi.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Ushbu pochta indeksi siz kiritgan manzilga to‘g‘ii kelmayapti.",
+  "provenance": "chromium"
+ }
+}

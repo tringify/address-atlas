@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "名字",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "姓氏",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "公寓、樓層等（選填）",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "機構組織",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "街道地址",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "電話",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "國家/地區",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "城市",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "市鎮",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "近郊",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "鎮區",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "村/鎮區",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "鄉鎮市區",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "鄰",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "區域",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "縣/市",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "部門",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "鄉鎮市區",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "道/市",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "埃米爾管轄區",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "島",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "州",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "教區",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "縣",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "州/省",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "州",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "郵遞區號",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "郵遞區號",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN 碼",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "愛爾蘭郵政編碼",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "此欄位不可留空。",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "系統無法將 {FIELD_VALUE} 視為此欄位的已知值。",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "此地址似乎包含郵政信箱。請使用街道或建築物的地址。",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "我們無法辨識這個郵遞區號格式。有效的郵遞區號範例如下：{EXAMPLE}。",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "系統無法辨識這個郵遞區號格式。有效的郵遞區號範例如下：{EXAMPLE}。",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "此郵遞區號似乎與此地址的其他部分不符。",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "此郵遞區號似乎與此地址的其他部分不符。",
+  "provenance": "chromium"
+ }
+}

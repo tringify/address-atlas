@@ -1,0 +1,170 @@
+{
+ "fields.first_name": {
+  "value": "Fanampin'anarana",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Malagasy convention: anarana = surname, fanampin'anarana = given name."
+ },
+ "fields.last_name": {
+  "value": "Anarana",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Trano, efitrano, sns. (tsy voatery)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Fikambanana",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Adiresy",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefaonina",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Firenena / Faritra",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Tanàna",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Tanàna paositra",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "Manodidina ny tanàna",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Tanàna kely (Irlandy)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland approximated as \"small village (Ireland)\"."
+ },
+ "city.village_township": {
+  "value": "Tanàna / Kaominina",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Distrika",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Fokontany",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Faritra",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Kaonty",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Loanword; no established Malagasy term."
+ },
+ "province.department": {
+  "value": "Departemanta",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Distrika",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirà",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Nosy",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Paroasy",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Prefektiora",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Faritany",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Fanjakana",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Kaody paositra",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Kaody ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Kaody PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Tsy azo avela ho foana ity.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Message wording not checked against a Malagasy product UI."
+ },
+ "messages.unknown_value": {
+  "value": "Tsy fantatra ho sanda manan-kery ho an'ity saha ity ny {FIELD_VALUE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Message wording not checked against a Malagasy product UI."
+ },
+ "messages.po_box_forbidden": {
+  "value": "Toa misy boaty paositra ity andalana adiresy ity. Ampiasao adiresy misy arabe na trano azafady.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Message wording not checked against a Malagasy product UI."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Tsy fantatra ny endriky ny kaody paositra. Ohatra kaody paositra manan-kery: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Message wording not checked against a Malagasy product UI."
+ },
+ "messages.zip_invalid_example": {
+  "value": "Tsy fantatra ny endriky ny kaody ZIP. Ohatra kaody ZIP manan-kery: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Message wording not checked against a Malagasy product UI."
+ },
+ "messages.postal_mismatch": {
+  "value": "Toa tsy mifanaraka amin'ny ambin'ny adiresy ity kaody paositra ity.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Message wording not checked against a Malagasy product UI."
+ },
+ "messages.zip_mismatch": {
+  "value": "Toa tsy mifanaraka amin'ny ambin'ny adiresy ity kaody ZIP ity.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Message wording not checked against a Malagasy product UI."
+ }
+}

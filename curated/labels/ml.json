@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "ആദ്യ പേര്",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "അവസാന പേര്",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "അപ്പാർട്ട്മെന്റ്, സ്യൂട്ട് മുതലായവ (ഓപ്ഷണൽ)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "ഓര്‍ഗനൈസേഷന്‍",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "സ്ഥല വിലാസം",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "ഫോൺ",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "രാജ്യം/പ്രവിശ്യ",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "നഗരം",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "പോസ്‌റ്റ് ഓഫീസ്",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "നഗരപരിസരം",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "ടൗൺലാൻഡ്",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "ഗ്രാമം / ചെറിയ പട്ടണം",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "ജില്ല",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "വിളിപ്പാടരികെയുള്ള സ്ഥലം",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "ഏരിയ",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "രാജ്യം",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "വകുപ്പ്",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "ജില്ല",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "ദോ/സി",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "എമിറേറ്റ്",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "ഐലന്‍ഡ്",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "ഭരണവിഭാഗം",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "പാരിഷ്",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "പ്രിഫെക്ച്വര്‍",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "പ്രവിശ്യ",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "സ്റ്റേറ്റ്",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "തപാല്‍ കോഡ്",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "തപാൽ കോഡ്",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "പിൻകോഡ്",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "ഇയർകോഡ്",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "ഇത് നിർബന്ധമായും പൂരിപ്പിച്ചിരിക്കണം.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} എന്നത് ഈ ഫീൽഡിനുള്ള തിരിച്ചറിഞ്ഞ ഒരു മൂല്യമായി അംഗീകരിക്കപ്പെട്ടില്ല.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "ഈ വിലാസ വരിയിൽ ഒരു പോസ്റ്റ്‌ ഓഫീസ് ബോക്‌സ് അടങ്ങിയിരിക്കുന്നതായി തോന്നുന്നു. ഒരു സ്‌ട്രീറ്റിന്റെയോ കെട്ടിടത്തിന്റെയോ വിലാസം ഉപയോഗിക്കുക.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "ഈ തപാൽ കോഡ് ഫോർമാറ്റ് അംഗീകൃതമല്ല. സാധുവായ ഒരു തപാൽ കോഡിനുള്ള ഉദാഹരണമിതാണ്: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "ഈ തപാൽ കോഡ് ഫോർമാറ്റ് അംഗീകൃതമല്ല. ഒരു സാധുവായ തപാൽ കോഡിനുള്ള ഉദാഹരണമിതാ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "ഈ തപാൽ കോഡ് ഈ വിലാസത്തിന്റെ ബാക്കി ഭാഗങ്ങളുമായി പൊരുത്തപ്പെടുന്നതായി തോന്നുന്നില്ല.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "ഈ തപാൽ കോഡ് ഈ വിലാസത്തിന്റെ ബാക്കി ഭാഗവുമായി പൊരുത്തപ്പെടുന്നതായി തോന്നുന്നില്ല.",
+  "provenance": "chromium"
+ }
+}

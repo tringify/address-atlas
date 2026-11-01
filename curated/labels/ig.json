@@ -1,0 +1,220 @@
+{
+ "fields.first_name": {
+  "value": "Aha mbụ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "fields.last_name": {
+  "value": "Aha ikpeazụ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "fields.address2": {
+  "value": "Ụlọ, ime ụlọ, wdg. (nhọrọ)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "fields.company": {
+  "value": "Ụlọ ọrụ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "fields.address1": {
+  "value": "Adreesị okporo ụzọ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "fields.phone": {
+  "value": "Ekwentị",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "fields.country": {
+  "value": "Mba / Mpaghara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.city": {
+  "value": "Obodo mepere emepe",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.post_town": {
+  "value": "Obodo post",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.suburb": {
+  "value": "Mpaghara obodo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.townland": {
+  "value": "Ime obodo (Ireland)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.village_township": {
+  "value": "Obodo nta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.district": {
+  "value": "Mpaghara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.neighborhood": {
+  "value": "Agbata obi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.area": {
+  "value": "Mpaghara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.county": {
+  "value": "Mpaghara ọchịchị",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.department": {
+  "value": "Ngalaba",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.district": {
+  "value": "Mpaghara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Ọchịchị Emir",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.island": {
+  "value": "Agwaetiti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.parish": {
+  "value": "Pari",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.prefecture": {
+  "value": "Prefekchọ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.province": {
+  "value": "Mpaghara ukwu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.state": {
+  "value": "Steeti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "postal.postal": {
+  "value": "Koodu post",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "postal.zip": {
+  "value": "Koodu ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "postal.pin": {
+  "value": "Koodu PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Ị nweghị ike ịhapụ nke a n'efu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "messages.unknown_value": {
+  "value": "A maghị {FIELD_VALUE} dịka uru a ma ama maka mpaghara a.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "messages.po_box_forbidden": {
+  "value": "Ahịrị adreesị a yiri ka o nwere igbe post. Biko jiri adreesị okporo ụzọ ma ọ bụ ụlọ.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "messages.postal_invalid_example": {
+  "value": "A maghị ụdị koodu post a. Ọmụmaatụ koodu post ziri ezi: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "messages.zip_invalid_example": {
+  "value": "A maghị ụdị koodu ZIP a. Ọmụmaatụ koodu ZIP ziri ezi: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "messages.postal_mismatch": {
+  "value": "Koodu post a adabaghị na adreesị ndị ọzọ.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "messages.zip_mismatch": {
+  "value": "Koodu ZIP a adabaghị na adreesị ndị ọzọ.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+ }
+}

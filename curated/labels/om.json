@@ -1,0 +1,220 @@
+{
+ "fields.first_name": {
+  "value": "Maqaa jalqabaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "fields.last_name": {
+  "value": "Maqaa abbaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "fields.address2": {
+  "value": "Kutaa mana jireenyaa, kkf. (filannoo)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "fields.company": {
+  "value": "Dhaabbata",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "fields.address1": {
+  "value": "Teessoo daandii",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "fields.phone": {
+  "value": "Bilbila",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "fields.country": {
+  "value": "Biyya / Naannoo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.city": {
+  "value": "Magaalaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.post_town": {
+  "value": "Magaalaa poostaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.suburb": {
+  "value": "Naannoo magaalaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.townland": {
+  "value": "Ganda (Ayerlaand)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.village_township": {
+  "value": "Ganda",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.district": {
+  "value": "Aanaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.neighborhood": {
+  "value": "Ollaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.area": {
+  "value": "Iddoo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.county": {
+  "value": "Godina",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.department": {
+  "value": "Kutaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.district": {
+  "value": "Aanaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emireetii",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.island": {
+  "value": "Odola",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.parish": {
+  "value": "Paarishii",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.prefecture": {
+  "value": "Prefeekcharii",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.province": {
+  "value": "Kutaa bulchiinsaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.state": {
+  "value": "Naannoo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "postal.postal": {
+  "value": "Lakkoofsa poostaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "postal.zip": {
+  "value": "Koodii ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "postal.pin": {
+  "value": "Koodii PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Kana duwwaa dhiisuu hin dandeessu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} gatii beekamaa dirree kanaaf ta'uun hin beekamne.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "messages.po_box_forbidden": {
+  "value": "Sarariin teessoo kun saanduqa poostaa of keessaa qaba fakkaata. Maaloo teessoo daandii ykn gamoo fayyadami.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Bifti lakkoofsa poostaa kanaa hin beekamne. Fakkeenya lakkoofsa poostaa sirrii: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "messages.zip_invalid_example": {
+  "value": "Bifti koodii ZIP kanaa hin beekamne. Fakkeenya koodii ZIP sirrii: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "messages.postal_mismatch": {
+  "value": "Lakkoofsi poostaa kun teessoo hafe waliin kan walsimu hin fakkaatu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ },
+ "messages.zip_mismatch": {
+  "value": "Koodiin ZIP kun teessoo hafe waliin kan walsimu hin fakkaatu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+ }
+}

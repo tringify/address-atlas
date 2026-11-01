@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "প্ৰথম নাম",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "উপাধি",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "এপাৰ্টমেণ্ট, ছুইট আদি (ঐচ্ছিক)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "প্ৰতিষ্ঠান",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "পথৰ ঠিকনা",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "ফ'ন",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "দেশ / অঞ্চল",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "চহৰ",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "ডাক চহৰ",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "উপকণ্ঠ",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "টাউনলেণ্ড",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "গাঁও / নগৰ",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "জিলা",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "চুবুৰীয়া অঞ্চল",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "ক্ষেত্ৰ",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "জিলা",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "বিভাগ",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "জিলা",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "এমিৰে'ট",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "দ্বীপ",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "অ’ব্লাষ্ট",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "গাঁও",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "জিলাৰ মুৰব্বী",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "প্ৰদেশ",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "ৰাজ্য",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "পিন ক'ড",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "পিন ক’ড",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "পিন ক’ড",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "ইৰক’ড",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "আপুনি এইটো খালী ৰাখিব নোৱাৰে।",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "এই ক্ষেত্ৰৰ কাৰণে {FIELD_VALUE} পৰিচিত মান হিচাপে স্বীকৃত নহ’ল।",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "ঠিকনাটোৰ এই শাৰীটোত এটা প’ষ্ট অফিচৰ বাকচৰ উল্লেখ থকা যেন লাগিছে। অনুগ্ৰহ কৰি পথ বা ঘৰৰ নম্বৰযুক্ত ঠিকনা ব্যৱহাৰ কৰক।",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "এই পিনক’ডৰ ফৰমেটটো চিনাক্ত কৰিব পৰা নগ’ল। কোনো মান্য পিনক’ডৰ উদাহৰণ: {EXAMPLE}।",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "এই পিন ক’ডৰ ফর্মেটটো চিনাক্ত কৰিব পৰা নাই। মান্য পিন ক’ডৰ উদাহৰণ: {EXAMPLE}।",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "এই পিনক’ডটো ঠিকনাটোৰ বাকী অংশৰ সৈতে খাপ খোৱা যেন লগা নাই।",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "এই পিন ক’ডটো ঠিকনাটোৰ বাকী অংশৰ সৈতে খাপ খোৱা যেন লগা নাই।",
+    "provenance": "chromium"
+  }
+}

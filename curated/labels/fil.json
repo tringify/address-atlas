@@ -1,0 +1,151 @@
+{
+  "fields.first_name": {
+    "value": "Pangalan",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Apelyido",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Apartment, suite, atbp. (opsyonal)",
+    "provenance": "curated",
+    "note": "Filipino checkout forms use the English loanwords 'apartment'/'suite'; 'atbp.' and 'opsyonal' are Filipino."
+  },
+  "fields.company": {
+    "value": "Organisasyon",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Address ng kalye",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Telepono",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Bansa/Rehiyon",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Lungsod",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Post Town",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Suburb",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Townland",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Barangay / Nayon",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Distrito",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Kapitbahayan",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Lugar",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Lalawigan",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Kagawaran",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Distrito",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emirate",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Island",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Parish",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Prefecture",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Lalawigan",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Estado",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Postal code",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Zip code",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "PIN code",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Hindi mo ito maaaring iwanang walang laman.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "Hindi natukoy ang {FIELD_VALUE} bilang kilalang halaga para sa field na ito.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Mukhang naglalaman ng post office box ang linya ng address na ito. Pakigamit ang address ng kalye o gusali.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Hindi nakikilala ang format na ito ng postal code. Halimbawa ng wastong postal code: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Hindi nakikilala ang format na ito ng ZIP code. Halimbawa ng wastong ZIP code: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Mukhang hindi tumutugma ang postal code na ito sa kabuuan ng address na ito.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Mukhang hindi tumutugma ang zip code na ito sa kabuuan ng address na ito.",
+    "provenance": "chromium"
+  }
+}

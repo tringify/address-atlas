@@ -1,0 +1,220 @@
+{
+ "fields.first_name": {
+  "value": "گۄڈنیُک ناو",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "fields.last_name": {
+  "value": "آخری ناو",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "fields.address2": {
+  "value": "اپارٹمنٹ، سُوٹ وغیرہ (اختیٲری)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "fields.company": {
+  "value": "تنظیم",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "fields.address1": {
+  "value": "سڑکُک پتہٕ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "fields.phone": {
+  "value": "فون",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "fields.country": {
+  "value": "مُلُک / علاقہٕ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "city.city": {
+  "value": "شہر",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "city.post_town": {
+  "value": "ڈاک شہر",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "city.suburb": {
+  "value": "مضافات",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "city.townland": {
+  "value": "ٹاؤن لینڈ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "city.village_township": {
+  "value": "گام / ٹاؤنشِپ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "city.district": {
+  "value": "ضِلع",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "city.neighborhood": {
+  "value": "محلہٕ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "province.area": {
+  "value": "علاقہٕ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "province.county": {
+  "value": "کاؤنٹی",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "province.department": {
+  "value": "محکمہٕ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "province.district": {
+  "value": "ضِلع",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "امارت",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "province.island": {
+  "value": "جزیرٕ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "province.oblast": {
+  "value": "اوبلاست",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "province.parish": {
+  "value": "پیرش",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "province.prefecture": {
+  "value": "پریفیکچر",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "province.province": {
+  "value": "صوبہٕ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "province.state": {
+  "value": "ریاست",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "postal.postal": {
+  "value": "ڈاک کوڈ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "postal.zip": {
+  "value": "زِپ کوڈ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "postal.pin": {
+  "value": "پِن کوڈ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "یہِ ہیٚکِو نہٕ خٲلی ترٲوِتھ۔",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} چھُ نہٕ یَتھ فیٖلڈ خٲطرٕ کانٛہہ زانٛنہٕ آمُت قٲدر۔",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "messages.po_box_forbidden": {
+  "value": "یہِ پتہٕ لٲن باسان پوسٹ آفس باکس ہُنٛد۔ مہربٲنی کٔرِتھ سڑکُک یا عمارتُک پتہٕ ورتٲوِو۔",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "messages.postal_invalid_example": {
+  "value": "یہِ ڈاک کوڈُک فارمیٹ چھُ نہٕ پرزنٲونہٕ یوان۔ صحیح ڈاک کوڈُک مثال: {EXAMPLE}۔",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "messages.zip_invalid_example": {
+  "value": "یہِ زِپ کوڈُک فارمیٹ چھُ نہٕ پرزنٲونہٕ یوان۔ صحیح زِپ کوڈُک مثال: {EXAMPLE}۔",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "messages.postal_mismatch": {
+  "value": "یہِ ڈاک کوڈ چھُ نہٕ باقی پتس سٍتۍ میل کھیوان۔",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ },
+ "messages.zip_mismatch": {
+  "value": "یہِ زِپ کوڈ چھُ نہٕ باقی پتس سٍتۍ میل کھیوان۔",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kashmiri (Perso-Arabic) forms are rare; drafted from Urdu-influenced usage without a native reference."
+ }
+}

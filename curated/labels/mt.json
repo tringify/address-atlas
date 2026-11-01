@@ -1,0 +1,154 @@
+{
+ "fields.first_name": {
+  "value": "Isem",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Kunjom",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Appartament, suite, eċċ. (mhux obbligatorju)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organizzazzjoni",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Indirizz tat-triq",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Pajjiż / Reġjun",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Belt",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Lokalità",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "Subborg",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Raħal (Irlanda)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland approximated as \"village (Ireland)\"."
+ },
+ "city.village_township": {
+  "value": "Raħal / Lokalità",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Distrett",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Inħawi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "\"Inħawi\" (area/surroundings); no fixed form term."
+ },
+ "province.area": {
+  "value": "Żona",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Kontea",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Dipartiment",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Distrett",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirat",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Gżira",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Parroċċa",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Prefettura",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Provinċja",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Stat",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Kodiċi postali",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Kodiċi ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Kodiċi PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Ma tistax tħalli dan vojt.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} mhuwiex rikonoxxut bħala valur magħruf għal dan il-qasam.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Jidher li din il-linja tal-indirizz fiha kaxxa postali. Jekk jogħġbok uża indirizz ta' triq jew ta' bini.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Dan il-format tal-kodiċi postali mhuwiex rikonoxxut. Eżempju ta' kodiċi postali validu: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Dan il-format tal-kodiċi ZIP mhuwiex rikonoxxut. Eżempju ta' kodiċi ZIP validu: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Dan il-kodiċi postali ma jidhirx li jaqbel mal-bqija ta' dan l-indirizz.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Dan il-kodiċi ZIP ma jidhirx li jaqbel mal-bqija ta' dan l-indirizz.",
+  "provenance": "curated"
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "fields.first_name": {
+  "value": "Virnumm",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Familljennumm",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Appartement, Etage asw. (fakultativ)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organisatioun",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Strooss an Hausnummer",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Land/Regioun",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Stad",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Uertschaft",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luxembourg Post uses \"Uertschaft\" (locality) for the town line."
+ },
+ "city.suburb": {
+  "value": "Viruert",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish proper term kept as in German Chromium (\"Townland\")."
+ },
+ "city.village_township": {
+  "value": "Duerf/Gemeng",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Bezierk",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Quartier",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Regioun",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Grofschaft",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "\"Grofschaft\" (historic county); German Chromium uses Landkreis."
+ },
+ "province.department": {
+  "value": "Departement",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Bezierk",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirat",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Insel",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Par",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "\"Par\" (church parish); no administrative usage in Luxembourg."
+ },
+ "province.prefecture": {
+  "value": "Präfektur",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Provënz",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Staat/Bundesland",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Postleitzuel",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Postleitzuel",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "PIN-Code",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Dëst Feld däerf net eidel bleiwen.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ass kee bekannte Wäert fir dëst Feld.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Dës Adresslinn schéngt e Postfach ze enthalen. Gitt w.e.g. eng Strooss- oder Gebaiadress un.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Dëse Format vun der Postleitzuel gëtt net erkannt. Beispill fir eng gülteg Postleitzuel: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Dëse Format vun der Postleitzuel gëtt net erkannt. Beispill fir eng gülteg Postleitzuel: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Dës Postleitzuel schéngt net zum Rescht vun der Adress ze passen.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Dës Postleitzuel schéngt net zum Rescht vun der Adress ze passen.",
+  "provenance": "curated"
+ }
+}

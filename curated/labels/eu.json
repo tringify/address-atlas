@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Izena",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Abizenak",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Pisua, atea, etab. (aukerakoa)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Erakundea",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Helbide fisikoa",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Telefonoa",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Herrialdea/Lurraldea",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Hiria",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Udalerria",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Aldiriak",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Barrutia",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Udalerria",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Distritua",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Auzoa",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Eskualdea",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Konderria",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Departamentua",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Distritua",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Arabiar Emirerri Batuak",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Uhartea",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Oblasta",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Barrutia",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Administrazio-eremua",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Probintzia",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Estatua",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Posta-kodea",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "ZIP kodea",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "PIN kodea",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode kodea",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Ezin duzu hutsik utzi.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} ez da eremurako balio balioduna.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Helbidearen lerro hau posta-kutxa bat dela dirudi. Erabili kalearen edo eraikinaren helbidea.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Posta-kodearen formatua ezezaguna da. Balio duen posta-kode baten adibidea: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Posta-kodearen formatua ezezaguna da. Hona hemen onartzen den posta-kodeen formatuaren adibidea: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Ez dirudi posta-kodea helbideko gainerako datuekin bat datorrenik.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Ez dirudi posta-kodea helbideko gainerako datuekin bat datorrenik.",
+    "provenance": "chromium"
+  }
+}

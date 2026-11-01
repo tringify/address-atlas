@@ -1,0 +1,113 @@
+{
+ "country": "NR",
+ "level": "district",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "NR-01",
+   "local": "Aiwo",
+   "latin": "Aiwo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-02",
+   "local": "Anabar",
+   "latin": "Anabar",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-03",
+   "local": "Anetan",
+   "latin": "Anetan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-04",
+   "local": "Anibare",
+   "latin": "Anibare",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-05",
+   "local": "Baitsi",
+   "latin": "Baitsi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-06",
+   "local": "Boe",
+   "latin": "Boe",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-07",
+   "local": "Buada",
+   "latin": "Buada",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-08",
+   "local": "Denigomodu",
+   "latin": "Denigomodu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-09",
+   "local": "Ewa",
+   "latin": "Ewa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-10",
+   "local": "Ijuw",
+   "latin": "Ijuw",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-11",
+   "local": "Meneng",
+   "latin": "Meneng",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-12",
+   "local": "Nibok",
+   "latin": "Nibok",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-13",
+   "local": "Uaboe",
+   "latin": "Uaboe",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NR-14",
+   "local": "Yaren",
+   "latin": "Yaren",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.iso.org/obp/ui/#iso:code:3166:NR",
+  "https://www.iso.org/obp/ui/#iso:code:3166:NR",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": ""
+}

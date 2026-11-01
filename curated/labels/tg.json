@@ -1,0 +1,172 @@
+{
+ "fields.first_name": {
+  "value": "Ном",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Насаб",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Хона, ошёна ва ғ. (ихтиёрӣ)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Ташкилот",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Суроғаи кӯча",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Телефон",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Кишвар / минтақа",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Шаҳр",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Шаҳри почта",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tajik (Cyrillic); wording not verified against a Tajik form"
+ },
+ "city.suburb": {
+  "value": "Канори шаҳр",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tajik (Cyrillic); wording not verified against a Tajik form"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Tajik equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Деҳа / шаҳрак",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Ноҳия",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Маҳалла",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Минтақа",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Округ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tajik (Cyrillic); wording not verified against a Tajik form"
+ },
+ "province.department": {
+  "value": "Департамент",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Ноҳия",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "До/Си",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Аморат",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Ҷазира",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Вилоят",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Приход",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Russian loan for a church parish"
+ },
+ "province.prefecture": {
+  "value": "Префектура",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Музофот",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Иёлат",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Индекси почта",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Коди ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Коди PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Ин майдон набояд холӣ бошад.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ҳамчун қимати маълум барои ин майдон шинохта нашуд.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tajik (Cyrillic); wording not verified against a Tajik form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Чунин менамояд, ки ин сатри суроға қуттии почтаро дар бар мегирад. Лутфан суроғаи кӯча ё биноро истифода баред.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tajik (Cyrillic); wording not verified against a Tajik form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Формати ин индекси почта шинохта нашуд. Намунаи индекси дурусти почта: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tajik (Cyrillic); wording not verified against a Tajik form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Формати ин коди ZIP шинохта нашуд. Намунаи коди дурусти ZIP: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tajik (Cyrillic); wording not verified against a Tajik form"
+ },
+ "messages.postal_mismatch": {
+  "value": "Чунин менамояд, ки ин индекси почта ба қисми боқимондаи суроға мувофиқат намекунад.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tajik (Cyrillic); wording not verified against a Tajik form"
+ },
+ "messages.zip_mismatch": {
+  "value": "Чунин менамояд, ки ин коди ZIP ба қисми боқимондаи суроға мувофиқат намекунад.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tajik (Cyrillic); wording not verified against a Tajik form"
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "country": "IE",
+ "level": "county",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "IE-CE",
+   "local": "Clare",
+   "latin": "Clare",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-CN",
+   "local": "Cavan",
+   "latin": "Cavan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-CO",
+   "local": "Cork",
+   "latin": "Cork",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-CW",
+   "local": "Carlow",
+   "latin": "Carlow",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-D",
+   "local": "Dublin",
+   "latin": "Dublin",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-DL",
+   "local": "Donegal",
+   "latin": "Donegal",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-G",
+   "local": "Galway",
+   "latin": "Galway",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-KE",
+   "local": "Kildare",
+   "latin": "Kildare",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-KK",
+   "local": "Kilkenny",
+   "latin": "Kilkenny",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-KY",
+   "local": "Kerry",
+   "latin": "Kerry",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-LD",
+   "local": "Longford",
+   "latin": "Longford",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-LH",
+   "local": "Louth",
+   "latin": "Louth",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-LK",
+   "local": "Limerick",
+   "latin": "Limerick",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-LM",
+   "local": "Leitrim",
+   "latin": "Leitrim",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-LS",
+   "local": "Laois",
+   "latin": "Laois",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-MH",
+   "local": "Meath",
+   "latin": "Meath",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-MN",
+   "local": "Monaghan",
+   "latin": "Monaghan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-MO",
+   "local": "Mayo",
+   "latin": "Mayo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-OY",
+   "local": "Offaly",
+   "latin": "Offaly",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-RN",
+   "local": "Roscommon",
+   "latin": "Roscommon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-SO",
+   "local": "Sligo",
+   "latin": "Sligo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-TA",
+   "local": "Tipperary",
+   "latin": "Tipperary",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-WD",
+   "local": "Waterford",
+   "latin": "Waterford",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-WH",
+   "local": "Westmeath",
+   "latin": "Westmeath",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-WW",
+   "local": "Wicklow",
+   "latin": "Wicklow",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IE-WX",
+   "local": "Wexford",
+   "latin": "Wexford",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.eircode.ie/what-is-eircode",
+  "https://autoaddress.com/articles/eircode-regex/",
+  "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+  "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IE",
+  "https://www.iso.org/obp/ui/#iso:code:3166:IE",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "26 counties; the 4 provinces (IE-C, IE-L, IE-M, IE-U) are not used in addresses. An Post writes \"Co. <name>\"; local is the bare county name as in ISO (Irish names not stored)."
+}

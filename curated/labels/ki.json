@@ -1,0 +1,220 @@
+{
+ "fields.first_name": {
+  "value": "Rĩĩtwa rĩa mbere",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "fields.last_name": {
+  "value": "Rĩĩtwa rĩa mũthia",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "fields.address2": {
+  "value": "Nyũmba, rũmu, na ingĩ (ti ya bata)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "fields.company": {
+  "value": "Kambuni",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "fields.address1": {
+  "value": "Anwani ya barabara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "fields.phone": {
+  "value": "Thimu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "fields.country": {
+  "value": "Bũrũri / Rũgongo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.city": {
+  "value": "Taũni",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.post_town": {
+  "value": "Taũni ya posta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.suburb": {
+  "value": "Mũhaka wa taũni",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.townland": {
+  "value": "Gĩcigo (Ireland)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.village_township": {
+  "value": "Itũũra",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.district": {
+  "value": "Ndisitirikiti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "city.neighborhood": {
+  "value": "Matũũra ma hakuhĩ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.area": {
+  "value": "Gĩcigo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.county": {
+  "value": "Kaũnti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.department": {
+  "value": "Ndibatimenti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.district": {
+  "value": "Ndisitirikiti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Ũthamaki wa Emir",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.island": {
+  "value": "Kĩrũmbĩ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.parish": {
+  "value": "Barici",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.prefecture": {
+  "value": "Burifekitia",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.province": {
+  "value": "Purovinsi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "province.state": {
+  "value": "Steti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "postal.postal": {
+  "value": "Nambari ya posta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "postal.zip": {
+  "value": "Nambari ya ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "postal.pin": {
+  "value": "Nambari ya PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Ndũngĩtiga handũ haha hatarĩ kĩndũ.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ti ũndũ ũmenyekaine wa handũ haha.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "messages.po_box_forbidden": {
+  "value": "Mũhari ũyũ wa anwani wonekaga ũrĩ na sanduku ya posta. Ndagũthaitha, hũthĩra anwani ya barabara kana ya nyũmba.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Mũhiano wa nambari ĩno ya posta ndũmenyekaga. Kĩonereria kĩa nambari ya posta ĩrĩ njega: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "messages.zip_invalid_example": {
+  "value": "Mũhiano wa nambari ĩno ya ZIP ndũmenyekaga. Kĩonereria kĩa nambari ya ZIP ĩrĩ njega: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "messages.postal_mismatch": {
+  "value": "Nambari ĩno ya posta ndĩonekaga ĩgĩtwarana na anwani ĩyo ĩngĩ.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ },
+ "messages.zip_mismatch": {
+  "value": "Nambari ĩno ya ZIP ndĩonekaga ĩgĩtwarana na anwani ĩyo ĩngĩ.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kikuyu address-form terminology is not standardized; drafted without a native checkout-form reference."
+ }
+}

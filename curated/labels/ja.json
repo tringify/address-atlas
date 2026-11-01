@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "名",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "姓",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "建物名・部屋番号など（任意）",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "組織",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "番地",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "電話",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "国/地域",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "市区町村",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "町（post town）",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "字・大字",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "村（village） / 町（township）",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "地区",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "周辺エリア",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "地区",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "郡",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "県",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "地区",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "道/市",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "管轄区域",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "島",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "州",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "教区",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "都道府県",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "都道府県",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "都道府県 / 州",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "郵便番号",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "郵便番号",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN コード",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "入力必須項目です。",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "「{FIELD_VALUE}」はこのフィールドでは認識できない値です。",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "この住所には私書箱が含まれているようです。番地や建物を指定する住所を使用してください。",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "この郵便番号の形式は認識されません（有効な郵便番号の例: {EXAMPLE}）。",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "この郵便番号の形式は認識されません（有効な郵便番号の例: {EXAMPLE}）。",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "この郵便番号は、住所と一致しないようです。",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "この郵便番号は、住所と一致しないようです。",
+  "provenance": "chromium"
+ }
+}

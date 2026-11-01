@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Nama depan",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Nama belakang",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Apartemen, unit, dll. (opsional)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Organisasi",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Alamat",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Ponsel",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Negara/Wilayah",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Kota",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Kota",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Suburb/Daerah",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Townland",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Kampung/Pekan",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Distrik",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Kawasan",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Wilayah",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "County",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Departemen",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Distrik",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emirat",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Pulau",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Paroki",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Prefektur",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Provinsi",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Negara Bagian",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Kode pos",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Kode pos",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "Kode PIN",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Anda wajib mengisinya.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} tidak dikenal sebagai nilai yang diketahui untuk bidang ini.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Tampaknya alamat ini berisi kotak pos. Gunakan alamat jalan atau gedung.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Format kode pos ini tidak dikenali. Contoh kode pos yang valid: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Format kode pos ini tidak dikenal. Contoh kode pos yang valid: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Tampaknya kode pos ini tidak cocok dengan sisa alamat ini.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Tampaknya kode pos ini tidak cocok dengan sisa alamat ini.",
+    "provenance": "chromium"
+  }
+}

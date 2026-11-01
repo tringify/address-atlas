@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Vardas",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Pavardė",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Butas, patalpa ir pan. (neprivaloma)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organizacija",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Adresas",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Telefonas",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Šalis / regionas",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Miestas",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Pašto miestas",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Priemiestis",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Miesto apylinkė",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Kaimas / miestelis",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Rajonas",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Kaimynystė",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Sritis",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Apskritis",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Departamentas",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Rajonas",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Provincija / miestas",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Emyratas",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Sala",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Sritis",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Parapija",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Prefektūra",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Provincija",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Valstija",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Pašto kodas",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Pašto kodas",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN kodas",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Šį lauką būtina užpildyti.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} neatpažinta kaip žinoma šio lauko vertė.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Panašu, kad tai yra pašto dėžutės numeris. Naudokite adresą, kuriame nurodyta gatvė ar pastato numeris.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Šis pašto kodo formatas neatpažintas. Tinkamo pašto kodo pavyzdys: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Šis pašto kodo formatas neatpažintas. Tinkamo pašto kodo pavyzdys: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Panašu, kad šis pašto kodas neatitinka likusios adreso dalies.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Panašu, kad šis pašto kodas neatitinka likusios adreso dalies.",
+  "provenance": "chromium"
+ }
+}

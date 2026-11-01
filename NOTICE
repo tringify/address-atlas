@@ -1,0 +1,12 @@
+address-atlas includes data derived from:
+
+- Google libaddressinput address metadata
+  https://github.com/google/libaddressinput — Apache License 2.0
+- Unicode CLDR (country and subdivision names)
+  https://cldr.unicode.org — Unicode License v3
+- Chromium address form label translations
+  https://chromium.googlesource.com/chromium/src — BSD 3-Clause
+- ISO 3166 codes (country and subdivision identifiers), with names cross-checked
+  against Debian iso-codes https://salsa.debian.org/iso-codes-team/iso-codes
+- Universal Postal Union addressing documents and national postal operators'
+  published addressing guidance (facts: postal code formats, address order)

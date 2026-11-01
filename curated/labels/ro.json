@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Prenume",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Nume",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Bloc, scară, apartament etc. (opțional)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organizație",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Adresă fizică",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Țară/Regiune",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Oraș",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Regiunea poștală",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Suburbie",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Cartier",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Sat/Comună",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Județ",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Cartier",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Zonă",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Comitat",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Departament",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Județ",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Emirat",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Insulă",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Provincie",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Parohie",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Prefectură",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Provincie",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Stat",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Cod poștal",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Cod zip",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "Cod PIN",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Acest câmp nu poate rămâne necompletat.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "Valoarea {FIELD_VALUE} nu este recunoscută pentru acest câmp.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Se pare că rândul pentru adresă conține o căsuță poștală. Introdu o adresă cu numele străzii sau numărul clădirii.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Acest format de cod poștal nu este recunoscut. Exemplu de cod poștal valid: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Acest format de cod poștal nu este recunoscut. Exemplu de cod poștal valid: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Se pare că acest cod poștal nu se potrivește cu restul adresei.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Se pare că acest cod poștal nu se potrivește cu restul adresei.",
+  "provenance": "chromium"
+ }
+}

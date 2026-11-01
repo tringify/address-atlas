@@ -1,0 +1,176 @@
+{
+ "fields.first_name": {
+  "value": "پهريون نالو",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "آخري نالو",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "فليٽ، منزل وغيره (اختياري)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "ادارو",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "گهٽيءَ جو پتو",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "فون",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "ملڪ / علائقو",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "شهر",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "پوسٽ شهر",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sindhi (Arabic script); wording not verified against a Sindhi form"
+ },
+ "city.suburb": {
+  "value": "مضافات",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "ٽائون لينڊ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland; transliterated"
+ },
+ "city.village_township": {
+  "value": "ڳوٺ / ٽائون شپ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sindhi (Arabic script); wording not verified against a Sindhi form"
+ },
+ "city.district": {
+  "value": "ضلعو",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "پاڙو",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "علائقو",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "ڪائونٽي",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "ڊپارٽمينٽ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sindhi (Arabic script); wording not verified against a Sindhi form"
+ },
+ "province.district": {
+  "value": "ضلعو",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "ڊو/سي",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "transliteration of Korean Do/Si"
+ },
+ "province.emirate": {
+  "value": "امارت",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "ٻيٽ",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "اوبلاسٽ",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "پيرش",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sindhi (Arabic script); wording not verified against a Sindhi form"
+ },
+ "province.prefecture": {
+  "value": "پريفيڪچر",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sindhi (Arabic script); wording not verified against a Sindhi form"
+ },
+ "province.province": {
+  "value": "صوبو",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "رياست",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "پوسٽل ڪوڊ",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "زپ ڪوڊ",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "پن ڪوڊ",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "توهان هن کي خالي نٿا ڇڏي سگهو.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} هن خاني لاءِ ڄاتل قدر طور سڃاتو نٿو وڃي.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sindhi (Arabic script); wording not verified against a Sindhi form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "لڳي ٿو ته پتي جي هن سٽ ۾ پوسٽ آفيس باڪس آهي. مهرباني ڪري گهٽي يا عمارت جو پتو ڏيو.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sindhi (Arabic script); wording not verified against a Sindhi form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "هن پوسٽل ڪوڊ جو فارميٽ سڃاتو نٿو وڃي. صحيح پوسٽل ڪوڊ جو مثال: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sindhi (Arabic script); wording not verified against a Sindhi form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "هن زپ ڪوڊ جو فارميٽ سڃاتو نٿو وڃي. صحيح زپ ڪوڊ جو مثال: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sindhi (Arabic script); wording not verified against a Sindhi form"
+ },
+ "messages.postal_mismatch": {
+  "value": "لڳي ٿو ته هي پوسٽل ڪوڊ هن پتي جي باقي حصي سان نٿو ملي.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sindhi (Arabic script); wording not verified against a Sindhi form"
+ },
+ "messages.zip_mismatch": {
+  "value": "لڳي ٿو ته هي زپ ڪوڊ هن پتي جي باقي حصي سان نٿو ملي.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sindhi (Arabic script); wording not verified against a Sindhi form"
+ }
+}

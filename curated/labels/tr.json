@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Ad",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Soyadı",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Daire, kat vb. (isteğe bağlı)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Kuruluş",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Açık adres",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Ülke/Bölge",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Şehir",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Şehir",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Banliyö",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Semt",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Köy / Kasaba",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "İlçe",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Mahalle",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Bölge",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Ülke",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Bölüm",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "İlçe",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Emirlik",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Ada",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "İl",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Bölge",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "İl",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Eyalet",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Posta kodu",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Posta kodu",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN kodu",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Bu alanı boş bırakamazsınız.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE}, bu alan için kabul edilen bir değer olarak tanınmıyor.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Bu adres satırının bir posta kutusu içerdiği anlaşılıyor. Lütfen sokak veya bina adresi kullanın.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Bu posta kodu biçimi tanınmadı. Geçerli bir posta kodu örneği: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Bu posta kodu biçimi tanınmadı. Geçerli bir posta kodu örneği: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Posta kodu, bu adresin geri kalan kısmıyla eşleşmiyor gibi görünüyor.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Posta kodu, bu adresin geri kalan kısmıyla eşleşmiyor gibi görünüyor.",
+  "provenance": "chromium"
+ }
+}

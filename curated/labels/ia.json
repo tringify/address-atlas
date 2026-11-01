@@ -1,0 +1,154 @@
+{
+  "fields.first_name": {
+    "value": "Prenomine",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Nomine de familia",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Appartamento, suite, etc. (optional)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Organisation",
+    "provenance": "curated"
+  },
+  "fields.address1": {
+    "value": "Adresse de strata",
+    "provenance": "curated"
+  },
+  "fields.phone": {
+    "value": "Telephono",
+    "provenance": "curated"
+  },
+  "fields.country": {
+    "value": "Pais / Region",
+    "provenance": "curated"
+  },
+  "city.city": {
+    "value": "Citate",
+    "provenance": "curated"
+  },
+  "city.post_town": {
+    "value": "Citate postal",
+    "provenance": "curated"
+  },
+  "city.suburb": {
+    "value": "Suburbio",
+    "provenance": "curated"
+  },
+  "city.townland": {
+    "value": "Terra de village",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Irish 'townland' has no established equivalent; descriptive rendering."
+  },
+  "city.village_township": {
+    "value": "Village / Municipalitate",
+    "provenance": "curated"
+  },
+  "city.district": {
+    "value": "Districto",
+    "provenance": "curated"
+  },
+  "city.neighborhood": {
+    "value": "Vicinato",
+    "provenance": "curated"
+  },
+  "province.area": {
+    "value": "Area",
+    "provenance": "curated"
+  },
+  "province.county": {
+    "value": "Comitato",
+    "provenance": "curated"
+  },
+  "province.department": {
+    "value": "Departamento",
+    "provenance": "curated"
+  },
+  "province.district": {
+    "value": "Districto",
+    "provenance": "curated"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "curated",
+    "note": "Korean romanized term kept, as in Chromium's translations for other languages."
+  },
+  "province.emirate": {
+    "value": "Emirato",
+    "provenance": "curated"
+  },
+  "province.island": {
+    "value": "Insula",
+    "provenance": "curated"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "curated"
+  },
+  "province.parish": {
+    "value": "Parochia",
+    "provenance": "curated"
+  },
+  "province.prefecture": {
+    "value": "Prefectura",
+    "provenance": "curated"
+  },
+  "province.province": {
+    "value": "Provincia",
+    "provenance": "curated"
+  },
+  "province.state": {
+    "value": "Stato",
+    "provenance": "curated"
+  },
+  "postal.postal": {
+    "value": "Codice postal",
+    "provenance": "curated"
+  },
+  "postal.zip": {
+    "value": "Codice ZIP",
+    "provenance": "curated"
+  },
+  "postal.pin": {
+    "value": "Codice PIN",
+    "provenance": "curated"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "curated",
+    "note": "Proper name of Ireland's postcode system, kept as used locally."
+  },
+  "messages.required": {
+    "value": "Tu non pote lassar isto vacue.",
+    "provenance": "curated"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} non es recognoscite como un valor cognoscite pro iste campo.",
+    "provenance": "curated"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Iste linea de adresse pare continer un cassa postal. Per favor usa un adresse de strata o de edificio.",
+    "provenance": "curated"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Iste formato de codice postal non es recognoscite. Exemplo de un codice postal valide: {EXAMPLE}.",
+    "provenance": "curated"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Iste formato de codice ZIP non es recognoscite. Exemplo de un codice ZIP valide: {EXAMPLE}.",
+    "provenance": "curated"
+  },
+  "messages.postal_mismatch": {
+    "value": "Iste codice postal non pare corresponder al resto de iste adresse.",
+    "provenance": "curated"
+  },
+  "messages.zip_mismatch": {
+    "value": "Iste codice ZIP non pare corresponder al resto de iste adresse.",
+    "provenance": "curated"
+  }
+}

@@ -1,0 +1,248 @@
+{
+ "AE": {
+  "provenance": "curated",
+  "value": "פֿאַראייניגטע אַראַבישע עמיראַטן"
+ },
+ "AI": {
+  "provenance": "curated",
+  "value": "אַנגווילאַ"
+ },
+ "AS": {
+  "provenance": "curated",
+  "value": "אַמעריקאַניש־סאַמאאַ"
+ },
+ "AX": {
+  "provenance": "curated",
+  "value": "אַלאַנד אינזלען"
+ },
+ "AZ": {
+  "provenance": "curated",
+  "value": "אַזערבייַדזשאַן"
+ },
+ "BH": {
+  "provenance": "curated",
+  "value": "באַכריין"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "cf CLDR yi \"סט העלענע\"",
+  "provenance": "curated",
+  "value": "סט באַרטעלעמי"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "קאַריבישע נידערלאַנד"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "בווע אינזל"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "קאקאס (קילינג) אינזלען"
+ },
+ "CG": {
+  "provenance": "curated",
+  "value": "קאנגא־בראַזאַוויל"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "Christmas = ניטל; CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "ניטל־אינזל"
+ },
+ "CY": {
+  "provenance": "curated",
+  "value": "קיפּראס"
+ },
+ "DZ": {
+  "provenance": "curated",
+  "value": "אַלזשיריע"
+ },
+ "EH": {
+  "provenance": "curated",
+  "value": "מערב־סאַהאַרע"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "דרום־דזשארדזשיע און די דרום־סענדוויטש אינזלען"
+ },
+ "HK": {
+  "provenance": "curated",
+  "value": "האנג קאנג"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "הערד און מאַקדאנאַלד אינזלען"
+ },
+ "IM": {
+  "provenance": "curated",
+  "value": "אינזל מאַן"
+ },
+ "IO": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "בריטישע טעריטאריע אינעם אינדישן אקעאַן"
+ },
+ "IQ": {
+  "provenance": "curated",
+  "value": "איראַק"
+ },
+ "JO": {
+  "provenance": "curated",
+  "value": "ירדן"
+ },
+ "KG": {
+  "provenance": "curated",
+  "value": "קירגיזסטאַן"
+ },
+ "KN": {
+  "provenance": "curated",
+  "value": "סט קיטס און נעוויס"
+ },
+ "KP": {
+  "provenance": "curated",
+  "value": "צפֿון־קארעע"
+ },
+ "KR": {
+  "provenance": "curated",
+  "value": "דרום־קארעע"
+ },
+ "KW": {
+  "provenance": "curated",
+  "value": "קווייט"
+ },
+ "KZ": {
+  "provenance": "curated",
+  "value": "קאַזאַכסטאַן"
+ },
+ "LC": {
+  "provenance": "curated",
+  "value": "סט לוסיע"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "סט מאַרטין"
+ },
+ "MK": {
+  "provenance": "curated",
+  "value": "צפֿון־מאַקעדאניע"
+ },
+ "MO": {
+  "provenance": "curated",
+  "value": "מאַקאַא"
+ },
+ "MP": {
+  "provenance": "curated",
+  "value": "צפֿון־מאַריאַנע אינזלען"
+ },
+ "NR": {
+  "provenance": "curated",
+  "value": "נאַורו"
+ },
+ "NU": {
+  "provenance": "curated",
+  "value": "ניוע"
+ },
+ "OM": {
+  "provenance": "curated",
+  "value": "עמאַן"
+ },
+ "PM": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "סט פּיער און מיקעלאן"
+ },
+ "PS": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "פּאַלעסטינער טעריטאריעס"
+ },
+ "PW": {
+  "provenance": "curated",
+  "value": "פּאַלאַו"
+ },
+ "SA": {
+  "provenance": "curated",
+  "value": "סאַודי־אַראַביע"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "סוואַלבאַרד און יאַן מאַיען"
+ },
+ "SX": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "סינט מאַרטן"
+ },
+ "TC": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "טערקס און קייקאס אינזלען"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "פֿראַנצויזישע דרום־טעריטאריעס"
+ },
+ "TJ": {
+  "provenance": "curated",
+  "value": "טאַדזשיקיסטאַן"
+ },
+ "TK": {
+  "provenance": "curated",
+  "value": "טאקעלאַו"
+ },
+ "TW": {
+  "provenance": "curated",
+  "value": "טייוואַן"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "אַמעריקאַנישע דרויסנדיקע אינזלען"
+ },
+ "UZ": {
+  "provenance": "curated",
+  "value": "אוזבעקיסטאַן"
+ },
+ "VC": {
+  "provenance": "curated",
+  "value": "סט ווינסענט און די גרענאַדינען"
+ },
+ "VG": {
+  "provenance": "curated",
+  "value": "בריטישע ווירגין אינזלען"
+ },
+ "VI": {
+  "provenance": "curated",
+  "value": "אַמעריקאַנישע ווירגין אינזלען"
+ },
+ "WF": {
+  "confidence": "low",
+  "note": "CLDR yi spelling conventions (unpointed א for o, ־ in compounds)",
+  "provenance": "curated",
+  "value": "וואַליס און פֿוטונאַ"
+ }
+}

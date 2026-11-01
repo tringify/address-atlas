@@ -1,0 +1,184 @@
+{
+ "fields.first_name": {
+  "value": "ስም",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "ስም ኣቦ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Eritrean/Ethiopian naming uses the father's name in the surname slot"
+ },
+ "fields.address2": {
+  "value": "ኣፓርትመንት፣ ደርቢ፣ ወዘተ (ኣማራጺ)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ },
+ "fields.company": {
+  "value": "ትካል",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "ኣድራሻ ጎደና",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "ተሌፎን",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "ሃገር / ዞባ",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "ከተማ",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "ከተማ ፖስታ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ },
+ "city.suburb": {
+  "value": "ከባቢ ከተማ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Tigrinya equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "ዓዲ / ንኡስ ዞባ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ },
+ "city.district": {
+  "value": "ወረዳ",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "ቀበሌ",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "ከባቢ",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "ኣውራጃ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ },
+ "province.department": {
+  "value": "ክፍሊ",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "ወረዳ",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "ዶ/ሲ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "transliteration of Korean Do/Si"
+ },
+ "province.emirate": {
+  "value": "ኢማራት",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "ደሴት",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "ኦብላስት",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "ደብሪ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ },
+ "province.prefecture": {
+  "value": "ፕረፌክቸር",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "transliteration"
+ },
+ "province.province": {
+  "value": "ክፍለ ሃገር",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "ክልል",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "ፖስታ ኮድ",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "ZIP ኮድ",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "PIN ኮድ",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "እዚ ባዶ ክትገድፎ ኣይትኽእልን ኢኻ።",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ንዚ መአተዊ ከም ፍሉጥ ዋጋ ኣይተፈልጠን።",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "እዚ መስመር ኣድራሻ ሳጹን ፖስታ ዝሓዘ ይመስል። በጃኹም ኣድራሻ ጎደና ወይ ህንጻ ተጠቐሙ።",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "ቅርጺ እዚ ፖስታ ኮድ ኣይተፈልጠን። ኣብነት ቅኑዕ ፖስታ ኮድ፦ {EXAMPLE}።",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "ቅርጺ እዚ ZIP ኮድ ኣይተፈልጠን። ኣብነት ቅኑዕ ZIP ኮድ፦ {EXAMPLE}።",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ },
+ "messages.postal_mismatch": {
+  "value": "እዚ ፖስታ ኮድ ምስቲ ዝተረፈ ኣድራሻ ዝሰማማዕ ኣይመስልን።",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ },
+ "messages.zip_mismatch": {
+  "value": "እዚ ZIP ኮድ ምስቲ ዝተረፈ ኣድራሻ ዝሰማማዕ ኣይመስልን።",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tigrinya; wording not verified against an Eritrean/Ethiopian Tigrinya form"
+ }
+}

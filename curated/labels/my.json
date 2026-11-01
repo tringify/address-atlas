@@ -1,0 +1,152 @@
+{
+ "fields.first_name": {
+  "value": "ပထမ အမည်",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "နောက်ဆုံး အမည်",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "တိုက်ခန်း၊ အခန်းနံပါတ် စသည် (ချန်ထားနိုင်သည်)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wording of optional apartment/suite line not verified against Burmese checkout forms."
+ },
+ "fields.company": {
+  "value": "အဖွဲ့အစည်း",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "လမ်း လိပ်စာ",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "ဖုန်း",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "နိုင်ငံ / ဒေသ",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "မြို့",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "စာတိုက် မြို့",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "ဆင်ခြေဖုံး",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "မြို့နယ်",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "ရွာ / မြို့နယ်",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "ဒေသ",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "အိမ်နီးချင်းများ",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "နယ်မြေ",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "ကောင်တီ",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "ဌာန",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "ဒေသ",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "ယေမီရိတ်",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "ကျွန်း",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "ခရိုင် (ရုရှားဒေသသုံး)",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "နယ်​မြေ",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "နယ်​မြေ",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "တိုင်း",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "ပြည်နယ်",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "စာပို့သင်္ကေတ",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "ဇစ်ကုဒ်",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "ပင် သင်္ကေတအမှတ်",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "စာတိုက်ကုဒ်",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "သင်သည် ဒါကို ပလာထား မရနိုင်ပါ။",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ကို ဒီအကွက် အတွက် သိထားသည့် တန်ဖိုး အဖြစ် သိမှတ် မရခဲ့ပါ။",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "ဒီလိပ်စာ စာကြောင်းထဲတွင် စာတိုက် ပုံး ပါနေပုံ ရပါသည်။ ကျေးဇူးပြုပြီး လမ်း သို့မဟုတ် အဆောက်အအုံ လိပ်စာကို အသုံးပြုပါ။",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "လက်ရှိ စာတိုက် ကုဒ် ပုံစံကို သိမှတ်မရပါ။ မှန်သည့်စာတိုက် ကုဒ်၏ ဥပမာ: {EXAMPLE}။",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "လက်ရှိ ဇီပ် ကုဒ် ပုံစံကို သိမှတ်မရပါ။ မှန်သည့် ဇီပ် ကုဒ်၏ ဥပမာ: {EXAMPLE}။",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "ဒီစာတိုက် ကုဒ်မှာ ဒီလိပ်စာ၏ ကျန်အရာများနှင့် တိုက်ဆိုင်ပုံ မရပါ။",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "ဒီဇီပ် ကုဒ်မှာ ဒီလိပ်စာ၏ ကျန်အရာများနှင့် တိုက်ဆိုင်ပုံ မရပါ။",
+  "provenance": "chromium"
+ }
+}

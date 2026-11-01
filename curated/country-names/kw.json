@@ -1,0 +1,1395 @@
+{
+ "AD": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Andorra"
+ },
+ "AE": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Pow an Emiratys Arabek Unys"
+ },
+ "AF": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Afghanistan"
+ },
+ "AG": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Antigua ha Barbuda"
+ },
+ "AI": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Anguilla"
+ },
+ "AL": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Albani"
+ },
+ "AM": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Armeni"
+ },
+ "AO": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Angola"
+ },
+ "AQ": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Antarktika"
+ },
+ "AR": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Arghantina"
+ },
+ "AS": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Samoa Amerikanek"
+ },
+ "AT": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ostri"
+ },
+ "AU": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ostrali"
+ },
+ "AW": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Aruba"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Åland"
+ },
+ "AZ": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Azerbayjan"
+ },
+ "BA": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Bosni ha Hercegovina"
+ },
+ "BB": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Barbados"
+ },
+ "BD": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Bangladesh"
+ },
+ "BE": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Belgi"
+ },
+ "BF": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Burkina Faso"
+ },
+ "BG": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Bulgari"
+ },
+ "BH": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Bahrayn"
+ },
+ "BI": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Burundi"
+ },
+ "BJ": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Benin"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Sen Barthélemy"
+ },
+ "BM": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Bermuda"
+ },
+ "BN": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Brunei"
+ },
+ "BO": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Bolivi"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Iseldiryow Karibek"
+ },
+ "BR": {
+  "note": "CLDR draft value",
+  "provenance": "curated",
+  "value": "Brasil"
+ },
+ "BS": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Bahamas"
+ },
+ "BT": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Bhutan"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enys Bouvet"
+ },
+ "BW": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Botswana"
+ },
+ "BY": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Belarussi"
+ },
+ "BZ": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Belize"
+ },
+ "CA": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kanada"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Cocos (Keeling)"
+ },
+ "CD": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kongo - Kinshasa"
+ },
+ "CF": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Repoblek Kres Afrika"
+ },
+ "CG": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kongo - Brazzaville"
+ },
+ "CH": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Pow Swis"
+ },
+ "CI": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Côte d’Ivoire"
+ },
+ "CK": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Cook"
+ },
+ "CL": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Chile"
+ },
+ "CM": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kameroun"
+ },
+ "CN": {
+  "note": "CLDR draft value",
+  "provenance": "curated",
+  "value": "China"
+ },
+ "CO": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kolombi"
+ },
+ "CR": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kosta Rika"
+ },
+ "CU": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kuba"
+ },
+ "CV": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kap Gwyrdh"
+ },
+ "CW": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Curaçao"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enys Nadelik"
+ },
+ "CY": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kypros"
+ },
+ "CZ": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Pow Chek"
+ },
+ "DE": {
+  "note": "CLDR draft value",
+  "provenance": "curated",
+  "value": "Almayn"
+ },
+ "DJ": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Djibouti"
+ },
+ "DK": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Danmark"
+ },
+ "DM": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Dominika"
+ },
+ "DO": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Repoblek Dominikan"
+ },
+ "DZ": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Aljeri"
+ },
+ "EC": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ekwador"
+ },
+ "EE": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Estoni"
+ },
+ "EG": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ejyp"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Sahara Howlsedhes"
+ },
+ "ER": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Eritrea"
+ },
+ "ES": {
+  "provenance": "curated",
+  "value": "Spayn"
+ },
+ "ET": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ethiopi"
+ },
+ "FI": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Pow Finn"
+ },
+ "FJ": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Fiji"
+ },
+ "FK": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Falkland"
+ },
+ "FM": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Mikronesi"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Faroe"
+ },
+ "FR": {
+  "note": "SWF/Gerlyver form; CLDR draft has 'Pow Frenk'",
+  "provenance": "curated",
+  "value": "Frynk"
+ },
+ "GA": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Gabon"
+ },
+ "GD": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Grenada"
+ },
+ "GE": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Jeorji"
+ },
+ "GF": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Gwayana Frynkek"
+ },
+ "GG": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Gernsi"
+ },
+ "GH": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Ghana"
+ },
+ "GI": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Gibraltar"
+ },
+ "GL": {
+  "confidence": "low",
+  "note": "international form; no Cornish form found",
+  "provenance": "curated",
+  "value": "Greenland"
+ },
+ "GM": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Gambia"
+ },
+ "GN": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Gyni"
+ },
+ "GP": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Guadeloupe"
+ },
+ "GQ": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Gyni Ekwatorek"
+ },
+ "GR": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Pow Grek"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Jeorji Dhyghow ha Enesow Sandwich Dhyghow"
+ },
+ "GT": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Guatemala"
+ },
+ "GU": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Guam"
+ },
+ "GW": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Gyni-Bissau"
+ },
+ "GY": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Guyana"
+ },
+ "HK": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Hong Kong"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enys Heard ha Enesow McDonald"
+ },
+ "HN": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Honduras"
+ },
+ "HR": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kroati"
+ },
+ "HT": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Hayti"
+ },
+ "HU": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Hungari"
+ },
+ "ID": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Indonesi"
+ },
+ "IE": {
+  "provenance": "curated",
+  "value": "Iwerdhon"
+ },
+ "IL": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ysrael"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enys Manow"
+ },
+ "IN": {
+  "note": "CLDR draft value",
+  "provenance": "curated",
+  "value": "Eynda"
+ },
+ "IO": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Tiredh Breten yn Mor Eyndek"
+ },
+ "IQ": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Irak"
+ },
+ "IR": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Iran"
+ },
+ "IS": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Island"
+ },
+ "IT": {
+  "note": "CLDR draft value",
+  "provenance": "curated",
+  "value": "Itali"
+ },
+ "JE": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Jersi"
+ },
+ "JM": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Jamayka"
+ },
+ "JO": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Jordan"
+ },
+ "JP": {
+  "note": "CLDR draft value",
+  "provenance": "curated",
+  "value": "Japan"
+ },
+ "KE": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Kenya"
+ },
+ "KG": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Kyrgyzstan"
+ },
+ "KH": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kambodja"
+ },
+ "KI": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Kiribati"
+ },
+ "KM": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Komoros"
+ },
+ "KN": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Sen Kitts ha Nevis"
+ },
+ "KP": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Korea Gledh"
+ },
+ "KR": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Korea Dhyghow"
+ },
+ "KW": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kuwayt"
+ },
+ "KY": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Cayman"
+ },
+ "KZ": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Kazakhstan"
+ },
+ "LA": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Laos"
+ },
+ "LB": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Liban"
+ },
+ "LC": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Sen Lucia"
+ },
+ "LI": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Liechtenstein"
+ },
+ "LK": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Sri Lanka"
+ },
+ "LR": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Liberi"
+ },
+ "LS": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Lesotho"
+ },
+ "LT": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Lithuani"
+ },
+ "LU": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Luksembourg"
+ },
+ "LV": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Latvi"
+ },
+ "LY": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Libi"
+ },
+ "MA": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Marokko"
+ },
+ "MC": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Monako"
+ },
+ "MD": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Moldova"
+ },
+ "ME": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Montenegro"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Sen Martin"
+ },
+ "MG": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Madagaskar"
+ },
+ "MH": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Marshall"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Makedoni Gledh"
+ },
+ "ML": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Mali"
+ },
+ "MM": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Myanmar"
+ },
+ "MN": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Mongoli"
+ },
+ "MO": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Macao"
+ },
+ "MP": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Mariana Gledh"
+ },
+ "MQ": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Martinique"
+ },
+ "MR": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Mauritani"
+ },
+ "MS": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Montserrat"
+ },
+ "MT": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Malta"
+ },
+ "MU": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Mauritius"
+ },
+ "MV": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Maldives"
+ },
+ "MW": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Malawi"
+ },
+ "MX": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Meksiko"
+ },
+ "MY": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Malaysi"
+ },
+ "MZ": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Mozambik"
+ },
+ "NA": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Namibi"
+ },
+ "NC": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kaledoni Nowydh"
+ },
+ "NE": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Niger"
+ },
+ "NF": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enys Norfolk"
+ },
+ "NG": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Nijeri"
+ },
+ "NI": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Nikaragwa"
+ },
+ "NL": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Iseldiryow"
+ },
+ "NO": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Norgagh"
+ },
+ "NP": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Nepal"
+ },
+ "NR": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Nauru"
+ },
+ "NU": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Niue"
+ },
+ "NZ": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Zeland Nowydh"
+ },
+ "OM": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Oman"
+ },
+ "PA": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Panama"
+ },
+ "PE": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Perou"
+ },
+ "PF": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Polynesi Frynkek"
+ },
+ "PG": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Papua Gyni Nowydh"
+ },
+ "PH": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Filipinys"
+ },
+ "PK": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Pakistan"
+ },
+ "PL": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Poloni"
+ },
+ "PM": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Sen Pyr ha Miquelon"
+ },
+ "PN": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Pitcairn"
+ },
+ "PR": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Porto Riko"
+ },
+ "PS": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Tiryow Palestinek"
+ },
+ "PT": {
+  "provenance": "curated",
+  "value": "Portyngal"
+ },
+ "PW": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Palau"
+ },
+ "PY": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Paragway"
+ },
+ "QA": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Katar"
+ },
+ "RE": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Réunion"
+ },
+ "RO": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Roumani"
+ },
+ "RS": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Serbi"
+ },
+ "RU": {
+  "note": "CLDR draft value",
+  "provenance": "curated",
+  "value": "Russi"
+ },
+ "RW": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Rwanda"
+ },
+ "SA": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Arabi Saoudek"
+ },
+ "SB": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Salamon"
+ },
+ "SC": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Seychelles"
+ },
+ "SD": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Soudan"
+ },
+ "SE": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Swedherwyk"
+ },
+ "SG": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Singapour"
+ },
+ "SH": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Sen Elen, Ascension ha Tristan da Cunha"
+ },
+ "SI": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Sloveni"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Svalbard ha Jan Mayen"
+ },
+ "SK": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Slovaki"
+ },
+ "SL": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Sierra Leone"
+ },
+ "SM": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "San Marino"
+ },
+ "SN": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Senegal"
+ },
+ "SO": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Somali"
+ },
+ "SR": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Surinam"
+ },
+ "SS": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Soudan Dhyghow"
+ },
+ "ST": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "São Tomé ha Príncipe"
+ },
+ "SV": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "El Salvador"
+ },
+ "SX": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "SY": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Syri"
+ },
+ "SZ": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Eswatini"
+ },
+ "TC": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Turks ha Caicos"
+ },
+ "TD": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Chad"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Tiryow Dyghow ha Antarktek Frynkek"
+ },
+ "TG": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Togo"
+ },
+ "TH": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Pow Tay"
+ },
+ "TJ": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Tajikistan"
+ },
+ "TK": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Tokelau"
+ },
+ "TL": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Timor Howldrehevel"
+ },
+ "TM": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Turkmenistan"
+ },
+ "TN": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Tunisi"
+ },
+ "TO": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Tonga"
+ },
+ "TR": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Turki"
+ },
+ "TT": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Trinidad ha Tobago"
+ },
+ "TV": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Tuvalu"
+ },
+ "TW": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Taywan"
+ },
+ "TZ": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Tansani"
+ },
+ "UA": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Ukrayn"
+ },
+ "UG": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Uganda"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Pell an Statys Unys"
+ },
+ "US": {
+  "note": "CLDR draft value",
+  "provenance": "curated",
+  "value": "Statys Unys"
+ },
+ "UY": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Urugway"
+ },
+ "UZ": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Uzbekistan"
+ },
+ "VA": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Sita an Vatikan"
+ },
+ "VC": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Sen Vincent ha'n Grenadinys"
+ },
+ "VE": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Venezuela"
+ },
+ "VG": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Gwyrghek Breten"
+ },
+ "VI": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Enesow Gwyrghek an Statys Unys"
+ },
+ "VN": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Vietnam"
+ },
+ "VU": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Vanuatu"
+ },
+ "WF": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Wallis ha Futuna"
+ },
+ "WS": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Samoa"
+ },
+ "XK": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Kosova"
+ },
+ "YE": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Yemen"
+ },
+ "YT": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Mayotte"
+ },
+ "ZA": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Afrika Dhyghow"
+ },
+ "ZM": {
+  "confidence": "low",
+  "note": "unverified SWF-style rendering (Cornish + transliteration/calque); no attested form confirmed",
+  "provenance": "curated",
+  "value": "Zambi"
+ },
+ "ZW": {
+  "note": "international form; no distinct Cornish form found, presumed used as-is",
+  "provenance": "curated",
+  "value": "Zimbabwe"
+ }
+}

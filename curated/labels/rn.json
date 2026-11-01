@@ -1,0 +1,218 @@
+{
+ "fields.first_name": {
+  "value": "Izina",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "fields.last_name": {
+  "value": "Izina ry'umuryango",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "fields.address2": {
+  "value": "Inzu, igorofa n'ibindi (si ngombwa)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "fields.company": {
+  "value": "Ishirahamwe",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "fields.address1": {
+  "value": "Aderesi y'ibarabara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "fields.phone": {
+  "value": "Telefone",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "fields.country": {
+  "value": "Igihugu / Akarere",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "city.city": {
+  "value": "Igisagara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "city.post_town": {
+  "value": "Igisagara c'iposita",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "city.suburb": {
+  "value": "Inkengera z'igisagara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "city.townland": {
+  "value": "Umutumba",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland approximated with Burundi's 'colline' subdivision"
+ },
+ "city.village_township": {
+  "value": "Ikigwati / Komine",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "city.district": {
+  "value": "Akarere",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "city.neighborhood": {
+  "value": "Ikaritiye",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "loan from French 'quartier', used in Bujumbura"
+ },
+ "province.area": {
+  "value": "Akarere",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "province.county": {
+  "value": "Intara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "province.department": {
+  "value": "Departema",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "province.district": {
+  "value": "Akarere",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emira",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "province.island": {
+  "value": "Izinga",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Paruwasi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "province.prefecture": {
+  "value": "Perefegitura",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "province.province": {
+  "value": "Intara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "province.state": {
+  "value": "Leta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "postal.postal": {
+  "value": "Inomero y'iposita",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "postal.zip": {
+  "value": "Inomero ya ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "postal.pin": {
+  "value": "Inomero ya PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Ntushobora gusiga aha hatarimwo ikintu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ntimenyekanye nk'agaciro kemewe muri iki kibanza.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Uyu murongo w'aderesi usa n'urimwo agasandugu k'iposita. Turagusavye ukoreshe aderesi y'ibarabara canke y'inyubakwa.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Uburyo bw'iyi nomero y'iposita ntibumenyekanye. Akarorero k'inomero y'iposita yemewe: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Uburyo bw'iyi nomero ya ZIP ntibumenyekanye. Akarorero k'inomero ya ZIP yemewe: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "messages.postal_mismatch": {
+  "value": "Iyi nomero y'iposita ntisa n'ihuye n'ibindi biri muri iyi aderesi.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ },
+ "messages.zip_mismatch": {
+  "value": "Iyi nomero ya ZIP ntisa n'ihuye n'ibindi biri muri iyi aderesi.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+ }
+}

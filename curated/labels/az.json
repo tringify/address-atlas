@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Ad",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Soyad",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Mənzil, ofis və s. (istəyə bağlı)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Təşkilat",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Küçə ünvanı",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Telefon",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Ölkə / Region",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Şəhər",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Poçtun yerləşdiyi şəhər",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Şəhərətrafı",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Şəhər ərazisi",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Kənd / Şəhər",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Rayon",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Yaxın yerlər",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Sahə",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Ölkə",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Departament",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Rayon",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Əmirlik",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Ada",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Kilsə",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Prefektura",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Vilayət",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Dövlət",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Poçt kodu",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Poçt indeksi",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "PIN kod",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Bunu boş buraxa bilməzsiniz.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} bu sahə üçün bilinən dəyər olaraq tanınmayıb.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Bu ünvanda poçt idarəsi qutusu olmalıdır. Lütfən, küçə və bina ünvanını yazın.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Bu poçt indeksi formatı tanınmır. Düzgün poçt indeksi örnəyi: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Bu poçt kodu (indeks) formatı tanınmayıb. Etibarlı poçt kodu (indeks) nümunəsi: {EXAMPLE}",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Bu poçt indeksi ünvanın qalan hissəsinə uyğun gəlmir.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Bu poçt kodu (indeks) bu ünvanın qalanına uyğun gəlmir.",
+    "provenance": "chromium"
+  }
+}

@@ -1,0 +1,220 @@
+{
+ "fields.first_name": {
+  "value": "Ном",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "fields.last_name": {
+  "value": "Мыггаг",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "fields.address2": {
+  "value": "Фатер, уат æмæ æндæр (æнæмæнг нæу)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "fields.company": {
+  "value": "Организаци",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "fields.address1": {
+  "value": "Уынджы адрис",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "fields.phone": {
+  "value": "Телефон",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "fields.country": {
+  "value": "Бæстæ / Регион",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "city.city": {
+  "value": "Горæт",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "city.post_town": {
+  "value": "Поштæйы горæт",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "city.suburb": {
+  "value": "Горæты алфамбылай",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "city.townland": {
+  "value": "Хъæу (Ирланди)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "city.village_township": {
+  "value": "Хъæу / поселок",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "city.district": {
+  "value": "Район",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "city.neighborhood": {
+  "value": "Сых",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "province.area": {
+  "value": "Регион",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "province.county": {
+  "value": "Округ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "province.department": {
+  "value": "Департамент",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "province.district": {
+  "value": "Район",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Эмират",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "province.island": {
+  "value": "Сакъадах",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "province.oblast": {
+  "value": "Облæст",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "province.parish": {
+  "value": "Приход",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "province.prefecture": {
+  "value": "Префектурæ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "province.province": {
+  "value": "Провинци",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "province.state": {
+  "value": "Штат",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "postal.postal": {
+  "value": "Поштæйы индекс",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "postal.zip": {
+  "value": "ZIP-индекс",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "postal.pin": {
+  "value": "PIN-индекс",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Ацы быдыр афтид ныууадзæн нæй.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ацы быдырæн зонгæ нысаниуæг нæу.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "messages.po_box_forbidden": {
+  "value": "Ацы адрисы рæнхъы, æвæццæгæн, ис поштæйы ящик. Дæ хорзæхæй, ныффысс уынджы кæнæ хæдзары адрис.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Ацы поштæйы индексы формат нæ бæрæг кæны. Раст индексы цæвиттон: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "messages.zip_invalid_example": {
+  "value": "Ацы ZIP-индексы формат нæ бæрæг кæны. Раст ZIP-индексы цæвиттон: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "messages.postal_mismatch": {
+  "value": "Ацы поштæйы индекс адрисы иннæ хæйттимæ нæ фидауы.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ },
+ "messages.zip_mismatch": {
+  "value": "Ацы ZIP-индекс адрисы иннæ хæйттимæ нæ фидауы.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+ }
+}

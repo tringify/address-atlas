@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "الاسم الأول",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "اسم العائلة",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "الشقة، الجناح، إلخ (اختياري)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "المؤسسة",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "عنوان الشارع",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "هاتف",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "البلد/المنطقة",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "المدينة",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "بلدة الخدمة البريدية",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "الضاحية",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "بلدة",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "القرية / البلدة",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "حي",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "الحي",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "المنطقة",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "مقاطعة",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "القسم",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "حي",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "إمارة",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "جزيرة",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "مقاطعة",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "الأبرشية",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "المديرية",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "المقاطعة",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "الولاية",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "الرمز البريدي",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "الرمز البريدي",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "رمز الرقم البريدي التسلسلي",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "الرمز البريدي في أيرلندا",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "يجب ملء هذا الحقل",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} لم يتم التعرف عليه كقيمة معروفة لهذا الحقل.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "يبدو أن هذا العنوان يحتوي على صندوق بريد. يُرجى استخدام عنوان شارع أو عنوان مبنى.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "لم يتم التعرف على تنسيق الرمز البريدي هذا. مثال الرمز البريدي الصالح: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "لم يتم التعرف على تنسيق الرمز البريدي هذا. مثال الرمز البريدي الصالح: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "يبدو أن هذا الرمز البريدي غير متوافق مع بقية هذا العنوان.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "يبدو أن هذا الرمز البريدي غير متوافق مع بقية هذا العنوان.",
+    "provenance": "chromium"
+  }
+}

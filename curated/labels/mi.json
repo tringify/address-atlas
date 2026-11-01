@@ -1,0 +1,164 @@
+{
+ "fields.first_name": {
+  "value": "Ingoa tuatahi",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Ingoa whānau",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Whare noho, rūma, me ētahi atu (kāore e herea)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "No established te reo checkout wording for the optional unit line."
+ },
+ "fields.company": {
+  "value": "Whakahaere",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Wāhitau tiriti",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Waea",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Whenua / Rohe",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Tāone",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Tāone poutāpeta",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "Takiwā",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Takiwā (Airani)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland approximated with \"takiwā\"."
+ },
+ "city.village_township": {
+  "value": "Kāinga / Tāone iti",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Rohe",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Takiwā noho",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Rohe",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Rohe kaunihera",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Descriptive (\"council area\"); no standard term."
+ },
+ "province.department": {
+  "value": "Tari",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Rohe",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emireti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Transliteration."
+ },
+ "province.island": {
+  "value": "Motu",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Pāriha",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Transliteration of parish."
+ },
+ "province.prefecture": {
+  "value": "Pirepekiture",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Transliteration; no established term."
+ },
+ "province.province": {
+  "value": "Porowini",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Kāwanatanga ā-rohe",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Descriptive (\"regional government\"); no standard term."
+ },
+ "postal.postal": {
+  "value": "Waehere poutāpeta",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Waehere ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Waehere PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Kāore e taea te waiho kau tēnei.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "Kāore a {FIELD_VALUE} i te mōhiotia hei uara mō tēnei āpure.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Te āhua nei kei tēnei rārangi wāhitau he pouaka poutāpeta. Tēnā, whakamahia he wāhitau tiriti, whare rānei.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Kāore i te mōhiotia te hōputu o tēnei waehere poutāpeta. He tauira o te waehere poutāpeta tika: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Kāore i te mōhiotia te hōputu o tēnei waehere ZIP. He tauira o te waehere ZIP tika: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Te āhua nei kāore tēnei waehere poutāpeta e hāngai ana ki te toenga o te wāhitau.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Te āhua nei kāore tēnei waehere ZIP e hāngai ana ki te toenga o te wāhitau.",
+  "provenance": "curated"
+ }
+}

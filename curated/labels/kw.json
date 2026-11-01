@@ -1,0 +1,220 @@
+{
+ "fields.first_name": {
+  "value": "Hanow kynsa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "fields.last_name": {
+  "value": "Hanow teylu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "fields.address2": {
+  "value": "Ranndy, sowyt, h.e. (dewisel)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "fields.company": {
+  "value": "Kowethas",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "fields.address1": {
+  "value": "Trigva strêt",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "fields.phone": {
+  "value": "Pellgowser",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "fields.country": {
+  "value": "Pow / Ranndir",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "city.city": {
+  "value": "Cita",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "city.post_town": {
+  "value": "Tre bost",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "city.suburb": {
+  "value": "Ystynnans tre",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "city.townland": {
+  "value": "Treveth (Iwerdhon)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "city.village_township": {
+  "value": "Treveth / Pluw",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "city.district": {
+  "value": "Ranndir",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "city.neighborhood": {
+  "value": "Kentrevogeth",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "province.area": {
+  "value": "Ranndir",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "province.county": {
+  "value": "Konteth",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "province.department": {
+  "value": "Asran",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "province.district": {
+  "value": "Ranndir",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirelieth",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "province.island": {
+  "value": "Enys",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "province.parish": {
+  "value": "Pluw",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "province.prefecture": {
+  "value": "Prefekteth",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "province.province": {
+  "value": "Provyns",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "province.state": {
+  "value": "Stat",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "postal.postal": {
+  "value": "Kod post",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "postal.zip": {
+  "value": "Kod ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "postal.pin": {
+  "value": "Kod PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Ny yllydh gasa hemma gwag.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "messages.unknown_value": {
+  "value": "Nyns yw {FIELD_VALUE} aswonys avel talvos aswonys rag an gweyth ma.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "messages.po_box_forbidden": {
+  "value": "Yth hevel an linen trigva ma dhe synsi kist post. Gwrewgh usya trigva strêt po drehevyans, mar pleg.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Nyns yw aswonys furv an kod post ma. Ensampel a god post da: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "messages.zip_invalid_example": {
+  "value": "Nyns yw aswonys furv an kod ZIP ma. Ensampel a god ZIP da: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "messages.postal_mismatch": {
+  "value": "Ny hevel an kod post ma dhe dhegea gans remenant an drigva.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ },
+ "messages.zip_mismatch": {
+  "value": "Ny hevel an kod ZIP ma dhe dhegea gans remenant an drigva.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Cornish revival terminology (SWF-ish); no established checkout-form usage to check against."
+ }
+}

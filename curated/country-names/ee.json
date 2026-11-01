@@ -1,0 +1,43 @@
+{
+ "BQ": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Karibbeatɔwo ƒe Nedalanɖs nutome"
+ },
+ "CW": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Kurakao nutome"
+ },
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Britaintɔwo ƒe india ƒudome nutome"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "cf CLDR ee MP \"Dziehe Marina ƒudomekpowo nutome\"",
+  "provenance": "curated",
+  "value": "Dziehe Makedonia nutome"
+ },
+ "RS": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Serbia nutome"
+ },
+ "SS": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Anyiehe Sudan nutome"
+ },
+ "SX": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Sint Maarten nutome"
+ },
+ "XK": {
+  "note": "CLDR ee \"<name> nutome\" pattern",
+  "provenance": "curated",
+  "value": "Kosovo nutome"
+ }
+}

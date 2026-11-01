@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "নামের প্রথম অংশ",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "নামের শেষাংশ",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "অ্যাপার্টমেন্ট, স্যুট ইত্যাদি (ঐচ্ছিক)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "সংগঠন",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "রাস্তার ঠিকানা",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "ফোন",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "দেশ/অঞ্চল",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "শহর",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "পোস্ট টাউন",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "শহরতলী",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "টাউনল্যান্ড",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "গ্রাম / টাউনশিপ",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "জেলা",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "খুব পরিচিত ক্ষেত্র",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "এলাকা",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "দেশ",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "বিভাগ",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "জেলা",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emirate",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "আইল্যাণ্ড",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "ওব্লাস্ট",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "প্যারিশ",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "জেলা",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "প্রদেশ",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "রাজ্য",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "পোস্টাল কোড",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "পিন কোড",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "পিন কোড",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "আয়ারল্যান্ডের পিন কোড",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "আপনি এটিকে খালি ছেড়ে যেতে পারেন না৷",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "এই ক্ষেত্রের জন্য একটি পরিচিত মান হিসাবে {FIELD_VALUE} স্বীকৃত নয়৷",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "এই ঠিকানাটিতে একটি পোস্ট অফিস বাক্স আছে বলে মনে হচ্ছে৷ দয়া করে একটি রাস্তা বা বিল্ডিংয়ের ঠিকানা ব্যবহার করুন৷",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "এই পোস্টল কোডের ফরম্যাটটি স্বীকৃত নয়৷ একটি বৈধ পোস্টাল কোডের উদাহরণ হল: {EXAMPLE}৷",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "এই পিন কোডের ফরম্যাটটি স্বীকৃত নয়৷ একটি বৈধ পিন কোডের উদাহরণ হল: {EXAMPLE}৷",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "এই পোস্টাল কোডটির এই ঠিকানার বাকি অংশের সাথে মিল আছে বলে মনে হচ্ছে না৷",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "এই পিন কোডটির এই ঠিকানার বাকি অংশের সাথে মিল আছে বলে মনে হচ্ছে না৷",
+    "provenance": "chromium"
+  }
+}

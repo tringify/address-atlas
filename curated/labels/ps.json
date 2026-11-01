@@ -1,0 +1,158 @@
+{
+ "fields.first_name": {
+  "value": "لومړی نوم",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "وروستی نوم",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "اپارتمان، کوټه او نور (اختیاري)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "سازمان",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "د کوڅې پته",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "تلیفون",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "هېواد / سیمه",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "ښار",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "پوستي ښار",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "حومه",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "کلی (آیرلینډ)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland approximated as \"village (Ireland)\"."
+ },
+ "city.village_township": {
+  "value": "کلی / ښارګوټی",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "ناحیه",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "محله",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "سیمه",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "کاونټي",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Transliteration; no Pashto equivalent."
+ },
+ "province.department": {
+  "value": "ډیپارټمنټ",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "ولسوالۍ",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "امارت",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "ټاپو",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "اوبلاست",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "پاریش",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Transliteration."
+ },
+ "province.prefecture": {
+  "value": "پریفیکچر",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Transliteration."
+ },
+ "province.province": {
+  "value": "ولایت",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "ایالت",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "پوستي کوډ",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "زیپ کوډ",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "پن کوډ",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "تاسو دا خالي نه شئ پرېښودلی.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} د دې ساحې لپاره د پېژندل شوي ارزښت په توګه نه پېژندل کېږي.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "داسې ښکاري چې د پتې دا کرښه پوستي صندوق لري. مهرباني وکړئ د کوڅې یا ودانۍ پته وکاروئ.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "د دې پوستي کوډ بڼه نه پېژندل کېږي. د سم پوستي کوډ بېلګه: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "د دې زیپ کوډ بڼه نه پېژندل کېږي. د سم زیپ کوډ بېلګه: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "داسې نه ښکاري چې دا پوستي کوډ د پتې له پاتې برخې سره سمون ولري.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "داسې نه ښکاري چې دا زیپ کوډ د پتې له پاتې برخې سره سمون ولري.",
+  "provenance": "curated"
+ }
+}

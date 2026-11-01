@@ -1,0 +1,216 @@
+{
+ "fields.first_name": {
+  "value": "Suti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "fields.last_name": {
+  "value": "Ayllu suti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "fields.address2": {
+  "value": "Wasi, departamento, hukkunapas (munasqaykiman hina)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "fields.company": {
+  "value": "Tantanakuy",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "fields.address1": {
+  "value": "Ñan tiyana",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "fields.phone": {
+  "value": "Telefono",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Spanish loan used in Quechua"
+ },
+ "fields.country": {
+  "value": "Mama llaqta / Suyu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "city.city": {
+  "value": "Llaqta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "city.post_town": {
+  "value": "Chaski llaqta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "city.suburb": {
+  "value": "Llaqta kantu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "city.townland": {
+  "value": "Ayllu allpa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland; descriptive rendering"
+ },
+ "city.village_township": {
+  "value": "Ayllu / Marka",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "city.district": {
+  "value": "Distrito",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Spanish administrative term used in Peru"
+ },
+ "city.neighborhood": {
+  "value": "Barrio",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Spanish loan used in Quechua"
+ },
+ "province.area": {
+  "value": "Suyu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "province.county": {
+  "value": "Condado",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Spanish loan"
+ },
+ "province.department": {
+  "value": "Departamento",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Spanish administrative term"
+ },
+ "province.district": {
+  "value": "Distrito",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Spanish administrative term"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirato",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Spanish loan"
+ },
+ "province.island": {
+  "value": "Wat'a",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Parroquia",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Spanish loan"
+ },
+ "province.prefecture": {
+  "value": "Prefectura",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Spanish loan"
+ },
+ "province.province": {
+  "value": "Pruwinsya",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "province.state": {
+  "value": "Estado",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Spanish loan"
+ },
+ "postal.postal": {
+  "value": "Chaski yupay",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "postal.zip": {
+  "value": "ZIP chaski yupay",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "postal.pin": {
+  "value": "PIN yupay",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Kayta mana ch'usaqta saqiyta atinkichu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} mana riqsisqachu kay campopaq.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Kay tiyana siq'ipiqa chaski casilla kanman hina. Ñanpa utaq wasipa tiyananta churay.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Kay chaski yupaypa formatonqa mana riqsisqachu. Allin chaski yupaypa ejemplon: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Kay ZIP chaski yupaypa formatonqa mana riqsisqachu. Allin ZIP chaski yupaypa ejemplon: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "messages.postal_mismatch": {
+  "value": "Kay chaski yupayqa mana kay tiyanaq puchukayninwan tupanchu hina.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ },
+ "messages.zip_mismatch": {
+  "value": "Kay ZIP chaski yupayqa mana kay tiyanaq puchukayninwan tupanchu hina.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Southern Quechua; no established Quechua e-commerce/postal terminology (forms in Peru/Bolivia are in Spanish); term coined from common vocabulary"
+ }
+}

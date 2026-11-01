@@ -1,0 +1,174 @@
+{
+ "fields.first_name": {
+  "value": "Ady",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Familiýasy",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Öý, gat we ş.m. (hökmany däl)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Gurama",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Köçe salgysy",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Ýurt / sebit",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Şäher",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Poçta şäheri",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Turkmen (Latin); wording not verified against a Turkmen form"
+ },
+ "city.suburb": {
+  "value": "Şäher töweregi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Turkmen (Latin); wording not verified against a Turkmen form"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Turkmen equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Oba / şäherçe",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Etrap",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Mähelle",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Turkmen (Latin); wording not verified against a Turkmen form"
+ },
+ "province.area": {
+  "value": "Sebit",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Okrug",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Turkmen (Latin); wording not verified against a Turkmen form"
+ },
+ "province.department": {
+  "value": "Departament",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Etrap",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirlik",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Ada",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Welaýat",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Prihod",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Russian loan for a church parish"
+ },
+ "province.prefecture": {
+  "value": "Prefektura",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Welaýat",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Ştat",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Poçta indeksi",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "ZIP kody",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "PIN kody",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Bu meýdany boş goýup bolmaýar.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} bu meýdan üçin belli baha hökmünde tanalmady.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Turkmen (Latin); wording not verified against a Turkmen form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Bu salgy setirinde poçta gutusy bar ýaly. Köçe ýa-da bina salgysyny görkeziň.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Turkmen (Latin); wording not verified against a Turkmen form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Bu poçta indeksiniň formaty tanalmady. Dogry poçta indeksiniň mysaly: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Turkmen (Latin); wording not verified against a Turkmen form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Bu ZIP kodunyň formaty tanalmady. Dogry ZIP kodunyň mysaly: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Turkmen (Latin); wording not verified against a Turkmen form"
+ },
+ "messages.postal_mismatch": {
+  "value": "Bu poçta indeksi salgynyň galan bölegine gabat gelmeýän ýaly.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Turkmen (Latin); wording not verified against a Turkmen form"
+ },
+ "messages.zip_mismatch": {
+  "value": "Bu ZIP kody salgynyň galan bölegine gabat gelmeýän ýaly.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Turkmen (Latin); wording not verified against a Turkmen form"
+ }
+}

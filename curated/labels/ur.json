@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "پہلا نام",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "آخری نام",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "فلیٹ، منزل وغیرہ (اختیاری)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "تنظیم",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "گلی کا پتہ",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "فون",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "ملک/علاقہ",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "شہر",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "پوسٹ ٹاؤن",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "مضافات",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "ٹاؤن لینڈ",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "گاؤں / ٹاؤن شپ",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "ضلع",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "نواحی علاقہ",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "علاقہ",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "کاؤنٹی",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "محکمہ",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "ضلع",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "امارات",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "جزیرہ",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "اوبلاسٹ",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "پیرش",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "انتظامی حلقہ",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "صوبہ",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "ریاست",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "پوسٹل کوڈ",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "زپ کوڈ",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "‏PIN کوڈ",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "آپ اسے خالی نہیں چھوڑ سکتے۔",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} اس فیلڈ کیلئے ایک معلوم قدر کے بطور تسلیم شدہ نہیں ہے۔",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "لگتا ہے کہ پتے کی اس لائن میں ایک پوسٹ آفس باکس شامل ہے۔ براہ کرم ایک اسٹریٹ یا عمارت کا پتہ استعمال کریں۔",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "پوسٹل کوڈ کا یہ فارمیٹ تسلیم شدہ نہیں ہے۔ ایک درست پوسٹل کوڈ کی مثال: {EXAMPLE}۔",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "زپ کوڈ کا یہ فارمیٹ تسلیم شدہ نہیں ہے۔ ایک درست زپ کوڈ کی مثال: {EXAMPLE}۔",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "یہ پوسٹل کوڈ اس پتہ کے باقی حصہ کے مماثل نہیں لگتا ہے۔",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "یہ زپ کوڈ اس پتہ کے باقی حصہ کے مماثل نہیں لگتا ہے۔",
+  "provenance": "chromium"
+ }
+}

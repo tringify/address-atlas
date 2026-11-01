@@ -1,0 +1,212 @@
+{
+ "fields.first_name": {
+  "value": "Tur",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "fields.last_name": {
+  "value": "Sant",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Appartement, étage ak yeneen (du lu war)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "fields.company": {
+  "value": "Mbootaay",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "fields.address1": {
+  "value": "Adrees bu mbedd",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "fields.country": {
+  "value": "Réew / Diiwaan",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "city.city": {
+  "value": "Dëkk",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "city.post_town": {
+  "value": "Dëkku post",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "city.suburb": {
+  "value": "Wetu dëkk",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Wolof equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Dëkk / Gox",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "city.district": {
+  "value": "Diiwaan",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "city.neighborhood": {
+  "value": "Gox",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Barab",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "province.county": {
+  "value": "Diiwaan",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "province.department": {
+  "value": "Departamaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "province.district": {
+  "value": "Diiwaan",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emiraa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "province.island": {
+  "value": "Dun",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Paruwaas",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "province.prefecture": {
+  "value": "Perefektiir",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "province.province": {
+  "value": "Diiwaan",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "province.state": {
+  "value": "Etaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "postal.postal": {
+  "value": "Kodu post",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "postal.zip": {
+  "value": "Kodu ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "postal.pin": {
+  "value": "Kodu PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Mënuloo bàyyi lii mu des neen.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} xameesu ko ni njëg lu baax ci bii bërëb.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Bii rëdu adrees dafa mel ni am na bwaat postaal. Jëfandikoo adreesu mbedd walla tabax.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Melokaanu kodu post bii xameesu ko. Misaalu kodu post bu baax: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Melokaanu kodu ZIP bii xameesu ko. Misaalu kodu ZIP bu baax: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "messages.postal_mismatch": {
+  "value": "Kodu post bii mel na ni dëppoowul ak li des ci adrees bi.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ },
+ "messages.zip_mismatch": {
+  "value": "Kodu ZIP bii mel na ni dëppoowul ak li des ci adrees bi.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wolof; forms in Senegal are in French, no established Wolof checkout terminology"
+ }
+}

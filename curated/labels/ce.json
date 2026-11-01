@@ -1,0 +1,224 @@
+{
+  "fields.first_name": {
+    "value": "ЦӀе",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "fields.last_name": {
+    "value": "Фамили",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "fields.address2": {
+    "value": "Квартира, офис кх. (лаахь)",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "fields.company": {
+    "value": "Организаци",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "fields.address1": {
+    "value": "Урам, цӀа",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "fields.phone": {
+    "value": "Телефон",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "fields.country": {
+    "value": "Пачхьалкх / Регион",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "city.city": {
+    "value": "ГӀала",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "city.post_town": {
+    "value": "Поштан гӀала",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "city.suburb": {
+    "value": "ГӀалин йист",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "city.townland": {
+    "value": "Таунленд",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "city.village_township": {
+    "value": "Юрт / Поселок",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "city.district": {
+    "value": "КӀошт",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "city.neighborhood": {
+    "value": "Микрорайон",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "province.area": {
+    "value": "Регион",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "province.county": {
+    "value": "Графство",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "province.department": {
+    "value": "Департамент",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "province.district": {
+    "value": "КӀошт",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "province.do_si": {
+    "value": "До/Си",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "province.emirate": {
+    "value": "Эмират",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "province.island": {
+    "value": "ГӀайре",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "province.oblast": {
+    "value": "Область",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "province.parish": {
+    "value": "Приход",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "province.prefecture": {
+    "value": "Префектура",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "province.province": {
+    "value": "Провинци",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "province.state": {
+    "value": "Штат",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "postal.postal": {
+    "value": "Поштан индекс",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "postal.zip": {
+    "value": "ZIP-код",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "postal.pin": {
+    "value": "PIN-код",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "messages.required": {
+    "value": "Хьан иза деса дита йиш яц.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} оцу метта девзаш долу маьӀна санна ца девзи.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "messages.po_box_forbidden": {
+    "value": "Адресан оцу могӀарехь поштан яьшка ю аьлла хета. Дехар до, урам я гӀишлон адрес язъе.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "messages.postal_invalid_example": {
+    "value": "Поштан индексан и формат ца девзи. Нийса поштан индексан масал: {EXAMPLE}.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "messages.zip_invalid_example": {
+    "value": "ZIP-кодан и формат ца девзи. Нийса ZIP-кодан масал: {EXAMPLE}.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "messages.postal_mismatch": {
+    "value": "И поштан индекс адресан кхечу декъана ца догӀу аьлла хета.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  },
+  "messages.zip_mismatch": {
+    "value": "И ZIP-код адресан кхечу декъана ца догӀу аьлла хета.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Chechen: forms in Chechnya are normally in Russian; no established Chechen form terminology found; best-effort, needs native review."
+  }
+}

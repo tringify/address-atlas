@@ -1,0 +1,152 @@
+{
+ "fields.first_name": {
+  "value": "ପ୍ରଥମ ନାମ",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "ଶେଷ ନାମ",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "ଆପାର୍ଟମେଣ୍ଟ, ସୁଇଟ୍ ଇତ୍ୟାଦି (ଇଚ୍ଛାଧୀନ)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Transliterated \"apartment, suite\"; not verified against Odia checkout forms."
+ },
+ "fields.company": {
+  "value": "ସଂସ୍ଥା",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "ରାସ୍ତାର ଠିକଣା:",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "ଫୋନ୍",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "ଦେଶ / ଅଞ୍ଚଳ",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "ସହର",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "ପୋଷ୍ଟ ସହର",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "ସହରତଳି ଅଞ୍ଚଳ",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "ଟାଉନ୍‌ଲ୍ୟାଣ୍ଡ",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "ଗ୍ରାମ / ସହରାଞ୍ଚଳ",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "ଜିଲ୍ଲା",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "ପାଖାପାଖି ଅଞ୍ଚଳ",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "ଏରିଆ",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "କାଉଣ୍ଟି",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "ବିଭାଗ",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "ଜିଲ୍ଲା",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "ଏମିରାଟ୍",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "ଦ୍ୱୀପ",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "ପ୍ରଗଣା",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "ଅଞ୍ଚଳ",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "ପ୍ରଶାସକୀୟ କ୍ଷେତ୍ର",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "ପ୍ରଦେଶ",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "ରାଜ୍ୟ",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "ପୋଷ୍ଟାଲ୍ କୋଡ୍",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "ZIP କୋଡ",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN କୋଡ୍",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "ଇର୍‌କୋଡ୍‌",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "ଆପଣ ଏହାକୁ ଖାଲି ଛାଡ଼ିପାରିବେ ନାହିଁ।",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "ଏହି କ୍ଷେତ୍ର ପାଇଁ ଜଣାଶୁଣା ମୂଲ୍ୟ ରୂପେ {FIELD_VALUE} ଚିହ୍ନଟ ହେଲାନାହିଁ।",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "ଏହା ଜଣାପଡୁଛି ଯେ ଠିକଣାଥିବା ଲାଇନ୍‌ରେ ଗୋଟିଏ ପୋଷ୍ଟ ଅଫିସ୍‌ ବକ୍ସ ଅଛି। ଦୟାକରି ଗୋଟିଏ ରାସ୍ତା କିମ୍ୱା ବିଲ୍ଡିଂର ଠିକଣା ବ୍ୟବହାର କରନ୍ତୁ।",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "ଏହି ପୋଷ୍ଟାଲ୍ କୋଡ୍ ଫର୍ମାଟ୍ ଚିହ୍ନଟ କରାଯାଇପାରିଲା ନାହିଁ। ଏକ ବୈଧ ପୋଷ୍ଟାଲ୍ କୋଡ୍‍ର ଉଦାହରଣ। {EXAMPLE}।",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "ଏହି ZIP କୋଡ୍ ଫର୍ମାଟ୍ ଚିହ୍ନଟ ହୋଇନାହିଁ। ଏକ ବୈଧ ZIP କୋଡ୍‍ର ଉଦାହରଣ: {EXAMPLE}।",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "ଏହିପରି ଲାଗୁଛି ପୋଷ୍ଟାଲ୍‌ କୋଡ୍‍ ଅବଶିଷ୍ଟ ଠିକଣା ସହିତ ମେଳ ହେଉନାହିଁ।",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "ଏହିପରି ଲାଗୁଛି ଯେ ଏହି ପିନ୍‌ କୋଡ୍‌ ଅବଶିଷ୍ଟ ଠିକଣା ସହିତ ମେଳ ହେଉନାହିଁ।",
+  "provenance": "chromium"
+ }
+}

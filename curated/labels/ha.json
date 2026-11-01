@@ -1,0 +1,160 @@
+{
+  "fields.first_name": {
+    "value": "Sunan farko",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Sunan ƙarshe",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Gida, ɗaki, da sauransu (na zaɓi)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Ƙungiya",
+    "provenance": "curated"
+  },
+  "fields.address1": {
+    "value": "Adireshin titi",
+    "provenance": "curated"
+  },
+  "fields.phone": {
+    "value": "Waya",
+    "provenance": "curated"
+  },
+  "fields.country": {
+    "value": "Ƙasa / Yanki",
+    "provenance": "curated"
+  },
+  "city.city": {
+    "value": "Birni",
+    "provenance": "curated"
+  },
+  "city.post_town": {
+    "value": "Garin gidan waya",
+    "provenance": "curated"
+  },
+  "city.suburb": {
+    "value": "Unguwar bayan gari",
+    "provenance": "curated"
+  },
+  "city.townland": {
+    "value": "Ƙauyen gona",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Irish 'townland' has no established equivalent; descriptive rendering."
+  },
+  "city.village_township": {
+    "value": "Ƙauye / Gari",
+    "provenance": "curated"
+  },
+  "city.district": {
+    "value": "Gunduma",
+    "provenance": "curated"
+  },
+  "city.neighborhood": {
+    "value": "Unguwa",
+    "provenance": "curated"
+  },
+  "province.area": {
+    "value": "Yanki",
+    "provenance": "curated"
+  },
+  "province.county": {
+    "value": "Gunduma",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Approximate; same word as district."
+  },
+  "province.department": {
+    "value": "Sashe",
+    "provenance": "curated"
+  },
+  "province.district": {
+    "value": "Gunduma",
+    "provenance": "curated"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "curated",
+    "note": "Korean romanized term kept, as in Chromium's translations for other languages."
+  },
+  "province.emirate": {
+    "value": "Masarauta",
+    "provenance": "curated"
+  },
+  "province.island": {
+    "value": "Tsibiri",
+    "provenance": "curated"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "curated"
+  },
+  "province.parish": {
+    "value": "Ikklisiya",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Ecclesiastical term; administrative parish has no Hausa equivalent."
+  },
+  "province.prefecture": {
+    "value": "Lardi",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Uses 'lardi' (province); no distinct Hausa term."
+  },
+  "province.province": {
+    "value": "Lardi",
+    "provenance": "curated"
+  },
+  "province.state": {
+    "value": "Jiha",
+    "provenance": "curated"
+  },
+  "postal.postal": {
+    "value": "Lambar gidan waya",
+    "provenance": "curated"
+  },
+  "postal.zip": {
+    "value": "Lambar ZIP",
+    "provenance": "curated"
+  },
+  "postal.pin": {
+    "value": "Lambar PIN",
+    "provenance": "curated"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "curated",
+    "note": "Proper name of Ireland's postcode system, kept as used locally."
+  },
+  "messages.required": {
+    "value": "Ba za ka iya barin wannan babu komai ba.",
+    "provenance": "curated"
+  },
+  "messages.unknown_value": {
+    "value": "Ba a gane {FIELD_VALUE} a matsayin sananniyar ƙima ta wannan filin ba.",
+    "provenance": "curated"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Da alama wannan layin adireshi yana ɗauke da akwatin gidan waya. Da fatan za a yi amfani da adireshin titi ko gini.",
+    "provenance": "curated"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Ba a gane tsarin wannan lambar gidan waya ba. Misalin lambar gidan waya mai inganci: {EXAMPLE}.",
+    "provenance": "curated"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Ba a gane tsarin wannan lambar ZIP ba. Misalin lambar ZIP mai inganci: {EXAMPLE}.",
+    "provenance": "curated"
+  },
+  "messages.postal_mismatch": {
+    "value": "Da alama wannan lambar gidan waya ba ta dace da sauran adireshin nan ba.",
+    "provenance": "curated"
+  },
+  "messages.zip_mismatch": {
+    "value": "Da alama wannan lambar ZIP ba ta dace da sauran adireshin nan ba.",
+    "provenance": "curated"
+  }
+}

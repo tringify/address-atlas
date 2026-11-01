@@ -1,0 +1,212 @@
+{
+ "country": "UA",
+ "level": "oblast",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "UA-05",
+   "local": "Вінницька область",
+   "latin": "Vinnytska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-07",
+   "local": "Волинська область",
+   "latin": "Volynska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-09",
+   "local": "Луганська область",
+   "latin": "Luhanska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-12",
+   "local": "Дніпропетровська область",
+   "latin": "Dnipropetrovska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-14",
+   "local": "Донецька область",
+   "latin": "Donetska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-18",
+   "local": "Житомирська область",
+   "latin": "Zhytomyrska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-21",
+   "local": "Закарпатська область",
+   "latin": "Zakarpatska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-23",
+   "local": "Запорізька область",
+   "latin": "Zaporizka oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-26",
+   "local": "Івано-Франківська область",
+   "latin": "Ivano-Frankivska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-30",
+   "local": "Київ",
+   "latin": "Kyiv",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-32",
+   "local": "Київська область",
+   "latin": "Kyivska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-35",
+   "local": "Кіровоградська область",
+   "latin": "Kirovohradska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-40",
+   "local": "Севастополь",
+   "latin": "Sevastopol",
+   "iso": true,
+   "aliases": [
+    "RU-SEVASTOPOL"
+   ]
+  },
+  {
+   "code": "UA-43",
+   "local": "Автономна Республіка Крим",
+   "latin": "Avtonomna Respublika Krym",
+   "iso": true,
+   "aliases": [
+    "RU-RESPUBLIKA_KRYM"
+   ]
+  },
+  {
+   "code": "UA-46",
+   "local": "Львівська область",
+   "latin": "Lvivska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-48",
+   "local": "Миколаївська область",
+   "latin": "Mykolaivska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-51",
+   "local": "Одеська область",
+   "latin": "Odeska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-53",
+   "local": "Полтавська область",
+   "latin": "Poltavska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-56",
+   "local": "Рівненська область",
+   "latin": "Rivnenska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-59",
+   "local": "Сумська область",
+   "latin": "Sumska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-61",
+   "local": "Тернопільська область",
+   "latin": "Ternopilska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-63",
+   "local": "Харківська область",
+   "latin": "Kharkivska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-65",
+   "local": "Херсонська область",
+   "latin": "Khersonska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-68",
+   "local": "Хмельницька область",
+   "latin": "Khmelnytska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-71",
+   "local": "Черкаська область",
+   "latin": "Cherkaska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-74",
+   "local": "Чернігівська область",
+   "latin": "Chernihivska oblast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UA-77",
+   "local": "Чернівецька область",
+   "latin": "Chernivetska oblast",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "RU-RESPUBLIKA_KRYM (was in the RU list) -> UA-43 Avtonomna Respublika Krym (alias)",
+  "RU-SEVASTOPOL (was in the RU list) -> UA-40 Sevastopol (alias)"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ukrEn.pdf",
+  "https://www.ukrposhta.ua/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:UA",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "24 oblasts, Crimea (UA-43), Kyiv (UA-30) and Sevastopol (UA-40) per ISO. The RU-* keys of our old RU list are aliases here. latin = ISO (Ukrainian national romanisation). UA-35 Kirovohradska oblast: the rename is still pending a constitutional amendment, ISO unchanged."
+}

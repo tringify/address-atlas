@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Jina la kwanza",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Jina la ukoo",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Fleti, chumba n.k. (si lazima)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Shirika",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Anwani ya barabara",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Simu",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Nchi/Eneo",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Jiji",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Mji wa Posta",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Kiunga",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Kitongoji",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Kijiji / Mji",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Wilaya",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Mtaa",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Eneo",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Jimbo",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Idara",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Wilaya",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Emirate",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Kisiwa",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Mkoa",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Parokia",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Mkoa",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Mkoa",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Jimbo",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Msimbo wa eneo",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Msimbo wa eneo",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "Nambari ya Posta",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Huwezi kuacha hii ikiwa tupu.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} haitambuliwi kama thamani inayojulikana ya sehemu hii.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Inaonekana sehemu hii ya anwani ina maelezo ya sanduku la posta. Tafadhali tumia anwani ya barabara au jengo.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Mpangilio huu wa msimbo wa posta hautambuliwi. Mfano wa msimbo sahihi wa posta ni: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Muundo huu wa msimbo wa eneo hautambuliwi. Mfano wa Msimbo sahihi wa eneo ni: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Msimbo huu wa posta hauonekani kulingana na anwani hii.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Msimbo huu wa eneo haulingani na anwani hii.",
+  "provenance": "chromium"
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "სახელი",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "გვარი",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "ბინა, ოფისი და ა.შ. (არასავალდებულო)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "ორგანიზაცია",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "ქუჩის მისამართი",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "ტელეფონი",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "ქვეყანა/რეგიონი",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "ქალაქი",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "საფოსტო ქალაქი",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "გარეუბანი",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "თაუნლენდი",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "სოფელი/დაბა",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "ოლქი",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "ოლქი",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "რეგიონი",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "საგრაფო",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "დეპარტამენტი",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "ოლქი",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "ადმინისტრაციული ერთეული",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "ემირატი",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "კუნძული",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "ოლქი",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "სამოქალაქო ოლქი",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "პრეფექტურა",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "პროვინცია",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "შტატი",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "საფოსტო კოდი",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "ZIP კოდი",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN კოდი",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "ეს ველი არ უნდა იყოს ცარიელი.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} არ არის ამოცნობილი, როგორც ცნობილი მნიშვნელობა ამ ველისთვის.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "ეს მისამართის სტრიქონი მოიცავს საფოსტო ყუთს. მიუთითეთ ქუჩა ან შენობის ნომერი.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "საფოსტო კოდის ეს ფორმატი არ არის ამოცნობილი. სწორი საფოსტო კოდის მაგალითი: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "ZIP კოდის ეს ფორმატი არ არის ამოცნობილი. სწორი ZIP კოდის მაგალითი: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "ეს საფოსტო კოდი არ ემთხვევა ამ მისამართს.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "ეს ZIP კოდი არ ემთხვევა ამ მისამართს.",
+  "provenance": "chromium"
+ }
+}

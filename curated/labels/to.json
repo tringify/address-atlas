@@ -1,0 +1,208 @@
+{
+ "fields.first_name": {
+  "value": "Hingoa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "fields.last_name": {
+  "value": "Hingoa fakafāmili",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "fields.address2": {
+  "value": "Fale, loki mo e alā meʻa pē (ʻikai fiemaʻu)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "fields.company": {
+  "value": "Kautaha",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "fields.address1": {
+  "value": "Tuʻasila hala",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "fields.phone": {
+  "value": "Telefoni",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Fonua / Feituʻu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "city.city": {
+  "value": "Kolo",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Kolo meili",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "city.suburb": {
+  "value": "Tafaʻaki kolo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Tongan equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Kolo / Vahe",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "city.district": {
+  "value": "Vahe",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Feituʻu kolo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "province.area": {
+  "value": "Feituʻu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "province.county": {
+  "value": "Vahefonua",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "province.department": {
+  "value": "Potungāue",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "province.district": {
+  "value": "Vahe",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "ʻEmileiti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "province.island": {
+  "value": "Motu",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Pālisi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "province.prefecture": {
+  "value": "Pulefeitula",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "province.province": {
+  "value": "Vahefonua",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "province.state": {
+  "value": "Siteiti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "postal.postal": {
+  "value": "Kouti meili",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "postal.zip": {
+  "value": "Kouti ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "postal.pin": {
+  "value": "Kouti PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "ʻOua naʻa tuku ʻeni ke ʻatā.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "messages.unknown_value": {
+  "value": "ʻOku ʻikai ʻiloa ʻa e {FIELD_VALUE} ko ha mahuʻinga totonu ki he feituʻu ko ʻeni.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "messages.po_box_forbidden": {
+  "value": "ʻOku hangē ʻoku ʻi he laine tuʻasila ko ʻeni ha puha meili. Kātaki ʻo fakaʻaongaʻi ha tuʻasila hala pe fale.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "messages.postal_invalid_example": {
+  "value": "ʻOku ʻikai ʻiloa ʻa e fōmeti ʻo e kouti meili ko ʻeni. Sīpinga ʻo ha kouti meili totonu: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "messages.zip_invalid_example": {
+  "value": "ʻOku ʻikai ʻiloa ʻa e fōmeti ʻo e kouti ZIP ko ʻeni. Sīpinga ʻo ha kouti ZIP totonu: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "messages.postal_mismatch": {
+  "value": "ʻOku hangē ʻoku ʻikai hoa ʻa e kouti meili ko ʻeni mo e toenga ʻo e tuʻasila.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ },
+ "messages.zip_mismatch": {
+  "value": "ʻOku hangē ʻoku ʻikai hoa ʻa e kouti ZIP ko ʻeni mo e toenga ʻo e tuʻasila.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+ }
+}

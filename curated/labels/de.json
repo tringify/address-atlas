@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Vorname",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Nachname",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Wohnung, Zimmer usw. (optional)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Organisation",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Adresse",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Telefon",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Land/Region",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Stadt",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Stadt",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Vorort",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Townland",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Ort/Gemeinde",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Bezirk",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Stadtteil",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Region",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Landkreis",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Abteilung",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Bezirk",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emirat",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Insel",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Gemeinde",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Präfektur",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Provinz",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Bundesstaat/-land",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Postleitzahl",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Postleitzahl",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "PIN-Code",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Dieses Feld ist ein Pflichtfeld.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} ist kein gültiger Wert für dieses Feld.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Diese Adresszeile enthält offenbar ein Postfach. Gib eine Straßen- oder Gebäudeadresse ein.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Dieses Postleitzahlformat wurde nicht erkannt. Beispiel für eine gültige Postleitzahl: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Das Format der Postleitzahl wurde nicht erkannt. Beispiel für eine gültige Postleitzahl: {EXAMPLE}",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Diese Postleitzahl scheint nicht zum Rest dieser Adresse zu passen.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Diese Postleitzahl scheint nicht zum Rest dieser Adresse zu passen.",
+    "provenance": "chromium"
+  }
+}

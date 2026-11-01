@@ -1,0 +1,4 @@
+src/data.ts
+dist/
+data/
+node_modules/

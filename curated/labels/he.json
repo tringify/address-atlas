@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "שם פרטי",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "שם משפחה",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "דירה, קומה וכו' (לא חובה)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "ארגון",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "כתובת",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "טלפון",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "מדינה/אזור",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "עיר",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "מיקוד עיר (בריטניה)",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "פרבר",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Townland",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "כפר / עיירה",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "מחוז",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "שכונה",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "אזור",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "מחוז",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "מחלקה",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "מחוז",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "דו/סי",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "האמירויות הערביות",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "אי",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "אובלסט",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "פאריש",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "תחום שיפוט",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "פרובינציה",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "מדינה",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "מיקוד",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "מיקוד",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "קוד אימות",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "אי אפשר להשאיר את השדה הזה ריק.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} אינו מזוהה כערך מוכר עבור השדה הזה.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "נראה שהכתובת הזו מכילה תיבת דואר. יש להשתמש בכתובת רחוב או בניין.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "פורמט המיקוד הזה אינו מזוהה. דוגמה למיקוד חוקי: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "פורמט המיקוד הזה אינו מוכר. דוגמה למיקוד חוקי: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "נראה שהמיקוד הזה לא תואם לשאר הכתובת.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "נראה שהמיקוד הזה לא תואם לשאר הכתובת.",
+    "provenance": "chromium"
+  }
+}

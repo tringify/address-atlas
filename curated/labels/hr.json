@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Ime",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Prezime",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Stan, kat itd. (neobavezno)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Organizacija",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Ulica i kućni broj",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Telefon",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Država/regija",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Grad",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Poštanski grad",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Predgrađe",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Okrug",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Selo/općina",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Distrikt",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Četvrt",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Područje",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Država",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Departman",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Distrikt",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emirat",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Otok",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Župa",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Prefektura",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Pokrajina",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Savezna država",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Poštanski broj",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Poštanski broj",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "PIN",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "To polje ne možete ostaviti prazno.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} ne priznaje se kao poznata vrijednost za to polje.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Izgleda da adresa sadrži broj poštanskog pretinca. Navedite ulicu ili kućnu adresu.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Format poštanskog broja nije prepoznat. Primjer važećeg poštanskog broja: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Taj oblik poštanskog broja nije prepoznatljiv. Primjer važećeg poštanskog broja: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Izgleda da taj poštanski broj ne odgovara ostatku adrese.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Izgleda da taj ZIP kôd ne odgovara ostatku adrese.",
+    "provenance": "chromium"
+  }
+}

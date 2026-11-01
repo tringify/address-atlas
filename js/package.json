@@ -1,0 +1,24 @@
+{
+  "name": "address-atlas",
+  "version": "0.1.0",
+  "description": "Address formats, postal code rules, provinces and translated labels for every country.",
+  "license": "MIT",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": "./dist/index.js",
+    "./i18n/*.json": "./data/i18n/*.json",
+    "./data/*.json": "./data/*.json"
+  },
+  "files": [
+    "dist",
+    "data"
+  ],
+  "scripts": {
+    "build": "rm -rf dist data && cp -r ../data data && node gen-data.mjs && tsc"
+  },
+  "devDependencies": {
+    "typescript": "5.6.3"
+  }
+}

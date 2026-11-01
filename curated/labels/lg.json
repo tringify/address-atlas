@@ -1,0 +1,220 @@
+{
+ "fields.first_name": {
+  "value": "Erinnya erisooka",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "fields.last_name": {
+  "value": "Erinnya erisembayo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "fields.address2": {
+  "value": "Ennyumba, ekisenge, n'ebirala (si kya tteeka)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "fields.company": {
+  "value": "Ekitongole",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "fields.address1": {
+  "value": "Endagiriro y'oluguudo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "fields.phone": {
+  "value": "Essimu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "fields.country": {
+  "value": "Eggwanga / Ekitundu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.city": {
+  "value": "Ekibuga",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.post_town": {
+  "value": "Ekibuga kya poosita",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.suburb": {
+  "value": "Ekitundu ky'ekibuga",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.townland": {
+  "value": "Ekitundu (Ireland)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.village_township": {
+  "value": "Ekyalo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.district": {
+  "value": "Disitulikiti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "city.neighborhood": {
+  "value": "Akatundu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.area": {
+  "value": "Ekitundu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.county": {
+  "value": "Ssaza",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.department": {
+  "value": "Ekitongole",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.district": {
+  "value": "Disitulikiti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emireeti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.island": {
+  "value": "Ekizinga",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.parish": {
+  "value": "Muluka",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.prefecture": {
+  "value": "Purefekica",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.province": {
+  "value": "Puloviinsi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "province.state": {
+  "value": "Esitaati",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "postal.postal": {
+  "value": "Koodi ya poosita",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "postal.zip": {
+  "value": "Koodi ya ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "postal.pin": {
+  "value": "Koodi ya PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Ekifo kino tekiyinza kulekebwa nga kyereere.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} tekimanyiddwa ng'omuwendo ogukkirizibwa mu kifo kino.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "messages.po_box_forbidden": {
+  "value": "Olunyiriri luno olw'endagiriro lulabika nga lulimu sanduuko ya poosita. Kozesa endagiriro y'oluguudo oba ey'ekizimbe.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Enkola ya koodi eno eya poosita temanyiddwa. Ekyokulabirako kya koodi ya poosita entuufu: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "messages.zip_invalid_example": {
+  "value": "Enkola ya koodi eno eya ZIP temanyiddwa. Ekyokulabirako kya koodi ya ZIP entuufu: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "messages.postal_mismatch": {
+  "value": "Koodi eno eya poosita terabika ng'ekwatagana n'endagiriro endala.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ },
+ "messages.zip_mismatch": {
+  "value": "Koodi eno eya ZIP terabika ng'ekwatagana n'endagiriro endala.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+ }
+}

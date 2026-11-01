@@ -1,0 +1,604 @@
+{
+ "country": "PH",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "PH-00",
+   "local": "Metro Manila",
+   "latin": "Metro Manila",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-ABR",
+   "local": "Abra",
+   "latin": "Abra",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-AGN",
+   "local": "Agusan del Norte",
+   "latin": "Agusan del Norte",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-AGS",
+   "local": "Agusan del Sur",
+   "latin": "Agusan del Sur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-AKL",
+   "local": "Aklan",
+   "latin": "Aklan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-ALB",
+   "local": "Albay",
+   "latin": "Albay",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-ANT",
+   "local": "Antique",
+   "latin": "Antique",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-APA",
+   "local": "Apayao",
+   "latin": "Apayao",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-AUR",
+   "local": "Aurora",
+   "latin": "Aurora",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-BAN",
+   "local": "Bataan",
+   "latin": "Bataan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-BAS",
+   "local": "Basilan",
+   "latin": "Basilan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-BEN",
+   "local": "Benguet",
+   "latin": "Benguet",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-BIL",
+   "local": "Biliran",
+   "latin": "Biliran",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-BOH",
+   "local": "Bohol",
+   "latin": "Bohol",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-BTG",
+   "local": "Batangas",
+   "latin": "Batangas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-BTN",
+   "local": "Batanes",
+   "latin": "Batanes",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-BUK",
+   "local": "Bukidnon",
+   "latin": "Bukidnon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-BUL",
+   "local": "Bulacan",
+   "latin": "Bulacan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-CAG",
+   "local": "Cagayan",
+   "latin": "Cagayan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-CAM",
+   "local": "Camiguin",
+   "latin": "Camiguin",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-CAN",
+   "local": "Camarines Norte",
+   "latin": "Camarines Norte",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-CAP",
+   "local": "Capiz",
+   "latin": "Capiz",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-CAS",
+   "local": "Camarines Sur",
+   "latin": "Camarines Sur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-CAT",
+   "local": "Catanduanes",
+   "latin": "Catanduanes",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-CAV",
+   "local": "Cavite",
+   "latin": "Cavite",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-CEB",
+   "local": "Cebu",
+   "latin": "Cebu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-COM",
+   "local": "Davao de Oro",
+   "latin": "Davao de Oro",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-DAO",
+   "local": "Davao Oriental",
+   "latin": "Davao Oriental",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-DAS",
+   "local": "Davao del Sur",
+   "latin": "Davao del Sur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-DAV",
+   "local": "Davao del Norte",
+   "latin": "Davao del Norte",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-DIN",
+   "local": "Dinagat Islands",
+   "latin": "Dinagat Islands",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-DVO",
+   "local": "Davao Occidental",
+   "latin": "Davao Occidental",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-EAS",
+   "local": "Eastern Samar",
+   "latin": "Eastern Samar",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-GUI",
+   "local": "Guimaras",
+   "latin": "Guimaras",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-IFU",
+   "local": "Ifugao",
+   "latin": "Ifugao",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-ILI",
+   "local": "Iloilo",
+   "latin": "Iloilo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-ILN",
+   "local": "Ilocos Norte",
+   "latin": "Ilocos Norte",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-ILS",
+   "local": "Ilocos Sur",
+   "latin": "Ilocos Sur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-ISA",
+   "local": "Isabela",
+   "latin": "Isabela",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-KAL",
+   "local": "Kalinga",
+   "latin": "Kalinga",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-LAG",
+   "local": "Laguna",
+   "latin": "Laguna",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-LAN",
+   "local": "Lanao del Norte",
+   "latin": "Lanao del Norte",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-LAS",
+   "local": "Lanao del Sur",
+   "latin": "Lanao del Sur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-LEY",
+   "local": "Leyte",
+   "latin": "Leyte",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-LUN",
+   "local": "La Union",
+   "latin": "La Union",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-MAD",
+   "local": "Marinduque",
+   "latin": "Marinduque",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-MAS",
+   "local": "Masbate",
+   "latin": "Masbate",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-MDC",
+   "local": "Mindoro Occidental",
+   "latin": "Mindoro Occidental",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-MDR",
+   "local": "Mindoro Oriental",
+   "latin": "Mindoro Oriental",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-MGN",
+   "local": "Maguindanao del Norte",
+   "latin": "Maguindanao del Norte",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-MGS",
+   "local": "Maguindanao del Sur",
+   "latin": "Maguindanao del Sur",
+   "iso": true,
+   "aliases": [
+    "PH-MAG"
+   ]
+  },
+  {
+   "code": "PH-MOU",
+   "local": "Mountain Province",
+   "latin": "Mountain Province",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-MSC",
+   "local": "Misamis Occidental",
+   "latin": "Misamis Occidental",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-MSR",
+   "local": "Misamis Oriental",
+   "latin": "Misamis Oriental",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-NCO",
+   "local": "Cotabato",
+   "latin": "Cotabato",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-NEC",
+   "local": "Negros Occidental",
+   "latin": "Negros Occidental",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-NER",
+   "local": "Negros Oriental",
+   "latin": "Negros Oriental",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-NSA",
+   "local": "Northern Samar",
+   "latin": "Northern Samar",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-NUE",
+   "local": "Nueva Ecija",
+   "latin": "Nueva Ecija",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-NUV",
+   "local": "Nueva Vizcaya",
+   "latin": "Nueva Vizcaya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-PAM",
+   "local": "Pampanga",
+   "latin": "Pampanga",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-PAN",
+   "local": "Pangasinan",
+   "latin": "Pangasinan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-PLW",
+   "local": "Palawan",
+   "latin": "Palawan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-QUE",
+   "local": "Quezon",
+   "latin": "Quezon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-QUI",
+   "local": "Quirino",
+   "latin": "Quirino",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-RIZ",
+   "local": "Rizal",
+   "latin": "Rizal",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-ROM",
+   "local": "Romblon",
+   "latin": "Romblon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-SAR",
+   "local": "Sarangani",
+   "latin": "Sarangani",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-SCO",
+   "local": "South Cotabato",
+   "latin": "South Cotabato",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-SIG",
+   "local": "Siquijor",
+   "latin": "Siquijor",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-SLE",
+   "local": "Southern Leyte",
+   "latin": "Southern Leyte",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-SLU",
+   "local": "Sulu",
+   "latin": "Sulu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-SOR",
+   "local": "Sorsogon",
+   "latin": "Sorsogon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-SUK",
+   "local": "Sultan Kudarat",
+   "latin": "Sultan Kudarat",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-SUN",
+   "local": "Surigao del Norte",
+   "latin": "Surigao del Norte",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-SUR",
+   "local": "Surigao del Sur",
+   "latin": "Surigao del Sur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-TAR",
+   "local": "Tarlac",
+   "latin": "Tarlac",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-TAW",
+   "local": "Tawi-Tawi",
+   "latin": "Tawi-Tawi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-WSA",
+   "local": "Samar",
+   "latin": "Samar",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-ZAN",
+   "local": "Zamboanga del Norte",
+   "latin": "Zamboanga del Norte",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-ZAS",
+   "local": "Zamboanga del Sur",
+   "latin": "Zamboanga del Sur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-ZMB",
+   "local": "Zambales",
+   "latin": "Zambales",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PH-ZSI",
+   "local": "Zamboanga Sibugay",
+   "latin": "Zamboanga Sibugay",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added PH-MGN Maguindanao del Norte",
+  "split PH-MAG Maguindanao -> PH-MGS Maguindanao del Sur (old code kept as alias)",
+  "renamed PH-COM: Compostela Valley -> Davao de Oro (2019; code kept)"
+ ],
+ "sources": [
+  "https://phlpost.gov.ph/zip-code-locator/",
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/phlEn.pdf",
+  "https://www.iso.org/obp/ui/#iso:code:3166:PH",
+  "https://www.iso.org/obp/ui/#iso:code:3166:PH",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "82 provinces + Metro Manila (ISO region PH-00 NCR, which has no provinces and is written as \"Metro Manila\"). PH-MAG Maguindanao was split (2022; ISO 2023-11-23) into PH-MGN Maguindanao del Norte and PH-MGS Maguindanao del Sur. The old code is aliased to PH-MGS (seat of the old province, Buluan, is in Maguindanao del Sur); saved values in the north will map wrongly and need re-selection."
+}

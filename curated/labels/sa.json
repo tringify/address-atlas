@@ -1,0 +1,198 @@
+{
+ "fields.first_name": {
+  "value": "प्रथमनाम",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "fields.last_name": {
+  "value": "उपनाम",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "fields.address2": {
+  "value": "भवनम्, कक्षः इत्यादि (वैकल्पिकम्)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "fields.company": {
+  "value": "संस्था",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "मार्गसङ्केतः",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "fields.phone": {
+  "value": "दूरभाषः",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "देशः / प्रदेशः",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "नगरम्",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "डाकनगरम्",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "city.suburb": {
+  "value": "उपनगरम्",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "ग्रामभूमिः",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland; descriptive rendering"
+ },
+ "city.village_township": {
+  "value": "ग्रामः / उपनगरम्",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "city.district": {
+  "value": "मण्डलम्",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "प्रतिवेशः",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "province.area": {
+  "value": "क्षेत्रम्",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "जनपदः",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "province.department": {
+  "value": "विभागः",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "मण्डलम्",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "दो/सि",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "transliteration of Korean Do/Si"
+ },
+ "province.emirate": {
+  "value": "अमीरराज्यम्",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "province.island": {
+  "value": "द्वीपः",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "ओब्लास्ट्",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "transliteration"
+ },
+ "province.parish": {
+  "value": "पल्लीक्षेत्रम्",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "province.prefecture": {
+  "value": "प्रिफेक्चर्",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "transliteration"
+ },
+ "province.province": {
+  "value": "प्रान्तः",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "राज्यम्",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "डाकसङ्केतः",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "postal.zip": {
+  "value": "ज़िप्-सङ्केतः",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "postal.pin": {
+  "value": "पिन्-सङ्केतः",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "एतत् रिक्तं त्यक्तुं न शक्यते।",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} अस्य क्षेत्रस्य ज्ञातमूल्यत्वेन न अभिज्ञातम्।",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "messages.po_box_forbidden": {
+  "value": "अस्यां सङ्केतपङ्क्तौ डाकपेटिका अस्ति इति प्रतीयते। कृपया मार्गस्य भवनस्य वा सङ्केतं ददातु।",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "messages.postal_invalid_example": {
+  "value": "अस्य डाकसङ्केतस्य प्रारूपं न अभिज्ञातम्। मान्यस्य डाकसङ्केतस्य उदाहरणम्: {EXAMPLE}।",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "messages.zip_invalid_example": {
+  "value": "अस्य ज़िप्-सङ्केतस्य प्रारूपं न अभिज्ञातम्। मान्यस्य ज़िप्-सङ्केतस्य उदाहरणम्: {EXAMPLE}।",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "messages.postal_mismatch": {
+  "value": "अयं डाकसङ्केतः अस्य सङ्केतस्य शेषभागेन सह न मिलति इति प्रतीयते।",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ },
+ "messages.zip_mismatch": {
+  "value": "अयं ज़िप्-सङ्केतः अस्य सङ्केतस्य शेषभागेन सह न मिलति इति प्रतीयते।",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sanskrit has no established e-commerce/postal form vocabulary; term composed from standard Sanskrit words"
+ }
+}

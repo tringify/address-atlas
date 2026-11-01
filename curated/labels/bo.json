@@ -1,0 +1,184 @@
+{
+  "fields.first_name": {
+    "value": "མིང་།",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "རུས་མིང་།",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Many Tibetans have no surname; 'རུས་མིང་' (clan name) used."
+  },
+  "fields.address2": {
+    "value": "ཁང་མིག་དང་ཁང་ཚན་སོགས། (གདམ་ཀ)",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "No established Tibetan e-commerce term; descriptive."
+  },
+  "fields.company": {
+    "value": "ཚོགས་པ།",
+    "provenance": "curated"
+  },
+  "fields.address1": {
+    "value": "ལམ་ཁའི་ཁ་བྱང་།",
+    "provenance": "curated"
+  },
+  "fields.phone": {
+    "value": "ཁ་པར།",
+    "provenance": "curated"
+  },
+  "fields.country": {
+    "value": "རྒྱལ་ཁབ། / ས་ཁུལ།",
+    "provenance": "curated"
+  },
+  "city.city": {
+    "value": "གྲོང་ཁྱེར།",
+    "provenance": "curated"
+  },
+  "city.post_town": {
+    "value": "སྦྲག་ཁང་གྲོང་ཁྱེར།",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Descriptive."
+  },
+  "city.suburb": {
+    "value": "གྲོང་ཁྱེར་མཐའ་འཁོར།",
+    "provenance": "curated"
+  },
+  "city.townland": {
+    "value": "ཞིང་གྲོང་།",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Irish 'townland' has no established equivalent; descriptive rendering."
+  },
+  "city.village_township": {
+    "value": "གྲོང་གསེབ། / ཤང་།",
+    "provenance": "curated"
+  },
+  "city.district": {
+    "value": "ས་ཁུལ།",
+    "provenance": "curated"
+  },
+  "city.neighborhood": {
+    "value": "སྡོད་ཁུལ།",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Approximate."
+  },
+  "province.area": {
+    "value": "ས་ཁོངས།",
+    "provenance": "curated"
+  },
+  "province.county": {
+    "value": "རྫོང་།",
+    "provenance": "curated"
+  },
+  "province.department": {
+    "value": "སྡེ་ཚན།",
+    "provenance": "curated"
+  },
+  "province.district": {
+    "value": "ཆུས།",
+    "provenance": "curated"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "curated",
+    "note": "Korean romanized term kept, as in Chromium's translations for other languages."
+  },
+  "province.emirate": {
+    "value": "ཨེ་མི་རེ་ཊི།",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Transliteration."
+  },
+  "province.island": {
+    "value": "གླིང་།",
+    "provenance": "curated"
+  },
+  "province.oblast": {
+    "value": "ཨོབ་ལཱསཊ།",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Transliteration."
+  },
+  "province.parish": {
+    "value": "ཆོས་ཁུལ།",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Approximate."
+  },
+  "province.prefecture": {
+    "value": "ཁུལ་ཁག",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Approximate."
+  },
+  "province.province": {
+    "value": "ཞིང་ཆེན།",
+    "provenance": "curated"
+  },
+  "province.state": {
+    "value": "མངའ་སྡེ།",
+    "provenance": "curated"
+  },
+  "postal.postal": {
+    "value": "སྦྲག་ཨང་།",
+    "provenance": "curated"
+  },
+  "postal.zip": {
+    "value": "ZIP ཨང་རྟགས།",
+    "provenance": "curated"
+  },
+  "postal.pin": {
+    "value": "PIN ཨང་རྟགས།",
+    "provenance": "curated"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "curated",
+    "note": "Proper name of Ireland's postcode system, kept as used locally."
+  },
+  "messages.required": {
+    "value": "འདི་སྟོང་པ་བཞག་མི་ཆོག",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Message phrasing not verified against a native Tibetan UI."
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} ནི་ས་སྟོང་འདིའི་གྲངས་ཐང་ཤེས་ཡོད་པ་ཞིག་ཏུ་ངོས་འཛིན་མ་བྱུང་།",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Message phrasing not verified against a native Tibetan UI."
+  },
+  "messages.po_box_forbidden": {
+    "value": "ཁ་བྱང་ཐིག་ཕྲེང་འདིའི་ནང་སྦྲག་སྒམ་ཞིག་ཡོད་པ་འདྲ། ལམ་ཁའམ་ཁང་པའི་ཁ་བྱང་བེད་སྤྱོད་གནང་རོགས།",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Message phrasing not verified against a native Tibetan UI."
+  },
+  "messages.postal_invalid_example": {
+    "value": "སྦྲག་ཨང་གི་རྣམ་པ་འདི་ངོས་འཛིན་མ་བྱུང་། ཚད་ལྡན་སྦྲག་ཨང་གི་དཔེ་མཚོན། {EXAMPLE}།",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Message phrasing not verified against a native Tibetan UI."
+  },
+  "messages.zip_invalid_example": {
+    "value": "ZIP ཨང་རྟགས་ཀྱི་རྣམ་པ་འདི་ངོས་འཛིན་མ་བྱུང་། ཚད་ལྡན་ZIP ཨང་རྟགས་ཀྱི་དཔེ་མཚོན། {EXAMPLE}།",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Message phrasing not verified against a native Tibetan UI."
+  },
+  "messages.postal_mismatch": {
+    "value": "སྦྲག་ཨང་འདི་ཁ་བྱང་གི་ལྷག་མ་དང་མཐུན་པ་མི་འདུག",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Message phrasing not verified against a native Tibetan UI."
+  },
+  "messages.zip_mismatch": {
+    "value": "ZIP ཨང་རྟགས་འདི་ཁ་བྱང་གི་ལྷག་མ་དང་མཐུན་པ་མི་འདུག",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Message phrasing not verified against a native Tibetan UI."
+  }
+}

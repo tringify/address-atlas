@@ -1,0 +1,138 @@
+{
+ "country": "NI",
+ "level": "department",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "NI-AN",
+   "local": "Costa Caribe Norte",
+   "latin": "Costa Caribe Norte",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-AS",
+   "local": "Costa Caribe Sur",
+   "latin": "Costa Caribe Sur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-BO",
+   "local": "Boaco",
+   "latin": "Boaco",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-CA",
+   "local": "Carazo",
+   "latin": "Carazo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-CI",
+   "local": "Chinandega",
+   "latin": "Chinandega",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-CO",
+   "local": "Chontales",
+   "latin": "Chontales",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-ES",
+   "local": "Estelí",
+   "latin": "Estelí",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-GR",
+   "local": "Granada",
+   "latin": "Granada",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-JI",
+   "local": "Jinotega",
+   "latin": "Jinotega",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-LE",
+   "local": "León",
+   "latin": "León",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-MD",
+   "local": "Madriz",
+   "latin": "Madriz",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-MN",
+   "local": "Managua",
+   "latin": "Managua",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-MS",
+   "local": "Masaya",
+   "latin": "Masaya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-MT",
+   "local": "Matagalpa",
+   "latin": "Matagalpa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-NS",
+   "local": "Nueva Segovia",
+   "latin": "Nueva Segovia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-RI",
+   "local": "Rivas",
+   "latin": "Rivas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "NI-SJ",
+   "local": "Río San Juan",
+   "latin": "Río San Juan",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "renamed NI-AN: Atlántico Norte -> Costa Caribe Norte (ISO 2018-04-20)",
+  "renamed NI-AS: Atlántico Sur -> Costa Caribe Sur (ISO 2018-04-20)"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nicEn.pdf",
+  "https://en.wikipedia.org/wiki/ISO_3166-2:NI",
+  "https://www.iso.org/obp/ui/#iso:code:3166:NI",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": ""
+}

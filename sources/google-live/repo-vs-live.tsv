@@ -1,0 +1,288 @@
+AD	fmt	repo='%N%n%O%n%A%n%Z %S'	live='%N%n%O%n%A%n%Z %C'
+AD	require	repo='AS'	live=None
+AD	upper	repo='S'	live=None
+AD	state_name_type	repo='parish'	live=None
+AD	sub_keys	differ
+AE	fmt	repo='%N%n%O%n%A%n%C'	live='%N%n%O%n%A%n%S'
+AE	lfmt	repo=None	live='%N%n%O%n%A%n%S'
+AE	require	repo='AC'	live='AS'
+AE	state_name_type	repo=None	live='emirate'
+AE	languages	repo=None	live='ar'
+AE	sub_keys	differ
+AF	fmt	repo=None	live='%N%n%O%n%A%n%C%n%Z'
+AI	fmt	repo=None	live='%N%n%O%n%A%n%C%n%Z'
+AI	zip	repo='2640'	live='(?:AI-)?2640'
+AL	fmt	repo=None	live='%N%n%O%n%A%n%Z%n%C'
+AM	zip	repo='(37)?\\d{4}'	live='(?:37)?\\d{4}'
+AR	zip	repo='([A-HJ-NP-Z])?\\d{4}([A-Z]{3})?'	live='[A-HJ-NP-Z]\\d{4}[A-Z]{3}'
+AR	state_name_type	repo='state'	live=None
+AR	sub_keys	differ
+AS	zip	repo='96799'	live='(96799)(?:[ \\-](\\d{4}))?'
+AU	locality_name_type	repo=None	live='suburb'
+AU	sub_keys	differ
+BB	fmt	repo=None	live='%N%n%O%n%A%n%C, %S %Z'
+BB	zip	repo='(BB\\d{5})?'	live='BB\\d{5}'
+BB	languages	repo=None	live='en'
+BB	sub_keys	differ
+BH	zip	repo='((\\d|1[0-2])\\d{2})?'	live='(?:^|\\b)(?:1[0-2]|[1-9])\\d{2}(?:$|\\b)'
+BM	zip	repo='[A-Z]{2}[ ]?[A-Z0-9]{2}'	live='[A-Z]{2} ?[A-Z0-9]{2}'
+BN	zip	repo='[A-Z]{2}[ ]?\\d{4}'	live='[A-Z]{2} ?\\d{4}'
+BR	fmt	repo='%O%n%N%n%A%n%C-%S%n%Z'	live='%O%n%N%n%A%n%D%n%C-%S%n%Z'
+BR	zip	repo='\\d{5}[\\-]?\\d{3}'	live='\\d{5}-?\\d{3}'
+BR	sublocality_name_type	repo=None	live='neighborhood'
+BS	sub_keys	differ
+BT	fmt	repo=None	live='%N%n%O%n%A%n%C %Z'
+BY	fmt	repo='%S%n%Z %C %X%n%A%n%O%n%N'	live='%O%n%N%n%A%n%Z, %C%n%S'
+BY	zipex	repo='20050,223016,225860,220050'	live='223016,225860,220050'
+BY	languages	repo=None	live='be~ru'
+BY	sub_keys	differ
+CA	zip	repo='[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z][ ]?\\d[ABCEGHJ-NPRSTV-Z]\\d'	live='[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d'
+CC	zipex	repo=None	live='6799'
+CD	fmt	repo='%N%n%O%n%A%n%C %X'	live=None
+CH	languages	repo='de~fr~it'	live=None
+CH	sub_keys	differ
+CK	fmt	repo='%N%n%O%n%A%n%C %Z'	live=None
+CK	zip	repo='\\d{4}'	live=None
+CL	zipex	repo='8340457,8720019,1230000,8329100,8720019'	live='8340457,8720019,1230000,8329100'
+CL	state_name_type	repo='state'	live=None
+CL	sub_keys	differ
+CN	languages	repo='zh-hans'	live='zh'
+CO	fmt	repo='%N%n%O%n%A%n%C, %S'	live='%N%n%O%n%A%n%D%n%C, %S, %Z'
+CO	require	repo=None	live='AS'
+CO	state_name_type	repo=None	live='department'
+CO	languages	repo=None	live='es'
+CO	sub_keys	differ
+CR	fmt	repo='%N%n%O%n%A%n%Z %C'	live='%N%n%O%n%A%n%S, %C%n%Z'
+CR	require	repo=None	live='ACS'
+CR	languages	repo=None	live='es'
+CR	sub_keys	differ
+CU	fmt	repo=None	live='%N%n%O%n%A%n%C %S%n%Z'
+CU	zip	repo=None	live='\\d{5}'
+CU	zipex	repo=None	live='10700'
+CU	languages	repo=None	live='es'
+CU	sub_keys	differ
+CV	sub_keys	differ
+CX	zipex	repo=None	live='6798'
+CZ	require	repo=None	live='ACZ'
+CZ	zip	repo='\\d{3}[ ]?\\d{2}'	live='\\d{3} ?\\d{2}'
+DK	fmt	repo='%O%n%N%n%A%n%Z %C'	live='%N%n%O%n%A%n%Z %C'
+EC	zip	repo='([A-Z]\\d{4}[A-Z]|(?:[A-Z]{2})?\\d{6})?'	live='\\d{6}'
+EC	zipex	repo='EC090112,090105,H0103C,P0133B,P0133A,P0133V'	live='090105,092301'
+EE	fmt	repo='%N%n%O%n%A%n%Z %C'	live='%N%n%O%n%A%n%Z %C %S'
+EE	require	repo=None	live='ACZ'
+EE	zipex	repo='69501,11212,1001'	live='69501,11212'
+EE	languages	repo=None	live='et'
+EE	sub_keys	differ
+EG	zip	repo='\\d{5}'	live='\\d{7}|\\d{5}'
+EG	zipex	repo='12411,11599'	live='4460232,5734356'
+EG	sub_keys	differ
+ES	languages	repo='es'	live='es~ca~gl~eu'
+ES	sub_keys	differ
+FK	fmt	repo='%N%n%O%n%A%n%X%n%C%n%Z'	live='%N%n%O%n%A%n%C%n%Z'
+FM	zip	repo='(9694[1-4])([ \\-]\\d{4})?'	live='(9694[1-4])(?:[ \\-](\\d{4}))?'
+FM	languages	repo=None	live='en'
+FM	sub_keys	differ
+FR	fmt	repo='%O%n%N%n%A%n%Z %C %X'	live='%O%n%N%n%A%n%Z %C'
+FR	zip	repo='\\d{2}[ ]?\\d{3}'	live='\\d{2} ?\\d{3}'
+GB	fmt	repo='%N%n%O%n%A%n%C%n%S%n%Z'	live='%N%n%O%n%A%n%C%n%Z'
+GB	zip	repo='GIR[ ]?0AA|((AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(\\d[\\dA-Z]?[ ]?\\d[ABD-HJLN-UW-Z]{2}))|BFPO[ ]?\\d{1,4}'	live='GIR ?0AA|(?:(?:AB|AL|B|BA|BB|BD|BF|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(?:\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\\d{1,4}'
+GB	zipex	repo='EC1Y 8SY,GIR 0AA,M2 5BQ,M34 4AB,CR0 2YR,DN16 9AA,W1A 4ZZ,EC1A 1HQ,OX14 4PG,BS18 8HF,NR25 7HG,RH6 OHP,BH23 6AA,B6 5BA,RH6 0HP,SO23 9AP,PO1 3AX,BFPO 61'	live='EC1Y 8SY,GIR 0AA,M2 5BQ,M34 4AB,CR0 2YR,DN16 9AA,W1A 4ZZ,EC1A 1HQ,OX14 4PG,BS18 8HF,NR25 7HG,RH6 0NP,BH23 6AA,B6 5BA,SO23 9AP,PO1 3AX,BFPO 61'
+GB	state_name_type	repo='county'	live=None
+GB	locality_name_type	repo=None	live='post_town'
+GG	fmt	repo='%N%n%O%n%A%n%X%n%C%nGUERNSEY%n%Z'	live='%N%n%O%n%A%n%C%nGUERNSEY%n%Z'
+GG	zip	repo='GY\\d[\\dA-Z]?[ ]?\\d[ABD-HJLN-UW-Z]{2}'	live='GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}'
+GI	fmt	repo='%N%n%O%n%A'	live='%N%n%O%n%A%nGIBRALTAR%n%Z'
+GS	fmt	repo='%N%n%O%n%A%n%X%n%C%n%Z'	live='%N%n%O%n%A%n%n%C%n%Z'
+GU	fmt	repo='%N%n%O%n%A%n%C %S %Z'	live='%N%n%O%n%A%n%C %Z'
+GU	require	repo='ACSZ'	live='ACZ'
+GU	upper	repo='ACNOS'	live='ACNO'
+GU	zip	repo='969([12]\\d|3[12])([ \\-]\\d{4})?'	live='(969(?:[12]\\d|3[12]))(?:[ \\-](\\d{4}))?'
+GU	state_name_type	repo='state'	live=None
+HK	fmt	repo='%S%n%A%n%O%n%N'	live='%S%n%C%n%A%n%O%n%N'
+HK	lfmt	repo='%N%n%O%n%A%n%S'	live='%N%n%O%n%A%n%C%n%S'
+HK	locality_name_type	repo=None	live='district'
+HK	languages	repo='zh-hant~en'	live='zh-Hant~en'
+HK	sub_keys	differ
+HM	zipex	repo=None	live='7050'
+HN	zip	repo='(?:\\d{5})?'	live='\\d{5}'
+HN	zipex	repo=None	live='31301'
+HN	state_name_type	repo=None	live='department'
+HN	languages	repo=None	live='es'
+HN	sub_keys	differ
+HT	fmt	repo='%N%n%O%n%A%nHT%Z %C %X'	live='%N%n%O%n%A%nHT%Z %C'
+HU	require	repo=None	live='ACZ'
+ID	require	repo=None	live='AS'
+ID	state_name_type	repo='district'	live=None
+ID	sub_keys	differ
+IE	fmt	repo='%N%n%O%n%A%n%C%n%S'	live='%N%n%O%n%A%n%D%n%C%n%S%n%Z'
+IE	zip	repo=None	live='[\\dA-Z]{3} ?[\\dA-Z]{4}'
+IE	zipex	repo=None	live='A65 F4E2'
+IE	sublocality_name_type	repo=None	live='townland'
+IE	zip_name_type	repo=None	live='eircode'
+IM	fmt	repo='%N%n%O%n%A%n%X%n%C%n%Z'	live='%N%n%O%n%A%n%C%n%Z'
+IM	zip	repo='IM\\d[\\dA-Z]?[ ]?\\d[ABD-HJLN-UW-Z]{2}'	live='IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}'
+IN	fmt	repo='%N%n%O%n%A%n%C %Z%n%S'	live='%N%n%O%n%A%n%T%n%F%n%L%n%C %Z%n%S'
+IN	zip_name_type	repo=None	live='pin'
+IN	languages	repo='en'	live='en~hi'
+IN	sub_keys	differ
+IO	fmt	repo='%N%n%O%n%A%n%X%n%C%n%Z'	live='%N%n%O%n%A%n%C%n%Z'
+IQ	zipex	repo=None	live='31001'
+IQ	languages	repo=None	live='ar'
+IQ	sub_keys	differ
+IR	languages	repo=None	live='fa'
+IR	sub_keys	differ
+IT	sub_keys	differ
+JE	fmt	repo='%N%n%O%n%A%n%X%n%C%nJERSEY%n%Z'	live='%N%n%O%n%A%n%C%nJERSEY%n%Z'
+JE	zip	repo='JE\\d[\\dA-Z]?[ ]?\\d[ABD-HJLN-UW-Z]{2}'	live='JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}'
+JM	sub_keys	differ
+JP	fmt	repo='〒%Z%n%S%C%n%A%n%O%n%N'	live='〒%Z%n%S%n%A%n%O%n%N'
+JP	lfmt	repo='%N%n%O%n%A%n%C, %S%n%Z'	live='%N%n%O%n%A, %S%n%Z'
+JP	require	repo='ACSZ'	live='ASZ'
+JP	zipex	repo='154-0023,350-1106,951-8073,112-0001,208-0032,231-0012,951-8073'	live='154-0023,350-1106,951-8073,112-0001,208-0032,231-0012'
+KG	fmt	repo='%Z %C %X%n%A%n%O%n%N'	live='%N%n%O%n%A%n%Z %C'
+KH	zip	repo='\\d{5}'	live='\\d{5,6}'
+KH	zipex	repo='12203,14206,12000'	live='120101,120108'
+KN	sub_keys	differ
+KP	LIVE_MISSING	repo has: ['id', 'key', 'name']
+KR	zip	repo='\\d{3}[\\-]\\d{3}'	live='\\d{5}'
+KR	zipex	repo='110-110,699-800'	live='03051'
+KR	sublocality_name_type	repo=None	live='district'
+KY	fmt	repo='%N%n%O%n%A%n%S'	live='%N%n%O%n%A%n%S %Z'
+KY	sub_keys	differ
+KZ	languages	repo=None	live='kk~ru'
+KZ	sub_keys	differ
+LB	zip	repo='(\\d{4}([ ]?\\d{4})?)?'	live='(?:\\d{4})(?: ?(?:\\d{4}))?'
+LI	zip	repo='(948[5-9])|(949[0-7])'	live='948[5-9]|949[0-8]'
+LR	fmt	repo='%N%n%O%n%A%n%Z %C %X'	live='%N%n%O%n%A%n%Z %C'
+LT	fmt	repo='%O%n%N%n%A%nLT-%Z %C'	live='%O%n%N%n%A%nLT-%Z %C %S'
+LT	require	repo=None	live='ACZ'
+LV	fmt	repo='%N%n%O%n%A%n%C, %Z'	live='%N%n%O%n%A%n%S%n%C, %Z'
+LV	require	repo=None	live='ACZ'
+ME	zipex	repo='81257,81258,81258,81217,84314,85366'	live='81257,81258,81217,84314,85366'
+MH	zip	repo='969[67]\\d([ \\-]\\d{4})?'	live='(969[67]\\d)(?:[ \\-](\\d{4}))?'
+MN	fmt	repo='%N%n%O%n%A%n%S %C-%X%n%Z'	live='%N%n%O%n%A%n%C%n%S %Z'
+MN	languages	repo=None	live='mn'
+MN	sub_keys	differ
+MP	zip	repo='9695[012]([ \\-]\\d{4})?'	live='(9695[012])(?:[ \\-](\\d{4}))?'
+MT	zip	repo='[A-Z]{3}[ ]?\\d{2,4}'	live='[A-Z]{3} ?\\d{2,4}'
+MU	zip	repo='(\\d{3}[A-Z]{2}\\d{3})?'	live='\\d{3}(?:\\d{2}|[A-Z]{2}\\d{3})'
+MU	zipex	repo='742CU001'	live='42602'
+MX	require	repo='ACZ'	live='ACSZ'
+MX	sublocality_name_type	repo=None	live='neighborhood'
+MX	sub_keys	differ
+MY	LIVE_MISSING	repo has: ['fmt', 'id', 'key', 'lang', 'languages', 'name', 'posturl', 'require', 'state_name_type', 'sub_isoids', 'sub_keys', 'sub_zipexs', 'sub_zips', 'sublocality_name_type', 'upper', 'zip', 'zipex']
+MZ	fmt	repo='%N%n%O%n%A%n%C'	live='%N%n%O%n%A%n%Z %C%S'
+MZ	languages	repo=None	live='pt'
+MZ	sub_keys	differ
+NA	fmt	repo=None	live='%N%n%O%n%A%n%C%n%Z'
+NA	zip	repo=None	live='\\d{5}'
+NA	zipex	repo=None	live='10001,10017'
+NF	zipex	repo=None	live='2899'
+NG	fmt	repo='%N%n%O%n%A%n%C %Z%n%S'	live='%N%n%O%n%A%n%D%n%C %Z%n%S'
+NG	zip	repo='(\\d{6})?'	live='\\d{6}'
+NG	sub_keys	differ
+NI	sub_keys	differ
+NL	zip	repo='\\d{4}[ ]?[A-Z]{2}'	live='[1-9]\\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z])'
+NO	locality_name_type	repo=None	live='post_town'
+NR	sub_keys	differ
+NZ	fmt	repo='%N%n%O%n%A%n%C %Z'	live='%N%n%O%n%A%n%D%n%C %Z'
+NZ	require	repo='ACZ'	live='ACDZ'
+OM	zip	repo='(PC )?\\d{3}'	live='(?:PC )?\\d{3}'
+PA	languages	repo=None	live='es'
+PA	sub_keys	differ
+PE	fmt	repo=None	live='%N%n%O%n%A%n%C %Z%n%S'
+PE	zip	repo='(?:LIMA \\d|CALLAO 0?)\\d|[0-2]\\d{4}'	live='(?:LIMA \\d{1,2}|CALLAO 0?\\d)|[0-2]\\d{4}'
+PE	locality_name_type	repo=None	live='district'
+PE	languages	repo=None	live='es'
+PE	sub_keys	differ
+PF	zipex	repo=None	live='98709'
+PG	languages	repo=None	live='tpi~en~ho'
+PG	sub_keys	differ
+PH	fmt	repo='%N%n%O%n%A%n%Z %C%n%S'	live='%N%n%O%n%A%n%D, %C%n%Z %S'
+PH	sub_keys	differ
+PK	fmt	repo='%N%n%O%n%A%n%C-%Z'	live='%N%n%O%n%A%n%D%n%C-%Z'
+PN	fmt	repo='%N%n%O%n%A%n%X%n%C%n%Z'	live='%N%n%O%n%A%n%C%n%Z'
+PR	zip	repo='00[679]\\d{2}([ \\-]\\d{4})?'	live='(00[679]\\d{2})(?:[ \\-](\\d{4}))?'
+PR	postprefix	repo='PR'	live='PR '
+PW	zip	repo='969(39|40)'	live='(969(?:39|40))(?:[ \\-](\\d{4}))?'
+PW	languages	repo=None	live='pau~en'
+PW	sub_keys	differ
+PY	zip	repo='\\d{4}'	live='\\d{6}'
+PY	zipex	repo='1536,1538,1209'	live='001001,051103,110407'
+RO	fmt	repo='%N%n%O%n%A%n%Z %C'	live='%N%n%O%n%A%n%Z %S %C'
+RO	require	repo=None	live='ACZ'
+RO	languages	repo=None	live='ro'
+RO	sub_keys	differ
+RU	fmt	repo='%Z %C  %n%A%n%O%n%N'	live='%N%n%O%n%A%n%C%n%S%n%Z'
+RU	lfmt	repo=None	live='%N%n%O%n%A%n%C%n%S%n%Z'
+RU	require	repo='ACZ'	live='ACSZ'
+RU	zipex	repo='125075,247112,103375'	live='247112,103375,188300'
+RU	state_name_type	repo=None	live='oblast'
+RU	languages	repo=None	live='ru'
+RU	sub_keys	differ
+SD	fmt	repo=None	live='%N%n%O%n%A%n%C%n%Z'
+SD	zip	repo=None	live='\\d{5}'
+SD	zipex	repo=None	live='11042,11113'
+SD	locality_name_type	repo=None	live='district'
+SE	zip	repo='\\d{3}[ ]?\\d{2}'	live='\\d{3} ?\\d{2}'
+SE	locality_name_type	repo=None	live='post_town'
+SH	fmt	repo='%N%n%O%n%A%n%X%n%C%n%Z'	live='%N%n%O%n%A%n%C%n%Z'
+SH	zip	repo='(ASCN|STHL) 1ZZ'	live='(?:ASCN|STHL) 1ZZ'
+SI	fmt	repo='%N%n%O%n%A%nSI- %Z %C'	live='%N%n%O%n%A%nSI-%Z %C'
+SJ	locality_name_type	repo=None	live='post_town'
+SK	require	repo=None	live='ACZ'
+SK	zip	repo='\\d{3}[ ]?\\d{2}'	live='\\d{3} ?\\d{2}'
+SO	zip	repo='\\d{5}'	live='[A-Z]{2} ?\\d{5}'
+SO	zipex	repo='09010,11010'	live='JH 09010,AD 11010'
+SR	fmt	repo='%N%n%O%n%A%n%C %X%n%S'	live='%N%n%O%n%A%n%C%n%S'
+SR	sub_keys	differ
+ST	fmt	repo='%N%n%O%n%A%n%C %X'	live=None
+SV	zip	repo='CP [1-3][1-7][0-2]\\d'	live='[1-3][1-7][0-2]\\d'
+SV	zipex	repo='CP 1101'	live='1101'
+SV	sub_keys	differ
+SY	LIVE_MISSING	repo has: ['id', 'key', 'name']
+TC	fmt	repo='%N%n%O%n%A%n%X%n%C%n%Z'	live='%N%n%O%n%A%n%C%n%Z'
+TH	sub_keys	differ
+TR	fmt	repo='%N%n%O%n%A%n%Z %C'	live='%N%n%O%n%A%n%Z %C/%S'
+TR	locality_name_type	repo=None	live='district'
+TR	languages	repo=None	live='tr'
+TR	sub_keys	differ
+TT	fmt	repo=None	live='%N%n%O%n%A%n%C%n%Z'
+TT	zip	repo=None	live='\\d{6}'
+TT	zipex	repo=None	live='500234'
+TV	fmt	repo='%N%n%O%n%A%n%X%n%C%n%S'	live='%N%n%O%n%A%n%C%n%S'
+TV	sub_keys	differ
+TW	zip	repo='\\d{3}(\\d{2})?'	live='\\d{3}(?:\\d{2,3})?'
+TW	locality_name_type	repo=None	live='district'
+TW	languages	repo='zh-hant'	live='zh-Hant'
+TW	sub_keys	differ
+TZ	fmt	repo=None	live='%N%n%O%n%A%n%Z %C'
+TZ	zip	repo='\\d{4}'	live='\\d{4,5}'
+TZ	zipex	repo='6090'	live='6090,34413'
+UA	fmt	repo='%Z %C%n%A%n%O%n%N'	live='%N%n%O%n%A%n%C%n%S%n%Z'
+UA	lfmt	repo=None	live='%N%n%O%n%A%n%C%n%S%n%Z'
+UA	require	repo=None	live='ACZ'
+UA	state_name_type	repo=None	live='oblast'
+UA	languages	repo=None	live='uk'
+UA	sub_keys	differ
+UM	zip	repo=None	live='96898'
+US	fmt	repo='%N%n%O%n%A%n%C %S %Z'	live='%N%n%O%n%A%n%C, %S %Z'
+US	zip	repo='\\d{5}([ \\-]\\d{4})?'	live='(\\d{5})(?:[ \\-](\\d{4}))?'
+UY	sub_keys	differ
+UZ	languages	repo=None	live='uz~ru'
+UZ	sub_keys	differ
+VC	fmt	repo=None	live='%N%n%O%n%A%n%C %Z'
+VE	state_name_type	repo=None	live='state'
+VG	fmt	repo=None	live='%N%n%O%n%A%n%C%n%Z'
+VI	zip	repo='008(([0-4]\\d)|(5[01]))([ \\-]\\d{4})?'	live='(008(?:(?:[0-4]\\d)|(?:5[01])))(?:[ \\-](\\d{4}))?'
+VN	fmt	repo='%N%n%O%n%A%n%C%n%S'	live='%N%n%O%n%A%n%C%n%S %Z'
+VN	lfmt	repo='%N%n%O%n%A%n%C%n%S'	live='%N%n%O%n%A%n%C%n%S %Z'
+VN	require	repo='AC'	live='AS'
+VN	zip	repo='\\d{6}'	live='\\d{5}\\d?'
+VN	zipex	repo='119415,136065,720344'	live='70010,55999'
+VN	sub_keys	differ
+YE	require	repo='AC'	live=None
+ZA	fmt	repo='%N%n%O%n%A%n%C%n%Z'	live='%N%n%O%n%A%n%D%n%C%n%Z'
+ZM	require	repo='AC'	live=None
+ZZ	locality_name_type	repo=None	live='city'
+ZZ	sublocality_name_type	repo=None	live='suburb'

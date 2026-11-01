@@ -1,0 +1,161 @@
+{
+ "country": "PY",
+ "level": "department",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "PY-1",
+   "local": "Concepción",
+   "latin": "Concepción",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-10",
+   "local": "Alto Paraná",
+   "latin": "Alto Paraná",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-11",
+   "local": "Central",
+   "latin": "Central",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-12",
+   "local": "Ñeembucú",
+   "latin": "Ñeembucú",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-13",
+   "local": "Amambay",
+   "latin": "Amambay",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-14",
+   "local": "Canindeyú",
+   "latin": "Canindeyú",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-15",
+   "local": "Presidente Hayes",
+   "latin": "Presidente Hayes",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-16",
+   "local": "Alto Paraguay",
+   "latin": "Alto Paraguay",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-19",
+   "local": "Boquerón",
+   "latin": "Boquerón",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-2",
+   "local": "San Pedro",
+   "latin": "San Pedro",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-3",
+   "local": "Cordillera",
+   "latin": "Cordillera",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-4",
+   "local": "Guairá",
+   "latin": "Guairá",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-5",
+   "local": "Caaguazú",
+   "latin": "Caaguazú",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-6",
+   "local": "Caazapá",
+   "latin": "Caazapá",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-7",
+   "local": "Itapúa",
+   "latin": "Itapúa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-8",
+   "local": "Misiones",
+   "latin": "Misiones",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-9",
+   "local": "Paraguarí",
+   "latin": "Paraguarí",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PY-ASU",
+   "local": "Asunción",
+   "latin": "Asunción",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added PY-1 Concepción",
+  "added PY-10 Alto Paraná",
+  "added PY-11 Central",
+  "added PY-12 Ñeembucú",
+  "added PY-13 Amambay",
+  "added PY-14 Canindeyú",
+  "added PY-15 Presidente Hayes",
+  "added PY-16 Alto Paraguay",
+  "added PY-19 Boquerón",
+  "added PY-2 San Pedro",
+  "added PY-3 Cordillera",
+  "added PY-4 Guairá",
+  "added PY-5 Caaguazú",
+  "added PY-6 Caazapá",
+  "added PY-7 Itapúa",
+  "added PY-8 Misiones",
+  "added PY-9 Paraguarí",
+  "added PY-ASU Asunción"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/pryEn.pdf",
+  "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+  "https://www.iso.org/obp/ui/#iso:code:3166:PY",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "17 departments + Asunción (PY-ASU). Optional in practice; addresses rarely include it."
+}

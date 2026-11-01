@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "ชื่อ",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "นามสกุล",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "ห้อง ชั้น อาคาร ฯลฯ (ไม่บังคับ)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "องค์กร",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "ที่อยู่",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "โทรศัพท์",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "ประเทศ/เขตการปกครอง",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "อำเภอ/เมือง",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "เมืองตามเขตไปรษณีย์",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "แขวง/ตำบล",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "แขวง",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "หมู่บ้าน/ชุมชน",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "อำเภอ",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "ย่านใกล้เคียง",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "พื้นที่",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "ประเทศ",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "แผนก",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "อำเภอ",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "จังหวัด/เมือง",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "เอมิเรต",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "เกาะ",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "แคว้น",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Parish",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "เขตปกครอง",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "จังหวัด",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "จังหวัด/รัฐ",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "รหัสไปรษณีย์",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "รหัสไปรษณีย์",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "รหัส PIN",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "ต้องป้อนข้อมูลในช่องนี้",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ไม่ใช่ค่าที่รู้จักสำหรับฟิลด์นี้",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "ดูเหมือนว่าที่อยู่นี้จะเป็นตู้ไปรษณีย์ โปรดใช้ที่อยู่จริง",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "ไม่รู้จักรูปแบบรหัสไปรษณีย์นี้ ตัวอย่างรหัสไปรษณีย์ที่ถูกต้อง: {EXAMPLE}",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "ไม่รู้จักรูปแบบรหัสไปรษณีย์นี้ ตัวอย่างรหัสไปรษณีย์ที่ถูกต้อง: {EXAMPLE}",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "ดูเหมือนว่ารหัสไปรษณีย์นี้จะไม่ตรงกับที่อยู่นี้",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "ดูเหมือนว่ารหัสไปรษณีย์นี้จะไม่ตรงกับส่วนที่เหลือของที่อยู่นี้",
+  "provenance": "chromium"
+ }
+}

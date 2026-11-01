@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Имя",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Фамилия",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Квартира, офис и т. д. (необязательно)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Организация",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Адрес",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Телефон",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Страна/регион",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Город",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Город",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Пригород",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Таунленд",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Деревня/поселок",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Округ",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Район",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Район",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Округ",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Департамент",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Округ",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Провинция/город",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Эмират",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Остров",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Область",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Округ",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Префектура",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Провинция",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Штат",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Почтовый индекс",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Почтовый индекс",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN-код",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Код Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Это поле должно быть заполнено.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} – недопустимое значение для этого поля.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "В качестве адреса указан абонентский ящик. Укажите фактический адрес.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Недопустимый формат почтового индекса. Пример корректного написания: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Недопустимый формат почтового индекса. Пример корректного написания: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Почтовый индекс не соответствует адресу.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Почтовый индекс не соответствует адресу.",
+  "provenance": "chromium"
+ }
+}

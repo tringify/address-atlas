@@ -1,0 +1,156 @@
+{
+ "fields.first_name": {
+  "value": "Prenume",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Nume",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Apartament, scară, etaj etc. (opțional)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organizație",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Adresă",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Țară/Regiune",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Oraș",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Localitate poștală",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "Suburbie",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Localitate rurală (Irlanda)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland approximated as \"rural locality (Ireland)\"."
+ },
+ "city.village_township": {
+  "value": "Sat/Comună",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Sector",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Chișinău uses \"sector\" for urban districts."
+ },
+ "city.neighborhood": {
+  "value": "Cartier",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Zonă",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Comitat",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Departament",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Raion",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Moldova's second-level unit is the \"raion\"."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirat",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Insulă",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Regiune",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Parohie",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Prefectură",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Provincie",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Stat",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Cod poștal",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Cod poștal",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Cod PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Acest câmp nu poate rămâne necompletat.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "Valoarea {FIELD_VALUE} nu este recunoscută pentru acest câmp.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Se pare că rândul pentru adresă conține o căsuță poștală. Introdu o adresă cu numele străzii sau numărul clădirii.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Acest format de cod poștal nu este recunoscut. Exemplu de cod poștal valid: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Acest format de cod poștal nu este recunoscut. Exemplu de cod poștal valid: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Se pare că acest cod poștal nu se potrivește cu restul adresei.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Se pare că acest cod poștal nu se potrivește cu restul adresei.",
+  "provenance": "curated"
+ }
+}

@@ -1,0 +1,555 @@
+{
+ "country": "TH",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "TH-10",
+   "local": "กรุงเทพมหานคร",
+   "latin": "Krung Thep Maha Nakhon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-11",
+   "local": "สมุทรปราการ",
+   "latin": "Samut Prakan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-12",
+   "local": "นนทบุรี",
+   "latin": "Nonthaburi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-13",
+   "local": "ปทุมธานี",
+   "latin": "Pathum Thani",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-14",
+   "local": "พระนครศรีอยุธยา",
+   "latin": "Phra Nakhon Si Ayutthaya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-15",
+   "local": "อ่างทอง",
+   "latin": "Ang Thong",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-16",
+   "local": "ลพบุรี",
+   "latin": "Lop Buri",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-17",
+   "local": "สิงห์บุรี",
+   "latin": "Sing Buri",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-18",
+   "local": "ชัยนาท",
+   "latin": "Chai Nat",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-19",
+   "local": "สระบุรี",
+   "latin": "Saraburi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-20",
+   "local": "ชลบุรี",
+   "latin": "Chon Buri",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-21",
+   "local": "ระยอง",
+   "latin": "Rayong",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-22",
+   "local": "จันทบุรี",
+   "latin": "Chanthaburi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-23",
+   "local": "ตราด",
+   "latin": "Trat",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-24",
+   "local": "ฉะเชิงเทรา",
+   "latin": "Chachoengsao",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-25",
+   "local": "ปราจีนบุรี",
+   "latin": "Prachin Buri",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-26",
+   "local": "นครนายก",
+   "latin": "Nakhon Nayok",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-27",
+   "local": "สระแก้ว",
+   "latin": "Sa Kaeo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-30",
+   "local": "นครราชสีมา",
+   "latin": "Nakhon Ratchasima",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-31",
+   "local": "บุรีรัมย์",
+   "latin": "Buri Ram",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-32",
+   "local": "สุรินทร์",
+   "latin": "Surin",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-33",
+   "local": "ศรีสะเกษ",
+   "latin": "Si Sa Ket",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-34",
+   "local": "อุบลราชธานี",
+   "latin": "Ubon Ratchathani",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-35",
+   "local": "ยโสธร",
+   "latin": "Yasothon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-36",
+   "local": "ชัยภูมิ",
+   "latin": "Chaiyaphum",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-37",
+   "local": "อำนาจเจริญ",
+   "latin": "Amnat Charoen",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-38",
+   "local": "จังหวัด บึงกาฬ",
+   "latin": "Bueng Kan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-39",
+   "local": "หนองบัวลำภู",
+   "latin": "Nong Bua Lam Phu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-40",
+   "local": "ขอนแก่น",
+   "latin": "Khon Kaen",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-41",
+   "local": "อุดรธานี",
+   "latin": "Udon Thani",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-42",
+   "local": "เลย",
+   "latin": "Loei",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-43",
+   "local": "หนองคาย",
+   "latin": "Nong Khai",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-44",
+   "local": "มหาสารคาม",
+   "latin": "Maha Sarakham",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-45",
+   "local": "ร้อยเอ็ด",
+   "latin": "Roi Et",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-46",
+   "local": "กาฬสินธุ์",
+   "latin": "Kalasin",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-47",
+   "local": "สกลนคร",
+   "latin": "Sakon Nakhon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-48",
+   "local": "นครพนม",
+   "latin": "Nakhon Phanom",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-49",
+   "local": "มุกดาหาร",
+   "latin": "Mukdahan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-50",
+   "local": "เชียงใหม่",
+   "latin": "Chiang Mai",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-51",
+   "local": "ลำพูน",
+   "latin": "Lamphun",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-52",
+   "local": "ลำปาง",
+   "latin": "Lampang",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-53",
+   "local": "อุตรดิตถ์",
+   "latin": "Uttaradit",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-54",
+   "local": "แพร่",
+   "latin": "Phrae",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-55",
+   "local": "น่าน",
+   "latin": "Nan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-56",
+   "local": "พะเยา",
+   "latin": "Phayao",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-57",
+   "local": "เชียงราย",
+   "latin": "Chiang Rai",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-58",
+   "local": "แม่ฮ่องสอน",
+   "latin": "Mae Hong Son",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-60",
+   "local": "นครสวรรค์",
+   "latin": "Nakhon Sawan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-61",
+   "local": "อุทัยธานี",
+   "latin": "Uthai Thani",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-62",
+   "local": "กำแพงเพชร",
+   "latin": "Kamphaeng Phet",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-63",
+   "local": "ตาก",
+   "latin": "Tak",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-64",
+   "local": "สุโขทัย",
+   "latin": "Sukhothai",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-65",
+   "local": "พิษณุโลก",
+   "latin": "Phitsanulok",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-66",
+   "local": "พิจิตร",
+   "latin": "Phichit",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-67",
+   "local": "เพชรบูรณ์",
+   "latin": "Phetchabun",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-70",
+   "local": "ราชบุรี",
+   "latin": "Ratchaburi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-71",
+   "local": "กาญจนบุรี",
+   "latin": "Kanchanaburi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-72",
+   "local": "สุพรรณบุรี",
+   "latin": "Suphan Buri",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-73",
+   "local": "นครปฐม",
+   "latin": "Nakhon Pathom",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-74",
+   "local": "สมุทรสาคร",
+   "latin": "Samut Sakhon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-75",
+   "local": "สมุทรสงคราม",
+   "latin": "Samut Songkhram",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-76",
+   "local": "เพชรบุรี",
+   "latin": "Phetchaburi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-77",
+   "local": "ประจวบคีรีขันธ์",
+   "latin": "Prachuap Khiri Khan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-80",
+   "local": "นครศรีธรรมราช",
+   "latin": "Nakhon Si Thammarat",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-81",
+   "local": "กระบี่",
+   "latin": "Krabi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-82",
+   "local": "พังงา",
+   "latin": "Phangnga",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-83",
+   "local": "ภูเก็ต",
+   "latin": "Phuket",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-84",
+   "local": "สุราษฎร์ธานี",
+   "latin": "Surat Thani",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-85",
+   "local": "ระนอง",
+   "latin": "Ranong",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-86",
+   "local": "ชุมพร",
+   "latin": "Chumphon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-90",
+   "local": "สงขลา",
+   "latin": "Songkhla",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-91",
+   "local": "สตูล",
+   "latin": "Satun",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-92",
+   "local": "ตรัง",
+   "latin": "Trang",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-93",
+   "local": "พัทลุง",
+   "latin": "Phatthalung",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-94",
+   "local": "ปัตตานี",
+   "latin": "Pattani",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-95",
+   "local": "ยะลา",
+   "latin": "Yala",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TH-96",
+   "local": "นราธิวาส",
+   "latin": "Narathiwat",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/thaEn.pdf",
+  "https://www.thailandpost.co.th/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:TH",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "76 changwat + Bangkok (TH-10). TH-S Phatthaya (special administrative city) is left out: addresses there name Chon Buri province."
+}

@@ -1,0 +1,593 @@
+{
+ "BI": {
+  "proposal": {
+   "verdict": "needs_decision",
+   "postal": {
+    "uses": false,
+    "pattern": null,
+    "examples": [],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bdiEn.pdf"
+   },
+   "required": "AC",
+   "layout": "%N%n%O%n%A%n%C%n%S",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "province",
+    "subdivision_list": "issues: no BI entries. The 2025 reform merged 18 provinces into 5 (Bujumbura, Buhumuza, Burunga, Butanyerera, Gitega) and 119 communes into 42. ISO 3166-2:BI still lists the 18 old provinces, and no ISO codes exist yet for the new ones"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "add a province line: the UPU sheet (11/2025) writes 'BP 57 / MUYINGA (commune) / BUHUMUZA (province)'; live uses the default layout with no %S"
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bdiEn.pdf",
+    "https://en.wikipedia.org/wiki/Provinces_of_Burundi",
+    "https://geo-ref.net/en/bdi.htm"
+   ],
+   "confidence": "low",
+   "notes": "Decision needed: which codes to use for the 5 new provinces before ISO publishes them (geo-ref.net uses temporary BI-1..BI-5), or leave %S as free text. There is no postal-code system; mail is mostly to P.O. Boxes."
+  },
+  "checker": {
+   "agree": false,
+   "field_disagreements": {
+    "required": "ACS. UPU 11/2025 prints BP, then the commune, then the province on every sample (MUKAZA / BUJUMBURA and MUYINGA / BUHUMUZA). There is no postcode."
+   },
+   "checked_sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bdiEn.pdf",
+    "https://assemblee.bi/wp-content/uploads/2024/01/n%C2%B05-du-16-mars-2023.pdf",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "notes": "Recommendation: keep no postcode (UPU Sep 2025 'does not require' list agrees) and layout %N%n%O%n%A%n%C%n%S, with the BP in %A and the commune in %C. Require the province. Loi organique n° 1/05 du 16 mars 2023 names exactly five provinces: Buhumuza, Bujumbura, Burunga, Butanyerera, Gitega. Use those names as free text. Do not adopt temporary BI-1..BI-5; ISO 3166-2:BI still has the old 18 provinces and has not published codes for the new ones."
+  }
+ },
+ "CR": {
+  "proposal": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{5}",
+    "examples": [
+     "10101",
+     "10102",
+     "40501",
+     "40601",
+     "20101"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/criEn.pdf"
+   },
+   "required": "ACS",
+   "layout": "%N%n%O%n%A%n%S, %C%n%Z",
+   "dropped_tokens": {
+    "%D": "District (distrito): UPU writes 'Province, Canton, District' on one line. The 5-digit postcode identifies the district uniquely, so leaving %D out is low risk when Z is given."
+   },
+   "province": {
+    "named": true,
+    "kind": "province",
+    "subdivision_list": "issues: no CR entries in subdivisions.tsv, yet live has %S required. Missing all 7 provinces: CR-A Alajuela, CR-C Cartago, CR-G Guanacaste, CR-H Heredia, CR-L Limón, CR-P Puntarenas, CR-SJ San José."
+   },
+   "labels": {
+    "city": "canton",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "zip: live '\\d{4,5}|\\d{3}-\\d{4}' accepts obsolete 4-digit and apartado-style codes. Current codes are 5 digits (province digit, 2-digit canton, 2-digit district). For P.O. boxes, UPU writes 'box-postcode' ('3017-40601'); the box number belongs in the address line.",
+    "zipex: '1000,2010,1001' are obsolete 4-digit examples; replace with 5-digit ones."
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/criEn.pdf",
+    "https://correos.go.cr/codigo-postal/",
+    "https://en.wikipedia.org/wiki/Postal_codes_in_Costa_Rica"
+   ],
+   "confidence": "high",
+   "notes": "Postcode recommended but not required (live does not require it; addresses commonly use landmarks)."
+  },
+  "checker": {
+   "agree": false,
+   "field_disagreements": {
+    "layout": "%N%n%O%n%A%n%S, %C, %D%n%Z. UPU 04/2009 writes province, canton and district on one line (Heredia, San Rafael, San Rafael) and the 5-digit code below. %S, %C drops the district.",
+    "required": "ACSZ. Costa Rica is on the Aug 2026 require-postal-codes list, and the 5-digit code is what identifies the district (province + canton + district). Requiring S and C but neither D nor Z leaves the district out."
+   },
+   "checked_sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/criEn.pdf",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "notes": "Pattern \\d{5} is right. 3017-40601 on the sheet is box number 3017 plus code 40601, not a \\d{3}-\\d{4} postcode. Examples 40501, 40601 and 10102 are on the sheet. subdivisions.tsv really has no CR rows; the seven provinces are CR-A, CR-C, CR-G, CR-H, CR-L, CR-P, CR-SJ. Kind province and city label canton are right."
+  }
+ },
+ "EG": {
+  "proposal": {
+   "verdict": "needs_decision",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{7}|\\d{5}",
+    "examples": [
+     "3759914",
+     "1062261",
+     "4460232",
+     "11599"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/egyEn.pdf"
+   },
+   "required": "AC",
+   "layout": "%N%n%O%n%A%n%C%n%S%n%Z",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "governorate",
+    "subdivision_list": "complete (27 governorates)"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "Pattern: Egypt Post's UPU sheet (07/2023) shows only 7-digit codes; the 7-digit system was completed in 2020. Live still accepts legacy 5-digit codes. Decide: strict '\\d{7}' (official) or keep '\\d{7}|\\d{5}' while old codes stay in circulation (recommended for input).",
+    "state_name_type: 'governorate' (محافظة) instead of the default 'province'; not in Google's enum.",
+    "required: every UPU example includes the province (governorate) line; consider ACS."
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/egyEn.pdf",
+    "https://www.egyptpost.org/",
+    "https://postandparcel.info/119714/news/e-commerce/egypt-post-completes-postcode-project"
+   ],
+   "confidence": "low",
+   "notes": "Layout matches UPU: locality, then province, then postcode, each on its own line."
+  },
+  "checker": {
+   "agree": false,
+   "field_disagreements": {
+    "required": "ACS. Every 07/2023 example has a governorate line (GIZA, NEW VALLEY, CAIRO), including the P.O. Box example. Do not require Z: that P.O. Box example has no postcode."
+   },
+   "checked_sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/egyEn.pdf",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "notes": "Recommendation: keep pattern \\d{7}|\\d{5}. The 07/2023 sheet illustrates only 7-digit codes (3759914, 1062261), but the Aug 2026 database still lists Egypt at both 5 and 7 digits. Prefer 7 digits when displaying a new address. Layout locality / governorate / postcode and kind governorate (27) match the sheet and ISO 3166-2:EG. 11599 is a legacy 5-digit example, not on the 2023 sheet."
+  }
+ },
+ "GY": {
+  "proposal": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{7}",
+    "examples": [
+     "2210201",
+     "4130105"
+    ],
+    "source": "https://guypost.gy/?p=3415"
+   },
+   "required": "AC",
+   "layout": "%N%n%O%n%A%n%C%n%S%n%Z",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "region",
+    "subdivision_list": "issues: empty; Guyana has 10 administrative regions (ISO GY-BA, GY-CU, GY-DE, GY-EB, GY-ES, GY-MA, GY-PM, GY-PT, GY-UD, GY-UT) which GPOC's address sample writes on their own line"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "Live has no data. Added 7-digit postcodes: Guyana Post Office Corporation publishes 7-digit codes (region, locality, district, post office [2], sub-locality [2]) with a lookup tool, and UPU (Aug 2026) lists Guyana as 9999999 among countries that require postal codes.",
+    "Layout from GPOC's sample: name / street / town & area / region / postcode / GUYANA."
+   ],
+   "sources": [
+    "https://guypost.gy/?p=3415",
+    "https://guypost.gy/find-your-postcode",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+    "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GY"
+   ],
+   "confidence": "low",
+   "notes": "GPOC does not say whether the postcode is mandatory; I kept it optional (required AC). Whether people actually use it is unconfirmed, and many commercial sources still say Guyana has no postcodes. Needs owner sign-off before %Z is shown."
+  },
+  "checker": {
+   "agree": false,
+   "field_disagreements": {
+    "layout": "%N%n%O%n%A%n%C%n%Z. UPU 08/2025 lines are name, street, sub-locality, locality, postcode, country. Examples put 4130106 and 4130105 after Georgetown and do not print a region line. The region is a component of the 7-digit code.",
+    "province.named": "false. The ten administrative regions are real, but the 2025 GPOC/UPU format does not write them. A subdivision list is not needed for the envelope.",
+    "required": "ACZ. Guyana is on the Aug 2026 require-postal-codes list (format 9999999), and the 08/2025 format gives the postcode its own line."
+   },
+   "checked_sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/guyEn.pdf",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "notes": "Pattern \\d{7} is right (4130106, 4212501, 4130105, 4131519). 2210201 is not on the sheet. One P.O. Box sample is printed as 6-digit 413018, which conflicts with the '7 digits' heading and the other examples; do not widen the pattern for it. Recommendation: show %Z, do not show a region dropdown."
+  }
+ },
+ "KI": {
+  "proposal": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "KI\\d{4}",
+    "examples": [
+     "KI0104",
+     "KI0999"
+    ],
+    "source": "https://micttd.gov.ki/postal/kiribati-new-post-codes"
+   },
+   "required": "ACZ",
+   "layout": "%N%n%O%n%A%n%S%n%C%n%Z",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "island",
+    "subdivision_list": "complete (none needed; islands are free text)"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "Live has no postcode. Added KI + 4 digits: Kiribati Post introduced postcodes and, per USPS (Postal Bulletin 22558), every item must carry one from 30 Sep 2020. UPU (Aug 2026) lists Kiribati as AA9999 with the ISO prefix.",
+    "%Z appended as the last line before the country; placement is my assumption (no official addressing sample found)."
+   ],
+   "sources": [
+    "https://about.usps.com/postal-bulletin/2020/pb22558/html/updt_002.htm",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+    "https://datahub.io/logistics/postal-codes-ki",
+    "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KI"
+   ],
+   "confidence": "low",
+   "notes": "The official code list (micttd.gov.ki) could not be loaded (TLS certificate error). The examples come from secondary datasets. Whether the postcode should be required (Z) needs confirming."
+  },
+  "checker": {
+   "agree": false,
+   "field_disagreements": {
+    "layout": "%N%n%O%n%A%n%C%n%S %Z. MICT and UPU 10/2020: the code is written to the right of the island ('Butaritari KI0102', 'Sth Tarawa KI0107'), with the village or town on the line above. The proposed island / city / code-alone order does not match.",
+    "postal.examples": "KI0104, KI0107, KI0102, KI0303. KI0104 is Abaiang on the MICT list of 37 codes. KI0999 is not on that list.",
+    "required": "ACSZ. The island line carries the postcode, and USPS (from 30 Sep 2020) says every item must bear one."
+   },
+   "checked_sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/kirEn.pdf",
+    "https://mict.gov.ki/postal/kiribati-new-post-codes",
+    "https://about.usps.com/postal-bulletin/2020/pb22558/html/updt_002.htm"
+   ],
+   "notes": "Pattern KI\\d{4} matches the published 'KI' plus four digits. The ministry list is KI0101–KI0121, KI0201–KI0208 and KI0301–KI0308."
+  }
+ },
+ "KZ": {
+  "proposal": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{6}|[A-Z]\\d{2}[A-Z]\\d[A-Z]\\d",
+    "examples": [
+     "R00H5A9",
+     "D03K5Y2",
+     "050012",
+     "040900"
+    ],
+    "source": "https://post.kz/postcode"
+   },
+   "required": "AC",
+   "layout": "%Z%n%S%n%C%n%A%n%O%n%N",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "region (oblys) / city of republican significance",
+    "subdivision_list": "issues: empty in subdivisions.tsv. Live has 20 entries with the numeric ISO codes adopted in Nov 2022 (KZ-10 Abai, 11, 15, 19, 23, 27, 31, 33 Jetisu, 35, 39, 43, 47, 55, 59, 61, 62 Ulytau, 63, 71 Astana, 75 Almaty, 79 Shymkent); the old letter codes (KZ-ALA, KZ-AST…) are obsolete"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "zip \\d{6} -> \\d{6}|[A-Z]\\d{2}[A-Z]\\d[A-Z]\\d. Kazpost introduced 7-character building-level postcodes (A99A9A9, e.g. R00H5A9) and asked foreign posts to use them (USPS IMM revision effective 15 Jun 2023). UPU lists both 999999 and A99A9A9. The old 6-digit codes are still in parallel use, so both must validate."
+   ],
+   "sources": [
+    "https://about.usps.com/postal-bulletin/2023/pb22626/html/updt_002.htm",
+    "https://post.kz/postcode",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+    "https://en.wikipedia.org/wiki/ISO_3166-2:KZ",
+    "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KZ"
+   ],
+   "confidence": "high",
+   "notes": "Per USPS, the new codes cover 22 localities so far, so many places only have 6-digit codes."
+  },
+  "checker": {
+   "agree": false,
+   "field_disagreements": {
+    "layout": "%N%n%O%n%A%n%Z, %C, with raion then oblast only on rural mail (%D%n%S after the locality). UPU 07/2025, submitted with Kazpost examples, is name, street, then 'Z00Y5M3, g. ASTANA' or '010013, g. Astana'. Rural mail adds the raion and the oblast under that line. The reversed '%Z%n%S%n%C%n%A%n%O%n%N' is the old domestic order, not this sheet."
+   },
+   "checked_sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/kazEn.pdf",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "notes": "The pattern is right: the sheet says both systems coexist, and the format table lists 999999 and A99A9A9. UPU examples use shapes such as Z00Y5M7, L16T0H2, 010013 and 040905; R00H5A9 and D03K5Y2 match the new shape but are not on the sheet. The 20 numeric ISO codes in the note (KZ-10, 11, 15, 19, 23, 27, 31, 33, 35, 39, 43, 47, 55, 59, 61, 62, 63, 71, 75, 79) match the live list. subdivisions.tsv has no KZ rows. The UPU glossary swaps oblast and raion; oblast is the region."
+  }
+ },
+ "MS": {
+  "proposal": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "MSR ?\\d{4}",
+    "examples": [
+     "MSR1110",
+     "MSR1210",
+     "MSR1350"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/msrEn.pdf"
+   },
+   "required": "AC",
+   "layout": "%N%n%O%n%A%n%C, %Z",
+   "dropped_tokens": {},
+   "province": {
+    "named": false,
+    "kind": null,
+    "subdivision_list": "n/a (no province in addresses; tsv has no rows, none needed)"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "Live has no data for MS. UPU sheet 06/2026: postcode 'MSR' + 4 digits after the locality ('Olveston, MSR1350'). Add zip 'MSR ?\\d{4}', zipex and fmt '%N%n%O%n%A%n%C, %Z'."
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/msrEn.pdf"
+   ],
+   "confidence": "high",
+   "notes": "Full code range not published; 1110-1350 are the extremes seen in UPU examples, so the pattern is kept at any 4 digits. Z kept optional pending evidence it is mandatory."
+  },
+  "checker": {
+   "agree": false,
+   "field_disagreements": {
+    "required": "ACZ. The 06/2026 sheet puts MSR plus 4 digits on every example (Olveston, MSR1350; Davy Hill Sub Post Office, MSR1210; Brades, MSR1110), and Montserrat is on the Aug 2026 require list."
+   },
+   "checked_sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/msrEn.pdf",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "notes": "Pattern MSR ?\\d{4}, those three examples, and layout %C, %Z are right. No parish line. The full numeric range is not published; any 4 digits is the right width."
+  }
+ },
+ "NA": {
+  "proposal": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "(?:1\\d|2[0-3])0\\d{2}",
+    "examples": [
+     "10005",
+     "13001",
+     "15002",
+     "12004"
+    ],
+    "source": "https://web.archive.org/web/20190330094532/https://www.nampost.com.na/uploads/documents/cd93d1d6a58287b5b1e5739815c6c628baa1e657.pdf"
+   },
+   "required": "AC",
+   "layout": "%N%n%O%n%A%n%C%n%Z",
+   "dropped_tokens": {},
+   "province": {
+    "named": false,
+    "kind": null,
+    "subdivision_list": "n/a (no province in addresses; tsv has no rows, none needed) (regions encoded in postcode, not written)"
+   },
+   "labels": {
+    "city": "post_town",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "zip: tighten live '\\d{5}' to '(?:1\\d|2[0-3])0\\d{2}' (2-digit region 10-23 + '0' + office) per NamPost's 2018 list.",
+    "zipex: live 10001 is NamPost's Parcel Depot and 10017 Ausspannplatz (both Windhoek) - not representative; use 10005 Windhoek, 13001 Swakopmund."
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/namEn.pdf",
+    "https://web.archive.org/web/20190330094532/https://www.nampost.com.na/uploads/documents/cd93d1d6a58287b5b1e5739815c6c628baa1e657.pdf"
+   ],
+   "confidence": "low",
+   "notes": "UPU sheet (09/2018) numbering differs from NamPost's updated list (e.g. Walvis Bay 13001 in UPU vs 13013 in NamPost); NamPost list preferred. nampost.com.na unreachable, only archived copy read. Layout: post office name line then postcode alone on the next line (live matches)."
+  },
+  "checker": {
+   "agree": false,
+   "field_disagreements": {
+    "required": "ACZ. NamPost's postcode list says 'always use a Post Code', and Namibia is on the Aug 2026 require list. The 09/2018 UPU sheet still describes a fallback that puts the town on the postcode line when the code is missing; the operator's own later list is the stricter rule."
+   },
+   "checked_sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/namEn.pdf",
+    "https://web.archive.org/web/20190330094532/https://www.nampost.com.na/uploads/documents/cd93d1d6a58287b5b1e5739815c6c628baa1e657.pdf"
+   ],
+   "notes": "Pattern (?:1\\d|2[0-3])0\\d{2} matches the NamPost list: region 10-23, then 0, then the office. Examples 10005 Windhoek, 13001 Swakopmund, 15002 Ondangwa and 12004 Okahandja are on that list. UPU 09/2018 differs (it has Swakopmund 13004 and Walvis Bay 13001; NamPost has Swakopmund 13001 and Walvis Bay 13013). Prefer NamPost. Layout is post-office name, then the code alone. Regions are not written. The UPU sheet says so explicitly."
+  }
+ },
+ "PE": {
+  "proposal": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "(?:0[1-9]|1\\d|2[0-5])\\d{3}",
+    "examples": [
+     "15074",
+     "15001",
+     "04001",
+     "07001",
+     "08002"
+    ],
+    "source": "https://www.codigopostal.gob.pe/"
+   },
+   "required": "ACZ",
+   "layout": "%N%n%O%n%A%n%C %Z%n%S",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "region (department)",
+    "subdivision_list": "complete (25 regions + Lima Metropolitana PE-LMA = 26, matches ISO and live)"
+   },
+   "labels": {
+    "city": "district",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "zip: drop legacy 'LIMA nn'/'CALLAO n' alternatives and limit the first two digits to department 01-25. National 5-digit codes (first 2 digits = department, per UPU list 01 Amazonas..25 Ucayali) replaced the old Lima/Callao zone numbers.",
+    "zipex: replace 'LIMA 23,LIMA 42,CALLAO 2' with real 5-digit codes"
+   ],
+   "sources": [
+    "https://www.codigopostal.gob.pe/",
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/perEn.pdf"
+   ],
+   "confidence": "high",
+   "notes": "UPU example: 'Av. Larco 1301, Miraflores' / 15074 / LIMA (province). Our %C = district. Postcode is not printed on many local letters; keep Z required only if the product accepts that. Live layout is fine."
+  },
+  "checker": {
+   "agree": false,
+   "field_disagreements": {
+    "layout": "%N%n%O%n%A, %C%n%Z%n%S. UPU 01/2013 writes 'Av. Larco 1301, Miraflores' then the postcode alone (15074) then the department (LIMA). The district is on the street line, not beside the postcode."
+   },
+   "checked_sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/perEn.pdf",
+    "https://www.codigopostal.gob.pe/",
+    "https://www.iso.org/obp/ui/#iso:code:3166:PE"
+   ],
+   "notes": "Department numbers 01–25 on the sheet match the proposed pattern, including 07 Callao and 15 Lima. 15074 is the worked example; 15082 is the contact code. ISO has 25 regions plus PE-LMA; Lima Metropolitana is not a 26th postal prefix. %C as district matches the UPU sub-locality."
+  }
+ },
+ "RO": {
+  "proposal": {
+   "verdict": "needs_decision",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{6}",
+    "examples": [
+     "060274",
+     "061357",
+     "200716"
+    ],
+    "source": "https://www.posta-romana.ro/"
+   },
+   "required": "ACZ",
+   "layout": "%N%n%O%n%A%n%Z %C%n%S",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "county (județ)",
+    "subdivision_list": "issues: subdivisions.tsv has no RO rows. Live has 41 counties + B (București); ISO 3166-2:RO matches. Add 42 codes."
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "layout: live '%Z %S %C' puts the county between postcode and town. The UPU sheet shows only '060274 BUCHAREST' / '200716 CRAIOVA'. Common practice is '%Z %C' with the county after it or on its own line. Recommend '%Z %C%n%S'."
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/rouEn.pdf",
+    "https://www.posta-romana.ro/"
+   ],
+   "confidence": "low",
+   "notes": "UPU sheet is from 2007 and has no county. Bucharest sector goes on its own line between street and locality ('Sector 6'). Live order looks wrong, but no official Poșta Română guidance was found to confirm the county position, so this needs a decision."
+  },
+  "checker": {
+   "agree": false,
+   "field_disagreements": {
+    "layout": "%N%n%O%n%A%n%Z %C. UPU 10/2007 prints '060274 BUCHAREST', '061357 BUCHAREST' and '200716 CRAIOVA', with the Bucharest sector on the line between the street and the locality. It does not print the county. '%Z %C%n%S' adds a line the sheet does not have."
+   },
+   "checked_sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/rouEn.pdf",
+    "https://www.posta-romana.ro/"
+   ],
+   "notes": "Recommendation: keep pattern \\d{6}, examples 060274, 061357 and 200716, and required ACZ. Put the sector in the street block. Do not add a county line until Poșta Română publishes one; the postcode's leading digits already carry the county. Live has 42 codes (41 counties + București) and subdivisions.tsv has none, which is a list gap, not a format fact. The posta-romana.ro homepage did not state the county position."
+  }
+ },
+ "SO": {
+  "proposal": {
+   "verdict": "live_ok",
+   "postal": {
+    "uses": true,
+    "pattern": "[A-Z]{2} *\\d{5}",
+    "examples": [
+     "JH 09010",
+     "MD 11010",
+     "AD 11010"
+    ],
+    "source": "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions"
+   },
+   "required": "AC",
+   "layout": "%N%n%O%n%A%n%C, %S %Z",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "region",
+    "subdivision_list": "complete (18 regions match ISO 3166-2:SO). Note: postal region letters (AD, GG, HR, JH, MD, …) differ from ISO codes (AW, GA, HI, …). Live sub_keys use the postal letters, isoids the ISO codes."
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "optional: allow 0+ spaces (UPU says two spaces between region code and digits)",
+    "require ACS -> AC: postcode already contains the region; the UPU example 'KISMAYU, JH 09010' has no separate region name"
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/somEn.pdf"
+   ],
+   "confidence": "low",
+   "notes": "The postal system (UPU sheet 2004) is barely working. Somaliland (AW, SL/SO, SA, TO) runs its own post. The verdict stays live_ok because the suggested changes are minor; reviewers may adopt the require change."
+  },
+  "checker": {
+   "agree": false,
+   "field_disagreements": {
+    "layout": "%N%n%O%n%A%n%C, %Z. UPU 09/2004 is 'KISMAYU, JH 09010': the region letters are the first two characters of the postcode, with two spaces before the five digits. %C, %S %Z repeats the region when %Z already matches [A-Z]{2} *\\d{5}."
+   },
+   "checked_sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/somEn.pdf",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "notes": "Required AC is right: Somalia is on the Sep 2025 do-not-require list, and the sample has no separate region name. The 18 region letters on the sheet (AD, BK, BN, BR, BY, GG, GD, HR, JD, JH, MD, NG, SG, SD, SH, SL, TG, WG) match the live keys and are not the ISO codes. Pattern allowing fewer than two spaces is acceptable for input; the written form has two spaces. The 2004 system is what the sheet still specifies."
+  }
+ },
+ "UZ": {
+  "proposal": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{6}",
+    "examples": [
+     "100123",
+     "140101",
+     "100000",
+     "220605"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/uzbEn.pdf"
+   },
+   "required": "AC",
+   "layout": "%N%n%O%n%A%n%Z %C%n%S",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "region",
+    "subdivision_list": "issues: our list has 0 entries but Google live has 14 (AN BU FA JI NG NW QA QR SA SI SU TK TO XO, all ISO); list is missing"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "examples: live zipex 702100/700000 are Soviet-era codes; current codes start 1-2 (Tashkent 100xxx, Samarkand 140xxx)"
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/uzbEn.pdf",
+    "https://uz.post/ru/mening-pochta-indeksim"
+   ],
+   "confidence": "high",
+   "notes": ""
+  },
+  "checker": {
+   "agree": false,
+   "field_disagreements": {
+    "layout": "%N%n%O%n%A%n%Z, %C%n%S. UPU 07/2019 writes '100123, g. Tashkent', '140101, g. Samarkand' and '100000, Tashkent', with a comma after the code. The oblast is a following line only outside the big cities ('220605, Kashkupyrskiy rayon…' then 'Khorezemskaya oblast'). '%Z %C' drops the comma the sheet uses on every sample."
+   },
+   "checked_sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/uzbEn.pdf"
+   ],
+   "notes": "Pattern \\d{6} is right. Examples 100123, 140101, 100000 and 220605 are on the sheet. Live 702100 and 700000 are not. The 14 live codes (AN BU FA JI NG NW QA QR SA SI SU TK TO XO) match the sheet's regions plus Khorezm, which the example uses and the extracted province list missed. subdivisions.tsv has no UZ rows. Tashkent and Samarkand samples omit the region, so S stays optional."
+  }
+ }
+}

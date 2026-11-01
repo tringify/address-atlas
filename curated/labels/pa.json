@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "ਪਹਿਲਾ ਨਾਮ",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "ਆਖਰੀ ਨਾਮ",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "ਅਪਾਰਟਮੈਂਟ, ਸੂਟ ਆਦਿ (ਵਿਕਲਪਿਕ)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "ਕੰਪਨੀ",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "ਗਲੀ ਦਾ ਪਤਾ",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "ਫ਼ੋਨ",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "ਦੇਸ਼ / ਖੇਤਰ",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "ਸ਼ਹਿਰ",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "ਪੋਸਟ ਟਾਊਨ",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "ਉਪ ਨਗਰ",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "ਟਾਊਨਲੈਂਡ",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "ਪਿੰਡ / ਟਾਊਨਸ਼ਿਪ",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "ਜ਼ਿਲਾ",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "ਗਵਾਂਢ",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "ਖੇਤਰ",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "ਕਾਉਂਟੀ",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "ਵਿਭਾਗ",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "ਜ਼ਿਲਾ",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "ਡੋ/ਸੀ",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "ਅਮੀਰਾਤ",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "ਟਾਪੂ",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "ਓਬਲਾਸਟ",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "ਪੈਰਿਸ਼",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "ਪ੍ਰੀਫੈਕਚਰ",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "ਸੂਬਾ",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "ਰਾਜ",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "ਡਾਕ ਕੋਡ",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "ਜ਼ਿਪ ਕੋਡ",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "ਪਿੰਨ ਕੋਡ",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "ਇਅਰਕੋਡ",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "ਤੁਸੀਂ ਇਸ ਨੂੰ ਖਾਲੀ ਨਹੀਂ ਛੱਡ ਸਕਦੇ।",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ਦੀ ਪਛਾਣ ਇਸ ਖੇਤਰ ਲਈ ਇੱਕ ਗਿਆਤ ਮੁੱਲ ਦੇ ਤੌਰ 'ਤੇ ਨਹੀਂ ਹੋਈ ਹੈ।",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "ਇੰਜ ਜਾਪਦਾ ਹੈ ਕਿ ਇਸ ਪਤਾ ਲਾਈਨ ਵਿੱਚ ਇੱਕ ਪੋਸਟ ਆੱਫਿਸ ਬੌਕਸ ਸ਼ਾਮਲ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਗਲੀ ਜਾਂ ਬਿਲਡਿੰਗ ਨੰਬਰ ਵਰਤੋ।",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "ਇਸ ਡਾਕ ਕੋਡ ਫਾਰਮੈਟ ਦੀ ਪਛਾਣ ਨਹੀਂ ਹੋਈ ਹੈ। ਇੱਕ ਪ੍ਰਮਾਣਿਕ ਡਾਕ ਕੋਡ ਦਾ ਉਦਾਹਰਨ ਹੈ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "ਇਸ ਜ਼ਿਪ ਕੋਡ ਫਾਰਮੈਟ ਦੀ ਪਛਾਣ ਨਹੀਂ ਹੋਈ ਹੈ। ਵੈਧ ਜ਼ਿਪ ਕੋਡ ਦਾ ਉਦਾਹਰਨ ਹੈ: {EXAMPLE}।",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "ਇਹ ਡਾਕ ਕੋਡ ਬਾਕੀ ਦੇ ਇਸ ਪਤੇ ਨਾਲ ਮਿਲਦਾ ਨਹੀਂ ਜਾਪਦਾ ਹੈ।",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "ਇਹ ਜ਼ਿਪ ਕੋਡ ਇਸ ਬਾਕੀ ਪਤੇ ਨਾਲ ਮੇਲ ਖਾਂਦਾ ਨਹੀਂ ਜਾਪਦਾ ਹੈ।",
+  "provenance": "chromium"
+ }
+}

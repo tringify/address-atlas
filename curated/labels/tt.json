@@ -1,0 +1,168 @@
+{
+ "fields.first_name": {
+  "value": "Исем",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Фамилия",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Фатир, кат һ.б. (мәҗбүри түгел)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Оешма",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Урам адресы",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Телефон",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Ил / төбәк",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Шәһәр",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Почта шәһәре",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tatar (Cyrillic); wording not verified against a Tatar form"
+ },
+ "city.suburb": {
+  "value": "Шәһәр читендәге бистә",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tatar (Cyrillic); wording not verified against a Tatar form"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Tatar equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Авыл / бистә",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Район",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Микрорайон",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Төбәк",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Округ",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Департамент",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Район",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "До/Си",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Әмирлек",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Утрау",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Өлкә",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Мәхәллә",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Префектура",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Провинция",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Штат",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Почта индексы",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "ZIP-код",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "PIN-код",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Бу кырны буш калдырып булмый.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} бу кыр өчен билгеле кыйммәт буларак танылмады.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tatar (Cyrillic); wording not verified against a Tatar form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Бу адрес юлында почта тартмасы бар кебек. Зинһар, урам яки бина адресын күрсәтегез.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tatar (Cyrillic); wording not verified against a Tatar form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Бу почта индексы форматы танылмады. Дөрес почта индексы үрнәге: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tatar (Cyrillic); wording not verified against a Tatar form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Бу ZIP-код форматы танылмады. Дөрес ZIP-код үрнәге: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tatar (Cyrillic); wording not verified against a Tatar form"
+ },
+ "messages.postal_mismatch": {
+  "value": "Бу почта индексы адресның калган өлешенә туры килми кебек.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tatar (Cyrillic); wording not verified against a Tatar form"
+ },
+ "messages.zip_mismatch": {
+  "value": "Бу ZIP-код адресның калган өлешенә туры килми кебек.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Tatar (Cyrillic); wording not verified against a Tatar form"
+ }
+}

@@ -1,0 +1,3238 @@
+{
+  "_schema": {
+    "description": "Rule that turns typed input into the country's standard written postal code. Countries come from libaddressinput countryinfo.txt (commit in sources/libaddressinput/COMMIT).",
+    "procedure": [
+      "1. Remove every character in `strip` from the input (compact form).",
+      "2. If `uppercase`, convert to upper case.",
+      "3. If the compact form does not fit the pattern after formatting and `prefix.strip_if_typed`, remove a leading prefix (prefix text with `strip` characters removed, case-insensitive) and retry.",
+      "4. Apply every op in `insert`. Positions and conditions are evaluated on the compact string, then all characters are inserted at once.",
+      "5. The result must fully match the libaddressinput `zip` pattern."
+    ],
+    "insert_op": {
+      "after": "int n: insert `char` after the n-th character (counted from the start)",
+      "before_last": "int n: insert `char` before the last n characters",
+      "char": "separator to insert (' ' or '-')",
+      "only_when_length": "optional list of compact lengths; op applies only for these lengths",
+      "only_when_match": "optional regex tested (re.search) on the upper-cased compact string; op applies only when it matches"
+    },
+    "prefix": "null, or {text, status: required|optional, scope, strip_if_typed}. A prefix written on mail in front of the code but NOT part of the libaddressinput pattern; the canonical form excludes it. Letters that the pattern itself contains (AD, BB, LV-, KY, VC, VG...) are part of the code, not a prefix.",
+    "canonical_examples": "zipex values in standard form, same order; zipex values that cannot be valid are moved to `invalid_zipex` with a reason.",
+    "zipex_deviations": "{zipex: {canonical, reason}} for zipex values whose official written form differs from how libaddressinput writes them.",
+    "extra_examples": "typed input -> expected output, from the official source; used for countries without zipex or to test prefixes.",
+    "confidence": "high = rule confirmed by `source`; low = not confirmed or pattern conflicts with source (see notes).",
+    "source": "UPU addressing document for the country (or the parent operator's document when the UPU page refers to it).",
+    "checked_by": "sources/postal/check.py -> logs/postal-check.txt"
+  },
+  "AC": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "ASCN 1ZZ",
+    "zipex": "ASCN 1ZZ",
+    "canonical_examples": [
+      "ASCN 1ZZ"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/shnEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters)."
+  },
+  "AD": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "AD[1-7]0\\d",
+    "zipex": "AD100,AD501,AD700",
+    "canonical_examples": [
+      "AD100",
+      "AD501",
+      "AD700"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/andEn.pdf",
+    "confidence": "high",
+    "notes": "Letters AD are part of the code (UPU: 'AD is a part of the postcode')."
+  },
+  "AF": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1001,2601,3801",
+    "canonical_examples": [
+      "1001",
+      "2601",
+      "3801"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/afgEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: 6 digits (100208); pattern/zipex are 4 digits."
+  },
+  "AI": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": {
+      "text": "AI-",
+      "status": "required",
+      "scope": "UPU: 'with a dash before the numeric part' (AI-2640)",
+      "strip_if_typed": true
+    },
+    "pattern": "2640",
+    "zipex": "2640",
+    "canonical_examples": [
+      "2640"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/aiaEn.pdf",
+    "confidence": "high",
+    "notes": "Prefix is written on mail but is not part of the libaddressinput pattern, so canonical form excludes it."
+  },
+  "AL": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1001,1017,3501",
+    "canonical_examples": [
+      "1001",
+      "1017",
+      "3501"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/albEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "AM": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "(37)?\\d{4}",
+    "zipex": "375010,0002,0010",
+    "canonical_examples": [
+      "375010",
+      "0002",
+      "0010"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/armEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: 4 digits (0002); zipex 375010 is the old Soviet-era 6-digit form, allowed by the pattern '(37)?'."
+  },
+  "AR": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "([A-HJ-NP-Z])?\\d{4}([A-Z]{3})?",
+    "zipex": "C1070AAM,C1000WAM,B1000TBU,X5187XAB",
+    "canonical_examples": [
+      "C1070AAM",
+      "C1000WAM",
+      "B1000TBU",
+      "X5187XAB"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/argEn.pdf",
+    "confidence": "high",
+    "notes": "CPA: 1 letter + 4 digits + 3 letters, no separator (UPU: Y5900FNF). Pattern also accepts the old 4-digit code."
+  },
+  "AS": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "96799",
+    "zipex": "96799",
+    "canonical_examples": [
+      "96799"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf",
+    "confidence": "high",
+    "notes": "US territory using USPS ZIP codes; pattern allows only the 5-digit ZIP, so no ZIP+4 hyphen."
+  },
+  "AT": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1010,3741",
+    "canonical_examples": [
+      "1010",
+      "3741"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/autEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "AU": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "2060,3171,6430,4000,4006,3001",
+    "canonical_examples": [
+      "2060",
+      "3171",
+      "6430",
+      "4000",
+      "4006",
+      "3001"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ausEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "AX": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": {
+      "text": "AX-",
+      "status": "required",
+      "scope": "UPU: 5 digits 'preceded by AX' (AX-22100 MARIEHAMN)",
+      "strip_if_typed": true
+    },
+    "pattern": "22\\d{3}",
+    "zipex": "22150,22550,22240,22710,22270,22730,22430",
+    "canonical_examples": [
+      "22150",
+      "22550",
+      "22240",
+      "22710",
+      "22270",
+      "22730",
+      "22430"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/alaEn.pdf",
+    "confidence": "high",
+    "notes": "Prefix is written on mail but is not part of the libaddressinput pattern, so canonical form excludes it."
+  },
+  "AZ": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": {
+      "text": "AZ",
+      "status": "required",
+      "scope": "UPU: 'ISO country code and 4 digits', no separator (AZ1010 Baku)",
+      "strip_if_typed": true
+    },
+    "pattern": "\\d{4}",
+    "zipex": "1000",
+    "canonical_examples": [
+      "1000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/azeEn.pdf",
+    "confidence": "high",
+    "notes": "Prefix is written on mail but is not part of the libaddressinput pattern, so canonical form excludes it."
+  },
+  "BA": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "71000",
+    "canonical_examples": [
+      "71000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bihEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "BB": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "(BB\\d{5})?",
+    "zipex": "BB23026,BB22025",
+    "canonical_examples": [
+      "BB23026",
+      "BB22025"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/brbEn.pdf",
+    "confidence": "high",
+    "notes": "Letters BB are part of the code (UPU: 'preceded by BB', BB26028), no separator."
+  },
+  "BD": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1340,1000",
+    "canonical_examples": [
+      "1340",
+      "1000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bgdEn.pdf",
+    "confidence": "high",
+    "notes": "UPU writes 'DHAKA – 1340': the dash separates locality and code, not part of the code."
+  },
+  "BE": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "4000,1000",
+    "canonical_examples": [
+      "4000",
+      "1000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/belEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "BG": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1000,1700",
+    "canonical_examples": [
+      "1000",
+      "1700"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bgrEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "BH": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "((\\d|1[0-2])\\d{2})?",
+    "zipex": "317",
+    "canonical_examples": [
+      "317"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bhrEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "BL": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "9[78][01]\\d{2}",
+    "zipex": "97100",
+    "canonical_examples": [
+      "97100"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/blmEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "BM": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 2,
+        "char": " "
+      }
+    ],
+    "prefix": null,
+    "pattern": "[A-Z]{2}[ ]?[A-Z0-9]{2}",
+    "zipex": "FL 07,HM GX,HM 12",
+    "canonical_examples": [
+      "FL 07",
+      "HM GX",
+      "HM 12"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bmuEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 4 alphanumeric characters with a space between the 2nd and 3rd."
+  },
+  "BN": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "[A-Z]{2}[ ]?\\d{4}",
+    "zipex": "BT2328,KA1131,BA1511",
+    "canonical_examples": [
+      "BT2328",
+      "KA1131",
+      "BA1511"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/brnEn.pdf",
+    "confidence": "high",
+    "notes": "Pattern allows a space after the 2 letters; UPU writes BT2328 without one."
+  },
+  "BR": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 5,
+        "char": "-"
+      }
+    ],
+    "prefix": null,
+    "pattern": "\\d{5}[\\-]?\\d{3}",
+    "zipex": "40301-110,70002-900",
+    "canonical_examples": [
+      "40301-110",
+      "70002-900"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/braEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: hyphen between 5th and 6th digits (CEP)."
+  },
+  "BT": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "11001,31101,35003",
+    "canonical_examples": [
+      "11001",
+      "31101",
+      "35003"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/btnEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "BY": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "20050,223016,225860,220050",
+    "canonical_examples": [
+      "223016",
+      "225860",
+      "220050"
+    ],
+    "invalid_zipex": {
+      "20050": "5 digits; Belarus codes are 6 digits (220050 is also listed)"
+    },
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/blrEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "CA": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 3,
+        "char": " "
+      }
+    ],
+    "prefix": null,
+    "pattern": "[ABCEGHJKLMNPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z][ ]?\\d[ABCEGHJ-NPRSTV-Z]\\d",
+    "zipex": "H3Z 2Y7,V8X 3X4,T0L 1K0,T0H 1A0,K1A 0B1",
+    "canonical_examples": [
+      "H3Z 2Y7",
+      "V8X 3X4",
+      "T0L 1K0",
+      "T0H 1A0",
+      "K1A 0B1"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/canEn.pdf",
+    "confidence": "high",
+    "notes": "UPU/Canada Post: ANA NAN with a space between 3rd and 4th characters."
+  },
+  "CC": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "6799",
+    "zipex": "",
+    "canonical_examples": [],
+    "extra_examples": {
+      "6799": "6799"
+    },
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ausEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 'See Australia'. No zipex; Australia Post code 6799 used as the test example."
+  },
+  "CH": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "2544,1211,1556,3030",
+    "canonical_examples": [
+      "2544",
+      "1211",
+      "1556",
+      "3030"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cheEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "CK": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "",
+    "canonical_examples": [],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cokEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU Cook Islands document shows no postcode at all; pattern \\d{4} has no zipex and no official basis."
+  },
+  "CL": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{7}",
+    "zipex": "8340457,8720019,1230000,8329100,8720019",
+    "canonical_examples": [
+      "8340457",
+      "8720019",
+      "1230000",
+      "8329100",
+      "8720019"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/chlEn.pdf",
+    "confidence": "high",
+    "notes": "UPU coding diagram splits '872 0019' but addresses write 8720019 with no space."
+  },
+  "CN": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "266033,317204,100096,100808",
+    "canonical_examples": [
+      "266033",
+      "317204",
+      "100096",
+      "100808"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/chnEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "CO": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "111221,130001,760011",
+    "canonical_examples": [
+      "111221",
+      "130001",
+      "760011"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/colEn.pdf",
+    "confidence": "high",
+    "notes": "UPU coding diagram splits '11 02 21' but addresses write the 6 digits together."
+  },
+  "CR": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 3,
+        "char": "-",
+        "only_when_length": [
+          7
+        ]
+      }
+    ],
+    "prefix": null,
+    "pattern": "\\d{4,5}|\\d{3}-\\d{4}",
+    "zipex": "1000,2010,1001",
+    "canonical_examples": [
+      "1000",
+      "2010",
+      "1001"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/criEn.pdf",
+    "confidence": "low",
+    "notes": "UPU: 5 digits, no separator. The pattern also allows 4 digits and a 7-digit 'NNN-NNNN' form, whose hyphen rule is not confirmed by the official source."
+  },
+  "CV": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "7600",
+    "canonical_examples": [
+      "7600"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cpvEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "CX": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "6798",
+    "zipex": "",
+    "canonical_examples": [],
+    "extra_examples": {
+      "6798": "6798"
+    },
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ausEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 'See Australia'. No zipex; Australia Post code 6798 used as the test example."
+  },
+  "CY": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": {
+      "text": "CY-",
+      "status": "optional",
+      "scope": "UPU: 'preceded by CY- for inbound mail'; domestic example has none (6036 Larnaka)",
+      "strip_if_typed": true
+    },
+    "pattern": "\\d{4}",
+    "zipex": "2008,3304,1900",
+    "canonical_examples": [
+      "2008",
+      "3304",
+      "1900"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cypEn.pdf",
+    "confidence": "high",
+    "notes": "Prefix is written on mail but is not part of the libaddressinput pattern, so canonical form excludes it."
+  },
+  "CZ": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 3,
+        "char": " "
+      }
+    ],
+    "prefix": null,
+    "pattern": "\\d{3}[ ]?\\d{2}",
+    "zipex": "100 00,251 66,530 87,110 00,225 99",
+    "canonical_examples": [
+      "100 00",
+      "251 66",
+      "530 87",
+      "110 00",
+      "225 99"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/czeEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 5 digits with a space between 3rd and 4th digits. Two spaces between code and locality on mail (not part of the code)."
+  },
+  "DE": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "26133,53225",
+    "canonical_examples": [
+      "26133",
+      "53225"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/deuEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "DK": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "8660,1566",
+    "canonical_examples": [
+      "8660",
+      "1566"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/dnkEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "DO": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "11903,10101",
+    "canonical_examples": [
+      "11903",
+      "10101"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/domEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "DZ": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "40304,16027",
+    "canonical_examples": [
+      "40304",
+      "16027"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/dzaEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "EC": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "([A-Z]\\d{4}[A-Z]|(?:[A-Z]{2})?\\d{6})?",
+    "zipex": "EC090112,090105,H0103C,P0133B,P0133A,P0133V",
+    "canonical_examples": [
+      "EC090112",
+      "090105",
+      "H0103C",
+      "P0133B",
+      "P0133A",
+      "P0133V"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ecuEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: 6 digits (090306), no separator; pattern also allows old alphanumeric forms (H0103C, EC090112)."
+  },
+  "EE": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "69501,11212,1001",
+    "canonical_examples": [
+      "69501",
+      "11212"
+    ],
+    "invalid_zipex": {
+      "1001": "4 digits; Estonian codes are 5 digits"
+    },
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/estEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "EG": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "12411,11599",
+    "canonical_examples": [
+      "12411",
+      "11599"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/egyEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: 7 digits; pattern/zipex are 5 digits."
+  },
+  "EH": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "70000,72000",
+    "canonical_examples": [
+      "70000",
+      "72000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/marEn.pdf",
+    "confidence": "high",
+    "notes": "No UPU document for Western Sahara; addresses use Barid Al-Maghrib 5-digit codes (Morocco document)."
+  },
+  "ES": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "28039,28300,28070",
+    "canonical_examples": [
+      "28039",
+      "28300",
+      "28070"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/espEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "ET": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1000",
+    "canonical_examples": [
+      "1000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ethEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "FI": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "00550,00011",
+    "canonical_examples": [
+      "00550",
+      "00011"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/finEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "FK": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "FIQQ 1ZZ",
+    "zipex": "FIQQ 1ZZ",
+    "canonical_examples": [
+      "FIQQ 1ZZ"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/flkEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters)."
+  },
+  "FM": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 5,
+        "char": "-",
+        "only_when_length": [
+          9
+        ]
+      }
+    ],
+    "prefix": null,
+    "pattern": "(9694[1-4])([ \\-]\\d{4})?",
+    "zipex": "96941,96944",
+    "canonical_examples": [
+      "96941",
+      "96944"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf",
+    "confidence": "high",
+    "notes": "US territory using USPS ZIP codes; format from the USA UPU document (territory UPU page only gives the ZIP range)."
+  },
+  "FO": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": {
+      "text": "FO-",
+      "status": "required",
+      "scope": "UPU: 'ISO code alpha-2 (FO) plus 3 digits' (FO-100 Tórshavn)",
+      "strip_if_typed": true
+    },
+    "pattern": "\\d{3}",
+    "zipex": "100",
+    "canonical_examples": [
+      "100"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/froEn.pdf",
+    "confidence": "high",
+    "notes": "Prefix is written on mail but is not part of the libaddressinput pattern, so canonical form excludes it."
+  },
+  "FR": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{2}[ ]?\\d{3}",
+    "zipex": "33380,34092,33506",
+    "canonical_examples": [
+      "33380",
+      "34092",
+      "33506"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/fraEn.pdf",
+    "confidence": "high",
+    "notes": "Pattern allows a space after 2 digits, but La Poste/UPU write 5 digits without a space (33380)."
+  },
+  "GB": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "GIR[ ]?0AA|((AB|AL|B|BA|BB|BD|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(\\d[\\dA-Z]?[ ]?\\d[ABD-HJLN-UW-Z]{2}))|BFPO[ ]?\\d{1,4}",
+    "zipex": "EC1Y 8SY,GIR 0AA,M2 5BQ,M34 4AB,CR0 2YR,DN16 9AA,W1A 4ZZ,EC1A 1HQ,OX14 4PG,BS18 8HF,NR25 7HG,RH6 OHP,BH23 6AA,B6 5BA,RH6 0HP,SO23 9AP,PO1 3AX,BFPO 61",
+    "canonical_examples": [
+      "EC1Y 8SY",
+      "GIR 0AA",
+      "M2 5BQ",
+      "M34 4AB",
+      "CR0 2YR",
+      "DN16 9AA",
+      "W1A 4ZZ",
+      "EC1A 1HQ",
+      "OX14 4PG",
+      "BS18 8HF",
+      "NR25 7HG",
+      "BH23 6AA",
+      "B6 5BA",
+      "RH6 0HP",
+      "SO23 9AP",
+      "PO1 3AX",
+      "BFPO 61"
+    ],
+    "invalid_zipex": {
+      "RH6 OHP": "letter O where the inward code needs digit 0; the correct 'RH6 0HP' is also listed"
+    },
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gbrEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters). BFPO codes are written 'BFPO <n>' (space after BFPO). zipex BS18 8HF is a retired district but still matches the pattern."
+  },
+  "GE": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "0101",
+    "canonical_examples": [
+      "0101"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/geoEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "GF": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "9[78]3\\d{2}",
+    "zipex": "97300",
+    "canonical_examples": [
+      "97300"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gufEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "GG": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "GY\\d[\\dA-Z]?[ ]?\\d[ABD-HJLN-UW-Z]{2}",
+    "zipex": "GY1 1AA,GY2 2BT",
+    "canonical_examples": [
+      "GY1 1AA",
+      "GY2 2BT"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ggyEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters)."
+  },
+  "GI": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "GX11 1AA",
+    "zipex": "GX11 1AA",
+    "canonical_examples": [
+      "GX11 1AA"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gibEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters). UPU: single generic code GX11 1AA."
+  },
+  "GL": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "39\\d{2}",
+    "zipex": "3900,3950,3911",
+    "canonical_examples": [
+      "3900",
+      "3950",
+      "3911"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/dnkEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 'See Denmark'; source is the Denmark document."
+  },
+  "GN": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{3}",
+    "zipex": "001,200,100",
+    "canonical_examples": [
+      "001",
+      "200",
+      "100"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ginEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 3 digits, often followed by a BP (P.O. box) number, which is not part of the code."
+  },
+  "GP": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "9[78][01]\\d{2}",
+    "zipex": "97100",
+    "canonical_examples": [
+      "97100"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/glpEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "GR": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 3,
+        "char": " "
+      }
+    ],
+    "prefix": null,
+    "pattern": "\\d{3} ?\\d{2}",
+    "zipex": "151 24,151 10,101 88",
+    "canonical_examples": [
+      "151 24",
+      "151 10",
+      "101 88"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/grcEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 5 digits with a space between 3rd and 4th digits."
+  },
+  "GS": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "SIQQ 1ZZ",
+    "zipex": "SIQQ 1ZZ",
+    "canonical_examples": [
+      "SIQQ 1ZZ"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sgsEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters)."
+  },
+  "GT": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "09001,01501",
+    "canonical_examples": [
+      "09001",
+      "01501"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gtmEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "GU": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 5,
+        "char": "-",
+        "only_when_length": [
+          9
+        ]
+      }
+    ],
+    "prefix": null,
+    "pattern": "969([12]\\d|3[12])([ \\-]\\d{4})?",
+    "zipex": "96910,96931",
+    "canonical_examples": [
+      "96910",
+      "96931"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf",
+    "confidence": "high",
+    "notes": "US territory using USPS ZIP codes; format from the USA UPU document (territory UPU page only gives the ZIP range)."
+  },
+  "GW": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1000,1011",
+    "canonical_examples": [
+      "1000",
+      "1011"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gnbEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "HM": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "",
+    "canonical_examples": [],
+    "extra_examples": {
+      "7151": "7151"
+    },
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/hmdEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: Uninhabited (UPU); Australia Post postcode 7151 used for Australian Antarctic/HM mail is not confirmed by the UPU document."
+  },
+  "HN": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "(?:\\d{5})?",
+    "zipex": "",
+    "canonical_examples": [],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/hndEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: 2 letters + 4 digits (CM1102); pattern is 5 digits with no zipex."
+  },
+  "HR": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": {
+      "text": "HR-",
+      "status": "required",
+      "scope": "UPU: 5 digits 'preceded by HR' (HR-10000 ZAGREB)",
+      "strip_if_typed": true
+    },
+    "pattern": "\\d{5}",
+    "zipex": "10000,21001,10002",
+    "canonical_examples": [
+      "10000",
+      "21001",
+      "10002"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/hrvEn.pdf",
+    "confidence": "high",
+    "notes": "Prefix is written on mail but is not part of the libaddressinput pattern, so canonical form excludes it."
+  },
+  "HT": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": {
+      "text": "HT",
+      "status": "required",
+      "scope": "UPU: 4 digits 'preceded by HT', no separator (HT6120 DELMAS)",
+      "strip_if_typed": true
+    },
+    "pattern": "\\d{4}",
+    "zipex": "6120,5310,6110,8510",
+    "canonical_examples": [
+      "6120",
+      "5310",
+      "6110",
+      "8510"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/htiEn.pdf",
+    "confidence": "high",
+    "notes": "Prefix is written on mail but is not part of the libaddressinput pattern, so canonical form excludes it."
+  },
+  "HU": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1037,2380,1540",
+    "canonical_examples": [
+      "1037",
+      "2380",
+      "1540"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/hunEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "ID": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "40115",
+    "canonical_examples": [
+      "40115"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/idnEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "IL": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}(?:\\d{2})?",
+    "zipex": "9614303",
+    "canonical_examples": [
+      "9614303"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/isrEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 7 digits (9414219); pattern also accepts the old 5 digits. No separator."
+  },
+  "IM": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "IM\\d[\\dA-Z]?[ ]?\\d[ABD-HJLN-UW-Z]{2}",
+    "zipex": "IM2 1AA,IM99 1PS",
+    "canonical_examples": [
+      "IM2 1AA",
+      "IM99 1PS"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gbrEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters). UPU Isle of Man page: 'See United Kingdom' (example IM99 1PS); source is the GB document."
+  },
+  "IN": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "110034,110001",
+    "canonical_examples": [
+      "110034",
+      "110001"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/indEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "IO": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "BBND 1ZZ",
+    "zipex": "BBND 1ZZ",
+    "canonical_examples": [
+      "BBND 1ZZ"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/iotEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters)."
+  },
+  "IQ": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "",
+    "canonical_examples": [],
+    "extra_examples": {
+      "61002": "61002"
+    },
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/irqEn.pdf",
+    "confidence": "high",
+    "notes": "No zipex; UPU example 61002 used as the test example."
+  },
+  "IR": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}-?\\d{5}",
+    "zipex": "11936-12345",
+    "canonical_examples": [
+      "1193612345"
+    ],
+    "zipex_deviations": {
+      "11936-12345": {
+        "canonical": "1193612345",
+        "reason": "UPU Iran document writes the 10-digit code with no separator (1619614153); zipex has a hyphen after the 5th digit"
+      }
+    },
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/irnEn.pdf",
+    "confidence": "low",
+    "notes": "Canonical form follows UPU (10 digits, no separator). Pattern allows an optional hyphen; no official source for the hyphen was found."
+  },
+  "IS": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{3}",
+    "zipex": "320,121,220,110",
+    "canonical_examples": [
+      "320",
+      "121",
+      "220",
+      "110"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/islEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "IT": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "00144,47037,39049",
+    "canonical_examples": [
+      "00144",
+      "47037",
+      "39049"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/itaEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "JE": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "JE\\d[\\dA-Z]?[ ]?\\d[ABD-HJLN-UW-Z]{2}",
+    "zipex": "JE1 1AA,JE2 2BT",
+    "canonical_examples": [
+      "JE1 1AA",
+      "JE2 2BT"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gbrEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters). UPU Jersey page: 'See United Kingdom'; source is the GB document."
+  },
+  "JO": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "11937,11190",
+    "canonical_examples": [
+      "11937",
+      "11190"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/jorEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "JP": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 3,
+        "char": "-"
+      }
+    ],
+    "prefix": null,
+    "pattern": "\\d{3}-?\\d{4}",
+    "zipex": "154-0023,350-1106,951-8073,112-0001,208-0032,231-0012,951-8073",
+    "canonical_examples": [
+      "154-0023",
+      "350-1106",
+      "951-8073",
+      "112-0001",
+      "208-0032",
+      "231-0012",
+      "951-8073"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/jpnEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: hyphen between 3rd and 4th digits."
+  },
+  "KE": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "20100,00100",
+    "canonical_examples": [
+      "20100",
+      "00100"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/kenEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "KG": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "720001",
+    "canonical_examples": [
+      "720001"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/kgzEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "KH": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "12203,14206,12000",
+    "canonical_examples": [
+      "12203",
+      "14206",
+      "12000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/khmEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: 6 digits (120209); pattern/zipex are 5 digits."
+  },
+  "KR": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 3,
+        "char": "-"
+      }
+    ],
+    "prefix": null,
+    "pattern": "\\d{3}[\\-]\\d{3}",
+    "zipex": "110-110,699-800",
+    "canonical_examples": [
+      "110-110",
+      "699-800"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/korEn.pdf",
+    "confidence": "low",
+    "notes": "Pattern/zipex are the pre-2015 6-digit 'NNN-NNN' format. UPU Korea document: since 1 Aug 2015 the code is 5 digits with no separator (e.g. 42007). The hyphen rule reproduces the old format but is not confirmed by the current official source; codes matching this pattern are obsolete."
+  },
+  "KW": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "54541,54551,54404,13009",
+    "canonical_examples": [
+      "54541",
+      "54551",
+      "54404",
+      "13009"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/kwtEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "KY": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 3,
+        "char": "-"
+      }
+    ],
+    "prefix": null,
+    "pattern": "KY\\d-\\d{4}",
+    "zipex": "KY1-1100,KY1-1702,KY2-2101",
+    "canonical_examples": [
+      "KY1-1100",
+      "KY1-1702",
+      "KY2-2101"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cymEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 'KY' + island digit, hyphen, 4 digits (KY1-1100). Letters are part of the code."
+  },
+  "KZ": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "040900,050012",
+    "canonical_examples": [
+      "040900",
+      "050012"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/kazEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: new 7-character alphanumeric code (Z00Y5M3); pattern/zipex are the old 6 digits."
+  },
+  "LA": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "01160,01000",
+    "canonical_examples": [
+      "01160",
+      "01000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/laoEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "LB": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_length": [
+          8
+        ]
+      }
+    ],
+    "prefix": null,
+    "pattern": "(\\d{4}([ ]?\\d{4})?)?",
+    "zipex": "2038 3054,1107 2810,1000",
+    "canonical_examples": [
+      "2038 3054",
+      "1107 2810",
+      "1000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lbnEn.pdf",
+    "confidence": "low",
+    "notes": "UPU Lebanon document has no postcode section. 8-digit codes are written NNNN NNNN in zipex and in secondary sources; 4-digit codes have no separator. Not confirmed from LibanPost."
+  },
+  "LI": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "(948[5-9])|(949[0-7])",
+    "zipex": "9496,9491,9490,9485",
+    "canonical_examples": [
+      "9496",
+      "9491",
+      "9490",
+      "9485"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cheEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: Liechtenstein uses Swiss Post's system; source is the Switzerland document."
+  },
+  "LK": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "20000,00100",
+    "canonical_examples": [
+      "20000",
+      "00100"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lkaEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "LR": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1000",
+    "canonical_examples": [
+      "1000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lbrEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "LS": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{3}",
+    "zipex": "100",
+    "canonical_examples": [
+      "100"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lsoEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "LT": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": {
+      "text": "LT-",
+      "status": "required",
+      "scope": "UPU: Lithuania Post requires the ISO country code (LT-04340 Vilnius)",
+      "strip_if_typed": true
+    },
+    "pattern": "\\d{5}",
+    "zipex": "04340,03500",
+    "canonical_examples": [
+      "04340",
+      "03500"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ltuEn.pdf",
+    "confidence": "high",
+    "notes": "Prefix is written on mail but is not part of the libaddressinput pattern, so canonical form excludes it."
+  },
+  "LU": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": {
+      "text": "L-",
+      "status": "required",
+      "scope": "UPU: 4 digits 'preceded by L' (L-1234 DUDELANGE); the prefix is L, not LU",
+      "strip_if_typed": true
+    },
+    "pattern": "\\d{4}",
+    "zipex": "4750,2998",
+    "canonical_examples": [
+      "4750",
+      "2998"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/luxEn.pdf",
+    "confidence": "high",
+    "notes": "Prefix is written on mail but is not part of the libaddressinput pattern, so canonical form excludes it."
+  },
+  "LV": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 2,
+        "char": "-"
+      }
+    ],
+    "prefix": null,
+    "pattern": "LV-\\d{4}",
+    "zipex": "LV-1073,LV-1000",
+    "canonical_examples": [
+      "LV-1073",
+      "LV-1000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lvaEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 'LV-' + 4 digits; the LV- is part of the libaddressinput pattern, so it is in the canonical form."
+  },
+  "MA": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "53000,10000,20050,16052",
+    "canonical_examples": [
+      "53000",
+      "10000",
+      "20050",
+      "16052"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/marEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "MC": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "980\\d{2}",
+    "zipex": "98000,98020,98011,98001",
+    "canonical_examples": [
+      "98000",
+      "98020",
+      "98011",
+      "98001"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mcoEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "MD": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": {
+      "text": "MD-",
+      "status": "required",
+      "scope": "UPU: 4 digits 'preceded by MD-' (MD-2012, CHISINAU)",
+      "strip_if_typed": true
+    },
+    "pattern": "\\d{4}",
+    "zipex": "2012,2019",
+    "canonical_examples": [
+      "2012",
+      "2019"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mdaEn.pdf",
+    "confidence": "high",
+    "notes": "Prefix is written on mail but is not part of the libaddressinput pattern, so canonical form excludes it."
+  },
+  "ME": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "8\\d{4}",
+    "zipex": "81257,81258,81258,81217,84314,85366",
+    "canonical_examples": [
+      "81257",
+      "81258",
+      "81258",
+      "81217",
+      "84314",
+      "85366"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mneEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "MF": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "9[78][01]\\d{2}",
+    "zipex": "97100",
+    "canonical_examples": [
+      "97100"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mafEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "MG": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{3}",
+    "zipex": "501,101",
+    "canonical_examples": [
+      "501",
+      "101"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mdgEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "MH": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 5,
+        "char": "-",
+        "only_when_length": [
+          9
+        ]
+      }
+    ],
+    "prefix": null,
+    "pattern": "969[67]\\d([ \\-]\\d{4})?",
+    "zipex": "96960,96970",
+    "canonical_examples": [
+      "96960",
+      "96970"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf",
+    "confidence": "high",
+    "notes": "US territory using USPS ZIP codes; format from the USA UPU document (territory UPU page only gives the ZIP range)."
+  },
+  "MK": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1314,1321,1443,1062",
+    "canonical_examples": [
+      "1314",
+      "1321",
+      "1443",
+      "1062"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mkdEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "MM": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "11181",
+    "canonical_examples": [
+      "11181"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mmrEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: 7 digits; pattern/zipex are 5 digits."
+  },
+  "MN": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "65030,65270",
+    "canonical_examples": [
+      "65030",
+      "65270"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mngEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "MP": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 5,
+        "char": "-",
+        "only_when_length": [
+          9
+        ]
+      }
+    ],
+    "prefix": null,
+    "pattern": "9695[012]([ \\-]\\d{4})?",
+    "zipex": "96950,96951,96952",
+    "canonical_examples": [
+      "96950",
+      "96951",
+      "96952"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf",
+    "confidence": "high",
+    "notes": "US territory using USPS ZIP codes; format from the USA UPU document (territory UPU page only gives the ZIP range)."
+  },
+  "MQ": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "9[78]2\\d{2}",
+    "zipex": "97220",
+    "canonical_examples": [
+      "97220"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mtqEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "MT": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 3,
+        "char": " "
+      }
+    ],
+    "prefix": null,
+    "pattern": "[A-Z]{3}[ ]?\\d{2,4}",
+    "zipex": "NXR 01,ZTN 05,GPO 01,BZN 1130,SPB 6031,VCT 1753",
+    "canonical_examples": [
+      "NXR 01",
+      "ZTN 05",
+      "GPO 01",
+      "BZN 1130",
+      "SPB 6031",
+      "VCT 1753"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mltEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 'One space between letters and digits' (ZTN 1073). Old 2-digit codes (NXR 01) in zipex predate the 2007 4-digit scheme but follow the same spacing."
+  },
+  "MU": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "(\\d{3}[A-Z]{2}\\d{3})?",
+    "zipex": "742CU001",
+    "canonical_examples": [
+      "742CU001"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/musEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: 5 digits (42602), or R + 4 digits for Rodrigues; the pattern only accepts 3 digits + 2 letters + 3 digits (742CU001), which is not in the official source."
+  },
+  "MV": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "20026",
+    "canonical_examples": [
+      "20026"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mdvEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "MX": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "02860,77520,06082",
+    "canonical_examples": [
+      "02860",
+      "77520",
+      "06082"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mexEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "MY": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "43000,50754,88990,50670",
+    "canonical_examples": [
+      "43000",
+      "50754",
+      "88990",
+      "50670"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mysEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "MZ": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1102,1119,3212",
+    "canonical_examples": [
+      "1102",
+      "1119",
+      "3212"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mozEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "NC": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "988\\d{2}",
+    "zipex": "98814,98800,98810",
+    "canonical_examples": [
+      "98814",
+      "98800",
+      "98810"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nclEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "NE": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "8001",
+    "canonical_examples": [
+      "8001"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nerEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "NF": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "2899",
+    "zipex": "",
+    "canonical_examples": [],
+    "extra_examples": {
+      "2899": "2899"
+    },
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nfkEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 'Postcode of NORFOLK ISLAND is 2899'. No zipex; 2899 used as the test example."
+  },
+  "NG": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "(\\d{6})?",
+    "zipex": "930283,300001,931104",
+    "canonical_examples": [
+      "930283",
+      "300001",
+      "931104"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ngaEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "NI": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "52000",
+    "canonical_examples": [
+      "52000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nicEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "NL": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 4,
+        "char": " "
+      }
+    ],
+    "prefix": null,
+    "pattern": "\\d{4}[ ]?[A-Z]{2}",
+    "zipex": "1234 AB,2490 AA",
+    "canonical_examples": [
+      "1234 AB",
+      "2490 AA"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nldEn.pdf",
+    "confidence": "high",
+    "notes": "UPU/PostNL: space between the digits and the 2 capital letters (1234 AB)."
+  },
+  "NO": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "0025,0107,6631",
+    "canonical_examples": [
+      "0025",
+      "0107",
+      "6631"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/norEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "NP": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "44601",
+    "canonical_examples": [
+      "44601"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nplEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "NZ": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "6001,6015,6332,8252,1030",
+    "canonical_examples": [
+      "6001",
+      "6015",
+      "6332",
+      "8252",
+      "1030"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nzlEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "OM": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [],
+    "prefix": {
+      "text": "PC ",
+      "status": "optional",
+      "scope": "Pattern allows an optional 'PC ' (postal code) label; UPU shows 3 digits only (133)",
+      "strip_if_typed": true
+    },
+    "pattern": "(PC )?\\d{3}",
+    "zipex": "133,112,111",
+    "canonical_examples": [
+      "133",
+      "112",
+      "111"
+    ],
+    "extra_examples": {
+      "PC 133": "133"
+    },
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/omnEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "PE": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^LIMA"
+      },
+      {
+        "after": 6,
+        "char": " ",
+        "only_when_match": "^CALLAO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "(?:LIMA \\d|CALLAO 0?)\\d|[0-2]\\d{4}",
+    "zipex": "LIMA 23,LIMA 42,CALLAO 2,02001",
+    "canonical_examples": [
+      "LIMA 23",
+      "LIMA 42",
+      "CALLAO 2",
+      "02001"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/perEn.pdf",
+    "confidence": "low",
+    "notes": "Pattern/zipex use the old 'LIMA nn' / 'CALLAO n' zones; the space follows the zipex. UPU Peru document: current code is 5 digits with no separator (e.g. 15074), which this rule leaves unchanged."
+  },
+  "PF": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "987\\d{2}",
+    "zipex": "",
+    "canonical_examples": [],
+    "extra_examples": {
+      "98709": "98709"
+    },
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/pyfEn.pdf",
+    "confidence": "high",
+    "notes": "No zipex; UPU example 98709 used as the test example."
+  },
+  "PG": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{3}",
+    "zipex": "111",
+    "canonical_examples": [
+      "111"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/pngEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "PH": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1008,1050,1135,1207,2000,1000",
+    "canonical_examples": [
+      "1008",
+      "1050",
+      "1135",
+      "1207",
+      "2000",
+      "1000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/phlEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "PK": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "44000",
+    "canonical_examples": [
+      "44000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/pakEn.pdf",
+    "confidence": "high",
+    "notes": "UPU writes 'ISLAMABAD–44000': the dash separates locality and code, not part of the code."
+  },
+  "PL": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 2,
+        "char": "-"
+      }
+    ],
+    "prefix": null,
+    "pattern": "\\d{2}-\\d{3}",
+    "zipex": "00-950,05-470,48-300,32-015,00-940",
+    "canonical_examples": [
+      "00-950",
+      "05-470",
+      "48-300",
+      "32-015",
+      "00-940"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/polEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: dash between 2nd and 3rd digits."
+  },
+  "PM": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "9[78]5\\d{2}",
+    "zipex": "97500",
+    "canonical_examples": [
+      "97500"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/spmEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "PN": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "PCRN 1ZZ",
+    "zipex": "PCRN 1ZZ",
+    "canonical_examples": [
+      "PCRN 1ZZ"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/pcnEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters)."
+  },
+  "PR": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 5,
+        "char": "-",
+        "only_when_length": [
+          9
+        ]
+      }
+    ],
+    "prefix": null,
+    "pattern": "00[679]\\d{2}([ \\-]\\d{4})?",
+    "zipex": "00930",
+    "canonical_examples": [
+      "00930"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf",
+    "confidence": "high",
+    "notes": "US territory using USPS ZIP codes; format from the USA UPU document (territory UPU page only gives the ZIP range)."
+  },
+  "PT": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 4,
+        "char": "-"
+      }
+    ],
+    "prefix": null,
+    "pattern": "\\d{4}-\\d{3}",
+    "zipex": "2725-079,1250-096,1201-950,2860-571,1208-148",
+    "canonical_examples": [
+      "2725-079",
+      "1250-096",
+      "1201-950",
+      "2860-571",
+      "1208-148"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/prtEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: dash between 4th and 5th digits."
+  },
+  "PW": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "969(39|40)",
+    "zipex": "96940",
+    "canonical_examples": [
+      "96940"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf",
+    "confidence": "high",
+    "notes": "US territory using USPS ZIP codes; pattern allows only the 5-digit ZIP, so no ZIP+4 hyphen."
+  },
+  "PY": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1536,1538,1209",
+    "canonical_examples": [
+      "1536",
+      "1538",
+      "1209"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/pryEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: 6 digits (001218); pattern/zipex are 4 digits."
+  },
+  "RE": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "9[78]4\\d{2}",
+    "zipex": "97400",
+    "canonical_examples": [
+      "97400"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/reuEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "RO": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "060274,061357,200716",
+    "canonical_examples": [
+      "060274",
+      "061357",
+      "200716"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/rouEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "RS": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5,6}",
+    "zipex": "106314",
+    "canonical_examples": [
+      "106314"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/srbEn.pdf",
+    "confidence": "high",
+    "notes": "UPU mentions a 6-digit PAK address code; pattern accepts 5 or 6 digits, no separator either way."
+  },
+  "RU": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "125075,247112,103375",
+    "canonical_examples": [
+      "125075",
+      "247112",
+      "103375"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/rusEn.pdf",
+    "confidence": "high",
+    "notes": "UPU coding diagram splits '125 075' but addresses write 125075."
+  },
+  "SA": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "11564,11187,11142",
+    "canonical_examples": [
+      "11564",
+      "11187",
+      "11142"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sauEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "SE": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 3,
+        "char": " "
+      }
+    ],
+    "prefix": null,
+    "pattern": "\\d{3}[ ]?\\d{2}",
+    "zipex": "11455,12345,10500",
+    "canonical_examples": [
+      "114 55",
+      "123 45",
+      "105 00"
+    ],
+    "zipex_deviations": {
+      "11455": {
+        "canonical": "114 55",
+        "reason": "zipex written without the space; UPU/PostNord form has a space after the 3rd digit"
+      },
+      "12345": {
+        "canonical": "123 45",
+        "reason": "zipex written without the space; UPU/PostNord form has a space after the 3rd digit"
+      },
+      "10500": {
+        "canonical": "105 00",
+        "reason": "zipex written without the space; UPU/PostNord form has a space after the 3rd digit"
+      }
+    },
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sweEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 5 digits with a space between 3rd and 4th digits."
+  },
+  "SG": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "546080,308125,408600",
+    "canonical_examples": [
+      "546080",
+      "308125",
+      "408600"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sgpEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "SH": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "(ASCN|STHL) 1ZZ",
+    "zipex": "STHL 1ZZ",
+    "canonical_examples": [
+      "STHL 1ZZ"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/shnEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters)."
+  },
+  "SI": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "4000,1001,2500",
+    "canonical_examples": [
+      "4000",
+      "1001",
+      "2500"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/svnEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "SJ": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "9170",
+    "canonical_examples": [
+      "9170"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/norEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 'See Norway'; source is the Norway document."
+  },
+  "SK": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 3,
+        "char": " "
+      }
+    ],
+    "prefix": null,
+    "pattern": "\\d{3}[ ]?\\d{2}",
+    "zipex": "010 01,023 14,972 48,921 01,975 99",
+    "canonical_examples": [
+      "010 01",
+      "023 14",
+      "972 48",
+      "921 01",
+      "975 99"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/svkEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 5 digits with a space between 3rd and 4th digits."
+  },
+  "SM": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "4789\\d",
+    "zipex": "47890,47891,47895,47899",
+    "canonical_examples": [
+      "47890",
+      "47891",
+      "47895",
+      "47899"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/smrEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "SN": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "12500,46024,16556,10000",
+    "canonical_examples": [
+      "12500",
+      "46024",
+      "16556",
+      "10000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/senEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "SO": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "09010,11010",
+    "canonical_examples": [
+      "09010",
+      "11010"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/somEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: region abbreviation + space + 5 digits (JH 09010); pattern/zipex have only the 5 digits, so no region prefix is added."
+  },
+  "SV": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 2,
+        "char": " "
+      }
+    ],
+    "prefix": null,
+    "pattern": "CP [1-3][1-7][0-2]\\d",
+    "zipex": "CP 1101",
+    "canonical_examples": [
+      "CP 1101"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/slvEn.pdf",
+    "confidence": "low",
+    "notes": "Pattern requires 'CP ' + 4 digits; UPU El Salvador document shows 4 digits only (1120), without CP. The 'CP ' form is kept because the pattern requires it, but it is not confirmed officially."
+  },
+  "SZ": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "[HLMS]\\d{3}",
+    "zipex": "H100",
+    "canonical_examples": [
+      "H100"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/swzEn.pdf",
+    "confidence": "high",
+    "notes": "UPU: 1 letter + 3 digits (H100)."
+  },
+  "TA": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "TDCU 1ZZ",
+    "zipex": "TDCU 1ZZ",
+    "canonical_examples": [
+      "TDCU 1ZZ"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/shnEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters)."
+  },
+  "TC": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "before_last": 3,
+        "char": " ",
+        "only_when_match": "^(?!BFPO)"
+      },
+      {
+        "after": 4,
+        "char": " ",
+        "only_when_match": "^BFPO"
+      }
+    ],
+    "prefix": null,
+    "pattern": "TKCA 1ZZ",
+    "zipex": "TKCA 1ZZ",
+    "canonical_examples": [
+      "TKCA 1ZZ"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tcaEn.pdf",
+    "confidence": "high",
+    "notes": "UK-style postcode: one space before the inward code (last 3 characters)."
+  },
+  "TH": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "10150,10210",
+    "canonical_examples": [
+      "10150",
+      "10210"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/thaEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "TJ": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "735450,734025",
+    "canonical_examples": [
+      "735450",
+      "734025"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tjkEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "TM": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "744000",
+    "canonical_examples": [
+      "744000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tkmEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "TN": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1002,8129,3100,1030",
+    "canonical_examples": [
+      "1002",
+      "8129",
+      "3100",
+      "1030"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tunEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "TR": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "01960,06101",
+    "canonical_examples": [
+      "01960",
+      "06101"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/turEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "TW": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{3}(\\d{2})?",
+    "zipex": "104,106,10603,40867",
+    "canonical_examples": [
+      "104",
+      "106",
+      "10603",
+      "40867"
+    ],
+    "source": "https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=207",
+    "confidence": "low",
+    "notes": "UPU Taiwan document not available. Pattern allows 3 or 5 digits with no separator, as in zipex. Chunghwa Post now uses 3+3 (6-digit) codes, which this pattern does not accept; the separator for 3+3 is not given on the Chunghwa Post page checked."
+  },
+  "TZ": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "6090",
+    "canonical_examples": [
+      "6090"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tzaEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: 5 digits (11101); pattern/zipex are 4 digits."
+  },
+  "UA": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "15432,01055,01001",
+    "canonical_examples": [
+      "15432",
+      "01055",
+      "01001"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ukrEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "US": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 5,
+        "char": "-",
+        "only_when_length": [
+          9
+        ]
+      }
+    ],
+    "prefix": null,
+    "pattern": "\\d{5}([ \\-]\\d{4})?",
+    "zipex": "95014,22162-1010",
+    "canonical_examples": [
+      "95014",
+      "22162-1010"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf",
+    "confidence": "high",
+    "notes": "UPU/USPS: ZIP+4 written with a hyphen between 5th and 6th digits; 5-digit ZIP has no separator."
+  },
+  "UY": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "11600",
+    "canonical_examples": [
+      "11600"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/uryEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "UZ": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "702100,700000",
+    "canonical_examples": [
+      "702100",
+      "700000"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/uzbEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "VA": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "00120",
+    "zipex": "00120",
+    "canonical_examples": [
+      "00120"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vatEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "VC": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "VC\\d{4}",
+    "zipex": "VC0100,VC0110,VC0400",
+    "canonical_examples": [
+      "VC0100",
+      "VC0110",
+      "VC0400"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vctEn.pdf",
+    "confidence": "high",
+    "notes": "Letters VC are part of the code (UPU: VC0120)."
+  },
+  "VE": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "1010,3001,8011,1020",
+    "canonical_examples": [
+      "1010",
+      "3001",
+      "8011",
+      "1020"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/venEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "VG": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "VG\\d{4}",
+    "zipex": "VG1110,VG1150,VG1160",
+    "canonical_examples": [
+      "VG1110",
+      "VG1150",
+      "VG1160"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vgbEn.pdf",
+    "confidence": "high",
+    "notes": "Letters VG are part of the code (UPU: VG1110)."
+  },
+  "VI": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 5,
+        "char": "-",
+        "only_when_length": [
+          9
+        ]
+      }
+    ],
+    "prefix": null,
+    "pattern": "008(([0-4]\\d)|(5[01]))([ \\-]\\d{4})?",
+    "zipex": "00802-1222,00850-9802",
+    "canonical_examples": [
+      "00802-1222",
+      "00850-9802"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf",
+    "confidence": "high",
+    "notes": "US territory using USPS ZIP codes; format from the USA UPU document (territory UPU page only gives the ZIP range)."
+  },
+  "VN": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{6}",
+    "zipex": "119415,136065,720344",
+    "canonical_examples": [
+      "119415",
+      "136065",
+      "720344"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vnmEn.pdf",
+    "confidence": "low",
+    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: 5 digits; pattern/zipex are 6 digits."
+  },
+  "WF": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "986\\d{2}",
+    "zipex": "98600",
+    "canonical_examples": [
+      "98600"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/wlfEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "XK": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "[1-7]\\d{4}",
+    "zipex": "10000",
+    "canonical_examples": [
+      "10000"
+    ],
+    "source": "https://www.postakosoves.com/",
+    "confidence": "low",
+    "notes": "No UPU document for Kosovo. 5 digits, no separator as in zipex and Kosovo institutional addresses (e.g. 10000 Prishtinë); not confirmed from Posta e Kosovës."
+  },
+  "YT": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "976\\d{2}",
+    "zipex": "97600",
+    "canonical_examples": [
+      "97600"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mytEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "ZA": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{4}",
+    "zipex": "0083,1451,0001",
+    "canonical_examples": [
+      "0083",
+      "1451",
+      "0001"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/zafEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "ZM": {
+    "uppercase": false,
+    "strip": " -.",
+    "insert": [],
+    "prefix": null,
+    "pattern": "\\d{5}",
+    "zipex": "50100,50101",
+    "canonical_examples": [
+      "50100",
+      "50101"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/zmbEn.pdf",
+    "confidence": "high",
+    "notes": "Plain digits, no separator (UPU)."
+  },
+  "_no_postal_code": [
+    "AE",
+    "AG",
+    "AO",
+    "AQ",
+    "AW",
+    "BF",
+    "BI",
+    "BJ",
+    "BO",
+    "BQ",
+    "BS",
+    "BV",
+    "BW",
+    "BZ",
+    "CD",
+    "CF",
+    "CG",
+    "CI",
+    "CM",
+    "CU",
+    "CW",
+    "DJ",
+    "DM",
+    "ER",
+    "FJ",
+    "GA",
+    "GD",
+    "GH",
+    "GM",
+    "GQ",
+    "GY",
+    "HK",
+    "IE",
+    "JM",
+    "KI",
+    "KM",
+    "KN",
+    "KP",
+    "LC",
+    "LY",
+    "ML",
+    "MO",
+    "MR",
+    "MS",
+    "MW",
+    "NA",
+    "NR",
+    "NU",
+    "PA",
+    "PS",
+    "QA",
+    "RW",
+    "SB",
+    "SC",
+    "SD",
+    "SL",
+    "SR",
+    "SS",
+    "ST",
+    "SX",
+    "SY",
+    "TD",
+    "TF",
+    "TG",
+    "TK",
+    "TL",
+    "TO",
+    "TT",
+    "TV",
+    "UG",
+    "UM",
+    "VU",
+    "WS",
+    "YE",
+    "ZW"
+  ],
+  "_no_postal_code_notes": {
+    "IE": "No `zip` in this countryinfo.txt snapshot, although Ireland has used Eircode (e.g. A65 F4E2, space after 3rd character) since 2015. Left out because there is no pattern to check against.",
+    "UM": "Has zipex 96898 but no `zip` pattern in countryinfo.txt."
+  }
+}

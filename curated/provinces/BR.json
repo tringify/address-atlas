@@ -1,0 +1,205 @@
+{
+ "country": "BR",
+ "level": "state",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "BR-AC",
+   "local": "Acre",
+   "latin": "Acre",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-AL",
+   "local": "Alagoas",
+   "latin": "Alagoas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-AM",
+   "local": "Amazonas",
+   "latin": "Amazonas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-AP",
+   "local": "Amapá",
+   "latin": "Amapá",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-BA",
+   "local": "Bahia",
+   "latin": "Bahia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-CE",
+   "local": "Ceará",
+   "latin": "Ceará",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-DF",
+   "local": "Distrito Federal",
+   "latin": "Distrito Federal",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-ES",
+   "local": "Espírito Santo",
+   "latin": "Espírito Santo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-GO",
+   "local": "Goiás",
+   "latin": "Goiás",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-MA",
+   "local": "Maranhão",
+   "latin": "Maranhão",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-MG",
+   "local": "Minas Gerais",
+   "latin": "Minas Gerais",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-MS",
+   "local": "Mato Grosso do Sul",
+   "latin": "Mato Grosso do Sul",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-MT",
+   "local": "Mato Grosso",
+   "latin": "Mato Grosso",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-PA",
+   "local": "Pará",
+   "latin": "Pará",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-PB",
+   "local": "Paraíba",
+   "latin": "Paraíba",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-PE",
+   "local": "Pernambuco",
+   "latin": "Pernambuco",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-PI",
+   "local": "Piauí",
+   "latin": "Piauí",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-PR",
+   "local": "Paraná",
+   "latin": "Paraná",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-RJ",
+   "local": "Rio de Janeiro",
+   "latin": "Rio de Janeiro",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-RN",
+   "local": "Rio Grande do Norte",
+   "latin": "Rio Grande do Norte",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-RO",
+   "local": "Rondônia",
+   "latin": "Rondônia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-RR",
+   "local": "Roraima",
+   "latin": "Roraima",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-RS",
+   "local": "Rio Grande do Sul",
+   "latin": "Rio Grande do Sul",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-SC",
+   "local": "Santa Catarina",
+   "latin": "Santa Catarina",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-SE",
+   "local": "Sergipe",
+   "latin": "Sergipe",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-SP",
+   "local": "São Paulo",
+   "latin": "São Paulo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BR-TO",
+   "local": "Tocantins",
+   "latin": "Tocantins",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/braEn.pdf",
+  "https://buscacepinter.correios.com.br/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:BR",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": ""
+}

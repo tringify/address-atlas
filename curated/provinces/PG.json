@@ -1,0 +1,192 @@
+{
+ "country": "PG",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "PG-CPK",
+   "local": "Chimbu",
+   "latin": "Chimbu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-CPM",
+   "local": "Central",
+   "latin": "Central",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-EBR",
+   "local": "East New Britain",
+   "latin": "East New Britain",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-EHG",
+   "local": "Eastern Highlands",
+   "latin": "Eastern Highlands",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-EPW",
+   "local": "Enga",
+   "latin": "Enga",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-ESW",
+   "local": "East Sepik",
+   "latin": "East Sepik",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-GPK",
+   "local": "Gulf",
+   "latin": "Gulf",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-HLA",
+   "local": "Hela",
+   "latin": "Hela",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-JWK",
+   "local": "Jiwaka",
+   "latin": "Jiwaka",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-MBA",
+   "local": "Milne Bay",
+   "latin": "Milne Bay",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-MPL",
+   "local": "Morobe",
+   "latin": "Morobe",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-MPM",
+   "local": "Madang",
+   "latin": "Madang",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-MRL",
+   "local": "Manus",
+   "latin": "Manus",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-NCD",
+   "local": "National Capital District (Port Moresby)",
+   "latin": "National Capital District (Port Moresby)",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-NIK",
+   "local": "New Ireland",
+   "latin": "New Ireland",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-NPP",
+   "local": "Northern",
+   "latin": "Northern",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-NSB",
+   "local": "Bougainville",
+   "latin": "Bougainville",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-SAN",
+   "local": "West Sepik",
+   "latin": "West Sepik",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-SHM",
+   "local": "Southern Highlands",
+   "latin": "Southern Highlands",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-WBK",
+   "local": "West New Britain",
+   "latin": "West New Britain",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-WHM",
+   "local": "Western Highlands",
+   "latin": "Western Highlands",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PG-WPD",
+   "local": "Western",
+   "latin": "Western",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added PG-CPK Chimbu",
+  "added PG-CPM Central",
+  "added PG-EBR East New Britain",
+  "added PG-EHG Eastern Highlands",
+  "added PG-EPW Enga",
+  "added PG-ESW East Sepik",
+  "added PG-GPK Gulf",
+  "added PG-HLA Hela",
+  "added PG-JWK Jiwaka",
+  "added PG-MBA Milne Bay",
+  "added PG-MPL Morobe",
+  "added PG-MPM Madang",
+  "added PG-MRL Manus",
+  "added PG-NCD National Capital District (Port Moresby)",
+  "added PG-NIK New Ireland",
+  "added PG-NPP Northern",
+  "added PG-NSB Bougainville",
+  "added PG-SAN West Sepik",
+  "added PG-SHM Southern Highlands",
+  "added PG-WBK West New Britain",
+  "added PG-WHM Western Highlands",
+  "added PG-WPD Western"
+ ],
+ "sources": [
+  "https://www.postpng.com.pg/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:PG",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "20 provinces + National Capital District + Autonomous Region of Bougainville."
+}

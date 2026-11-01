@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "نام",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "نام خانوادگی",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "واحد، طبقه و غیره (اختیاری)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "سازمان",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "نشانی",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "تلفن",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "کشور/منطقه",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "شهر",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "شهر مبدأ مرسوله",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "حومه شهر",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "ناحیه شهری",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "روستا / شهرک",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "منطقه",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "محله",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "ناحیه",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "بخش/شهرستان",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "اداره",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "منطقه",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "استان/شهرستان",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "امارات",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "ایسلند",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "استان",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "استان",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "اداره ریاست",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "استان",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "ایالت",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "کد پستی",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "کد پستی",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "کد پین",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "این قسمت باید پر شود.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} به‌ عنوان یک مقدار شناخته شده برای این قسمت پذیرفته نمی‌شود.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "به نظر می‌رسد این خط آدرس حاوی یک صندوق پستی باشد. لطفاً از آدرس یک خیابان یا ساختمان استفاده کنید.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "این قالب کد پستی قابل شناسایی نیست. نمونه کد پستی معتبر: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "این قالب کدپستی تشخیص داده نمی‌شود. نمونه کدپستی معتبر به این شکل است: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "به نظر نمی‌رسد این کد پستی با مابقی آدرس مطابقت داشته باشد.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "به نظر نمی‌رسد این کد پستی با مابقی آدرس مطابقت داشته باشد.",
+    "provenance": "chromium"
+  }
+}

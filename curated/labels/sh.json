@@ -1,0 +1,152 @@
+{
+ "fields.first_name": {
+  "value": "Ime",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Prezime",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Stan, sprat itd. (opcionalno)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organizacija",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Ulica i broj",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Država/regija",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Grad",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Poštanski grad",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "Predgrađe",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Naselje",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland; Bosnian/Croatian Chromium translations use 'Naselje'/'Okrug'"
+ },
+ "city.village_township": {
+  "value": "Selo/opština",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Distrikt",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Četvrt",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Područje",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Okrug",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Departman",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Distrikt",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirat",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Ostrvo",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Parohija",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Prefektura",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Pokrajina",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Država",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Poštanski broj",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Poštanski broj",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "PIN kod",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Ovo polje ne može ostati prazno.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} nije prepoznata kao poznata vrijednost za ovo polje.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Izgleda da ovaj red adrese sadrži poštanski pretinac. Navedite adresu ulice ili zgrade.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Format ovog poštanskog broja nije prepoznat. Primjer važećeg poštanskog broja: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Format ovog poštanskog broja nije prepoznat. Primjer važećeg poštanskog broja: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Izgleda da ovaj poštanski broj ne odgovara ostatku adrese.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Izgleda da ovaj poštanski broj ne odgovara ostatku adrese.",
+  "provenance": "curated"
+ }
+}

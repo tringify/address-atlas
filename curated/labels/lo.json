@@ -1,0 +1,152 @@
+{
+ "fields.first_name": {
+  "value": "ຊື່",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "ນາມສະກຸນ",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "ຫ້ອງ, ອາຄານ ແລະ ອື່ນໆ (ບໍ່ບັງຄັບ)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wording of optional apartment/suite line not verified against Lao checkout forms."
+ },
+ "fields.company": {
+  "value": "ອົງ​ການ​ຈັດ​ຕັ້ງ",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "ທີ່ຢູ່ຖະໜົນ",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "ໂທລະ​ສັບ",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "ປະເທດ/ພາກພື້ນ",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "ເມືອງ",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "ເມືອງ​ທີ່ຈັດ​ສົ່ງ",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "ຊານເມືອງ",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "ທາວແລນ",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "​ບ້ານ / ​​ເຂດ",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "ເມືອງ",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "ຄຸ້ມບ້ານ",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "ເຂດ",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "ເຂດປົກຄອງ",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "ພະແນກ",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "ເມືອງ",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "ດູ/ຊິ",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "ອີມິເຣດ",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "ເກາະ",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "oblasts",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "ຕາແສງ",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "ແຂວງ",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "ແຂວງ",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "ລັດ",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "ລະຫັດໄປສະນີ",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "ລະ​ຫັດ​ ZIP",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "ລະ​ຫັດ PIN",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "ລະຫັດໄປສະນີ",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "ທ່ານບໍ່ສາມາດປ່ອຍໃຫ້ອັນນີ້ຫວ່າງເປົ່າໄດ້.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ບໍ່ຖືກຮັບຮູ້ວ່າເປັນຄ່າທີ່ຮູ້ຈັກສໍາລັບປ່ອງໃສ່ຂໍ້ມູນນີ້.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "ແຖວທີ່ຢູ່ນີ້ປະກົດວ່າມີຕູ້ໄປສະນີຢູ່. ກະລຸນາໃຊ້ທີ່ຢູ່ຖະໜົນ ຫຼືອາຄານ.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "ຮູບແບບລະຫັດໄປສະນີນີ້ບໍ່ຖືກຮັບຮູ້. ຕົວຢ່າງຂອງລະຫັດໄປສະນີທີ່ຖືກຕ້ອງແມ່ນ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "ຮູບແບບລະຫັດ ZIP ນີ້ບໍ່ຖືກຮັບຮູ້. ຕົວຢ່າງຂອງລະຫັດ ZIP ທີ່ຖືກຕ້ອງແມ່ນ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "ບໍ່ປະກົດວ່າລະຫັດ ZIP ນີ້ຖືກກັບສ່ວນທີ່ເຫຼືອຂອງທີ່ຢູ່ນີ້.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "ບໍ່ປະກົດວ່າລະຫັດ ZIP ນີ້ຖືກກັບສ່ວນທີ່ເຫຼືອຂອງທີ່ຢູ່ນີ້.",
+  "provenance": "chromium"
+ }
+}

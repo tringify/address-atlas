@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Keresztnév",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Vezetéknév",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Emelet, ajtó stb. (nem kötelező)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Szervezet",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Cím",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Telefon",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Ország/Régió",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Település",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Város",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Külváros",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Helyi körzet (townland)",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Falu/község",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Körzet",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Környék",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Terület",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Megye",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Megye",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Körzet",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emírség",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Sziget",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Régió",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Körzet",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Prefektúra",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Tartomány",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Állam",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Irányítószám",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Irányítószám",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "PIN-kód",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Ezt nem hagyhatod üresen.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "A(z) „{FIELD_VALUE}” nem ismert érték ennél a mezőnél.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "A címben postafiók szerepel. Utcanevet és házszámot, illetve egy ajtószámot adj meg.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Ezt az irányítószámot nem lehet felismerni. Példa egy érvényes irányítószámra: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Ezt az irányítószám-formátumot nem lehet felismerni. Példa egy érvényes irányítószámra: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Ez az irányítószám nem felel meg a cím többi részének.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Ez az irányítószám nem felel meg a cím többi részének.",
+    "provenance": "chromium"
+  }
+}

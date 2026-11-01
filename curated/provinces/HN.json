@@ -1,0 +1,161 @@
+{
+ "country": "HN",
+ "level": "department",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "HN-AT",
+   "local": "Atlántida",
+   "latin": "Atlántida",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-CH",
+   "local": "Choluteca",
+   "latin": "Choluteca",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-CL",
+   "local": "Colón",
+   "latin": "Colón",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-CM",
+   "local": "Comayagua",
+   "latin": "Comayagua",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-CP",
+   "local": "Copán",
+   "latin": "Copán",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-CR",
+   "local": "Cortés",
+   "latin": "Cortés",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-EP",
+   "local": "El Paraíso",
+   "latin": "El Paraíso",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-FM",
+   "local": "Francisco Morazán",
+   "latin": "Francisco Morazán",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-GD",
+   "local": "Gracias a Dios",
+   "latin": "Gracias a Dios",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-IB",
+   "local": "Islas de la Bahía",
+   "latin": "Islas de la Bahía",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-IN",
+   "local": "Intibucá",
+   "latin": "Intibucá",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-LE",
+   "local": "Lempira",
+   "latin": "Lempira",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-LP",
+   "local": "La Paz",
+   "latin": "La Paz",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-OC",
+   "local": "Ocotepeque",
+   "latin": "Ocotepeque",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-OL",
+   "local": "Olancho",
+   "latin": "Olancho",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-SB",
+   "local": "Santa Bárbara",
+   "latin": "Santa Bárbara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-VA",
+   "local": "Valle",
+   "latin": "Valle",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "HN-YO",
+   "local": "Yoro",
+   "latin": "Yoro",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added HN-AT Atlántida",
+  "added HN-CH Choluteca",
+  "added HN-CL Colón",
+  "added HN-CM Comayagua",
+  "added HN-CP Copán",
+  "added HN-CR Cortés",
+  "added HN-EP El Paraíso",
+  "added HN-FM Francisco Morazán",
+  "added HN-GD Gracias a Dios",
+  "added HN-IB Islas de la Bahía",
+  "added HN-IN Intibucá",
+  "added HN-LE Lempira",
+  "added HN-LP La Paz",
+  "added HN-OC Ocotepeque",
+  "added HN-OL Olancho",
+  "added HN-SB Santa Bárbara",
+  "added HN-VA Valle",
+  "added HN-YO Yoro"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+  "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HN",
+  "https://www.iso.org/obp/ui/#iso:code:3166:HN",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": ""
+}

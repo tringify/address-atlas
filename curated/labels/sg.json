@@ -1,0 +1,218 @@
+{
+ "fields.first_name": {
+  "value": "Iri",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "fields.last_name": {
+  "value": "Iri ti sewa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "fields.address2": {
+  "value": "Da, etaje na ambeni (a yeke ngangu pëpe)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "fields.company": {
+  "value": "Bungbi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "fields.address1": {
+  "value": "Ndo ti lege ti da",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "fields.phone": {
+  "value": "Telefône",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "fields.country": {
+  "value": "Ködörösêse / Mbâgë",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "city.city": {
+  "value": "Gbätä",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "city.post_town": {
+  "value": "Gbätä ti posta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "city.suburb": {
+  "value": "Terê ti gbätä",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Sango equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Ködörö",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "city.district": {
+  "value": "Mbâgë ti gbätä",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "city.neighborhood": {
+  "value": "Kartiê",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "loan from French 'quartier'"
+ },
+ "province.area": {
+  "value": "Ndo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "province.county": {
+  "value": "Mbâgë",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "province.department": {
+  "value": "Departema",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "province.district": {
+  "value": "Mbâgë",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emira",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "province.island": {
+  "value": "Zûâ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Paruäsi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "province.prefecture": {
+  "value": "Prefektüre",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "the CAR's préfectures"
+ },
+ "province.province": {
+  "value": "Provînsi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "province.state": {
+  "value": "Sêse",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "postal.postal": {
+  "value": "Kôdë ti posta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "postal.zip": {
+  "value": "Kôdë ti ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "postal.pin": {
+  "value": "Kôdë ti PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Mo lingbi ti zia ndo so senge pëpe.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "messages.unknown_value": {
+  "value": "A hinga {FIELD_VALUE} pëpe tongana ye so alingbi na ndo so.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Linge ti adrêse so ayeke na boîte postale na yâ ni. Sara kua na adrêse ti lege wala ti da.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "messages.postal_invalid_example": {
+  "value": "A hinga lege ti kôdë ti posta so pëpe. Tapande ti kôdë ti posta so ayeke nzoni: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "messages.zip_invalid_example": {
+  "value": "A hinga lege ti kôdë ti ZIP so pëpe. Tapande ti kôdë ti ZIP so ayeke nzoni: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "messages.postal_mismatch": {
+  "value": "Kôdë ti posta so ayeke tingbi pëpe na tanga ti adrêse so.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ },
+ "messages.zip_mismatch": {
+  "value": "Kôdë ti ZIP so ayeke tingbi pëpe na tanga ti adrêse so.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+ }
+}

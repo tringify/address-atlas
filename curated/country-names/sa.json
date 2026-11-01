@@ -1,0 +1,1110 @@
+{
+ "AD": {
+  "provenance": "curated",
+  "value": "अण्डोरा"
+ },
+ "AE": {
+  "confidence": "low",
+  "note": "compound modelled on hi; no attested Sanskrit form found",
+  "provenance": "curated",
+  "value": "संयुक्त-अरब-अमीरात"
+ },
+ "AF": {
+  "provenance": "curated",
+  "value": "अफगानिस्तान"
+ },
+ "AG": {
+  "confidence": "low",
+  "note": "'एवं' for 'and'; transliteration",
+  "provenance": "curated",
+  "value": "एण्टिगुआ एवं बार्बुडा"
+ },
+ "AI": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "एङ्गुइला"
+ },
+ "AL": {
+  "provenance": "curated",
+  "value": "अल्बानिया"
+ },
+ "AM": {
+  "provenance": "curated",
+  "value": "आर्मेनिया"
+ },
+ "AO": {
+  "provenance": "curated",
+  "value": "अङ्गोला"
+ },
+ "AQ": {
+  "provenance": "curated",
+  "value": "अण्टार्कटिका"
+ },
+ "AR": {
+  "provenance": "curated",
+  "value": "अर्जेण्टिना"
+ },
+ "AS": {
+  "confidence": "low",
+  "note": "territory; compound modelled on hi",
+  "provenance": "curated",
+  "value": "अमेरिकी-सामोआ"
+ },
+ "AT": {
+  "provenance": "curated",
+  "value": "ऑस्ट्रिया"
+ },
+ "AU": {
+  "provenance": "curated",
+  "value": "ऑस्ट्रेलिया"
+ },
+ "AW": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "अरूबा"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "territory; descriptive compound with द्वीपसमूह",
+  "provenance": "curated",
+  "value": "आलण्ड-द्वीपसमूह"
+ },
+ "AZ": {
+  "provenance": "curated",
+  "value": "अजरबैजान"
+ },
+ "BA": {
+  "provenance": "curated",
+  "value": "बोस्निया एवं हर्जेगोविना"
+ },
+ "BB": {
+  "provenance": "curated",
+  "value": "बार्बाडोस"
+ },
+ "BD": {
+  "provenance": "curated",
+  "value": "बाङ्ग्लादेश"
+ },
+ "BE": {
+  "provenance": "curated",
+  "value": "बेल्जियम"
+ },
+ "BF": {
+  "provenance": "curated",
+  "value": "बुर्किना फासो"
+ },
+ "BG": {
+  "provenance": "curated",
+  "value": "बल्गेरिया"
+ },
+ "BH": {
+  "provenance": "curated",
+  "value": "बहरैन"
+ },
+ "BI": {
+  "provenance": "curated",
+  "value": "बुरुण्डी"
+ },
+ "BJ": {
+  "provenance": "curated",
+  "value": "बेनिन"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "सेण्ट-बार्थेलेमी"
+ },
+ "BM": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "बर्मूडा"
+ },
+ "BN": {
+  "provenance": "curated",
+  "value": "ब्रुनेई"
+ },
+ "BO": {
+  "provenance": "curated",
+  "value": "बोलिविया"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "territory; compound modelled on hi",
+  "provenance": "curated",
+  "value": "कैरिबियन-नेदरलैण्ड्"
+ },
+ "BS": {
+  "provenance": "curated",
+  "value": "बहामास्"
+ },
+ "BT": {
+  "provenance": "curated",
+  "value": "भूटान"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "uninhabited territory; descriptive compound",
+  "provenance": "curated",
+  "value": "बूवे-द्वीप"
+ },
+ "BW": {
+  "provenance": "curated",
+  "value": "बोत्स्वाना"
+ },
+ "BY": {
+  "provenance": "curated",
+  "value": "बेलारूस"
+ },
+ "BZ": {
+  "provenance": "curated",
+  "value": "बेलीज"
+ },
+ "CA": {
+  "provenance": "curated",
+  "value": "कनाडा"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "कोकोस-द्वीपसमूह"
+ },
+ "CD": {
+  "confidence": "low",
+  "note": "follows CLDR disambiguation pattern; transliteration",
+  "provenance": "curated",
+  "value": "काङ्गो - किन्शासा"
+ },
+ "CF": {
+  "confidence": "low",
+  "note": "descriptive compound with गणराज्य",
+  "provenance": "curated",
+  "value": "मध्य-आफ्रिका-गणराज्य"
+ },
+ "CG": {
+  "confidence": "low",
+  "note": "follows CLDR disambiguation pattern; transliteration",
+  "provenance": "curated",
+  "value": "काङ्गो - ब्राजाविल"
+ },
+ "CH": {
+  "provenance": "curated",
+  "value": "स्विट्जर्लैण्ड"
+ },
+ "CI": {
+  "confidence": "low",
+  "note": "transliteration of Côte d'Ivoire",
+  "provenance": "curated",
+  "value": "कोत् दिव्वार्"
+ },
+ "CK": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "कुक्-द्वीपसमूह"
+ },
+ "CL": {
+  "provenance": "curated",
+  "value": "चिली"
+ },
+ "CM": {
+  "provenance": "curated",
+  "value": "कैमरून"
+ },
+ "CO": {
+  "provenance": "curated",
+  "value": "कोलम्बिया"
+ },
+ "CR": {
+  "provenance": "curated",
+  "value": "कोस्टारिका"
+ },
+ "CU": {
+  "provenance": "curated",
+  "value": "क्यूबा"
+ },
+ "CV": {
+  "confidence": "low",
+  "note": "transliteration",
+  "provenance": "curated",
+  "value": "केप वर्डे"
+ },
+ "CW": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "कुरासाओ"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "क्रिसमस्-द्वीप"
+ },
+ "CY": {
+  "provenance": "curated",
+  "value": "साइप्रस्"
+ },
+ "CZ": {
+  "provenance": "curated",
+  "value": "चेकिया"
+ },
+ "DJ": {
+  "provenance": "curated",
+  "value": "जिबूती"
+ },
+ "DK": {
+  "provenance": "curated",
+  "value": "डेन्मार्क"
+ },
+ "DM": {
+  "provenance": "curated",
+  "value": "डोमिनिका"
+ },
+ "DO": {
+  "confidence": "low",
+  "note": "descriptive compound with गणराज्य",
+  "provenance": "curated",
+  "value": "डोमिनिकन-गणराज्य"
+ },
+ "DZ": {
+  "provenance": "curated",
+  "value": "अल्जीरिया"
+ },
+ "EC": {
+  "provenance": "curated",
+  "value": "इक्वाडोर"
+ },
+ "EE": {
+  "provenance": "curated",
+  "value": "एस्टोनिया"
+ },
+ "EG": {
+  "confidence": "low",
+  "note": "sa.wikipedia also uses ईजिप्त; hi form मिस्र chosen",
+  "provenance": "curated",
+  "value": "मिस्र"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "पश्चिम-सहारा"
+ },
+ "ER": {
+  "provenance": "curated",
+  "value": "इरिट्रिया"
+ },
+ "ES": {
+  "provenance": "curated",
+  "value": "स्पेन"
+ },
+ "ET": {
+  "provenance": "curated",
+  "value": "इथियोपिया"
+ },
+ "FI": {
+  "provenance": "curated",
+  "value": "फिन्लैण्ड"
+ },
+ "FJ": {
+  "provenance": "curated",
+  "value": "फिजी"
+ },
+ "FK": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "फॉक्लैण्ड-द्वीपसमूह"
+ },
+ "FM": {
+  "provenance": "curated",
+  "value": "माइक्रोनेशिया"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "फेरो-द्वीपसमूह"
+ },
+ "GA": {
+  "provenance": "curated",
+  "value": "गैबॉन"
+ },
+ "GD": {
+  "provenance": "curated",
+  "value": "ग्रेनाडा"
+ },
+ "GE": {
+  "provenance": "curated",
+  "value": "जॉर्जिया"
+ },
+ "GF": {
+  "confidence": "low",
+  "note": "territory; compound modelled on hi",
+  "provenance": "curated",
+  "value": "फ्रेञ्च-गयाना"
+ },
+ "GG": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "गर्न्सी"
+ },
+ "GH": {
+  "provenance": "curated",
+  "value": "घाना"
+ },
+ "GI": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "जिब्राल्टर"
+ },
+ "GL": {
+  "provenance": "curated",
+  "value": "ग्रीनलैण्ड"
+ },
+ "GM": {
+  "provenance": "curated",
+  "value": "गाम्बिया"
+ },
+ "GN": {
+  "provenance": "curated",
+  "value": "गिनी"
+ },
+ "GP": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "ग्वाडेलूप"
+ },
+ "GQ": {
+  "confidence": "low",
+  "note": "calque 'Equatorial' = विषुवतीय; hi uses इक्वेटोरियल गिनी",
+  "provenance": "curated",
+  "value": "विषुवतीय-गिनी"
+ },
+ "GR": {
+  "confidence": "low",
+  "note": "classical Sanskrit name (Yavana = Greeks) as used on sa.wikipedia; alt. ग्रीस",
+  "provenance": "curated",
+  "value": "यवनदेश"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "दक्षिण-जॉर्जिया एवं दक्षिण-सैण्डविच-द्वीपसमूह"
+ },
+ "GT": {
+  "provenance": "curated",
+  "value": "ग्वाटेमाला"
+ },
+ "GU": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "गुआम"
+ },
+ "GW": {
+  "provenance": "curated",
+  "value": "गिनी-बिसाऊ"
+ },
+ "GY": {
+  "provenance": "curated",
+  "value": "गयाना"
+ },
+ "HK": {
+  "confidence": "low",
+  "note": "SAR qualifier omitted; transliteration",
+  "provenance": "curated",
+  "value": "हाङ्ग्काङ्ग्"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "uninhabited territory; descriptive compound",
+  "provenance": "curated",
+  "value": "हर्ड-द्वीप एवं मैक्डोनाल्ड-द्वीपसमूह"
+ },
+ "HN": {
+  "provenance": "curated",
+  "value": "होण्डुरास्"
+ },
+ "HR": {
+  "provenance": "curated",
+  "value": "क्रोएशिया"
+ },
+ "HT": {
+  "provenance": "curated",
+  "value": "हैटी"
+ },
+ "HU": {
+  "provenance": "curated",
+  "value": "हङ्गरी"
+ },
+ "ID": {
+  "provenance": "curated",
+  "value": "इण्डोनेशिया"
+ },
+ "IE": {
+  "provenance": "curated",
+  "value": "आयर्लैण्ड"
+ },
+ "IL": {
+  "provenance": "curated",
+  "value": "इस्राएल"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "मैन्-द्वीप"
+ },
+ "IO": {
+  "confidence": "low",
+  "note": "territory; descriptive compound modelled on hi",
+  "provenance": "curated",
+  "value": "ब्रिटिश-हिन्दमहासागर-क्षेत्र"
+ },
+ "IQ": {
+  "provenance": "curated",
+  "value": "इराक"
+ },
+ "IR": {
+  "provenance": "curated",
+  "value": "ईरान"
+ },
+ "IS": {
+  "provenance": "curated",
+  "value": "आइस्लैण्ड"
+ },
+ "JE": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "जर्सी"
+ },
+ "JM": {
+  "provenance": "curated",
+  "value": "जमैका"
+ },
+ "JO": {
+  "provenance": "curated",
+  "value": "जॉर्डन"
+ },
+ "KE": {
+  "provenance": "curated",
+  "value": "केन्या"
+ },
+ "KG": {
+  "provenance": "curated",
+  "value": "किर्गिजस्तान"
+ },
+ "KH": {
+  "provenance": "curated",
+  "value": "कम्बोडिया"
+ },
+ "KI": {
+  "provenance": "curated",
+  "value": "किरिबाटी"
+ },
+ "KM": {
+  "provenance": "curated",
+  "value": "कोमोरोस्"
+ },
+ "KN": {
+  "confidence": "low",
+  "note": "transliteration with एवं",
+  "provenance": "curated",
+  "value": "सेण्ट-किट्स् एवं नेविस्"
+ },
+ "KP": {
+  "provenance": "curated",
+  "value": "उत्तर-कोरिया"
+ },
+ "KR": {
+  "provenance": "curated",
+  "value": "दक्षिण-कोरिया"
+ },
+ "KW": {
+  "provenance": "curated",
+  "value": "कुवैत"
+ },
+ "KY": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "केमन्-द्वीपसमूह"
+ },
+ "KZ": {
+  "provenance": "curated",
+  "value": "कजाखस्तान"
+ },
+ "LA": {
+  "provenance": "curated",
+  "value": "लाओस्"
+ },
+ "LB": {
+  "provenance": "curated",
+  "value": "लेबनान"
+ },
+ "LC": {
+  "confidence": "low",
+  "note": "transliteration",
+  "provenance": "curated",
+  "value": "सेण्ट-लूसिया"
+ },
+ "LI": {
+  "confidence": "low",
+  "note": "transliteration",
+  "provenance": "curated",
+  "value": "लिख्टेन्स्टाइन्"
+ },
+ "LK": {
+  "provenance": "curated",
+  "value": "श्रीलङ्का"
+ },
+ "LR": {
+  "provenance": "curated",
+  "value": "लाइबेरिया"
+ },
+ "LS": {
+  "provenance": "curated",
+  "value": "लेसोथो"
+ },
+ "LT": {
+  "provenance": "curated",
+  "value": "लिथुआनिया"
+ },
+ "LU": {
+  "provenance": "curated",
+  "value": "लक्सम्बर्ग"
+ },
+ "LV": {
+  "provenance": "curated",
+  "value": "लात्विया"
+ },
+ "LY": {
+  "provenance": "curated",
+  "value": "लीबिया"
+ },
+ "MA": {
+  "provenance": "curated",
+  "value": "मोरक्को"
+ },
+ "MC": {
+  "provenance": "curated",
+  "value": "मोनाको"
+ },
+ "MD": {
+  "provenance": "curated",
+  "value": "मोल्डोवा"
+ },
+ "ME": {
+  "provenance": "curated",
+  "value": "मॉण्टेनेग्रो"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "सेण्ट-मार्टिन्"
+ },
+ "MG": {
+  "provenance": "curated",
+  "value": "मडागास्कर"
+ },
+ "MH": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "मार्शल्-द्वीपसमूह"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "descriptive compound; transliteration",
+  "provenance": "curated",
+  "value": "उत्तर-मेसिडोनिया"
+ },
+ "ML": {
+  "provenance": "curated",
+  "value": "माली"
+ },
+ "MM": {
+  "provenance": "curated",
+  "value": "म्यान्मार"
+ },
+ "MN": {
+  "provenance": "curated",
+  "value": "मङ्गोलिया"
+ },
+ "MO": {
+  "confidence": "low",
+  "note": "SAR qualifier omitted; transliteration",
+  "provenance": "curated",
+  "value": "मकाऊ"
+ },
+ "MP": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "उत्तर-मारियाना-द्वीपसमूह"
+ },
+ "MQ": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "मार्टिनीक"
+ },
+ "MR": {
+  "provenance": "curated",
+  "value": "मॉरिटानिया"
+ },
+ "MS": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "मॉण्टसेराट"
+ },
+ "MT": {
+  "provenance": "curated",
+  "value": "माल्टा"
+ },
+ "MU": {
+  "provenance": "curated",
+  "value": "मॉरिशस्"
+ },
+ "MV": {
+  "provenance": "curated",
+  "value": "मालदीव"
+ },
+ "MW": {
+  "provenance": "curated",
+  "value": "मलावी"
+ },
+ "MX": {
+  "provenance": "curated",
+  "value": "मेक्सिको"
+ },
+ "MY": {
+  "provenance": "curated",
+  "value": "मलेशिया"
+ },
+ "MZ": {
+  "provenance": "curated",
+  "value": "मोजाम्बिक"
+ },
+ "NA": {
+  "provenance": "curated",
+  "value": "नामिबिया"
+ },
+ "NC": {
+  "confidence": "low",
+  "note": "territory; 'New' calqued as नव-",
+  "provenance": "curated",
+  "value": "नव-कैलेडोनिया"
+ },
+ "NE": {
+  "provenance": "curated",
+  "value": "नाइजर"
+ },
+ "NF": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "नॉर्फोक्-द्वीप"
+ },
+ "NG": {
+  "provenance": "curated",
+  "value": "नाइजीरिया"
+ },
+ "NI": {
+  "provenance": "curated",
+  "value": "निकारागुआ"
+ },
+ "NL": {
+  "provenance": "curated",
+  "value": "नेदरलैण्ड्"
+ },
+ "NO": {
+  "provenance": "curated",
+  "value": "नॉर्वे"
+ },
+ "NP": {
+  "provenance": "curated",
+  "value": "नेपाल"
+ },
+ "NR": {
+  "provenance": "curated",
+  "value": "नाउरु"
+ },
+ "NU": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "नियू"
+ },
+ "NZ": {
+  "provenance": "curated",
+  "value": "न्यूजीलैण्ड"
+ },
+ "OM": {
+  "provenance": "curated",
+  "value": "ओमान"
+ },
+ "PA": {
+  "provenance": "curated",
+  "value": "पनामा"
+ },
+ "PE": {
+  "provenance": "curated",
+  "value": "पेरू"
+ },
+ "PF": {
+  "confidence": "low",
+  "note": "territory; compound modelled on hi",
+  "provenance": "curated",
+  "value": "फ्रेञ्च-पॉलिनेशिया"
+ },
+ "PG": {
+  "provenance": "curated",
+  "value": "पापुआ न्यू गिनी"
+ },
+ "PH": {
+  "provenance": "curated",
+  "value": "फिलिपीन्स्"
+ },
+ "PK": {
+  "provenance": "curated",
+  "value": "पाकिस्तान"
+ },
+ "PL": {
+  "provenance": "curated",
+  "value": "पोलैण्ड"
+ },
+ "PM": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "सेण्ट-पियेर् एवं मिकेलों"
+ },
+ "PN": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "पिट्केर्न्-द्वीपसमूह"
+ },
+ "PR": {
+  "confidence": "low",
+  "note": "territory; transliteration",
+  "provenance": "curated",
+  "value": "पोर्टो रिको"
+ },
+ "PS": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "पालेस्टीनी-प्रदेश"
+ },
+ "PT": {
+  "provenance": "curated",
+  "value": "पुर्तगाल"
+ },
+ "PW": {
+  "provenance": "curated",
+  "value": "पलाऊ"
+ },
+ "PY": {
+  "provenance": "curated",
+  "value": "पराग्वे"
+ },
+ "QA": {
+  "provenance": "curated",
+  "value": "कतर"
+ },
+ "RE": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "रियूनियन्"
+ },
+ "RO": {
+  "provenance": "curated",
+  "value": "रोमानिया"
+ },
+ "RS": {
+  "provenance": "curated",
+  "value": "सर्बिया"
+ },
+ "RW": {
+  "provenance": "curated",
+  "value": "रवाण्डा"
+ },
+ "SA": {
+  "provenance": "curated",
+  "value": "सऊदी-अरब"
+ },
+ "SB": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "सोलोमन्-द्वीपसमूह"
+ },
+ "SC": {
+  "provenance": "curated",
+  "value": "सेशेल्स्"
+ },
+ "SD": {
+  "provenance": "curated",
+  "value": "सूडान"
+ },
+ "SE": {
+  "provenance": "curated",
+  "value": "स्वीडन"
+ },
+ "SG": {
+  "confidence": "low",
+  "note": "sa.wikipedia uses सिंहपुर (historical) in some texts; modern form chosen",
+  "provenance": "curated",
+  "value": "सिङ्गापुर"
+ },
+ "SH": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "सेण्ट-हेलेना"
+ },
+ "SI": {
+  "provenance": "curated",
+  "value": "स्लोवेनिया"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "स्वाल्बार्ड् एवं यान्-मायेन्"
+ },
+ "SK": {
+  "provenance": "curated",
+  "value": "स्लोवाकिया"
+ },
+ "SL": {
+  "provenance": "curated",
+  "value": "सियेरा लियोन"
+ },
+ "SM": {
+  "provenance": "curated",
+  "value": "सान् मरीनो"
+ },
+ "SN": {
+  "provenance": "curated",
+  "value": "सेनेगल"
+ },
+ "SO": {
+  "provenance": "curated",
+  "value": "सोमालिया"
+ },
+ "SR": {
+  "provenance": "curated",
+  "value": "सूरीनाम"
+ },
+ "SS": {
+  "provenance": "curated",
+  "value": "दक्षिण-सूडान"
+ },
+ "ST": {
+  "confidence": "low",
+  "note": "transliteration",
+  "provenance": "curated",
+  "value": "साओ-टोमे एवं प्रिन्सिपे"
+ },
+ "SV": {
+  "provenance": "curated",
+  "value": "एल्-साल्वाडोर्"
+ },
+ "SX": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "सिण्ट्-मार्टेन्"
+ },
+ "SY": {
+  "provenance": "curated",
+  "value": "सीरिया"
+ },
+ "SZ": {
+  "provenance": "curated",
+  "value": "एस्वातिनी"
+ },
+ "TC": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "टर्क्स् एवं कैकोस्-द्वीपसमूह"
+ },
+ "TD": {
+  "provenance": "curated",
+  "value": "चाड"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "फ्रेञ्च-दक्षिण-प्रदेश"
+ },
+ "TG": {
+  "provenance": "curated",
+  "value": "टोगो"
+ },
+ "TH": {
+  "confidence": "low",
+  "note": "sa.wikipedia/Thai usage of Sanskrit-derived name; alt. थाईलैण्ड",
+  "provenance": "curated",
+  "value": "थाईदेश"
+ },
+ "TJ": {
+  "provenance": "curated",
+  "value": "ताजिकिस्तान"
+ },
+ "TK": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "टोकेलाउ"
+ },
+ "TL": {
+  "confidence": "low",
+  "note": "descriptive compound ('East Timor')",
+  "provenance": "curated",
+  "value": "पूर्व-तिमोर"
+ },
+ "TM": {
+  "provenance": "curated",
+  "value": "तुर्कमेनिस्तान"
+ },
+ "TN": {
+  "provenance": "curated",
+  "value": "ट्यूनिशिया"
+ },
+ "TO": {
+  "provenance": "curated",
+  "value": "टोङ्गा"
+ },
+ "TR": {
+  "provenance": "curated",
+  "value": "तुर्किये"
+ },
+ "TT": {
+  "provenance": "curated",
+  "value": "त्रिनिदाद एवं टोबेगो"
+ },
+ "TV": {
+  "provenance": "curated",
+  "value": "तुवालु"
+ },
+ "TW": {
+  "provenance": "curated",
+  "value": "ताइवान"
+ },
+ "TZ": {
+  "provenance": "curated",
+  "value": "टान्जानिया"
+ },
+ "UA": {
+  "provenance": "curated",
+  "value": "युक्रेन"
+ },
+ "UG": {
+  "provenance": "curated",
+  "value": "युगाण्डा"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "संयुक्तराज्य-बाह्य-लघुद्वीपसमूह"
+ },
+ "UY": {
+  "provenance": "curated",
+  "value": "उरुग्वे"
+ },
+ "UZ": {
+  "provenance": "curated",
+  "value": "उज्बेकिस्तान"
+ },
+ "VA": {
+  "provenance": "curated",
+  "value": "वेटिकन्-नगर"
+ },
+ "VC": {
+  "confidence": "low",
+  "note": "transliteration",
+  "provenance": "curated",
+  "value": "सेण्ट-विन्सेण्ट् एवं ग्रेनेडीन्स्"
+ },
+ "VE": {
+  "provenance": "curated",
+  "value": "वेनेजुएला"
+ },
+ "VG": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "ब्रिटिश-वर्जिन्-द्वीपसमूह"
+ },
+ "VI": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "अमेरिकी-वर्जिन्-द्वीपसमूह"
+ },
+ "VN": {
+  "provenance": "curated",
+  "value": "वियतनाम"
+ },
+ "VU": {
+  "provenance": "curated",
+  "value": "वनुआटु"
+ },
+ "WF": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "वालिस् एवं फुटुना"
+ },
+ "WS": {
+  "provenance": "curated",
+  "value": "सामोआ"
+ },
+ "XK": {
+  "provenance": "curated",
+  "value": "कोसोवो"
+ },
+ "YE": {
+  "provenance": "curated",
+  "value": "यमन"
+ },
+ "YT": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "मायोत्"
+ },
+ "ZA": {
+  "provenance": "curated",
+  "value": "दक्षिण-आफ्रिका"
+ },
+ "ZM": {
+  "provenance": "curated",
+  "value": "जाम्बिया"
+ },
+ "ZW": {
+  "provenance": "curated",
+  "value": "जिम्बाब्वे"
+ }
+}

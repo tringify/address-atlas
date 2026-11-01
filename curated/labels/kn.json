@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "ಮೊದಲ ಹೆಸರು",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "ಕೊನೆಯ ಹೆಸರು",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "ಅಪಾರ್ಟ್‌ಮೆಂಟ್, ಸೂಟ್ ಇತ್ಯಾದಿ (ಐಚ್ಛಿಕ)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "ಸಂಸ್ಥೆ",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "ಗಲ್ಲಿ ವಿಳಾಸ",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "ಫೋನ್",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "ರಾಷ್ಟ್ರ/ಪ್ರದೇಶ",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "ನಗರ",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "ಪೋಸ್ಟ್‌ನ ಪಟ್ಟಣ",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "ಉಪನಗರ",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "ಟೌನ್‌ಲ್ಯಾಂಡ್",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "ಗ್ರಾಮ / ಟೌನ್‌ಶಿಪ್‌‌",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "ಜಿಲ್ಲೆ",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "ನೆರೆಹೊರೆ",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "ಪ್ರದೇಶ",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "ರಾಷ್ಟ್ರ",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "ವಿಭಾಗ",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "ಜಿಲ್ಲೆ",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "ಡೊ/ಸಿ",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "ಎಮಿರೇಟ್",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "ದ್ವೀಪ",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "ಒಬ್ಲಾಸ್ಟ್",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "ಪಾರಿಷ್",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "ಪ್ರಿಫೆಕ್ಚರ್‌‌",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "ಪ್ರಾಂತ್ಯ",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "ರಾಜ್ಯ",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "ಪೋಸ್ಟಲ್ ಕೋಡ್",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "ಪಿನ್ ಕೋಡ್",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN ಕೋಡ್‌",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "ಇರ್‌ಕೋಡ್",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "ನೀವು ಇದನ್ನು ಖಾಲಿ ಬಿಡುವಂತಿಲ್ಲ.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "ಈ ಕ್ಷೇತ್ರಕ್ಕಾಗಿ ತಿಳಿದಿರುವ ಮೌಲ್ಯದಂತೆ {FIELD_VALUE} ಅನ್ನು ಗುರುತಿಸಲಾಗಲಿಲ್ಲ.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "ಈ ವಿಳಾಸದ ಗೆರೆಯು ಪೋಸ್ಟ್ ಆಫೀಸ್ ಬಾಕ್ಸ್ ಅನ್ನು ಒಳಗೊಂಡಿರುವಂತೆ ಕಾಣುತ್ತಿದೆ. ದಯವಿಟ್ಟು ಗಲ್ಲಿ ಅಥವಾ ಕಟ್ಟಡದ ವಿಳಾಸವನ್ನು ಬಳಸಿ.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "ಈ ಪೋಸ್ಟಲ್ ಕೋಡ್ ಸ್ವರೂಪವನ್ನು ಗುರುತಿಸಲಾಗಲಿಲ್ಲ. ಮಾನ್ಯವಾದ ಪೋಸ್ಟಲ್ ಕೋಡ್‌ಗೆ ಉದಾಹರಣೆ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "ಈ ಪಿನ್‌ ಕೋಡ್ ಸ್ವರೂಪವನ್ನು ಗುರುತಿಸಲಾಗಲಿಲ್ಲ. ಮಾನ್ಯ ಪಿನ್ ಕೋಡ್‌ಗೆ ಉದಾಹರಣೆ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "ಈ ಪೋಸ್ಟಲ್ ಕೋಡ್ ಉಳಿದಿರುವ ಈ ವಿಳಾಸಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುವಂತೆ ಗೋಚರಿಸುವುದಿಲ್ಲ.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "ಈ ಪಿನ್‌ ಕೋಡ್ ಉಳಿದಿರುವ ಈ ವಿಳಾಸಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗುವಂತೆ ಗೋಚರಿಸುವುದಿಲ್ಲ.",
+  "provenance": "chromium"
+ }
+}

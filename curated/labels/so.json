@@ -1,0 +1,174 @@
+{
+ "fields.first_name": {
+  "value": "Magaca hore",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Magaca dambe",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Abaartamaha, dabaqa iwm. (ikhtiyaari)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Hay'ad",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Cinwaanka waddada",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefoon",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Dal / Gobol",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Magaalo",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Magaalada boostada",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Somali; wording not verified against a Somali form"
+ },
+ "city.suburb": {
+  "value": "Duleedka magaalada",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Somali; wording not verified against a Somali form"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Somali equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Tuulo / Degmo",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Degmo",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Xaafad",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Aag",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Kawnti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Somali; wording not verified against a Somali form"
+ },
+ "province.department": {
+  "value": "Waax",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Degmo",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Imaarad",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Jasiirad",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Barish",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Somali; wording not verified against a Somali form"
+ },
+ "province.prefecture": {
+  "value": "Gobolka maamulka",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Japanese-style prefecture; descriptive rendering"
+ },
+ "province.province": {
+  "value": "Gobol",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Dawlad goboleed",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Koodhka boostada",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Koodhka ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Koodhka PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Tan uma dhaafi kartid iyadoo madhan.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} looma aqoonsan qiime la yaqaan oo goobtan ah.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Somali; wording not verified against a Somali form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Safkan cinwaanku wuxuu u muuqdaa inuu ku jiro sanduuq boosto. Fadlan isticmaal cinwaanka waddo ama dhisme.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Somali; wording not verified against a Somali form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Qaabka koodhkan boostada lama aqoonsan. Tusaale koodh boosto oo sax ah: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Somali; wording not verified against a Somali form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Qaabka koodhkan ZIP lama aqoonsan. Tusaale koodh ZIP oo sax ah: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Somali; wording not verified against a Somali form"
+ },
+ "messages.postal_mismatch": {
+  "value": "Koodhkan boostadu uma muuqdo inuu la jaanqaadayo inta kale ee cinwaankan.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Somali; wording not verified against a Somali form"
+ },
+ "messages.zip_mismatch": {
+  "value": "Koodhkan ZIP uma muuqdo inuu la jaanqaadayo inta kale ee cinwaankan.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Somali; wording not verified against a Somali form"
+ }
+}

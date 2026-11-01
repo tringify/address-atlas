@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "የመጀመሪያ ስም",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "የአባት ስም",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "አፓርትመንት፣ ቢሮ፣ ወዘተ (አማራጭ)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "ድርጅት",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "የጎዳና አድራሻ",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "ስልክ",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "አገር/ክልል",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "ከተማ",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "የፖስታ ከተማ",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "ከተማ ዳርቻ",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Townland",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "መንደር / ከተማ",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "ወረዳ",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "ሰፈር",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "አካባቢ",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "ክፍለ ሀገር",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "መመሪያ",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "ወረዳ",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "ዶ/ሲ",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "ኤሚሬት",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "ደሴት",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "ኦብላስት",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "ፓሪሽ",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "መስተዳድር",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "ጠቅላይ ግዛት",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "ግዛት",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "የፖስታ ኮድ",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "ዚፕ ኮድ",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "ፒን ኮድ",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "ይሄንን ባዶ መተው አይችሉም።",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} ለዚህ መስክ የሚታወቅ እሴት ስለመሆኑ እውቅና የለውም።",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "ይህ አድራሻ የፖስታ ሳጥን ያለው ይመስላል። እባክዎ የመንገድ ወይም የህንጻ አድራሻ ይጠቀሙ።",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "ይህ የፖስታ ኮድ ቅርጸት አይታወቅም። የሚሰራ የፖስታ ኮድ ምሳሌ፦ {EXAMPLE}።",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "ይህ የዚፕ ኮድ ቅርጸት አይታወቅም። የሚሰራ የዚፕ ኮድ ምሳሌ፦ {EXAMPLE}።",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "ይህ የፖስታ ኮድ ከተቀረው የዚህ አድራሻ ጋር የሚዛመድ አይመስልም።",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "ይህ ዚፕ ኮድ ከተቀረው ከዚህ አድራሻ ጋር የሚዛመድ አይመስልም።",
+    "provenance": "chromium"
+  }
+}

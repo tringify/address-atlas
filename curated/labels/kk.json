@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Аты",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Тегі",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Пәтер, кеңсе және т.б. (міндетті емес)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Ұйым",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Көше мекенжайы",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Телефон",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Ел/аймақ",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Қала",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Қала",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Қала маңы",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Таунленд",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Ауыл/шағын қала",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Аудан",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Аудан",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Аудан",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Округ",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Департамент",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Аудан",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "До/си",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Әмірлік",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Арал",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Облыс",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Округ",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Префектура",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Провинция",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Штат",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Пошта индексі",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Пошта индексі",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN коды",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Мұны бос қалдыруға болмайды.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} осы өріс үшін белгілі мән ретінде анықталмаған.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Бұл мекенжай жолында пошта жәшігі бар. Көше немесе ғимарат мекенжайын пайдаланыңыз.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Бұл пошта индексінің пішімі танылмады. Жарамды пошта индексінің мысалы: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Бұл пошта индексінің пішімі танылмады. Жарамды пошта индексінің үлгісі: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Бұл пошта индексі осы мекенжайдың қалған бөлігіне сәйкес келмейді.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Бұл пошта индексі осы мекенжайдың қалған бөлігіне сәйкес емес.",
+  "provenance": "chromium"
+ }
+}

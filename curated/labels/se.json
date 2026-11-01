@@ -1,0 +1,190 @@
+{
+ "fields.first_name": {
+  "value": "Ovdanamma",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Goargu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "fields.address2": {
+  "value": "Viessu, gearddi jna. (eaktodáhtolaš)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "fields.company": {
+  "value": "Organisašuvdna",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Geaidnočujuhus",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefovdna",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Riika / guovlu",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Gávpot",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Poastabáiki",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "city.suburb": {
+  "value": "Olgogávpot",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Sami equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Gilli / suohkan",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Distrikta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "city.neighborhood": {
+  "value": "Gávpotoassi",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Guovlu",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Fylka",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Departemeanta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "province.district": {
+  "value": "Distrikta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emiráhtta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "province.island": {
+  "value": "Suolu",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Searvegoddi",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Prefektuvra",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "province.province": {
+  "value": "Provinsa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "province.state": {
+  "value": "Stáhta",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Poastanummir",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "ZIP-koda",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "postal.pin": {
+  "value": "PIN-koda",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Dán ii sáhte guođđit guorusin.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ii dovdojuvvo gustovaš árvun dán gieddái.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Dát čujuhusláidu orru sisttisdoallamin poastaboksa. Atte geaidno- dahje visttečujuhusa.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Dán poastanummira hápmi ii dovdojuvvo. Ovdamearka gustovaš poastanummiris: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Dán ZIP-koda hápmi ii dovdojuvvo. Ovdamearka gustovaš ZIP-kodas: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "messages.postal_mismatch": {
+  "value": "Dát poastanummir ii oro heivemin čujuhusa eará osiide.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ },
+ "messages.zip_mismatch": {
+  "value": "Dát ZIP-koda ii oro heivemin čujuhusa eará osiide.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Northern Sami; wording not verified against a Sami-language form"
+ }
+}

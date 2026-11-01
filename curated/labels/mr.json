@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "पहिले नाव",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "आडनाव",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "अपार्टमेंट, सुइट इ. (पर्यायी)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "संस्‍था",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "रस्त्याचे नाव",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "फोन",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "देश/प्रदेश",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "शहर",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "पोस्ट टाउन",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "उपनगर",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "टाउनलँड",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "खेडे / उपनगर",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "जिल्हा",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "अतिपरिचित क्षेत्र",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "क्षेत्र",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "परगणा",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "विभाग",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "जिल्हा",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "अमिरात",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "बेट",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "ओब्लास्ट",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "परगणा",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "परफेक्चुअर",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "प्रांत",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "राज्य",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "पोस्टल कोड",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "पिन कोड",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "पिन कोड",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "तुम्ही हे रिक्त सोडू शकत नाही.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "या फील्डसाठी ज्ञात मूल्य म्हणून {FIELD_VALUE} ओळखले गेले नाही.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "या पत्त्यामध्ये एका पोस्ट ऑफिस बॉक्सचा समावेश असल्याचे दिसते. कृपया एक मार्ग किंवा इमारत पत्ता वापरा.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "हे पोस्टल कोड स्वरूपन ओळखीचे नाही. वैध पोस्टल कोडचे उदाहरण: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "हे पिनकोड स्वरूपन ओळखीचे नाही. वैध पिनकोडचे उदाहरण: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "हा उर्वरित पत्ता जुळविण्यासाठी हा पोस्टल कोड ‍दिसला नाही.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "हा उर्वरित पत्ता जुळविण्यासाठी हा पिन कोड दिसत नाही.",
+  "provenance": "chromium"
+ }
+}

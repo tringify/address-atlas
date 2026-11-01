@@ -1,0 +1,182 @@
+{
+ "fields.first_name": {
+  "value": "Igama",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Ifani",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Iflethi, isakhiwo, njl. (ayinyanzelekanga)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ },
+ "fields.company": {
+  "value": "Umbutho",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Idilesi yesitrato",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Ifowuni",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Ilizwe / Ummandla",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Isixeko",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Idolophu yeposi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ },
+ "city.suburb": {
+  "value": "Ihlomela-dolophu",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Xhosa equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Ilali / Ilokishi",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Isithili",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Ummelwane",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ },
+ "province.area": {
+  "value": "Ummandla",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Ikhawunti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ },
+ "province.department": {
+  "value": "Isebe",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Isithili",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "I-emirate",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "loan; no native Xhosa term"
+ },
+ "province.island": {
+  "value": "Isiqithi",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "I-oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Ipharishi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ },
+ "province.prefecture": {
+  "value": "I-prefecture",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "loan; no native Xhosa term"
+ },
+ "province.province": {
+  "value": "Iphondo",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Ilizwe elilawulayo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ },
+ "postal.postal": {
+  "value": "Ikhowudi yeposi",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Ikhowudi ye-ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Ikhowudi ye-PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Akunakushiya oku kungenanto.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ayaziwa njengexabiso elisemthethweni kule ndawo.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Lo mgca wedilesi ubonakala uqulethe ibhokisi yeposi. Nceda usebenzise idilesi yesitrato okanye yesakhiwo.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Le fomathi yekhowudi yeposi ayaziwa. Umzekelo wekhowudi yeposi esemthethweni: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Le fomathi yekhowudi ye-ZIP ayaziwa. Umzekelo wekhowudi ye-ZIP esemthethweni: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ },
+ "messages.postal_mismatch": {
+  "value": "Le khowudi yeposi ayibonakali ihambelana nayo yonke idilesi.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ },
+ "messages.zip_mismatch": {
+  "value": "Le khowudi ye-ZIP ayibonakali ihambelana nayo yonke idilesi.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Xhosa; South African forms are usually in English, wording not verified"
+ }
+}

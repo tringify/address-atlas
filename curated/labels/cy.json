@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Enw cyntaf",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Cyfenw",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Fflat, swît, ac ati (dewisol)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Sefydliad",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Cyfeiriad stryd",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Ffôn",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Gwlad / Rhanbarth",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Dinas",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Tref Bost",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Maestref",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Ardal",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Pentref / Treflan",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Ardal",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Cymdogaeth",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Ardal",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Sir",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Adran",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Ardal",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emiriaeth",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Ynys",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Plwyf",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Rhaglawiaeth",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Talaith",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Talaith",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Côd Post",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Cod ZIP",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "Cod PIN",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Ni allwch adael hyn yn wag.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "Nid yw {FIELD_VALUE} yn cael ei gydnabod fel gwerth dilys ar gyfer y maes hwn.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Mae'n ymddangos bod y cyfeiriad hwn yn cynnwys blwch swyddfa'r post. Defnyddiwch gyfeiriad stryd neu adeilad.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Nid yw fformat y cod post yn cael ei adnabod. Enghraifft o god post dilys: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Nid yw fformat y cod ZIP yn cael ei gydnabod. Enghraifft o god ZIP dilys: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Nid yw'n debyg bod y cod post yn cyd-fynd â gweddill y cyfeiriad hwn.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Nid yw'n debyg bod y cod ZIP yn cyd-fynd â gweddill y cyfeiriad hwn.",
+    "provenance": "chromium"
+  }
+}

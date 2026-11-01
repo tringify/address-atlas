@@ -1,0 +1,574 @@
+{
+ "AR": {
+  "final": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "[A-HJ-NP-Z]\\d{4}[A-Z]{3}",
+    "examples": [
+     "C1070AAM",
+     "Y5900FNF",
+     "X5187YAB",
+     "C1000WAE"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/argEn.pdf"
+   },
+   "required": "AC",
+   "layout": "%N%n%O%n%A%n%Z %C%n%S",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "province",
+    "subdivision_list": "complete (23 provinces + CABA as AR-C)"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "zip: keep the strict 8-character CPA (letter + 4 digits + 3 letters). Do not add a bare 4-digit alternative: UPU (07/2002) and the UPU Aug 2026 format table list only A9999AAA, and argentina.gob.ar lists '1426' as 'No recomendado'.",
+    "zipex: X5187XAB -> X5187YAB (the UPU sheet's rural sample is X5187YAB)",
+    "state_name_type: live dropped 'state' (now defaults to 'province'); 'province' (provincia) is correct"
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/argEn.pdf",
+    "https://www.correoargentino.com.ar/formularios/cpa",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+    "https://www.argentina.gob.ar/paquete-de-apertura/guia-para-la-identificacion-y-uso-de-entidades-interoperables/codigos-postales"
+   ],
+   "confidence": "high",
+   "notes": "UPU examples show 'Y5900FNF VILLA MARIA' with no province line; the province letter is part of the CPA. Keep %S optional. Legacy 4-digit input can be flagged as a warning but is not valid. Correo Argentino pages returned Incapsula/503 on 2026-11-01 and could not be checked directly."
+  },
+  "decisions": {
+   "postal.pattern": "accepted checker: the UPU argEn.pdf sheet says '8 alphanumeric characters (1 letter, 4 digits and 3 letters)', the UPU General-Addressing-Issues format table (Aug 2026) lists Argentina as A9999AAA, and argentina.gob.ar (Guía de entidades interoperables / códigos postales) lists '1426' and 'C1426' under 'No recomendado'. Nothing I could open supports the original claim that Correo Argentino still accepts the 4-digit code. Both correoargentino.com.ar pages were blocked (Incapsula, then 503), so the checker's quote from them is unverified, but the decision does not depend on it.",
+   "postal.examples": "accepted checker: dropped '5900' (not a CPA). Also replaced X5187XAB with X5187YAB, which is the rural sample actually printed on argEn.pdf, as the checker noted. Y5900FNF and C1000WAE are on the sheet. C1070AAM fits the pattern."
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/argEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.argentina.gob.ar/paquete-de-apertura/guia-para-la-identificacion-y-uso-de-entidades-interoperables/codigos-postales"
+  ]
+ },
+ "CO": {
+  "final": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{6}",
+    "examples": [
+     "111711",
+     "110841",
+     "233057",
+     "110911"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/colEn.pdf"
+   },
+   "required": "ACZ",
+   "layout": "%N%n%O%n%A%n%D%n%C %Z%n%S",
+   "dropped_tokens": {
+    "%D": "Sub-locality (barrio / 'Localidad de Kennedy'); UPU shows it on its own line. Put it in a street line if %D is dropped; low risk."
+   },
+   "province": {
+    "named": true,
+    "kind": "department",
+    "subdivision_list": "complete (32 departments + CO-DC Bogotá)"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "fmt: '%C, %S, %Z' -> '%C %Z%n%S' (4-72 / UPU 10/2022: locality + 6-digit code on one line, department on the next)",
+    "require: 'AS' -> 'ACZ' (every UPU example has locality + postcode; the Bogotá example has no department line; Colombia is on the UPU Aug 2026 'require postal codes' list)"
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/colEn.pdf",
+    "https://www.4-72.com.co/",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "confidence": "medium",
+   "notes": "UPU 10/2022 samples: 'BOGOTA 111711'; 'Localidad de Kennedy 110841' / 'BOGOTA D.C.'; 'PLANETA RICA 233057' / 'CORDOBA'. %S is optional (the plain Bogotá sample omits it). %D is the sub-locality line (e.g. 'Alqueria La Fragua', 'Arroyón')."
+  },
+  "decisions": {
+   "layout": "accepted checker: colEn.pdf (10/2022) says '6 digits postcode after the locality'. Its examples are 'BOGOTA 111711', 'Localidad de Kennedy 110841' then 'BOGOTA D.C.' labelled province, and 'PLANETA RICA 233057' then 'CORDOBA'. Department is on its own line after locality + postcode. The proposal's '%C, %S, %Z' has no operator source.",
+   "required": "accepted checker: every colEn.pdf example carries locality + postcode, the urban Bogotá example has no department line (so S cannot be required), and the UPU General-Addressing-Issues (Aug 2026) 'require postal codes' list includes Colombia. Result: ACZ, with no Bogotá special case."
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/colEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "CY": {
+  "final": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "(?:CY-?)?\\d{4}",
+    "examples": [
+     "2008",
+     "3304",
+     "6036",
+     "1900"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cypEn.pdf"
+   },
+   "required": "ACZ",
+   "layout": "%N%n%O%n%A%nCY-%Z %C",
+   "dropped_tokens": {},
+   "province": {
+    "named": false,
+    "kind": null,
+    "subdivision_list": "complete (no entries; districts not written in addresses)"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "required: live default AC; Cyprus Post (UPU 3/2023) puts a postcode in every address, so recommend ACZ.",
+    "fmt: print the ISO prefix for inbound international mail: '%Z %C' -> 'CY-%Z %C' ('CY-2008 Strovolos'). Store the postcode as 4 digits: strip a typed 'CY-' before storage so it is not printed twice."
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cypEn.pdf",
+    "https://www.cypruspost.post/",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "confidence": "high",
+   "notes": "The pattern accepts a typed CY- prefix, but the stored value must be normalised to the 4 digits (same as sources/postal/rules.json CY: prefix strip_if_typed) or the layout prints 'CY-CY-2008'. Domestic mail omits CY- ('6036 Larnaka'); this layout is for international mail. The northern part uses Turkish 'Mersin 10' routing with 99xxx codes, which this pattern does not cover (outside Cyprus Post's system)."
+  },
+  "decisions": {
+   "layout": "accepted checker: cypEn.pdf (3.2023) says 'Cyprus Post requires the ISO-2 country code to be used on all inbound international mail', and its inbound examples are 'CY-2008 Strovolos' and 'CY-3304 Limassol'. The UPU format table (Aug 2026) lists Cyprus as CY-9999 with the ISO prefix 'Yes'. The proposal itself recommended the prefix but its layout never printed it. Caveat: typed 'CY-' must be stripped before storage."
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cypEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "GT": {
+  "final": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{5}",
+    "examples": [
+     "09001",
+     "01501",
+     "01010"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gtmEn.pdf"
+   },
+   "required": "AC",
+   "layout": "%N%n%O%n%A%n%Z - %C",
+   "dropped_tokens": {},
+   "province": {
+    "named": false,
+    "kind": "department",
+    "subdivision_list": "complete for addressing (departments are not a separate field in the live format; our list is empty)"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "fmt: '%Z- %C' -> '%Z - %C' (UPU 11/2025: '09001 - QUETZALTENANGO', '01001 - Guatemala')"
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+    "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GT",
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gtmEn.pdf"
+   ],
+   "confidence": "low",
+   "notes": "UPU 11/2025 sheet: format 99999, '5 digits to the left of the locality name (department), sometimes separated by a dash'. The hyphen is optional ('01013 Guatemala'). The rural sample appends the department after the municipality ('01065 Villa Canales, Guatemala'), so it fits inside %C and needs no separate %S. 09001 is on the sheet; 01501 and 01010 are not, but they fit the pattern. The sheet always shows the code, and Guatemala is on the UPU Aug 2026 require list. Z is left optional because the checker did not dispute it."
+  },
+  "decisions": {
+   "layout": "accepted checker: gtmEn.pdf (11/2025) prints '09001 - QUETZALTENANGO' and '01001 - Guatemala' (space, hyphen, space), and also allows no dash ('01013 Guatemala'). '%Z- %C' would render '09001- QUETZALTENANGO', which appears in no source."
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gtmEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "IL": {
+  "final": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{7}",
+    "examples": [
+     "9614303"
+    ],
+    "source": "https://doar.israelpost.co.il/en/locatezip"
+   },
+   "required": "AC",
+   "layout": "%N%n%O%n%A%n%Z %C",
+   "dropped_tokens": {},
+   "province": {
+    "named": false,
+    "kind": null,
+    "subdivision_list": "complete (districts are not used in addresses)"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "zip \\d{5}(?:\\d{2})? -> \\d{7}. Israel Post replaced 5-digit codes with 7-digit codes (mikud) on 1 Feb 2013; 5-digit codes stopped being valid on 31 Jan 2013, and UPU lists Israel as 9999999 only. If we want to accept old input, keep the legacy form only as a warning, not as valid.",
+    "fmt: '%C %Z' -> '%Z %C' for Latin-script/international addresses (UPU 10/2022: '9414219 JERUSALEM', '7178437 Modiin-Maccabim-Reut')"
+   ],
+   "sources": [
+    "https://en.wikipedia.org/wiki/Postal_codes_in_Israel",
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/isrEn.pdf",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+    "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IL"
+   ],
+   "confidence": "high",
+   "notes": "The live posturl (israelpost.co.il/zipcode.nsf) is outdated. UPU says the 7-digit code goes 'to the left of locality name'. In Latin script that means before the locality ('9414219 JERUSALEM'). In Hebrew (RTL) the code displayed on the left is logically after the city, so a Hebrew-script local layout would be '%C %Z'. This schema has one layout field, so it follows the UPU Latin example."
+  },
+  "decisions": {
+   "layout": "accepted checker: isrEn.pdf (10/2022) says '7 digits to the left of locality name' and prints '9414219 JERUSALEM' and '7178437 Modiin-Maccabim-Reut'. The Israel Post business page the checker cited returned 403, so its wording is unverified, but the UPU sheet alone settles the Latin-script order. Note: '%C %Z' is correct only as the logical order of a Hebrew RTL address."
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/isrEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "KR": {
+  "final": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{5}",
+    "examples": [
+     "03051"
+    ],
+    "source": "https://www.epost.go.kr/search/zipcode/search5.jsp"
+   },
+   "required": "ACSZ",
+   "layout": "%S %C%D%n%A%n%O%n%N%n%Z",
+   "dropped_tokens": {
+    "%D": "Gu/gun (district) within a city. In Korean addresses it sits between city and road name; drop it and the road-name address may be ambiguous in big cities, so if we drop %D it must be typed into the street line."
+   },
+   "province": {
+    "named": true,
+    "kind": "do_si",
+    "subdivision_list": "issues: 16 current first-level units, not 17. From 1 Jul 2026, 전라남도 (KR-46) and 광주광역시 (KR-29) were abolished and merged into 전남광주통합특별시 (short name 광주특별시); no ISO 3166-2 code yet. Keep '전라남도' and '광주광역시' only as input aliases. Also KR-42 is 강원특별자치도 (from 11 Jun 2023) and KR-45 is 전북특별자치도 (from 18 Jan 2024), with codes unchanged."
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "sub_keys: 강원도 -> 강원특별자치도 and 전라북도 -> 전북특별자치도 (renamed Special Self-Governing Provinces in 2023 and 2024).",
+    "sub_keys: replace 전라남도 and 광주광역시 with 전남광주통합특별시 (merged 1 Jul 2026 under the 전남광주통합특별시 설치를 위한 특별법). Addresses become '전남광주통합특별시 여수시' and '전남광주통합특별시 동구'. Accept the old names as aliases and show the new one.",
+    "Keep the ISO code question open: no ISO 3166-2 code has been published for the merged city."
+   ],
+   "sources": [
+    "https://www.epost.go.kr/search/zipcode/search5.jsp",
+    "https://en.wikipedia.org/wiki/ISO_3166-2:KR",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+    "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KR",
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/korEn.pdf",
+    "https://www.yna.co.kr/view/AKR20260630109800054",
+    "https://www.jeonnam.go.kr/boardDown.do?boardId=tronix&fileLinkSeq=1&fileLinkTp=F&seq=358"
+   ],
+   "confidence": "high",
+   "notes": "5-digit postcodes since 1 Aug 2015 (UPU korEn.pdf). The ISO newsletter of 2023-11-23 changed only the KR-42 category; ISO still calls KR-45 Jeollabuk-do and has nothing for the 2026 merger. The UPU international examples (03/2016) put the province + postcode last ('DAEGU 42007'). The large-to-small layout here is the domestic Korean order."
+  },
+  "decisions": {
+   "province.subdivision_list": "accepted checker: Yonhap (AKR20260630109800054, 1 Jul 2026) reports 전남광주통합특별시 launched at 0:00 on 1 Jul 2026 and says '전라남도와 광주광역시는 폐지'. It gives the address forms '전남광주통합특별시 여수시' / '전남광주통합특별시 동구' and the short name '광주특별시'. The statute text in the jeonnam.go.kr download ([시행 2026. 7. 1.] 법률 제21738호, Art. 1) confirms 종전의 전라남도와 광주광역시를 통합. Wikipedia ISO_3166-2:KR (edited 4 Oct 2026) still lists KR-29/KR-46 and only the 2023-11-23 KR-42 change, so no new ISO code exists yet."
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/korEn.pdf",
+   "https://www.yna.co.kr/view/AKR20260630109800054",
+   "https://www.jeonnam.go.kr/boardDown.do?boardId=tronix&fileLinkSeq=1&fileLinkTp=F&seq=358",
+   "https://en.wikipedia.org/wiki/ISO_3166-2:KR"
+  ]
+ },
+ "MM": {
+  "final": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{5}(?:\\d{2})?",
+    "examples": [
+     "0505001",
+     "0213202",
+     "1118001"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mmrEn.pdf"
+   },
+   "required": "ACSZ",
+   "layout": "%N%n%O%n%A%n%D%n%C, %Z%n%S",
+   "dropped_tokens": {
+    "%D": "quarter / village tract line; usually written on an %A line in practice - acceptable.",
+    "%S": "Live fmt has no %S; UPU 11/2022 puts the state/region on its own line. Omitting it is common for big cities but recommended by Myanmar Post."
+   },
+   "province": {
+    "named": true,
+    "kind": "state (7 regions, 7 states, Nay Pyi Taw union territory)",
+    "subdivision_list": "issues: tsv has no MM rows; 15 ISO 3166-2:MM codes needed if %S is added"
+   },
+   "labels": {
+    "city": "city (township)",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "zip: accept 7 digits (UPU 11/2022: 2 state + 2 township + 3 quarter, e.g. 0505001) and keep 5 digits as legacy, since the UPU Aug 2026 database still lists both 99999 and 9999999. Display and examples use 7 digits.",
+    "zipex: 0505001, 0213202, 1118001 (all on the UPU sheet); drop 11181",
+    "fmt: add state/region line ('%N%n%O%n%A%n%D%n%C, %Z%n%S') per UPU; add the 15 MM subdivisions (7 regions, 7 states, Nay Pyi Taw Union Territory)",
+    "require: ACSZ (Myanmar is on the UPU Aug 2026 require list)"
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mmrEn.pdf",
+    "https://en.wikipedia.org/wiki/Postal_codes_in_Myanmar",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "confidence": "medium",
+   "notes": "Line order per the UPU sheet: name / house + street / quarter or village tract / township, postcode / state or region. The P.O. Box sample ('YANGON GENERAL POST OFFICE, 1118001') has no state line; if P.O. boxes matter, S may need relaxing. subdivisions.tsv has no MM rows."
+  },
+  "decisions": {
+   "postal.pattern": "kept original (\\d{5}(?:\\d{2})?): mmrEn.pdf (11/2022) defines 7 digits. However, the UPU General-Addressing-Issues format/length tables (Aug 2026), the more recent official source, still list Myanmar under both 99999 and 9999999, so rejecting 5-digit codes would reject a form UPU still records. The checker itself allows 5 digits 'as legacy input'. Canonical display and examples are 7 digits.",
+   "postal.examples": "accepted checker: 0505001, 0213202 and 1118001 are the coded samples on mmrEn.pdf. 11181 appears on no official source I opened.",
+   "required": "accepted checker (ACSZ): every addressed example on mmrEn.pdf carries the 7-digit code on the township line, and Myanmar is on the UPU Aug 2026 require list. S was already required. Caveat: the P.O. Box sample has no state line."
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mmrEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "MZ": {
+  "final": {
+   "verdict": "needs_decision",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{5}-\\d{3}",
+    "examples": [],
+    "source": "https://www.incm.gov.mz/?sdm_process_download=1&download_id=556"
+   },
+   "required": "AC",
+   "layout": "%N%n%O%n%A%n%Z %C%n%S",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "province",
+    "subdivision_list": "complete (11 ISO codes; MZ-MPM Maputo city vs MZ-L Maputo province)"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "fmt: live '%Z %C%S' has no separator between city and province (renders 'MAPUTOMAPUTO'); UPU puts the province on its own line - use '%N%n%O%n%A%n%Z %C%n%S'.",
+    "zip: Decreto n.º 74/2024 (BR I Série nº 183, 18 Sep 2024, in force on publication, revokes Decreto 28/2019) sets the CEP at 8 digits, 5 + hyphen + 3. Pattern \\d{5}-\\d{3}, pending a published code list.",
+    "zipex: live 1102/1119/3212 and UPU 2005 1100/3314 are old 4-digit codes; no official 8-digit sample has been published yet."
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mozEn.pdf",
+    "https://www.incm.gov.mz/legislacao-postal/",
+    "https://www.incm.gov.mz/?sdm_process_download=1&download_id=556",
+    "https://www.incm.gov.mz/novo-codigo-de-enderecamento-postal/",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "confidence": "low",
+   "notes": "Decreto 74/2024 Art. 3 structure: zone (1 Sul / 2 Centro / 3 Norte), province (0 = Cidade de Maputo, 0-4 by zone), urban/non-urban flag, district or city (2), administrative post (1), locality or bairro (2). Maputo city has its own variant: city (2), municipal district (1), municipal admin post (1), bairro (1). Maputo city codes therefore begin '10'. Correios de Moçambique was dissolved in 2021; CORRE (Decreto 34/2024) is the designated operator. INCM's own footer still shows 'CEP: 0102-07', which fits neither the decree nor the 4-digit system. The UPU Aug 2026 table still lists 9999. Envelope layout is from the 2005 UPU sheet; no newer sample was found."
+  },
+  "decisions": {
+   "postal.pattern": "unresolved: official sources conflict. The final entry uses \\d{5}-\\d{3}, the best-supported value, which is neither side's proposal. Decreto n.º 74/2024 (INCM legislação postal download 556, BR I Série nº 183) Art. 3(1) says 'composto por oito algarismos, separados por um travessão em dois grupos ... o primeiro de cinco e o segundo de três'. It is in force on publication (Art. 9) and revokes Decreto 28/2019 (Art. 8). The proposal's \\d{4} rests on the UPU 03/2005 sheet and on the UPU Aug 2026 table (still '9999'). The checker's \\d{4}-\\d{2} rests only on INCM's own address footer 'CEP: 0102-07', which does not fit the decree's structure (Maputo city = zone 1, province 0). No published code list or real 8-digit code was found, and UPU has not been updated.",
+   "postal.examples": "unresolved: rejected both. 1100/3314 are 2005 4-digit codes, and 0102-07 contradicts Decreto 74/2024. No real code under the decree has been published, and I did not invent one. Examples left empty."
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mozEn.pdf",
+   "https://www.incm.gov.mz/legislacao-postal/",
+   "https://www.incm.gov.mz/?sdm_process_download=1&download_id=556",
+   "https://www.incm.gov.mz/novo-codigo-de-enderecamento-postal/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "PA": {
+  "final": {
+   "verdict": "needs_decision",
+   "postal": {
+    "uses": true,
+    "pattern": null,
+    "examples": [],
+    "source": "https://www.codigospostalespanama.gob.pa/"
+   },
+   "required": "AS",
+   "layout": "%N%n%O%n%A%n%C%n%S",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "province",
+    "subdivision_list": "issues: subdivisions.tsv has no PA rows. Live has 14 (10 provinces incl. Panamá Oeste PA-10 + comarcas EM, KY, NB, NT 'Naso Tjër Di', added 2022). Add all 14 ISO codes."
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "zip: Panama launched a national georeferenced postcode system on 7 May 2026 (Correos Panamá / INEC, portal codigospostalespanama.gob.pa). Mark postcodes as in use but do not add %Z to the layout, require it, or validate it until the format is published in the Gaceta Oficial (still pending at launch per La Estrella).",
+    "sub_keys: add all 14 ISO first-level units (10 provinces incl. Panamá Oeste PA-10 + comarcas EM, KY, NB, NT); subdivisions.tsv has no PA rows."
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/panEn.pdf",
+    "https://www.laestrella.com.pa/panama/nacional/habilitan-codigos-postales-en-panama-con-el-apoyo-de-google-ED22212688",
+    "https://newsroompanama.com/2026/05/08/panama-has-launched-a-new-national-geolocated-postal-code-system/",
+    "https://www.codigospostalespanama.gob.pa/",
+    "https://www.correospanama.gob.pa/panama-da-un-paso-firme-hacia-la-modernizacion-con-el-nuevo-sistema-de-codigos-postales/",
+    "https://www.upu.int/en/news/2026/august/from-postal-addresses-to-digital-infrastructure",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "confidence": "low",
+   "notes": "Portal evidence is inconsistent. Its UI caption says 'Código completo XXXX-XXXX', but the search placeholder says 'Ej. A31234-5678 o solo grilla (8 caracteres)'. The live API (/api/location, fetched 2026-11-01) returns alphanumeric 5+5 codes: codigo_completo 'A7C95-69R3E' (Bella Vista, estafeta World Trade Center) and 'I2GW2-EKJ3Z' (David), with separate 'codigo' (A6132, I2026) and 'codigo_prefijo' (A7, I2). There is no published format and no Gaceta decree; the UPU Aug 2026 table still says 9999 (old zone numbers). Layout is left without %Z: no official envelope sample shows where the new code goes, so add %Z only once the format and position are published. UPU 02/2015 layout is locality, then 'PROVINCIA DE X'."
+  },
+  "decisions": {
+   "postal.uses": "accepted checker (true): the operator's own release (correospanama.gob.pa, 7 May 2026) launches the Sistema Nacional de Códigos Postales and points to codigospostalespanama.gob.pa, and UPU news (Aug 2026) describes Panama's National Georeferenced Postcode System. Z stays optional because La Estrella (launch day) quotes the director saying the Executive signature and Gaceta Oficial publication were still pending, and no later Gaceta text was found.",
+   "postal.pattern": "unresolved: the checker's \\d{4}-?\\d{4} is contradicted by the portal's own data. The /api/location responses give alphanumeric codes 'A7C95-69R3E' and 'I2GW2-EKJ3Z', and the input placeholder shows 'A31234-5678', even though the caption says 'XXXX-XXXX'. UPU's Aug 2026 table says 9999 (old zones). No official format is published. Pattern left null; do not validate."
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/panEn.pdf",
+   "https://www.codigospostalespanama.gob.pa/",
+   "https://www.correospanama.gob.pa/panama-da-un-paso-firme-hacia-la-modernizacion-con-el-nuevo-sistema-de-codigos-postales/",
+   "https://www.laestrella.com.pa/panama/nacional/habilitan-codigos-postales-en-panama-con-el-apoyo-de-google-ED22212688",
+   "https://www.upu.int/en/news/2026/august/from-postal-addresses-to-digital-infrastructure",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "PY": {
+  "final": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "(?:0\\d|1[0-7])\\d{4}",
+    "examples": [
+     "001218",
+     "001001",
+     "051103",
+     "110407"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/pryEn.pdf"
+   },
+   "required": "ACZ",
+   "layout": "%N%n%O%n%A%n%Z %C, %S",
+   "dropped_tokens": {},
+   "province": {
+    "named": true,
+    "kind": "department",
+    "subdivision_list": "issues: subdivisions.tsv has no PY rows (17 departments + Asunción). Optional, since addresses rarely include the department."
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "zip \\d{6} -> (?:0\\d|1[0-7])\\d{4}: the first 2 digits are the postal zone 00 (Asunción) to 17 (Alto Paraguay) per the UPU sheet",
+    "fmt: '%Z %C' -> '%Z %C, %S' (UPU 09/2018: '001218 ASUNCIÓN, CENTRAL', '120203 ALBERDI, ÑEEMBUCU'); S optional",
+    "require: AC -> ACZ (every UPU example has the 6-digit code; Paraguay is on the UPU Aug 2026 require list, length 6)"
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/pryEn.pdf",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "confidence": "high",
+   "notes": "If %S is empty the renderer must drop the dangling ', '. subdivisions.tsv has no PY rows: add 17 departments + Asunción (PY-ASU) for %S. The contact line '1209 ASUNCION' on the sheet is a leftover 4-digit address, not the specified format."
+  },
+  "decisions": {
+   "layout": "accepted checker: every formatted example on pryEn.pdf (09/2018) is 'postcode + locality + province' on one line: '001218 ASUNCIÓN, CENTRAL', '120203 ALBERDI, ÑEEMBUCU', '110309 FDO DE LA MORA, CENTRAL', '001521 ASUNCIÓN, CENTRAL'.",
+   "required": "accepted checker (ACZ): all four formatted pryEn.pdf examples carry the 6-digit code, and the UPU General-Addressing-Issues (Aug 2026) lists Paraguay among countries requiring postcodes, length 6. Only the operator's contact block shows a 4-digit '1209 ASUNCION', which predates the 6-digit system."
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/pryEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "SD": {
+  "final": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "\\d{5}",
+    "examples": [
+     "11042",
+     "11113"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sdnEn.pdf"
+   },
+   "required": "AC",
+   "layout": "%N%n%O%n%A%n%Z%n%C",
+   "dropped_tokens": {},
+   "province": {
+    "named": false,
+    "kind": null,
+    "subdivision_list": "complete (no subdivision used in addresses; none in subdivisions.tsv)"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "fmt: '%C%n%Z' -> '%Z%n%C' (UPU 07/2003: 5 digits above the locality name)",
+    "locality_name_type: district -> city (UPU calls the line the locality: KHARTOUM)"
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sdnEn.pdf",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "confidence": "low",
+   "notes": "Sudapost has 5-digit codes, but they are rarely used and the postal service has been badly disrupted since the 2023 war. The only code printed on the UPU sheet is 11111; 11042 and 11113 are live examples not confirmed by an official source. Sudan is on the UPU Aug 2026 require list; Z is left optional (not disputed). No post-2023 Sudapost sheet was found."
+  },
+  "decisions": {
+   "layout": "accepted checker: sdnEn.pdf (07/2003) says '5 digits above locality name' and its example prints '11111' on the line before 'KHARTOUM'. The proposal cited no country source (empty sources array).",
+   "labels.city": "accepted checker: sdnEn.pdf labels the KHARTOUM line as the locality, and the sub-units (region, postal zone, exchange centre, post office) are digits inside the code, not a 'district' line. No source supports 'district'."
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sdnEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "TL": {
+  "final": {
+   "verdict": "corrected",
+   "postal": {
+    "uses": true,
+    "pattern": "TL ?\\d{5}",
+    "examples": [
+     "TL10001",
+     "TL11212",
+     "TL10901",
+     "TL42000",
+     "TL11200"
+    ],
+    "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tlsEn.pdf"
+   },
+   "required": "ACZ",
+   "layout": "%N%n%O%n%A%n%C %Z",
+   "dropped_tokens": {},
+   "province": {
+    "named": false,
+    "kind": "municipality",
+    "subdivision_list": "n/a (no subdivisions used in addresses; list empty)"
+   },
+   "labels": {
+    "city": "city",
+    "postal": "postal"
+   },
+   "changes_from_live": [
+    "Google has no data; UPU (08/2026) documents a new postcode 'TL' + 5 digits after the locality ('BAIRO PITE - DILI TL11212')",
+    "require: ACZ (Timor-Leste is on the UPU Aug 2026 require list, format TL99999; every UPU 08/2026 example has the code)"
+   ],
+   "sources": [
+    "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tlsEn.pdf",
+    "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+   ],
+   "confidence": "high",
+   "notes": "New system. The code includes the TL prefix, so the layout must not add a second one. The 'on-going process' note on the sheet refers to house numbers, not postcodes. UPU also asks for a mobile phone line (not an address token)."
+  },
+  "decisions": {
+   "required": "accepted checker: tlsEn.pdf (8/2026) defines Line 3 as 'City name and post code', and every example has a code (DILI TL10001, BAIRO PITE – DILI TL11212, DILI TL10901, AINARO TL42000, BAIRO PITE – DILI TL11200). The UPU Aug 2026 lists put Timor-Leste on the require list (TL99999, ISO prefix Yes). The sheet's caveat '(Some house numbers have not been given, on-going process)' is about house numbers, not postcodes."
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tlsEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ }
+}

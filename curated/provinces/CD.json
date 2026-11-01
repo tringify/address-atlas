@@ -1,0 +1,225 @@
+{
+ "country": "CD",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "CD-BC",
+   "local": "Kongo Central",
+   "latin": "Kongo Central",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-BU",
+   "local": "Bas-Uélé",
+   "latin": "Bas-Uélé",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-EQ",
+   "local": "Équateur",
+   "latin": "Équateur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-HK",
+   "local": "Haut-Katanga",
+   "latin": "Haut-Katanga",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-HL",
+   "local": "Haut-Lomami",
+   "latin": "Haut-Lomami",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-HU",
+   "local": "Haut-Uélé",
+   "latin": "Haut-Uélé",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-IT",
+   "local": "Ituri",
+   "latin": "Ituri",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-KC",
+   "local": "Kasaï Central",
+   "latin": "Kasaï Central",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-KE",
+   "local": "Kasaï Oriental",
+   "latin": "Kasaï Oriental",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-KG",
+   "local": "Kwango",
+   "latin": "Kwango",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-KL",
+   "local": "Kwilu",
+   "latin": "Kwilu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-KN",
+   "local": "Kinshasa",
+   "latin": "Kinshasa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-KS",
+   "local": "Kasaï",
+   "latin": "Kasaï",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-LO",
+   "local": "Lomami",
+   "latin": "Lomami",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-LU",
+   "local": "Lualaba",
+   "latin": "Lualaba",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-MA",
+   "local": "Maniema",
+   "latin": "Maniema",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-MN",
+   "local": "Mai-Ndombe",
+   "latin": "Mai-Ndombe",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-MO",
+   "local": "Mongala",
+   "latin": "Mongala",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-NK",
+   "local": "Nord-Kivu",
+   "latin": "Nord-Kivu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-NU",
+   "local": "Nord-Ubangi",
+   "latin": "Nord-Ubangi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-SA",
+   "local": "Sankuru",
+   "latin": "Sankuru",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-SK",
+   "local": "Sud-Kivu",
+   "latin": "Sud-Kivu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-SU",
+   "local": "Sud-Ubangi",
+   "latin": "Sud-Ubangi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-TA",
+   "local": "Tanganyika",
+   "latin": "Tanganyika",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-TO",
+   "local": "Tshopo",
+   "latin": "Tshopo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CD-TU",
+   "local": "Tshuapa",
+   "latin": "Tshuapa",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added CD-BC Kongo Central",
+  "added CD-BU Bas-Uélé",
+  "added CD-EQ Équateur",
+  "added CD-HK Haut-Katanga",
+  "added CD-HL Haut-Lomami",
+  "added CD-HU Haut-Uélé",
+  "added CD-IT Ituri",
+  "added CD-KC Kasaï Central",
+  "added CD-KE Kasaï Oriental",
+  "added CD-KG Kwango",
+  "added CD-KL Kwilu",
+  "added CD-KN Kinshasa",
+  "added CD-KS Kasaï",
+  "added CD-LO Lomami",
+  "added CD-LU Lualaba",
+  "added CD-MA Maniema",
+  "added CD-MN Mai-Ndombe",
+  "added CD-MO Mongala",
+  "added CD-NK Nord-Kivu",
+  "added CD-NU Nord-Ubangi",
+  "added CD-SA Sankuru",
+  "added CD-SK Sud-Kivu",
+  "added CD-SU Sud-Ubangi",
+  "added CD-TA Tanganyika",
+  "added CD-TO Tshopo",
+  "added CD-TU Tshuapa"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/codEn.pdf",
+  "https://scpt.cd/corpo/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:CD",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": ""
+}

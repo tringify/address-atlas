@@ -1,0 +1,1106 @@
+{
+ "AD": {
+  "provenance": "curated",
+  "value": "Андоррӕ"
+ },
+ "AE": {
+  "confidence": "low",
+  "note": "compound calqued on ru; 'Иугонд' = united",
+  "provenance": "curated",
+  "value": "Арабийы Иугонд Эмираттӕ"
+ },
+ "AF": {
+  "provenance": "curated",
+  "value": "Афгъанистан"
+ },
+ "AG": {
+  "confidence": "low",
+  "note": "transliteration",
+  "provenance": "curated",
+  "value": "Антигуӕ ӕмӕ Барбудӕ"
+ },
+ "AI": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Ангильӕ"
+ },
+ "AL": {
+  "provenance": "curated",
+  "value": "Албани"
+ },
+ "AM": {
+  "confidence": "low",
+  "note": "traditional Ossetian name (Сомих = Armenians); alt. Армени",
+  "provenance": "curated",
+  "value": "Сомихы Бӕстӕ"
+ },
+ "AO": {
+  "provenance": "curated",
+  "value": "Анголӕ"
+ },
+ "AQ": {
+  "provenance": "curated",
+  "value": "Антарктидӕ"
+ },
+ "AR": {
+  "provenance": "curated",
+  "value": "Аргентинӕ"
+ },
+ "AS": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Америкаг Самоа"
+ },
+ "AT": {
+  "provenance": "curated",
+  "value": "Австри"
+ },
+ "AU": {
+  "provenance": "curated",
+  "value": "Австрали"
+ },
+ "AW": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Арубӕ"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "territory; descriptive compound (сакъадах = island)",
+  "provenance": "curated",
+  "value": "Аландаг сакъадӕхтӕ"
+ },
+ "AZ": {
+  "provenance": "curated",
+  "value": "Азербайджан"
+ },
+ "BA": {
+  "provenance": "curated",
+  "value": "Босни ӕмӕ Герцеговинӕ"
+ },
+ "BB": {
+  "provenance": "curated",
+  "value": "Барбадос"
+ },
+ "BD": {
+  "provenance": "curated",
+  "value": "Бангладеш"
+ },
+ "BE": {
+  "provenance": "curated",
+  "value": "Бельги"
+ },
+ "BF": {
+  "provenance": "curated",
+  "value": "Буркина-Фасо"
+ },
+ "BG": {
+  "provenance": "curated",
+  "value": "Болгари"
+ },
+ "BH": {
+  "provenance": "curated",
+  "value": "Бахрейн"
+ },
+ "BI": {
+  "provenance": "curated",
+  "value": "Бурунди"
+ },
+ "BJ": {
+  "provenance": "curated",
+  "value": "Бенин"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Сен-Бартелеми"
+ },
+ "BM": {
+  "confidence": "low",
+  "note": "territory; transliteration",
+  "provenance": "curated",
+  "value": "Бермудӕ"
+ },
+ "BN": {
+  "provenance": "curated",
+  "value": "Бруней"
+ },
+ "BO": {
+  "provenance": "curated",
+  "value": "Боливи"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Карибаг Нидерландтӕ"
+ },
+ "BS": {
+  "provenance": "curated",
+  "value": "Багамтӕ"
+ },
+ "BT": {
+  "provenance": "curated",
+  "value": "Бутан"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "uninhabited territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Бувейы сакъадах"
+ },
+ "BW": {
+  "provenance": "curated",
+  "value": "Ботсванӕ"
+ },
+ "BY": {
+  "provenance": "curated",
+  "value": "Белорусси"
+ },
+ "BZ": {
+  "provenance": "curated",
+  "value": "Белиз"
+ },
+ "CA": {
+  "provenance": "curated",
+  "value": "Канадӕ"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Кокосон сакъадӕхтӕ"
+ },
+ "CD": {
+  "confidence": "low",
+  "note": "CLDR disambiguation pattern",
+  "provenance": "curated",
+  "value": "Конго - Киншасӕ"
+ },
+ "CF": {
+  "confidence": "low",
+  "note": "descriptive compound calqued on ru",
+  "provenance": "curated",
+  "value": "Централон Африкӕйы Республикӕ"
+ },
+ "CG": {
+  "confidence": "low",
+  "note": "CLDR disambiguation pattern",
+  "provenance": "curated",
+  "value": "Конго - Браззавиль"
+ },
+ "CH": {
+  "provenance": "curated",
+  "value": "Швейцари"
+ },
+ "CI": {
+  "provenance": "curated",
+  "value": "Кот-д’Ивуар"
+ },
+ "CK": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Кучы сакъадӕхтӕ"
+ },
+ "CL": {
+  "provenance": "curated",
+  "value": "Чили"
+ },
+ "CM": {
+  "provenance": "curated",
+  "value": "Камерун"
+ },
+ "CO": {
+  "provenance": "curated",
+  "value": "Колумби"
+ },
+ "CR": {
+  "provenance": "curated",
+  "value": "Коста-Рикӕ"
+ },
+ "CU": {
+  "provenance": "curated",
+  "value": "Кубӕ"
+ },
+ "CV": {
+  "provenance": "curated",
+  "value": "Кабо-Верде"
+ },
+ "CW": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Кюрасао"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "territory; descriptive compound calqued on ru",
+  "provenance": "curated",
+  "value": "Рождествойы сакъадах"
+ },
+ "CY": {
+  "provenance": "curated",
+  "value": "Кипр"
+ },
+ "CZ": {
+  "provenance": "curated",
+  "value": "Чехи"
+ },
+ "DJ": {
+  "provenance": "curated",
+  "value": "Джибути"
+ },
+ "DK": {
+  "provenance": "curated",
+  "value": "Дани"
+ },
+ "DM": {
+  "provenance": "curated",
+  "value": "Доминикӕ"
+ },
+ "DO": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "Доминикӕйы Республикӕ"
+ },
+ "DZ": {
+  "provenance": "curated",
+  "value": "Алжир"
+ },
+ "EC": {
+  "provenance": "curated",
+  "value": "Эквадор"
+ },
+ "EE": {
+  "provenance": "curated",
+  "value": "Эстони"
+ },
+ "EG": {
+  "confidence": "low",
+  "note": "traditional name (from Arabic Misr), used on os.wikipedia; alt. Египет",
+  "provenance": "curated",
+  "value": "Мысыр"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "descriptive compound (Ныгуылӕн = west)",
+  "provenance": "curated",
+  "value": "Ныгуылӕн Сахарӕ"
+ },
+ "ER": {
+  "provenance": "curated",
+  "value": "Эритрейӕ"
+ },
+ "ES": {
+  "provenance": "curated",
+  "value": "Испани"
+ },
+ "ET": {
+  "provenance": "curated",
+  "value": "Эфиопи"
+ },
+ "FI": {
+  "provenance": "curated",
+  "value": "Финлянди"
+ },
+ "FJ": {
+  "provenance": "curated",
+  "value": "Фиджи"
+ },
+ "FK": {
+  "confidence": "low",
+  "note": "territory; plural of Falkland, low certainty",
+  "provenance": "curated",
+  "value": "Фолклендтӕ"
+ },
+ "FM": {
+  "provenance": "curated",
+  "value": "Микронези"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Фарерты сакъадӕхтӕ"
+ },
+ "GA": {
+  "provenance": "curated",
+  "value": "Габон"
+ },
+ "GD": {
+  "provenance": "curated",
+  "value": "Гренадӕ"
+ },
+ "GF": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Францаг Гвианӕ"
+ },
+ "GG": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Гернси"
+ },
+ "GH": {
+  "provenance": "curated",
+  "value": "Ганӕ"
+ },
+ "GI": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Гибралтар"
+ },
+ "GL": {
+  "provenance": "curated",
+  "value": "Гренланди"
+ },
+ "GM": {
+  "provenance": "curated",
+  "value": "Гамби"
+ },
+ "GN": {
+  "provenance": "curated",
+  "value": "Гвиней"
+ },
+ "GP": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Гваделупӕ"
+ },
+ "GQ": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "Экваториалон Гвиней"
+ },
+ "GR": {
+  "confidence": "low",
+  "note": "traditional Ossetian name (Бердзенаг = Greek), used on os.wikipedia; alt. Греци",
+  "provenance": "curated",
+  "value": "Бердзенстон"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Хуссар Георги ӕмӕ Хуссар Сандвичы сакъадӕхтӕ"
+ },
+ "GT": {
+  "provenance": "curated",
+  "value": "Гватемалӕ"
+ },
+ "GU": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Гуам"
+ },
+ "GW": {
+  "provenance": "curated",
+  "value": "Гвиней-Бисау"
+ },
+ "GY": {
+  "provenance": "curated",
+  "value": "Гайанӕ"
+ },
+ "HK": {
+  "confidence": "low",
+  "note": "SAR qualifier omitted",
+  "provenance": "curated",
+  "value": "Гонконг"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "uninhabited territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Херд ӕмӕ Макдоналды сакъадӕхтӕ"
+ },
+ "HN": {
+  "provenance": "curated",
+  "value": "Гондурас"
+ },
+ "HR": {
+  "provenance": "curated",
+  "value": "Хорвати"
+ },
+ "HT": {
+  "provenance": "curated",
+  "value": "Гаити"
+ },
+ "HU": {
+  "provenance": "curated",
+  "value": "Венгри"
+ },
+ "ID": {
+  "provenance": "curated",
+  "value": "Индонези"
+ },
+ "IE": {
+  "provenance": "curated",
+  "value": "Ирланди"
+ },
+ "IL": {
+  "provenance": "curated",
+  "value": "Израиль"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Мэн сакъадах"
+ },
+ "IO": {
+  "confidence": "low",
+  "note": "territory; descriptive compound calqued on ru",
+  "provenance": "curated",
+  "value": "Британийы зӕхх Индийы океаны"
+ },
+ "IQ": {
+  "provenance": "curated",
+  "value": "Ирак"
+ },
+ "IR": {
+  "provenance": "curated",
+  "value": "Иран"
+ },
+ "IS": {
+  "provenance": "curated",
+  "value": "Исланди"
+ },
+ "JE": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Джерси"
+ },
+ "JM": {
+  "provenance": "curated",
+  "value": "Ямайкӕ"
+ },
+ "JO": {
+  "provenance": "curated",
+  "value": "Иордани"
+ },
+ "KE": {
+  "provenance": "curated",
+  "value": "Кени"
+ },
+ "KG": {
+  "provenance": "curated",
+  "value": "Хъыргъызстан"
+ },
+ "KH": {
+  "provenance": "curated",
+  "value": "Камбоджӕ"
+ },
+ "KI": {
+  "provenance": "curated",
+  "value": "Кирибати"
+ },
+ "KM": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "Коморты сакъадӕхтӕ"
+ },
+ "KN": {
+  "confidence": "low",
+  "note": "transliteration",
+  "provenance": "curated",
+  "value": "Сент-Китс ӕмӕ Невис"
+ },
+ "KP": {
+  "confidence": "low",
+  "note": "descriptive compound (Цӕгат = north)",
+  "provenance": "curated",
+  "value": "Цӕгат Корей"
+ },
+ "KR": {
+  "confidence": "low",
+  "note": "descriptive compound (Хуссар = south)",
+  "provenance": "curated",
+  "value": "Хуссар Корей"
+ },
+ "KW": {
+  "provenance": "curated",
+  "value": "Кувейт"
+ },
+ "KY": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Кайманты сакъадӕхтӕ"
+ },
+ "KZ": {
+  "provenance": "curated",
+  "value": "Хъазахстан"
+ },
+ "LA": {
+  "provenance": "curated",
+  "value": "Лаос"
+ },
+ "LB": {
+  "provenance": "curated",
+  "value": "Ливан"
+ },
+ "LC": {
+  "confidence": "low",
+  "note": "transliteration",
+  "provenance": "curated",
+  "value": "Сент-Люси"
+ },
+ "LI": {
+  "provenance": "curated",
+  "value": "Лихтенштейн"
+ },
+ "LK": {
+  "provenance": "curated",
+  "value": "Шри-Ланкӕ"
+ },
+ "LR": {
+  "provenance": "curated",
+  "value": "Либери"
+ },
+ "LS": {
+  "provenance": "curated",
+  "value": "Лесото"
+ },
+ "LT": {
+  "provenance": "curated",
+  "value": "Литвӕ"
+ },
+ "LU": {
+  "provenance": "curated",
+  "value": "Люксембург"
+ },
+ "LV": {
+  "provenance": "curated",
+  "value": "Латви"
+ },
+ "LY": {
+  "provenance": "curated",
+  "value": "Ливи"
+ },
+ "MA": {
+  "provenance": "curated",
+  "value": "Марокко"
+ },
+ "MC": {
+  "provenance": "curated",
+  "value": "Монако"
+ },
+ "MD": {
+  "provenance": "curated",
+  "value": "Молдави"
+ },
+ "ME": {
+  "provenance": "curated",
+  "value": "Черногори"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Сен-Мартен"
+ },
+ "MG": {
+  "provenance": "curated",
+  "value": "Мадагаскар"
+ },
+ "MH": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "Маршаллы сакъадӕхтӕ"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "Цӕгат Македони"
+ },
+ "ML": {
+  "provenance": "curated",
+  "value": "Мали"
+ },
+ "MM": {
+  "provenance": "curated",
+  "value": "Мьянмӕ"
+ },
+ "MN": {
+  "provenance": "curated",
+  "value": "Монголи"
+ },
+ "MO": {
+  "confidence": "low",
+  "note": "SAR qualifier omitted",
+  "provenance": "curated",
+  "value": "Макао"
+ },
+ "MP": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Цӕгат Марианӕйы сакъадӕхтӕ"
+ },
+ "MQ": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Мартиникӕ"
+ },
+ "MR": {
+  "provenance": "curated",
+  "value": "Мавритани"
+ },
+ "MS": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Монтсеррат"
+ },
+ "MT": {
+  "provenance": "curated",
+  "value": "Мальтӕ"
+ },
+ "MU": {
+  "provenance": "curated",
+  "value": "Маврики"
+ },
+ "MV": {
+  "provenance": "curated",
+  "value": "Мальдивтӕ"
+ },
+ "MW": {
+  "provenance": "curated",
+  "value": "Малави"
+ },
+ "MX": {
+  "provenance": "curated",
+  "value": "Мексикӕ"
+ },
+ "MY": {
+  "provenance": "curated",
+  "value": "Малайзи"
+ },
+ "MZ": {
+  "provenance": "curated",
+  "value": "Мозамбик"
+ },
+ "NA": {
+  "provenance": "curated",
+  "value": "Намиби"
+ },
+ "NC": {
+  "confidence": "low",
+  "note": "territory; 'New' = Ног",
+  "provenance": "curated",
+  "value": "Ног Каледони"
+ },
+ "NE": {
+  "provenance": "curated",
+  "value": "Нигер"
+ },
+ "NF": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Норфолчы сакъадах"
+ },
+ "NG": {
+  "provenance": "curated",
+  "value": "Нигери"
+ },
+ "NI": {
+  "provenance": "curated",
+  "value": "Никарагуӕ"
+ },
+ "NL": {
+  "provenance": "curated",
+  "value": "Нидерландтӕ"
+ },
+ "NO": {
+  "provenance": "curated",
+  "value": "Норвеги"
+ },
+ "NP": {
+  "provenance": "curated",
+  "value": "Непал"
+ },
+ "NR": {
+  "provenance": "curated",
+  "value": "Науру"
+ },
+ "NU": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Ниуэ"
+ },
+ "NZ": {
+  "provenance": "curated",
+  "value": "Ног Зеланди"
+ },
+ "OM": {
+  "provenance": "curated",
+  "value": "Оман"
+ },
+ "PA": {
+  "provenance": "curated",
+  "value": "Панамӕ"
+ },
+ "PE": {
+  "provenance": "curated",
+  "value": "Перу"
+ },
+ "PF": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Францаг Полинези"
+ },
+ "PG": {
+  "provenance": "curated",
+  "value": "Папуӕ – Ног Гвиней"
+ },
+ "PH": {
+  "provenance": "curated",
+  "value": "Филиппинтӕ"
+ },
+ "PK": {
+  "provenance": "curated",
+  "value": "Пакистан"
+ },
+ "PL": {
+  "provenance": "curated",
+  "value": "Польшӕ"
+ },
+ "PM": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Сен-Пьер ӕмӕ Микелон"
+ },
+ "PN": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Питкэрны сакъадӕхтӕ"
+ },
+ "PR": {
+  "provenance": "curated",
+  "value": "Пуэрто-Рико"
+ },
+ "PS": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "Палестинӕйы территоритӕ"
+ },
+ "PT": {
+  "provenance": "curated",
+  "value": "Португали"
+ },
+ "PW": {
+  "provenance": "curated",
+  "value": "Палау"
+ },
+ "PY": {
+  "provenance": "curated",
+  "value": "Парагвай"
+ },
+ "QA": {
+  "provenance": "curated",
+  "value": "Катар"
+ },
+ "RE": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Реюньон"
+ },
+ "RO": {
+  "provenance": "curated",
+  "value": "Румыни"
+ },
+ "RS": {
+  "provenance": "curated",
+  "value": "Серби"
+ },
+ "RW": {
+  "provenance": "curated",
+  "value": "Руандӕ"
+ },
+ "SA": {
+  "provenance": "curated",
+  "value": "Сауди Арави"
+ },
+ "SB": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "Соломоны сакъадӕхтӕ"
+ },
+ "SC": {
+  "provenance": "curated",
+  "value": "Сейшелтӕ"
+ },
+ "SD": {
+  "provenance": "curated",
+  "value": "Судан"
+ },
+ "SE": {
+  "provenance": "curated",
+  "value": "Швеци"
+ },
+ "SG": {
+  "provenance": "curated",
+  "value": "Сингапур"
+ },
+ "SH": {
+  "confidence": "low",
+  "note": "territory; descriptive compound, Сыгъдӕг = Saint",
+  "provenance": "curated",
+  "value": "Сыгъдӕг Еленӕйы сакъадах"
+ },
+ "SI": {
+  "provenance": "curated",
+  "value": "Словени"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "territory; transliteration",
+  "provenance": "curated",
+  "value": "Шпицберген ӕмӕ Ян-Майен"
+ },
+ "SK": {
+  "provenance": "curated",
+  "value": "Словаки"
+ },
+ "SL": {
+  "provenance": "curated",
+  "value": "Сьеррӕ-Леоне"
+ },
+ "SM": {
+  "provenance": "curated",
+  "value": "Сан-Марино"
+ },
+ "SN": {
+  "provenance": "curated",
+  "value": "Сенегал"
+ },
+ "SO": {
+  "provenance": "curated",
+  "value": "Сомали"
+ },
+ "SR": {
+  "provenance": "curated",
+  "value": "Суринам"
+ },
+ "SS": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "Хуссар Судан"
+ },
+ "ST": {
+  "provenance": "curated",
+  "value": "Сан-Томе ӕмӕ Принсипи"
+ },
+ "SV": {
+  "provenance": "curated",
+  "value": "Сальвадор"
+ },
+ "SX": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Синт-Мартен"
+ },
+ "SY": {
+  "provenance": "curated",
+  "value": "Сири"
+ },
+ "SZ": {
+  "provenance": "curated",
+  "value": "Эсватини"
+ },
+ "TC": {
+  "confidence": "low",
+  "note": "territory; transliteration",
+  "provenance": "curated",
+  "value": "Тёркс ӕмӕ Кайкос"
+ },
+ "TD": {
+  "provenance": "curated",
+  "value": "Чад"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Францаг Хуссар территоритӕ"
+ },
+ "TG": {
+  "provenance": "curated",
+  "value": "Того"
+ },
+ "TH": {
+  "provenance": "curated",
+  "value": "Таиланд"
+ },
+ "TJ": {
+  "provenance": "curated",
+  "value": "Таджикистан"
+ },
+ "TK": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Токелау"
+ },
+ "TL": {
+  "confidence": "low",
+  "note": "descriptive compound (Скӕсӕн = east)",
+  "provenance": "curated",
+  "value": "Скӕсӕн Тимор"
+ },
+ "TM": {
+  "provenance": "curated",
+  "value": "Туркменистан"
+ },
+ "TN": {
+  "provenance": "curated",
+  "value": "Тунис"
+ },
+ "TO": {
+  "provenance": "curated",
+  "value": "Тонгӕ"
+ },
+ "TR": {
+  "confidence": "low",
+  "note": "traditional short name used on os.wikipedia; alt. Турци",
+  "provenance": "curated",
+  "value": "Турк"
+ },
+ "TT": {
+  "provenance": "curated",
+  "value": "Тринидад ӕмӕ Тобаго"
+ },
+ "TV": {
+  "provenance": "curated",
+  "value": "Тувалу"
+ },
+ "TW": {
+  "provenance": "curated",
+  "value": "Тайвань"
+ },
+ "TZ": {
+  "provenance": "curated",
+  "value": "Танзани"
+ },
+ "UA": {
+  "provenance": "curated",
+  "value": "Украинӕ"
+ },
+ "UG": {
+  "provenance": "curated",
+  "value": "Угандӕ"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "АИШ-ы Ӕддаг чысыл сакъадӕхтӕ"
+ },
+ "UY": {
+  "provenance": "curated",
+  "value": "Уругвай"
+ },
+ "UZ": {
+  "provenance": "curated",
+  "value": "Узбекистан"
+ },
+ "VA": {
+  "provenance": "curated",
+  "value": "Ватикан"
+ },
+ "VC": {
+  "confidence": "low",
+  "note": "transliteration",
+  "provenance": "curated",
+  "value": "Сент-Винсент ӕмӕ Гренадинтӕ"
+ },
+ "VE": {
+  "provenance": "curated",
+  "value": "Венесуэлӕ"
+ },
+ "VG": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "Британийы Виргинаг сакъадӕхтӕ"
+ },
+ "VI": {
+  "confidence": "low",
+  "note": "territory; descriptive compound",
+  "provenance": "curated",
+  "value": "АИШ-ы Виргинаг сакъадӕхтӕ"
+ },
+ "VN": {
+  "provenance": "curated",
+  "value": "Вьетнам"
+ },
+ "VU": {
+  "provenance": "curated",
+  "value": "Вануату"
+ },
+ "WF": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Уоллис ӕмӕ Футунӕ"
+ },
+ "WS": {
+  "provenance": "curated",
+  "value": "Самоа"
+ },
+ "XK": {
+  "provenance": "curated",
+  "value": "Косово"
+ },
+ "YE": {
+  "provenance": "curated",
+  "value": "Йемен"
+ },
+ "YT": {
+  "confidence": "low",
+  "note": "territory; transliteration only",
+  "provenance": "curated",
+  "value": "Майоттӕ"
+ },
+ "ZA": {
+  "confidence": "low",
+  "note": "descriptive compound",
+  "provenance": "curated",
+  "value": "Хуссар Африкӕ"
+ },
+ "ZM": {
+  "provenance": "curated",
+  "value": "Замби"
+ },
+ "ZW": {
+  "provenance": "curated",
+  "value": "Зимбабве"
+ }
+}

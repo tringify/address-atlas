@@ -1,0 +1,186 @@
+{
+ "country": "AR",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "AR-A",
+   "local": "Salta",
+   "latin": "Salta",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-B",
+   "local": "Buenos Aires",
+   "latin": "Buenos Aires",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-C",
+   "local": "Ciudad Autónoma de Buenos Aires",
+   "latin": "Ciudad Autónoma de Buenos Aires",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-D",
+   "local": "San Luis",
+   "latin": "San Luis",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-E",
+   "local": "Entre Ríos",
+   "latin": "Entre Ríos",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-F",
+   "local": "La Rioja",
+   "latin": "La Rioja",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-G",
+   "local": "Santiago del Estero",
+   "latin": "Santiago del Estero",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-H",
+   "local": "Chaco",
+   "latin": "Chaco",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-J",
+   "local": "San Juan",
+   "latin": "San Juan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-K",
+   "local": "Catamarca",
+   "latin": "Catamarca",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-L",
+   "local": "La Pampa",
+   "latin": "La Pampa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-M",
+   "local": "Mendoza",
+   "latin": "Mendoza",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-N",
+   "local": "Misiones",
+   "latin": "Misiones",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-P",
+   "local": "Formosa",
+   "latin": "Formosa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-Q",
+   "local": "Neuquén",
+   "latin": "Neuquén",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-R",
+   "local": "Río Negro",
+   "latin": "Río Negro",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-S",
+   "local": "Santa Fe",
+   "latin": "Santa Fe",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-T",
+   "local": "Tucumán",
+   "latin": "Tucumán",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-U",
+   "local": "Chubut",
+   "latin": "Chubut",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-V",
+   "local": "Tierra del Fuego",
+   "latin": "Tierra del Fuego",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-W",
+   "local": "Corrientes",
+   "latin": "Corrientes",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-X",
+   "local": "Córdoba",
+   "latin": "Córdoba",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-Y",
+   "local": "Jujuy",
+   "latin": "Jujuy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AR-Z",
+   "local": "Santa Cruz",
+   "latin": "Santa Cruz",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/argEn.pdf",
+  "https://www.correoargentino.com.ar/formularios/cpa",
+  "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+  "https://www.argentina.gob.ar/paquete-de-apertura/guia-para-la-identificacion-y-uso-de-entidades-interoperables/codigos-postales",
+  "https://www.iso.org/obp/ui/#iso:code:3166:AR",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": ""
+}

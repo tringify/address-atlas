@@ -1,0 +1,162 @@
+{
+  "fields.first_name": {
+    "value": "Fornavn",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Eftirnavn",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Íbúð, hædd o.s.fr. (valfrítt)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Felagsskapur",
+    "provenance": "curated"
+  },
+  "fields.address1": {
+    "value": "Bústaður",
+    "provenance": "curated"
+  },
+  "fields.phone": {
+    "value": "Telefon",
+    "provenance": "curated"
+  },
+  "fields.country": {
+    "value": "Land / Øki",
+    "provenance": "curated"
+  },
+  "city.city": {
+    "value": "Býur",
+    "provenance": "curated"
+  },
+  "city.post_town": {
+    "value": "Postbýur",
+    "provenance": "curated"
+  },
+  "city.suburb": {
+    "value": "Útbýur",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Approximate; 'úthverv' also possible."
+  },
+  "city.townland": {
+    "value": "Bygdarlag",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Irish 'townland' has no established equivalent; descriptive rendering."
+  },
+  "city.village_township": {
+    "value": "Bygd / Kommuna",
+    "provenance": "curated"
+  },
+  "city.district": {
+    "value": "Býarpartur",
+    "provenance": "curated"
+  },
+  "city.neighborhood": {
+    "value": "Grannalag",
+    "provenance": "curated"
+  },
+  "province.area": {
+    "value": "Øki",
+    "provenance": "curated"
+  },
+  "province.county": {
+    "value": "Sýsla",
+    "provenance": "curated"
+  },
+  "province.department": {
+    "value": "Departement",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Loan; no established Faroese term."
+  },
+  "province.district": {
+    "value": "Umdømi",
+    "provenance": "curated"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "curated",
+    "note": "Korean romanized term kept, as in Chromium's translations for other languages."
+  },
+  "province.emirate": {
+    "value": "Emirat",
+    "provenance": "curated"
+  },
+  "province.island": {
+    "value": "Oyggj",
+    "provenance": "curated"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "curated"
+  },
+  "province.parish": {
+    "value": "Sókn",
+    "provenance": "curated"
+  },
+  "province.prefecture": {
+    "value": "Prefektur",
+    "provenance": "curated"
+  },
+  "province.province": {
+    "value": "Provins",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Loan; no established Faroese term."
+  },
+  "province.state": {
+    "value": "Statur",
+    "provenance": "curated"
+  },
+  "postal.postal": {
+    "value": "Postnummar",
+    "provenance": "curated"
+  },
+  "postal.zip": {
+    "value": "ZIP-kota",
+    "provenance": "curated"
+  },
+  "postal.pin": {
+    "value": "PIN-kota",
+    "provenance": "curated"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "curated",
+    "note": "Proper name of Ireland's postcode system, kept as used locally."
+  },
+  "messages.required": {
+    "value": "Tú kanst ikki lata hetta vera tómt.",
+    "provenance": "curated"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} er ikki eitt kent virði fyri hendan teigin.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Message phrasing not verified against a native UI."
+  },
+  "messages.po_box_forbidden": {
+    "value": "Hendan bústaðarlinjan sær út til at innihalda ein postboks. Nýt vinarliga ein gøtu- ella bygningsbústað.",
+    "provenance": "curated"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Hetta postnummarsniðið er ikki kent. Dømi um eitt gyldugt postnummar: {EXAMPLE}.",
+    "provenance": "curated"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Hetta ZIP-kotusniðið er ikki kent. Dømi um eina gylduga ZIP-kotu: {EXAMPLE}.",
+    "provenance": "curated"
+  },
+  "messages.postal_mismatch": {
+    "value": "Hetta postnummarið sær ikki út til at samsvara við restina av bústaðnum.",
+    "provenance": "curated"
+  },
+  "messages.zip_mismatch": {
+    "value": "Henda ZIP-kotan sær ikki út til at samsvara við restina av bústaðnum.",
+    "provenance": "curated"
+  }
+}

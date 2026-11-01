@@ -1,0 +1,169 @@
+{
+ "AQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Antarktik"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Duuɗe Aaland"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sent Barteleemi"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Nederlannda Karayib"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Duuɗe Buwee"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Duuɗe Kokos"
+ },
+ "CW": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Kursaawo"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Duuɗe Kiristmas"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sahaara Hirnaange"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Duuɗe Faro"
+ },
+ "GG": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Gernesey"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Jeorgi Worgo e Duuɗe Sanwic Worgo"
+ },
+ "HK": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR ff uses for comparable territories",
+  "provenance": "curated",
+  "value": "Hong Kong"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Duuɗe Heerd e Makdonald"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Duuɗe Maan"
+ },
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Keeriindi britaani to maayo enndo"
+ },
+ "JE": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR ff uses for comparable territories",
+  "provenance": "curated",
+  "value": "Jersey"
+ },
+ "ME": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR ff uses for comparable territories",
+  "provenance": "curated",
+  "value": "Montenegro"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sent Marten"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "cf CLDR ff MP \"Duuɗe Mariyaana Rewo\"",
+  "provenance": "curated",
+  "value": "Maseduwaan Rewo"
+ },
+ "MO": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Makaawo"
+ },
+ "RS": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Serbi"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Swalbaar e Jan Mayen"
+ },
+ "SS": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sudaan Worgo"
+ },
+ "SX": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR ff uses for comparable territories",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Keeriiɗe Farayse Worgo"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Duuɗe Woɗɗiiɗe Dowlaaji Dentuɗi Amerik"
+ },
+ "XK": {
+  "confidence": "low",
+  "note": "constructed on CLDR ff patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Kosowo"
+ }
+}

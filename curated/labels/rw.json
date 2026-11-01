@@ -1,0 +1,184 @@
+{
+ "fields.first_name": {
+  "value": "Izina",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Izina ry'umuryango",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Inzu, igorofa n'ibindi (si ngombwa)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "fields.company": {
+  "value": "Ikigo",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Aderesi y'umuhanda",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefone",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Igihugu / Akarere",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Umujyi",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Umujyi w'iposita",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "city.suburb": {
+  "value": "Inkengero z'umujyi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Kinyarwanda equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Umudugudu / Akagari",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Akarere",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Agace",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "province.area": {
+  "value": "Agace",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "province.county": {
+  "value": "Intara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "province.department": {
+  "value": "Departema",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "province.district": {
+  "value": "Akarere",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emira",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "province.island": {
+  "value": "Ikirwa",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Paruwasi",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Perefegitura",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "province.province": {
+  "value": "Intara",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Leta",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Kode y'iposita",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Kode ya ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Kode ya PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Ntushobora gusiga iki gice kirimo ubusa.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ntizwi nk'agaciro kemewe kuri iki gice.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Uyu murongo wa aderesi usa n'urimo agasanduku k'iposita. Koresha aderesi y'umuhanda cyangwa y'inyubako.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Imiterere y'iyi kode y'iposita ntizwi. Urugero rwa kode y'iposita yemewe: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Imiterere y'iyi kode ya ZIP ntizwi. Urugero rwa kode ya ZIP yemewe: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "messages.postal_mismatch": {
+  "value": "Iyi kode y'iposita ntisa n'ihuye n'ibindi bigize iyi aderesi.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ },
+ "messages.zip_mismatch": {
+  "value": "Iyi kode ya ZIP ntisa n'ihuye n'ibindi bigize iyi aderesi.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+ }
+}

@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Etunimi",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Sukunimi",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Asunto, rappu yms. (valinnainen)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Organisaatio",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Katuosoite",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Puhelin",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Maa/alue",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Kaupunki",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Postitoimipaikka",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Lähiö",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Alue",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Kylä/kunta",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Alue",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Naapurusto",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Alue",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Piirikunta",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Osasto",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Alue",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emiirikunta",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Saari",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Oblasti",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Kunta",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Prefektuuri",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Provinssi",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Osavaltio/alue",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Postinumero",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Postinumero",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "PIN-koodi",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Tätä ei voi jättää tyhjäksi.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} ei ole kelvollinen arvo tälle kentälle.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Osoiterivi näyttää sisältävän postilokeron. Käytä katuosoitetta tai rakennuksen osoitetta.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Tuntematon postinumeron muoto. Tässä on esimerkki kelvollisesta postinumerosta: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Antamasi postinumeron muoto on virheellinen. Anna postinumero muodossa {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Postinumero ei vastaa osoitetta.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Postinumero ei vastaa osoitetta.",
+    "provenance": "chromium"
+  }
+}

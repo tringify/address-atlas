@@ -1,0 +1,8 @@
+briefs/
+logs/
+curated/labels-skeleton/
+curated/labels-chunk-*.txt
+js/node_modules/
+js/dist/
+js/data/
+js/src/data.ts

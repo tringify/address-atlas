@@ -1,0 +1,174 @@
+{
+ "fields.first_name": {
+  "value": "Prenum",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Num",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Abitaziun, plaun etc. (facultativ)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organisaziun",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Via e nr.",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Pajais / Regiun",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Lieu",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Lieu postal",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+ },
+ "city.suburb": {
+  "value": "Quartier",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Romansh equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Vitg / Vischnanca",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "District",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Quartier",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Territori",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+ },
+ "province.county": {
+  "value": "Contadi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+ },
+ "province.department": {
+  "value": "Departament",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "District",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirat",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Insla",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Pleiv",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Prefectura",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Provinza",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Stadi",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Numer postal",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Code ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Code PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Quest champ na dastga betg restar vid.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} n'è betg enconuschent sco valur valaivla per quest champ.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Questa lingia d'adressa para da cuntegnair ina chascha postala. Endatescha per plaschair l'adressa d'ina via u d'in edifizi.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Il format da quest numer postal n'è betg enconuschent. Exempel d'in numer postal valaivel: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Il format da quest code ZIP n'è betg enconuschent. Exempel d'in code ZIP valaivel: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+ },
+ "messages.postal_mismatch": {
+  "value": "Quest numer postal na para betg da correspunder al rest da l'adressa.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+ },
+ "messages.zip_mismatch": {
+  "value": "Quest code ZIP na para betg da correspunder al rest da l'adressa.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+ }
+}

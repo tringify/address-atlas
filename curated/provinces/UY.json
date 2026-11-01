@@ -1,0 +1,149 @@
+{
+ "country": "UY",
+ "level": "department",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "UY-AR",
+   "local": "Artigas",
+   "latin": "Artigas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-CA",
+   "local": "Canelones",
+   "latin": "Canelones",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-CL",
+   "local": "Cerro Largo",
+   "latin": "Cerro Largo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-CO",
+   "local": "Colonia",
+   "latin": "Colonia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-DU",
+   "local": "Durazno",
+   "latin": "Durazno",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-FD",
+   "local": "Florida",
+   "latin": "Florida",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-FS",
+   "local": "Flores",
+   "latin": "Flores",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-LA",
+   "local": "Lavalleja",
+   "latin": "Lavalleja",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-MA",
+   "local": "Maldonado",
+   "latin": "Maldonado",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-MO",
+   "local": "Montevideo",
+   "latin": "Montevideo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-PA",
+   "local": "Paysandú",
+   "latin": "Paysandú",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-RN",
+   "local": "Río Negro",
+   "latin": "Río Negro",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-RO",
+   "local": "Rocha",
+   "latin": "Rocha",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-RV",
+   "local": "Rivera",
+   "latin": "Rivera",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-SA",
+   "local": "Salto",
+   "latin": "Salto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-SJ",
+   "local": "San José",
+   "latin": "San José",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-SO",
+   "local": "Soriano",
+   "latin": "Soriano",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-TA",
+   "local": "Tacuarembó",
+   "latin": "Tacuarembó",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "UY-TT",
+   "local": "Treinta y Tres",
+   "latin": "Treinta y Tres",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/uryEn.pdf",
+  "https://www.correo.com.uy/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:UY",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": ""
+}

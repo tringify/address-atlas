@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "మొదటి పేరు",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "చివరి పేరు",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "ఫ్లాట్, ఇంటి నంబర్ మొదలైనవి (ఐచ్ఛికం)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "సంస్థ",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "వీధి అడ్రస్‌",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "ఫోన్",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "దేశం/ప్రాంతం",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "నగరం",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "తపాలా పట్టణం",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "నగర శివారు (సబర్బన్)",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "పట్టణ ప్రాంతం",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "గ్రామం / పట్టణ సముదాయం",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "జిల్లా",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "పరిసరాలు",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "ప్రాంతం",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "కౌంటి",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "విభాగం",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "జిల్లా",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "డొ/సి",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "ఎమిరేట్",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "దీవి",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "ఒబ్లాస్ట్",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "పారిష్",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "అధికారిక నివాసం",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "ప్రావిన్స్",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "రాష్ట్రం",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "పోస్టల్ కోడ్",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "జిప్ కోడ్",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN కోడ్",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "ఎయిర్‌కోడ్",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "మీరు దీన్ని ఖాళీగా వదిలిపెట్టకూడదు.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} అనేది ఈ ఫీల్డ్‌కు తగిన విలువలుగా తెలిసిన వాటిలో లేదు.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "ఈ అడ్రస్‌ పంక్తి తపాలా కార్యాలయ పెట్టెను కలిగి ఉన్నట్లుగా కనిపిస్తోంది. దయచేసి వీధి లేదా భవన అడ్రస్‌ను ఉపయోగించండి.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "ఈ పోస్టల్ కోడ్ ఆకృతి గుర్తించబడలేదు. ఇది చెల్లుబాటు అయ్యే పోస్టల్ కోడ్‌కు ఉదాహరణ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "ఈ జిప్ కోడ్ ఆకృతి గుర్తించబడలేదు. చెల్లుబాటు అయ్యే జిప్ కోడ్‌కు ఉదాహరణ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "ఈ పోస్టల్ కోడ్ ఈ అడ్రస్‌లోని మిగిలిన భాగానికి సరిపోలుతున్నట్లు కనిపించడం లేదు.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "ఈ జిప్ కోడ్ ఈ అడ్రస్‌లోని మిగిలిన భాగానికి సరిపోలుతున్నట్లు కనిపించడం లేదు.",
+  "provenance": "chromium"
+ }
+}

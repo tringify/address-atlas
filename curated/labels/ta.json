@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "முதல் பெயர்",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "கடைசிப் பெயர்",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "ஃபிளாட், வீட்டு எண் போன்றவை (விருப்பத்தேர்வு)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "நிறுவனம்",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "தெரு முகவரி",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "மொபைல்",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "நாடு/பிராந்தியம்",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "நகரம்",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "அஞ்சல் நகரம்",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "புறநகர்",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "கிராமம் / தன்னாட்சி நகரம்",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "மாவட்டம்",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "அருகிலுள்ள இடம்",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "பரப்பு",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "மாகாணம்",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "துறை",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "மாவட்டம்",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "டோ/சி",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "எமிரேட்",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "தீவு",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "ஓப்லாஸ்து",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "வட்டாரம்",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "ப்ரீஃபெக்சர்",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "பிராந்தியம்",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "மாநிலம்",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "அஞ்சல் குறியீடு",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "அஞ்சல் குறியீடு",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "அஞ்சல் எண்",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "இதை காலியாக விட முடியாது.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "இந்தப் புலத்திற்குத் தெரிந்த மதிப்பாக {FIELD_VALUE} இல்லை.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "இந்த முகவரியில் அஞ்சல் பெட்டி எண் உள்ளதுபோல் தெரிகிறது. தெரு அல்லது கட்டிட முகவரியைப் பயன்படுத்தவும்.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "இந்த அஞ்சல் குறியீட்டின் வடிவமைப்பை அறிய முடியவில்லை. சரியான அஞ்சல் குறியீட்டிற்கான எடுத்துக்காட்டு: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "அஞ்சல் எண்ணின் வடிவமைப்பை அறிய முடியவில்லை. சரியான அஞ்சல் எண்ணிற்கான எடுத்துக்காட்டு: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "இந்த அஞ்சல் குறியீடு மீதமுள்ள முகவரியோடு பொருந்துவதுபோல் தெரியவில்லை.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "இந்த ஜிப் குறியீடு மீதமுள்ள முகவரியோடு பொருந்துவதுபோல் தெரியவில்லை.",
+  "provenance": "chromium"
+ }
+}

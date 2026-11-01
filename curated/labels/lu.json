@@ -1,0 +1,220 @@
+{
+ "fields.first_name": {
+  "value": "Dijina dya kumpala",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "fields.last_name": {
+  "value": "Dijina dya ku nyuma",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "fields.address2": {
+  "value": "Nzubo, kibamba, ne bikwabo (kekiketeshilwe)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "fields.company": {
+  "value": "Kampuni",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "fields.address1": {
+  "value": "Adrese ya dishinda",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "fields.phone": {
+  "value": "Telefone",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "fields.country": {
+  "value": "Ntanda / Kipindi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "city.city": {
+  "value": "Kibundi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "city.post_town": {
+  "value": "Kibundi kya posita",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "city.suburb": {
+  "value": "Kipindi kya kibundi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "city.townland": {
+  "value": "Kipindi (Irlande)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "city.village_township": {
+  "value": "Muzo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "city.district": {
+  "value": "Distrike",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "city.neighborhood": {
+  "value": "Kartye",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "province.area": {
+  "value": "Kipindi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "province.county": {
+  "value": "Kontè",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "province.department": {
+  "value": "Departema",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "province.district": {
+  "value": "Distrike",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emira",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "province.island": {
+  "value": "Kisanga",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "province.parish": {
+  "value": "Palwase",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "province.prefecture": {
+  "value": "Prefekitire",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "province.province": {
+  "value": "Provense",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "province.state": {
+  "value": "Leta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "postal.postal": {
+  "value": "Kode ya posita",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "postal.zip": {
+  "value": "Kode ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "postal.pin": {
+  "value": "Kode PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Kokokeja kushiya kino kipaya.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} kekiyukenwe bu kintu kiyukene mu kino kifuko.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "messages.po_box_forbidden": {
+  "value": "Mulongo uno wa adrese umweke bu ukwete sanduku ya posita. Tusaka wingidije adrese ya dishinda nansha ya nzubo.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Muswelo wa kode ino ya posita kewayukenwe. Kyelekejo kya kode ya posita yampikwa: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "messages.zip_invalid_example": {
+  "value": "Muswelo wa kode ino ya ZIP kewayukenwe. Kyelekejo kya kode ya ZIP yampikwa: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "messages.postal_mismatch": {
+  "value": "Kode ino ya posita kemweke bu ilombene na adrese ikwabo.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ },
+ "messages.zip_mismatch": {
+  "value": "Kode ino ya ZIP kemweke bu ilombene na adrese ikwabo.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Luba-Katanga address-form terminology drafted without a native reference; French/Swahili are used on most forms."
+ }
+}

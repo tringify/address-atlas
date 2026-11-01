@@ -1,0 +1,186 @@
+{
+ "fields.first_name": {
+  "value": "Zita",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Zita remhuri",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Imba, furati nezvimwewo (hazvimanikidzwi)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "fields.company": {
+  "value": "Sangano",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Kero yemugwagwa",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Runhare",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Nyika / Dunhu",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Guta",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Guta reposvo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "city.suburb": {
+  "value": "Nzvimbo yeguta",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Shona equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Musha / Taundishipi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "city.district": {
+  "value": "Dunhu",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Nharaunda",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Nzvimbo",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Kaunti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "province.department": {
+  "value": "Dhipatimendi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "province.district": {
+  "value": "Dunhu",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emireti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "province.island": {
+  "value": "Chitsuwa",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Parishi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "province.prefecture": {
+  "value": "Prefekicha",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "province.province": {
+  "value": "Purovhinzi",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Sitete",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "postal.postal": {
+  "value": "Kodhi yeposvo",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Kodhi yeZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Kodhi yePIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Hamugoni kusiya izvi zvisina chinhu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} hachizivikanwi sechinhu chinogamuchirwa pachikamu ichi.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Mutsara uyu wekero unoita sekunge une bhokisi reposvo. Shandisai kero yemugwagwa kana yechivakwa.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Chimiro chekodhi yeposvo ichi hachizivikanwi. Muenzaniso wekodhi yeposvo chaiyo: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Chimiro chekodhi yeZIP ichi hachizivikanwi. Muenzaniso wekodhi yeZIP chaiyo: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "messages.postal_mismatch": {
+  "value": "Kodhi yeposvo iyi haiiti seinoenderana nekero yese.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ },
+ "messages.zip_mismatch": {
+  "value": "Kodhi yeZIP iyi haiiti seinoenderana nekero yese.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+ }
+}

@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Ім’я",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Прізвище",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Квартира, офіс тощо (необов’язково)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Організація",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Адреса",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Телефон",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Країна або регіон",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Місто",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Місто",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Передмістя",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Район",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Село або містечко",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Округ",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Околиці",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Область",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Країна",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Департамент",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Округ",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "До/сі (провінція/місто)",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Емірат",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Острів",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Область",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Цивільний округ",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Префектура",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Провінція",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Штат/провінція",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Поштовий код",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Поштовий індекс",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "Поштовий індекс",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Поштовий індекс",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Це поле потрібно заповнити.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} не розпізнано як відоме значення для цього поля.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Схоже, у цьому рядку адреси вказано абонементну скриньку. Укажіть вулицю й номер будинку.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Формат поштового індексу не розпізнано. Приклад дійсного поштового індексу: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Формат поштового індексу не розпізнано. Приклад дійсного поштового індексу: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Схоже, поштовий індекс не відповідає іншим частинам адреси.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Схоже, поштовий індекс не відповідає іншим частинам адреси.",
+  "provenance": "chromium"
+ }
+}

@@ -1,0 +1,265 @@
+{
+ "country": "TZ",
+ "level": "region",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "TZ-01",
+   "local": "Arusha",
+   "latin": "Arusha",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-02",
+   "local": "Dar es Salaam",
+   "latin": "Dar es Salaam",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-03",
+   "local": "Dodoma",
+   "latin": "Dodoma",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-04",
+   "local": "Iringa",
+   "latin": "Iringa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-05",
+   "local": "Kagera",
+   "latin": "Kagera",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-06",
+   "local": "Pemba North",
+   "latin": "Pemba North",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-07",
+   "local": "Zanzibar North",
+   "latin": "Zanzibar North",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-08",
+   "local": "Kigoma",
+   "latin": "Kigoma",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-09",
+   "local": "Kilimanjaro",
+   "latin": "Kilimanjaro",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-10",
+   "local": "Pemba South",
+   "latin": "Pemba South",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-11",
+   "local": "Zanzibar South",
+   "latin": "Zanzibar South",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-12",
+   "local": "Lindi",
+   "latin": "Lindi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-13",
+   "local": "Mara",
+   "latin": "Mara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-14",
+   "local": "Mbeya",
+   "latin": "Mbeya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-15",
+   "local": "Zanzibar West",
+   "latin": "Zanzibar West",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-16",
+   "local": "Morogoro",
+   "latin": "Morogoro",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-17",
+   "local": "Mtwara",
+   "latin": "Mtwara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-18",
+   "local": "Mwanza",
+   "latin": "Mwanza",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-19",
+   "local": "Coast",
+   "latin": "Coast",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-20",
+   "local": "Rukwa",
+   "latin": "Rukwa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-21",
+   "local": "Ruvuma",
+   "latin": "Ruvuma",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-22",
+   "local": "Shinyanga",
+   "latin": "Shinyanga",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-23",
+   "local": "Singida",
+   "latin": "Singida",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-24",
+   "local": "Tabora",
+   "latin": "Tabora",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-25",
+   "local": "Tanga",
+   "latin": "Tanga",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-26",
+   "local": "Manyara",
+   "latin": "Manyara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-27",
+   "local": "Geita",
+   "latin": "Geita",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-28",
+   "local": "Katavi",
+   "latin": "Katavi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-29",
+   "local": "Njombe",
+   "latin": "Njombe",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-30",
+   "local": "Simiyu",
+   "latin": "Simiyu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TZ-31",
+   "local": "Songwe",
+   "latin": "Songwe",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added TZ-01 Arusha",
+  "added TZ-02 Dar es Salaam",
+  "added TZ-03 Dodoma",
+  "added TZ-04 Iringa",
+  "added TZ-05 Kagera",
+  "added TZ-06 Pemba North",
+  "added TZ-07 Zanzibar North",
+  "added TZ-08 Kigoma",
+  "added TZ-09 Kilimanjaro",
+  "added TZ-10 Pemba South",
+  "added TZ-11 Zanzibar South",
+  "added TZ-12 Lindi",
+  "added TZ-13 Mara",
+  "added TZ-14 Mbeya",
+  "added TZ-15 Zanzibar West",
+  "added TZ-16 Morogoro",
+  "added TZ-17 Mtwara",
+  "added TZ-18 Mwanza",
+  "added TZ-19 Coast",
+  "added TZ-20 Rukwa",
+  "added TZ-21 Ruvuma",
+  "added TZ-22 Shinyanga",
+  "added TZ-23 Singida",
+  "added TZ-24 Tabora",
+  "added TZ-25 Tanga",
+  "added TZ-26 Manyara",
+  "added TZ-27 Geita",
+  "added TZ-28 Katavi",
+  "added TZ-29 Njombe",
+  "added TZ-30 Simiyu",
+  "added TZ-31 Songwe"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tzaEn.pdf",
+  "https://tcra.go.tz/services/postcode",
+  "https://www.iso.org/obp/ui/#iso:code:3166:TZ",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "31 regions TZ-01..TZ-31 incl. Songwe (TZ-31, 2016). Names as ISO (Swahili/English official forms)."
+}

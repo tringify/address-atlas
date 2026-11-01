@@ -1,0 +1,178 @@
+{
+ "country": "TW",
+ "level": "county",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "TW-CHA",
+   "local": "彰化縣",
+   "latin": "Changhua",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-CYI",
+   "local": "嘉義市",
+   "latin": "Chiayi City",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-CYQ",
+   "local": "嘉義縣",
+   "latin": "Chiayi County",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-HSQ",
+   "local": "新竹縣",
+   "latin": "Hsinchu County",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-HSZ",
+   "local": "新竹市",
+   "latin": "Hsinchu City",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-HUA",
+   "local": "花蓮縣",
+   "latin": "Hualien",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-ILA",
+   "local": "宜蘭縣",
+   "latin": "Yilan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-KEE",
+   "local": "基隆市",
+   "latin": "Keelung",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-KHH",
+   "local": "高雄市",
+   "latin": "Kaohsiung",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-KIN",
+   "local": "金門縣",
+   "latin": "Kinmen",
+   "iso": true,
+   "aliases": [
+    "TW-KINMEN_COUNTY"
+   ]
+  },
+  {
+   "code": "TW-LIE",
+   "local": "連江縣",
+   "latin": "Lienchiang",
+   "iso": true,
+   "aliases": [
+    "TW-LIENCHIANG_COUNTY"
+   ]
+  },
+  {
+   "code": "TW-MIA",
+   "local": "苗栗縣",
+   "latin": "Miaoli",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-NAN",
+   "local": "南投縣",
+   "latin": "Nantou",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-NWT",
+   "local": "新北市",
+   "latin": "New Taipei",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-PEN",
+   "local": "澎湖縣",
+   "latin": "Penghu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-PIF",
+   "local": "屏東縣",
+   "latin": "Pingtung",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-TAO",
+   "local": "桃園市",
+   "latin": "Taoyuan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-TNN",
+   "local": "台南市",
+   "latin": "Tainan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-TPE",
+   "local": "台北市",
+   "latin": "Taipei",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-TTT",
+   "local": "台東縣",
+   "latin": "Taitung",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-TXG",
+   "local": "台中市",
+   "latin": "Taichung",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TW-YUN",
+   "local": "雲林縣",
+   "latin": "Yunlin",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "recoded TW-KINMEN_COUNTY Kinmen County -> TW-KIN Kinmen (old code kept as alias)",
+  "recoded TW-LIENCHIANG_COUNTY Lienchiang County -> TW-LIE Lienchiang (old code kept as alias)",
+  "renamed TW-CYI: English name fixed: was \"Chiayi County\", is Chiayi City 嘉義市",
+  "renamed TW-CYQ: English name fixed: was \"Chiayi\", is Chiayi County 嘉義縣"
+ ],
+ "sources": [
+  "https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=208",
+  "https://www.iso.org/obp/ui/#iso:code:3166:TW",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "13 counties, 6 special municipalities, 3 cities. Kinmen and Lienchiang now use the ISO codes TW-KIN / TW-LIE."
+}

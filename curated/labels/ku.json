@@ -1,0 +1,156 @@
+{
+ "fields.first_name": {
+  "value": "Nav",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Paşnav",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Apartman, ode, hwd. (vebijarkî)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Rêxistin",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Navnîşana kolanê",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefon",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Welat / Herêm",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Bajar",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Bajarê postayê",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "Derdora bajêr",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Gundewar (Îrlanda)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish townland approximated as \"gundewar\" (rural area)."
+ },
+ "city.village_township": {
+  "value": "Gund / Navçe",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Navçe",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Tax",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Herêm",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Herêma îdarî",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "No standard Kurmanji term for county; descriptive \"administrative region\"."
+ },
+ "province.department": {
+  "value": "Departman",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Navçe",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Mîrnişîn",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Girav",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Parîş",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Loanword; no established Kurmanji form term."
+ },
+ "province.prefecture": {
+  "value": "Prefektur",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Parêzgeh",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Eyalet",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Koda postayê",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Koda ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Koda PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Tu nikarî vê vala bihêlî.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ji bo vê qadê wekî nirxeke naskirî nayê naskirin.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Xuya ye ku ev rêzika navnîşanê sindoqeke postayê dihewîne. Ji kerema xwe navnîşana kolanê an avahiyê bikar bîne.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Formata vê koda postayê nayê naskirin. Mînaka koda postayê ya derbasdar: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Formata vê koda ZIP nayê naskirin. Mînaka koda ZIP ya derbasdar: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Xuya ye ku ev koda postayê bi beşên din ên navnîşanê re li hev nayê.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Xuya ye ku ev koda ZIP bi beşên din ên navnîşanê re li hev nayê.",
+  "provenance": "curated"
+ }
+}

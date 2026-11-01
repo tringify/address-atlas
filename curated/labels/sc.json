@@ -1,0 +1,170 @@
+{
+ "fields.first_name": {
+  "value": "Nùmene",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Sambenadu",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Apartamentu, pianu, etc. (optzionale)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organizatzione",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Indiritzu",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telèfonu",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Paisu / Regione",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Tzitade",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Tzitade postale",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sardinian (LSC-style orthography); wording not verified against a native Sardinian form"
+ },
+ "city.suburb": {
+  "value": "Perifèria",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sardinian (LSC-style orthography); wording not verified against a native Sardinian form"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Sardinian equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Bidda / Comunu",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Distretu",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Bighinadu",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Àrea",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Contea",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Departimentu",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Distretu",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emiradu",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Ìsula",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Parròchia",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Prefetura",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Provìntzia",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Istadu",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Còdighe postale",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Còdighe ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Còdighe PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Non podes lassare custu campu bòidu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sardinian (LSC-style orthography); wording not verified against a native Sardinian form"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} no est reconnotu comente valore vàlidu pro custu campu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sardinian (LSC-style orthography); wording not verified against a native Sardinian form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Custa lìnia de s'indiritzu paret chi cuntenzat una casella postale. Imprea un'indiritzu de carrera o de edifìtziu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sardinian (LSC-style orthography); wording not verified against a native Sardinian form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Su formadu de custu còdighe postale no est reconnotu. Esèmpiu de còdighe postale vàlidu: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sardinian (LSC-style orthography); wording not verified against a native Sardinian form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Su formadu de custu còdighe ZIP no est reconnotu. Esèmpiu de còdighe ZIP vàlidu: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sardinian (LSC-style orthography); wording not verified against a native Sardinian form"
+ },
+ "messages.postal_mismatch": {
+  "value": "Custu còdighe postale non paret currispondere a su restu de s'indiritzu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sardinian (LSC-style orthography); wording not verified against a native Sardinian form"
+ },
+ "messages.zip_mismatch": {
+  "value": "Custu còdighe ZIP non paret currispondere a su restu de s'indiritzu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Sardinian (LSC-style orthography); wording not verified against a native Sardinian form"
+ }
+}

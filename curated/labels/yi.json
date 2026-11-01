@@ -1,0 +1,174 @@
+{
+ "fields.first_name": {
+  "value": "פֿאָרנאָמען",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "פֿאַמיליע־נאָמען",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "דירה, שטאָק א״אַ (אָפּציאָנעל)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "אָרגאַניזאַציע",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "גאַס־אַדרעס",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "טעלעפֿאָן",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "לאַנד / געגנט",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "שטאָט",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "פּאָסט־שטאָט",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yiddish (YIVO orthography); wording not verified against a Yiddish form"
+ },
+ "city.suburb": {
+  "value": "פֿאָרשטאָט",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Yiddish equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "דאָרף / שטעטל",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "דיסטריקט",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "קוואַרטאַל",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "געביט",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "קאָונטי",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yiddish (YIVO orthography); wording not verified against a Yiddish form"
+ },
+ "province.department": {
+  "value": "דעפּאַרטאַמענט",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "דיסטריקט",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "דאָ/סי",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "transliteration of Korean Do/Si"
+ },
+ "province.emirate": {
+  "value": "עמיראַט",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "אינדזל",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "אָבלאַסט",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "פּאַראַפֿיע",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yiddish (YIVO orthography); wording not verified against a Yiddish form"
+ },
+ "province.prefecture": {
+  "value": "פּרעפֿעקטור",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "פּראָווינץ",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "שטאַט",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "פּאָסט־קאָד",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "ZIP־קאָד",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "PIN־קאָד",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "איר קענט דאָס נישט לאָזן ליידיק.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yiddish (YIVO orthography); wording not verified against a Yiddish form"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ווערט נישט אָנערקענט ווי אַ באַקאַנטער ווערט פֿאַר דעם פֿעלד.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yiddish (YIVO orthography); wording not verified against a Yiddish form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "די אַדרעס־שורה זעט אויס צו אַנטהאַלטן אַ פּאָסט־קעסטל. ביטע ניצט אַ גאַס־ אָדער בנין־אַדרעס.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yiddish (YIVO orthography); wording not verified against a Yiddish form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "דער פֿאָרמאַט פֿון דעם פּאָסט־קאָד ווערט נישט אָנערקענט. אַ ביישפּיל פֿון אַ גילטיקן פּאָסט־קאָד: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yiddish (YIVO orthography); wording not verified against a Yiddish form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "דער פֿאָרמאַט פֿון דעם ZIP־קאָד ווערט נישט אָנערקענט. אַ ביישפּיל פֿון אַ גילטיקן ZIP־קאָד: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yiddish (YIVO orthography); wording not verified against a Yiddish form"
+ },
+ "messages.postal_mismatch": {
+  "value": "דער פּאָסט־קאָד זעט נישט אויס צו שטימען מיט דעם רעשט פֿון דעם אַדרעס.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yiddish (YIVO orthography); wording not verified against a Yiddish form"
+ },
+ "messages.zip_mismatch": {
+  "value": "דער ZIP־קאָד זעט נישט אויס צו שטימען מיט דעם רעשט פֿון דעם אַדרעס.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yiddish (YIVO orthography); wording not verified against a Yiddish form"
+ }
+}

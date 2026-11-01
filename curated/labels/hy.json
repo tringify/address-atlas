@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Անուն",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Ազգանուն",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Բնակարան, գրասենյակ և այլն (ոչ պարտադիր)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Կազմակերպություն",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Փոստային հասցե",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Հեռախոս",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "Երկիր/տարածաշրջան",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Քաղաք",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Քաղաք՝ փոստային բաժանմունքով",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Արվարձան",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Թաունլենդ",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Գյուղ/բնակավայր",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Շրջան",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Թաղամաս",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Շրջան",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Կոմսություն",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Դեպարտամենտ",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Շրջան",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Դո/Սի",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Էմիրություն",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Կղզի",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Մարզ",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Ծուխ",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Պրեֆեկտուրա",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Գավառ",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Նահանգ",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Փոստային դասիչ",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Փոստային դասիչ",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "PIN կոդ",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Այս դաշտը չի կարող դատարկ լինել:",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE}` անընդունելի արժեք է այս դաշտի համար:",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Հասցեի տողում նշված է աբոնենտային փոստարկղ: Մուտքագրեք փոստային հասցե՝ փողոցի և շենքի համարով:",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Փոստային դասիչի այս ձևաչափը չի ճանաչվում: Ճիշտ փոստային դասիչի օրինակ՝ {EXAMPLE}:",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Փոստային դասիչի այս ձևաչափը չի ճանաչվում: Ճիշտ փոստային դասիչի օրինակ՝ {EXAMPLE}:",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Փոստային դասիչը չի համապատասխանում հասցեին:",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Փոստային դասիչը չի համապատասխանում հասցեին:",
+    "provenance": "chromium"
+  }
+}

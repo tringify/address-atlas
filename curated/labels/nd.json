@@ -1,0 +1,220 @@
+{
+ "fields.first_name": {
+  "value": "Ibizo lokuqala",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "fields.last_name": {
+  "value": "Isibongo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "fields.address2": {
+  "value": "Iflethi, ikamelo, njalonjalo (akusibophelelo)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "fields.company": {
+  "value": "Inhlangano",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "fields.address1": {
+  "value": "Ikheli lomgwaqo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "fields.phone": {
+  "value": "Ucingo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "fields.country": {
+  "value": "Ilizwe / Isigaba",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "city.city": {
+  "value": "Idolobho",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "city.post_town": {
+  "value": "Idolobho leposi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "city.suburb": {
+  "value": "Isabhabha",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "city.townland": {
+  "value": "Isigaba (Ireland)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "city.village_township": {
+  "value": "Isigodi / Ilokishi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "city.district": {
+  "value": "Isiqinti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "city.neighborhood": {
+  "value": "Indawo yakhelene",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "province.area": {
+  "value": "Indawo",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "province.county": {
+  "value": "Isifunda",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "province.department": {
+  "value": "Umnyango",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "province.district": {
+  "value": "Isiqinti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "I-Emirate",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "province.island": {
+  "value": "Isihlenge",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "province.parish": {
+  "value": "Ipharishi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "province.prefecture": {
+  "value": "Iphrefekitha",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "province.province": {
+  "value": "Isifundazwe",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "province.state": {
+  "value": "Umbuso",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "postal.postal": {
+  "value": "Ikhodi yeposi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "postal.zip": {
+  "value": "Ikhodi ye-ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "postal.pin": {
+  "value": "Ikhodi ye-PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Awungeke ukutshiye lokhu kungelalutho.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} kayaziwa njengenani elivumelekileyo kulesi sikhala.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "messages.po_box_forbidden": {
+  "value": "Lumugqa wekheli ubonakala ulebhokisi leposi. Sicela usebenzise ikheli lomgwaqo kumbe lesakhiwo.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Isimo sale khodi yeposi kasaziwa. Isibonelo sekhodi yeposi efaneleyo: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "messages.zip_invalid_example": {
+  "value": "Isimo sale khodi ye-ZIP kasaziwa. Isibonelo sekhodi ye-ZIP efaneleyo: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "messages.postal_mismatch": {
+  "value": "Le khodi yeposi kayibonakali ihambelana lekheli eliseleyo.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ },
+ "messages.zip_mismatch": {
+  "value": "Le khodi ye-ZIP kayibonakali ihambelana lekheli eliseleyo.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "North Ndebele terminology drafted from Zulu-cognate forms without a native checkout-form reference."
+ }
+}

@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Nome",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Apelidos",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Piso, porta, etc. (opcional)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Organización",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Enderezo postal",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Teléfono",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "País/rexión",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Cidade",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Localidade postal",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Área periférica",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Barrio",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Vila/municipio",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Distrito",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Barrio",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Área",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Condado",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Departamento",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Distrito",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emirato",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Illa",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Óblast",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Parroquia",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Prefectura",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Provincia",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Estado",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Código postal",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Código postal",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "Código PIN",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "Isto non pode quedar baleiro.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} non se recoñece como un valor coñecido para este campo.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Parece que esta liña de enderezo contén un apartado de correos. Debes utilizar o nome dunha rúa ou edificio..",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "Non se recoñece este formato de código postal. Exemplo dun código postal válido: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "Non se recoñece este formato de código postal. Exemplo dun código postal válido: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Parece que este código postal non coincide co resto do enderezo.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Parece que este código postal non coincide co resto do enderezo..",
+    "provenance": "chromium"
+  }
+}

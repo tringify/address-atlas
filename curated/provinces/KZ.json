@@ -1,0 +1,180 @@
+{
+ "country": "KZ",
+ "level": "region",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "KZ-10",
+   "local": "Абай облысы",
+   "latin": "Abay oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-11",
+   "local": "Ақмола облысы",
+   "latin": "Aqmola oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-15",
+   "local": "Ақтөбе облысы",
+   "latin": "Aqtöbe oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-19",
+   "local": "Алматы облысы",
+   "latin": "Almaty oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-23",
+   "local": "Атырау облысы",
+   "latin": "Atyraū oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-27",
+   "local": "Батыс Қазақстан облысы",
+   "latin": "Batys Qazaqstan oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-31",
+   "local": "Жамбыл облысы",
+   "latin": "Zhambyl oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-33",
+   "local": "Жетісу облысы",
+   "latin": "Zhetisū oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-35",
+   "local": "Қарағанды облысы",
+   "latin": "Qaraghandy oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-39",
+   "local": "Қостанай облысы",
+   "latin": "Qostanay oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-43",
+   "local": "Қызылорда облысы",
+   "latin": "Qyzylorda oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-47",
+   "local": "Маңғыстау облысы",
+   "latin": "Mangghystaū oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-55",
+   "local": "Павлодар облысы",
+   "latin": "Pavlodar oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-59",
+   "local": "Солтүстік Қазақстан облысы",
+   "latin": "Soltüstik Qazaqstan oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-61",
+   "local": "Түркістан облысы",
+   "latin": "Türkistan oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-62",
+   "local": "Ұлытау облысы",
+   "latin": "Ulytaū oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-63",
+   "local": "Шығыс Қазақстан облысы",
+   "latin": "Shyghys Qazaqstan oblysy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-71",
+   "local": "Астана",
+   "latin": "Astana",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-75",
+   "local": "Алматы",
+   "latin": "Almaty",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KZ-79",
+   "local": "Шымкент",
+   "latin": "Shymkent",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added KZ-10 Abay oblysy",
+  "added KZ-11 Aqmola oblysy",
+  "added KZ-15 Aqtöbe oblysy",
+  "added KZ-19 Almaty oblysy",
+  "added KZ-23 Atyraū oblysy",
+  "added KZ-27 Batys Qazaqstan oblysy",
+  "added KZ-31 Zhambyl oblysy",
+  "added KZ-33 Zhetisū oblysy",
+  "added KZ-35 Qaraghandy oblysy",
+  "added KZ-39 Qostanay oblysy",
+  "added KZ-43 Qyzylorda oblysy",
+  "added KZ-47 Mangghystaū oblysy",
+  "added KZ-55 Pavlodar oblysy",
+  "added KZ-59 Soltüstik Qazaqstan oblysy",
+  "added KZ-61 Türkistan oblysy",
+  "added KZ-62 Ulytaū oblysy",
+  "added KZ-63 Shyghys Qazaqstan oblysy",
+  "added KZ-71 Astana",
+  "added KZ-75 Almaty",
+  "added KZ-79 Shymkent"
+ ],
+ "sources": [
+  "https://about.usps.com/postal-bulletin/2023/pb22626/html/updt_002.htm",
+  "https://post.kz/postcode",
+  "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+  "https://en.wikipedia.org/wiki/ISO_3166-2:KZ",
+  "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KZ",
+  "https://www.iso.org/obp/ui/#iso:code:3166:KZ",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "17 oblystar + Astana, Almaty, Shymkent with the numeric ISO codes (Nov 2022); the old letter codes are obsolete. local = Kazakh (Cyrillic)."
+}

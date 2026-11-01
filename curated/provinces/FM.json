@@ -1,0 +1,50 @@
+{
+ "country": "FM",
+ "level": "state",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "FM-KSA",
+   "local": "Kosrae",
+   "latin": "Kosrae",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "FM-PNI",
+   "local": "Pohnpei",
+   "latin": "Pohnpei",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "FM-TRK",
+   "local": "Chuuk",
+   "latin": "Chuuk",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "FM-YAP",
+   "local": "Yap",
+   "latin": "Yap",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added FM-KSA Kosrae",
+  "added FM-PNI Pohnpei",
+  "added FM-TRK Chuuk",
+  "added FM-YAP Yap"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/fsmEn.pdf",
+  "https://pe.usps.com/text/pub28/welcome.htm",
+  "https://www.iso.org/obp/ui/#iso:code:3166:FM",
+  "https://www.iso.org/obp/ui/#iso:code:3166:FM",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "USPS-format addresses use FM in the state slot (e.g. \"KOLONIA POHNPEI FM 96941\"); the 4 states are listed because the D review found them named in addresses. Also see US-FM in the US list."
+}

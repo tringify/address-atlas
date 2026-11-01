@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "First name",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Last name",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Apartment, suite, etc. (optional)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Company",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Address",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Phone",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Country / Region",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "City",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Post Town",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Suburb",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Village / Township",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "District",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Neighborhood",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Area",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "County",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Department",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "District",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Emirate",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Island",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Parish",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Prefecture",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Province",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "State",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Postal code",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "ZIP code",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN code",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "You can't leave this empty.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} is not recognized as a known value for this field.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "This address line appears to contain a post office box. Please use a street or building address.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "This postal code format is not recognized. Example of a valid postal code: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "This ZIP code format is not recognized. Example of a valid ZIP code: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "This postal code does not appear to match the rest of this address.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "This ZIP code does not appear to match the rest of this address.",
+  "provenance": "chromium"
+ }
+}

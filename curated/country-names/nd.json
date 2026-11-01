@@ -1,0 +1,142 @@
+{
+ "AQ": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Antarctica"
+ },
+ "AX": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Åland Islands"
+ },
+ "BL": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Saint Barthélemy"
+ },
+ "BQ": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Caribbean Netherlands"
+ },
+ "BV": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Bouvet Island"
+ },
+ "CC": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Cocos (Keeling) Islands"
+ },
+ "CW": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Curaçao"
+ },
+ "CX": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Christmas Island"
+ },
+ "EH": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Western Sahara"
+ },
+ "FO": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Faroe Islands"
+ },
+ "GG": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Guernsey"
+ },
+ "GS": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "South Georgia and the South Sandwich Islands"
+ },
+ "HK": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Hong Kong"
+ },
+ "HM": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Heard Island and McDonald Islands"
+ },
+ "IM": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Isle of Man"
+ },
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold); English form",
+  "provenance": "curated",
+  "value": "British Indian Ocean Territory"
+ },
+ "JE": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Jersey"
+ },
+ "ME": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Montenegro"
+ },
+ "MF": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Saint Martin"
+ },
+ "MK": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "North Macedonia"
+ },
+ "MO": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Macao"
+ },
+ "RS": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Serbia"
+ },
+ "SJ": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Svalbard and Jan Mayen"
+ },
+ "SS": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "South Sudan"
+ },
+ "SX": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "TF": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "French Southern Territories"
+ },
+ "UM": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "U.S. Outlying Islands"
+ },
+ "XK": {
+  "note": "international/English form, as CLDR nd uses for comparable territories",
+  "provenance": "curated",
+  "value": "Kosovo"
+ }
+}

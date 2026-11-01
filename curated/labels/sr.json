@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Име",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Презиме",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Стан, спрат итд. (опционално)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Организација",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Адреса",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Телефон",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Земља/регија",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Град",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Поштански град",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Предграђе",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Градска област",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Село/општина",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Округ",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Део града",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Област",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Округ",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Одсек",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Округ",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "До/Си",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Емират",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Острво",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Област",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Парохија",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Префектура",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Покрајина",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Држава",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Поштански број",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Поштански број",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "PIN кôд",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Ово поље не може да буде празно.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "Вредност {FIELD_VALUE} није препозната као позната вредност за ово поље.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Изгледа да овај ред адресе садржи поштански фах. Наведите улицу и број.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Овај формат поштанског кода није препознат. Пример важећег поштанског кода: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Овај формат поштанског броја није препознат. Пример важећег поштанског броја: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Изгледа да се поштански број не подудара са остатком ове адресе.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Изгледа да се поштански број не подудара са остатком ове адресе.",
+  "provenance": "chromium"
+ }
+}

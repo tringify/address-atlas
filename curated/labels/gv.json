@@ -1,0 +1,224 @@
+{
+  "fields.first_name": {
+    "value": "Ennym",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "fields.last_name": {
+    "value": "Sliennoo",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "fields.address2": {
+    "value": "Flat, shamyr, as myr shen (reihys)",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "fields.company": {
+    "value": "Sheshaght",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "fields.address1": {
+    "value": "Enmys straiddey",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "fields.phone": {
+    "value": "Chellinsh",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "fields.country": {
+    "value": "Çheer / Ard",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "city.city": {
+    "value": "Ard-valley",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "city.post_town": {
+    "value": "Balley post",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "city.suburb": {
+    "value": "Balley-cheayn",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "city.townland": {
+    "value": "Balley-thalloo",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "city.village_township": {
+    "value": "Balley beg / Balley",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "city.district": {
+    "value": "Ard",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "city.neighborhood": {
+    "value": "Naboonys",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "province.area": {
+    "value": "Ard",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "province.county": {
+    "value": "Coontae",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "province.department": {
+    "value": "Rheynn",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "province.district": {
+    "value": "Ard",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "province.emirate": {
+    "value": "Emiraght",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "province.island": {
+    "value": "Ellan",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "province.parish": {
+    "value": "Skeerey",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "province.prefecture": {
+    "value": "Prefectoor",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "province.province": {
+    "value": "Coigee",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "province.state": {
+    "value": "Steat",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "postal.postal": {
+    "value": "Coad postagh",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "postal.zip": {
+    "value": "Coad ZIP",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "postal.pin": {
+    "value": "Coad PIN",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "messages.required": {
+    "value": "Cha nod oo shoh y aagail follym.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "messages.unknown_value": {
+    "value": "Cha nee {FIELD_VALUE} feeuid ta enmyssit son yn vagher shoh.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "messages.po_box_forbidden": {
+    "value": "Ta'n linney enmys shoh jeeaghyn dy vel bwoaillee post ayn. Jean ymmyd jeh enmys straiddey ny thie, my sailt.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "messages.postal_invalid_example": {
+    "value": "Cha nel cummey yn choad postagh shoh enmyssit. Sampleyr jeh coad postagh kiart: {EXAMPLE}.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "messages.zip_invalid_example": {
+    "value": "Cha nel cummey yn choad ZIP shoh enmyssit. Sampleyr jeh coad ZIP kiart: {EXAMPLE}.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "messages.postal_mismatch": {
+    "value": "Cha nel yn coad postagh shoh jeeaghyn dy chordail rish yn chooid elley jeh'n enmys shoh.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  },
+  "messages.zip_mismatch": {
+    "value": "Cha nel yn coad ZIP shoh jeeaghyn dy chordail rish yn chooid elley jeh'n enmys shoh.",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Manx: very low-resource, no established e-commerce/postal form terminology found; best-effort translation, needs native review."
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "fields.first_name": {
+    "value": "Nom",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "Cognoms",
+    "provenance": "curated"
+  },
+  "fields.address2": {
+    "value": "Pis, porta, etc. (opcional)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "Organització",
+    "provenance": "chromium"
+  },
+  "fields.address1": {
+    "value": "Adreça postal",
+    "provenance": "chromium"
+  },
+  "fields.phone": {
+    "value": "Telèfon",
+    "provenance": "chromium"
+  },
+  "fields.country": {
+    "value": "País/Regió",
+    "provenance": "chromium"
+  },
+  "city.city": {
+    "value": "Ciutat",
+    "provenance": "chromium"
+  },
+  "city.post_town": {
+    "value": "Oficina postal",
+    "provenance": "chromium"
+  },
+  "city.suburb": {
+    "value": "Àrea suburbana",
+    "provenance": "chromium"
+  },
+  "city.townland": {
+    "value": "Districte",
+    "provenance": "chromium"
+  },
+  "city.village_township": {
+    "value": "Poble/municipi",
+    "provenance": "chromium"
+  },
+  "city.district": {
+    "value": "Districte",
+    "provenance": "chromium"
+  },
+  "city.neighborhood": {
+    "value": "Veïnat",
+    "provenance": "chromium"
+  },
+  "province.area": {
+    "value": "Àrea",
+    "provenance": "chromium"
+  },
+  "province.county": {
+    "value": "Comtat",
+    "provenance": "chromium"
+  },
+  "province.department": {
+    "value": "Departament",
+    "provenance": "chromium"
+  },
+  "province.district": {
+    "value": "Districte",
+    "provenance": "chromium"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "chromium"
+  },
+  "province.emirate": {
+    "value": "Emirat",
+    "provenance": "chromium"
+  },
+  "province.island": {
+    "value": "Illa",
+    "provenance": "chromium"
+  },
+  "province.oblast": {
+    "value": "Oblast",
+    "provenance": "chromium"
+  },
+  "province.parish": {
+    "value": "Districte",
+    "provenance": "chromium"
+  },
+  "province.prefecture": {
+    "value": "Prefectura",
+    "provenance": "chromium"
+  },
+  "province.province": {
+    "value": "Província",
+    "provenance": "chromium"
+  },
+  "province.state": {
+    "value": "Estat",
+    "provenance": "chromium"
+  },
+  "postal.postal": {
+    "value": "Codi postal",
+    "provenance": "chromium"
+  },
+  "postal.zip": {
+    "value": "Codi postal",
+    "provenance": "chromium"
+  },
+  "postal.pin": {
+    "value": "Codi PIN",
+    "provenance": "chromium"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "chromium"
+  },
+  "messages.required": {
+    "value": "No podeu deixar aquest camp en blanc.",
+    "provenance": "chromium"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} no es reconeix com a valor conegut per a aquest camp.",
+    "provenance": "chromium"
+  },
+  "messages.po_box_forbidden": {
+    "value": "Sembla que aquesta línia d'adreça conté un apartat de correus. Utilitzeu el nom d'un carrer o l'adreça d'un edifici.",
+    "provenance": "chromium"
+  },
+  "messages.postal_invalid_example": {
+    "value": "No es reconeix aquest format de codi postal. Exemple de codi postal vàlid: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.zip_invalid_example": {
+    "value": "No es reconeix aquest format de codi postal. Exemple de codi postal vàlid: {EXAMPLE}.",
+    "provenance": "chromium"
+  },
+  "messages.postal_mismatch": {
+    "value": "Sembla que aquest codi postal no concorda amb la resta de l'adreça.",
+    "provenance": "chromium"
+  },
+  "messages.zip_mismatch": {
+    "value": "Sembla que aquest codi postal no concorda amb la resta de l'adreça.",
+    "provenance": "chromium"
+  }
+}

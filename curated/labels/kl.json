@@ -1,0 +1,220 @@
+{
+ "fields.first_name": {
+  "value": "Ateq siulleq",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "fields.last_name": {
+  "value": "Ateq kingulleq",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "fields.address2": {
+  "value": "Inissiaq, quleriiaa il.il. (pisariaqanngilaq)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "fields.company": {
+  "value": "Suliffeqarfik",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "fields.address1": {
+  "value": "Aqqusinermi najugaq",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "fields.phone": {
+  "value": "Oqarasuaat",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "fields.country": {
+  "value": "Nuna / Sumiiffik",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "city.city": {
+  "value": "Illoqarfik",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "city.post_town": {
+  "value": "Allakkeriviup illoqarfia",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "city.suburb": {
+  "value": "Illoqarfiup avataa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "city.townland": {
+  "value": "Sumiiffik (Irland)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "city.village_township": {
+  "value": "Nunaqarfik",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "city.district": {
+  "value": "Immikkoortortaq",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "city.neighborhood": {
+  "value": "Illoqarfiup immikkoortua",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "province.area": {
+  "value": "Sumiiffik",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "province.county": {
+  "value": "Kommuneqarfik",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "province.department": {
+  "value": "Immikkoortortaq",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "province.district": {
+  "value": "Distrikti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Emirati",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "province.island": {
+  "value": "Qeqertaq",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "province.parish": {
+  "value": "Ilagiit",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "province.prefecture": {
+  "value": "Prefektur",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "province.province": {
+  "value": "Provinsi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "province.state": {
+  "value": "Naalagaaffik",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "postal.postal": {
+  "value": "Postnummeri",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "postal.zip": {
+  "value": "ZIP-normu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "postal.pin": {
+  "value": "PIN-normu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "Una imaqanngitsoq qimanneqarsinnaanngilaq.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} immersuiffimmut matumunnga naleqartutut ilisarineqanngilaq.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "messages.po_box_forbidden": {
+  "value": "Najugaq una allakkerisarfimmi boksimik imaqartutut isikkoqarpoq. Aqqusinermi imaluunniit illumi najugaq atoruk.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Postnummerip ilusaa ilisarineqanngilaq. Postnummerip atuuttup assersuutaa: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "messages.zip_invalid_example": {
+  "value": "ZIP-normup ilusaa ilisarineqanngilaq. ZIP-normup atuuttup assersuutaa: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "messages.postal_mismatch": {
+  "value": "Postnummeri najukkap sinneranut naapertuutinngilaq.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ },
+ "messages.zip_mismatch": {
+  "value": "ZIP-normu najukkap sinneranut naapertuutinngilaq.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+ }
+}

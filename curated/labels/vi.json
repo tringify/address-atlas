@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Tên",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Họ",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Căn hộ, phòng, tầng, v.v. (không bắt buộc)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Tổ chức",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Địa chỉ đường phố",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Điện thoại",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Quốc gia/vùng",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Thành phố",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Thị trấn theo quy định của bưu điện",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Khu vực",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Vùng thị trấn",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Làng/thị trấn",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Quận",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Vùng lân cận",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Vùng",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Hạt",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Khu vực hành chính",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Quận",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Tiểu vương quốc Ả rập",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Đảo",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Giáo xứ",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Quận",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Tỉnh",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Tỉnh/Bang",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Mã bưu chính",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Mã ZIP",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "Mã PIN",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Bạn không được để trống trường này.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} không được nhận dạng là giá trị xác định cho trường này.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Dòng địa chỉ này có vẻ chứa địa chỉ hộp thư bưu điện. Vui lòng sử dụng địa chỉ phố hoặc địa chỉ tòa nhà.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Định dạng mã bưu chính này không được nhận dạng. Ví dụ về mã bưu chính hợp lệ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Định dạng mã ZIP này không được nhận dạng. Ví dụ về mã ZIP hợp lệ: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Mã bưu điện này dường như không khớp với phần còn lại của địa chỉ này.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Mã zip này dường như không khớp với phần còn lại của địa chỉ này.",
+  "provenance": "chromium"
+ }
+}

@@ -1,0 +1,152 @@
+{
+ "fields.first_name": {
+  "value": "នាមខ្លួន",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "នាមត្រកូល",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "លេខបន្ទប់ អគារ ជាដើម (ស្រេចចិត្ត)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Wording of optional apartment/suite line not verified against Khmer checkout forms."
+ },
+ "fields.company": {
+  "value": "អង្គភាព",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "អាសយដ្ឋាន​ផ្លូវ",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "ទូរស័ព្ទ",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "ប្រទេស/តំបន់៖",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "ទីក្រុង",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "ប៉ុស្តិ៍​ទី​ក្រុង",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "ជាយក្រុង",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "ទីប្រជុំជន",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "ភូមិ / សង្កាត់",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "ស្រុក",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "អ្នក​ជិត​ខាង",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "តំបន់",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "ប្រទេស",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "នាយកដ្ឋាន",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "ស្រុក",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "ខេត្ត/ក្រុង",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "អារ៉ាប់រួម",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "កោះ",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "បាត់ដំបង",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "តំបន់រដ្ឋបាល",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "អាណាខេត្ត",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "ខេត្ត",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "រដ្ឋ",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "លេខកូដប្រៃសណីយ៍",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "លេខកូដតំបន់",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "លេខកូដសម្ងាត់",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "អ្នកមិនអាចទុកវាទទេបានទេ។",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} មិនត្រូវបានស្គាល់ថាជាតម្លៃដែលតម្រូវឲ្យប្រើសម្រាប់ប្រអប់នេះទេ។",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "បន្ទាត់អាសយដ្ឋាននេះមានផ្ទុកប្រអប់សំបុត្រប្រៃសណីយ៍។ សូមប្រើអាសយដ្ឋានផ្លូវ ឬអាគារ។",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "ទម្រង់លេខកូដប្រៃសណីយ៍នេះមិនត្រូវបានស្គាល់ទេ។ ឧទាហរណ៍នៃលេខកូដប្រៃសណីយ៍ដែលមានសុពលភាព {EXAMPLE}។",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "ទម្រង់លេខកូដ ZIP នេះមិនត្រូវបានស្គាល់ទេ។ ឧទាហរណ៍នៃលេខកូដ ZIP ដែលមានសុពលភាព៖ {EXAMPLE}។",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "លេខកូដប្រៃសណីយ៍នេះមិនត្រូវគ្នាជាមួយអាសយដ្ឋាននេះទាំងស្រុង។",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "លេខកូដ ZIP នេះមិនត្រូវគ្នាជាមួយអាសយដ្ឋាននេះទាំងស្រុង។",
+  "provenance": "chromium"
+ }
+}

@@ -1,0 +1,164 @@
+{
+  "fields.first_name": {
+    "value": "ناوی یەکەم",
+    "provenance": "curated"
+  },
+  "fields.last_name": {
+    "value": "ناوی کۆتایی",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Varies: 'ناوی کۆتایی', 'ناوی بنەماڵە' and 'پاشناو' all seen."
+  },
+  "fields.address2": {
+    "value": "شوقە، نهۆم، هتد (ئارەزوومەندانە)",
+    "provenance": "curated"
+  },
+  "fields.company": {
+    "value": "ڕێکخراو",
+    "provenance": "curated"
+  },
+  "fields.address1": {
+    "value": "ناونیشانی شەقام",
+    "provenance": "curated"
+  },
+  "fields.phone": {
+    "value": "تەلەفۆن",
+    "provenance": "curated"
+  },
+  "fields.country": {
+    "value": "وڵات / هەرێم",
+    "provenance": "curated"
+  },
+  "city.city": {
+    "value": "شار",
+    "provenance": "curated"
+  },
+  "city.post_town": {
+    "value": "شاری پۆستە",
+    "provenance": "curated"
+  },
+  "city.suburb": {
+    "value": "دەوروبەری شار",
+    "provenance": "curated"
+  },
+  "city.townland": {
+    "value": "تاونلاند",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Transliteration; no Sorani equivalent."
+  },
+  "city.village_township": {
+    "value": "گوند / شارۆچکە",
+    "provenance": "curated"
+  },
+  "city.district": {
+    "value": "ناوچە",
+    "provenance": "curated"
+  },
+  "city.neighborhood": {
+    "value": "گەڕەک",
+    "provenance": "curated"
+  },
+  "province.area": {
+    "value": "ناوچە",
+    "provenance": "curated"
+  },
+  "province.county": {
+    "value": "کاونتی",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Transliteration; no settled Sorani term."
+  },
+  "province.department": {
+    "value": "بەش",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Approximate."
+  },
+  "province.district": {
+    "value": "قەزا",
+    "provenance": "curated"
+  },
+  "province.do_si": {
+    "value": "Do/Si",
+    "provenance": "curated",
+    "note": "Korean romanized term kept, as in Chromium's translations for other languages."
+  },
+  "province.emirate": {
+    "value": "میرنشین",
+    "provenance": "curated"
+  },
+  "province.island": {
+    "value": "دوورگە",
+    "provenance": "curated"
+  },
+  "province.oblast": {
+    "value": "ئۆبلاست",
+    "provenance": "curated"
+  },
+  "province.parish": {
+    "value": "پاریش",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Transliteration."
+  },
+  "province.prefecture": {
+    "value": "پرێفێکچەر",
+    "provenance": "curated",
+    "confidence": "low",
+    "note": "Transliteration."
+  },
+  "province.province": {
+    "value": "پارێزگا",
+    "provenance": "curated"
+  },
+  "province.state": {
+    "value": "ویلایەت",
+    "provenance": "curated"
+  },
+  "postal.postal": {
+    "value": "کۆدی پۆستە",
+    "provenance": "curated"
+  },
+  "postal.zip": {
+    "value": "کۆدی ZIP",
+    "provenance": "curated"
+  },
+  "postal.pin": {
+    "value": "کۆدی PIN",
+    "provenance": "curated"
+  },
+  "postal.eircode": {
+    "value": "Eircode",
+    "provenance": "curated",
+    "note": "Proper name of Ireland's postcode system, kept as used locally."
+  },
+  "messages.required": {
+    "value": "ناتوانیت ئەمە بە بەتاڵی جێبهێڵیت.",
+    "provenance": "curated"
+  },
+  "messages.unknown_value": {
+    "value": "{FIELD_VALUE} وەک بەهایەکی ناسراو بۆ ئەم خانەیە نەناسرایەوە.",
+    "provenance": "curated"
+  },
+  "messages.po_box_forbidden": {
+    "value": "وا دیارە ئەم هێڵەی ناونیشانە سندووقی پۆستەی تێدایە. تکایە ناونیشانی شەقام یان باڵەخانە بەکاربهێنە.",
+    "provenance": "curated"
+  },
+  "messages.postal_invalid_example": {
+    "value": "شێوازی ئەم کۆدی پۆستەیە نەناسراوە. نموونەی کۆدی پۆستەی دروست: {EXAMPLE}.",
+    "provenance": "curated"
+  },
+  "messages.zip_invalid_example": {
+    "value": "شێوازی ئەم کۆدی ZIPـە نەناسراوە. نموونەی کۆدی ZIPی دروست: {EXAMPLE}.",
+    "provenance": "curated"
+  },
+  "messages.postal_mismatch": {
+    "value": "وا دیار نییە ئەم کۆدی پۆستەیە لەگەڵ بەشەکانی تری ئەم ناونیشانە بگونجێت.",
+    "provenance": "curated"
+  },
+  "messages.zip_mismatch": {
+    "value": "وا دیار نییە ئەم کۆدی ZIPـە لەگەڵ بەشەکانی تری ئەم ناونیشانە بگونجێت.",
+    "provenance": "curated"
+  }
+}

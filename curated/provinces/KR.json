@@ -1,0 +1,144 @@
+{
+ "country": "KR",
+ "level": "do_si",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "KR-11",
+   "local": "서울특별시",
+   "latin": "Seoul-teukbyeolsi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-26",
+   "local": "부산광역시",
+   "latin": "Busan-gwangyeoksi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-27",
+   "local": "대구광역시",
+   "latin": "Daegu-gwangyeoksi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-28",
+   "local": "인천광역시",
+   "latin": "Incheon-gwangyeoksi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-30",
+   "local": "대전광역시",
+   "latin": "Daejeon-gwangyeoksi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-31",
+   "local": "울산광역시",
+   "latin": "Ulsan-gwangyeoksi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-41",
+   "local": "경기도",
+   "latin": "Gyeonggi-do",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-42",
+   "local": "강원특별자치도",
+   "latin": "Gangwon-teukbyeoljachido",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-43",
+   "local": "충청북도",
+   "latin": "Chungcheongbuk-do",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-44",
+   "local": "충청남도",
+   "latin": "Chungcheongnam-do",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-45",
+   "local": "전북특별자치도",
+   "latin": "Jeonbuk-teukbyeoljachido",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-47",
+   "local": "경상북도",
+   "latin": "Gyeongsangbuk-do",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-48",
+   "local": "경상남도",
+   "latin": "Gyeongsangnam-do",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-49",
+   "local": "제주특별자치도",
+   "latin": "Jeju-teukbyeoljachido",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-50",
+   "local": "세종특별자치시",
+   "latin": "Sejong-teukbyeoljachisi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "KR-JEONNAM_GWANGJU",
+   "local": "전남광주통합특별시",
+   "latin": "Jeonnam-Gwangju-tonghapteukbyeolsi",
+   "iso": false,
+   "aliases": [
+    "KR-29",
+    "KR-46"
+   ]
+  }
+ ],
+ "changes": [
+  "merged KR-29 Gwangju City -> KR-JEONNAM_GWANGJU Jeonnam-Gwangju-tonghapteukbyeolsi (old code kept as alias)",
+  "merged KR-46 South Jeolla -> KR-JEONNAM_GWANGJU Jeonnam-Gwangju-tonghapteukbyeolsi (old code kept as alias)",
+  "renamed KR-42: 강원도 Gangwon-do -> 강원특별자치도 Gangwon-teukbyeoljachido (11 Jun 2023; code kept)",
+  "renamed KR-45: 전라북도 Jeollabuk-do -> 전북특별자치도 Jeonbuk-teukbyeoljachido (18 Jan 2024; code kept, ISO name not yet updated)"
+ ],
+ "sources": [
+  "https://www.fnnews.com/news/202607010704164699",
+  "https://www.koreaherald.com/article/10663708",
+  "https://en.wikipedia.org/wiki/ISO_3166-2:KR",
+  "https://www.epost.go.kr/search/zipcode/search5.jsp",
+  "https://en.wikipedia.org/wiki/ISO_3166-2:KR",
+  "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+  "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KR",
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/korEn.pdf",
+  "https://www.yna.co.kr/view/AKR20260630109800054",
+  "https://www.jeonnam.go.kr/boardDown.do?boardId=tronix&fileLinkSeq=1&fileLinkTp=F&seq=358",
+  "https://www.iso.org/obp/ui/#iso:code:3166:KR",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "low",
+ "notes": "16 first-level units. Gwangju (KR-29) and Jeollanam-do (KR-46) merged into 전남광주통합특별시 (legal short form 광주특별시) on 1 Jul 2026. ISO 3166-2:KR has not been updated (still lists KR-29 and KR-46), so the new unit gets the non-ISO KR-JEONNAM_GWANGJU and both old codes are aliases. No official romanisation has been fixed; latin is a Revised Romanization of the legal name (press uses \"Jeonnam-Gwangju Integrated Special City\"). Input should also accept 광주특별시, 광주광역시 and 전라남도. KR-45: ISO still names it Jeollabuk-do; the official name since 18 Jan 2024 is 전북특별자치도."
+}

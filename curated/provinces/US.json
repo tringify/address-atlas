@@ -1,0 +1,451 @@
+{
+ "country": "US",
+ "level": "state",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "US-AA",
+   "local": "Armed Forces Americas",
+   "latin": "Armed Forces Americas",
+   "iso": false,
+   "aliases": []
+  },
+  {
+   "code": "US-AE",
+   "local": "Armed Forces Europe",
+   "latin": "Armed Forces Europe",
+   "iso": false,
+   "aliases": []
+  },
+  {
+   "code": "US-AK",
+   "local": "Alaska",
+   "latin": "Alaska",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-AL",
+   "local": "Alabama",
+   "latin": "Alabama",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-AP",
+   "local": "Armed Forces Pacific",
+   "latin": "Armed Forces Pacific",
+   "iso": false,
+   "aliases": []
+  },
+  {
+   "code": "US-AR",
+   "local": "Arkansas",
+   "latin": "Arkansas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-AS",
+   "local": "American Samoa",
+   "latin": "American Samoa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-AZ",
+   "local": "Arizona",
+   "latin": "Arizona",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-CA",
+   "local": "California",
+   "latin": "California",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-CO",
+   "local": "Colorado",
+   "latin": "Colorado",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-CT",
+   "local": "Connecticut",
+   "latin": "Connecticut",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-DC",
+   "local": "District of Columbia",
+   "latin": "District of Columbia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-DE",
+   "local": "Delaware",
+   "latin": "Delaware",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-FL",
+   "local": "Florida",
+   "latin": "Florida",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-FM",
+   "local": "Federated States of Micronesia",
+   "latin": "Federated States of Micronesia",
+   "iso": false,
+   "aliases": []
+  },
+  {
+   "code": "US-GA",
+   "local": "Georgia",
+   "latin": "Georgia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-GU",
+   "local": "Guam",
+   "latin": "Guam",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-HI",
+   "local": "Hawaii",
+   "latin": "Hawaii",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-IA",
+   "local": "Iowa",
+   "latin": "Iowa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-ID",
+   "local": "Idaho",
+   "latin": "Idaho",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-IL",
+   "local": "Illinois",
+   "latin": "Illinois",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-IN",
+   "local": "Indiana",
+   "latin": "Indiana",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-KS",
+   "local": "Kansas",
+   "latin": "Kansas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-KY",
+   "local": "Kentucky",
+   "latin": "Kentucky",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-LA",
+   "local": "Louisiana",
+   "latin": "Louisiana",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-MA",
+   "local": "Massachusetts",
+   "latin": "Massachusetts",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-MD",
+   "local": "Maryland",
+   "latin": "Maryland",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-ME",
+   "local": "Maine",
+   "latin": "Maine",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-MH",
+   "local": "Marshall Islands",
+   "latin": "Marshall Islands",
+   "iso": false,
+   "aliases": []
+  },
+  {
+   "code": "US-MI",
+   "local": "Michigan",
+   "latin": "Michigan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-MN",
+   "local": "Minnesota",
+   "latin": "Minnesota",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-MO",
+   "local": "Missouri",
+   "latin": "Missouri",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-MP",
+   "local": "Northern Mariana Islands",
+   "latin": "Northern Mariana Islands",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-MS",
+   "local": "Mississippi",
+   "latin": "Mississippi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-MT",
+   "local": "Montana",
+   "latin": "Montana",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-NC",
+   "local": "North Carolina",
+   "latin": "North Carolina",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-ND",
+   "local": "North Dakota",
+   "latin": "North Dakota",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-NE",
+   "local": "Nebraska",
+   "latin": "Nebraska",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-NH",
+   "local": "New Hampshire",
+   "latin": "New Hampshire",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-NJ",
+   "local": "New Jersey",
+   "latin": "New Jersey",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-NM",
+   "local": "New Mexico",
+   "latin": "New Mexico",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-NV",
+   "local": "Nevada",
+   "latin": "Nevada",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-NY",
+   "local": "New York",
+   "latin": "New York",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-OH",
+   "local": "Ohio",
+   "latin": "Ohio",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-OK",
+   "local": "Oklahoma",
+   "latin": "Oklahoma",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-OR",
+   "local": "Oregon",
+   "latin": "Oregon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-PA",
+   "local": "Pennsylvania",
+   "latin": "Pennsylvania",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-PR",
+   "local": "Puerto Rico",
+   "latin": "Puerto Rico",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-PW",
+   "local": "Palau",
+   "latin": "Palau",
+   "iso": false,
+   "aliases": []
+  },
+  {
+   "code": "US-RI",
+   "local": "Rhode Island",
+   "latin": "Rhode Island",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-SC",
+   "local": "South Carolina",
+   "latin": "South Carolina",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-SD",
+   "local": "South Dakota",
+   "latin": "South Dakota",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-TN",
+   "local": "Tennessee",
+   "latin": "Tennessee",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-TX",
+   "local": "Texas",
+   "latin": "Texas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-UT",
+   "local": "Utah",
+   "latin": "Utah",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-VA",
+   "local": "Virginia",
+   "latin": "Virginia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-VI",
+   "local": "U.S. Virgin Islands",
+   "latin": "U.S. Virgin Islands",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-VT",
+   "local": "Vermont",
+   "latin": "Vermont",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-WA",
+   "local": "Washington",
+   "latin": "Washington",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-WI",
+   "local": "Wisconsin",
+   "latin": "Wisconsin",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-WV",
+   "local": "West Virginia",
+   "latin": "West Virginia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "US-WY",
+   "local": "Wyoming",
+   "latin": "Wyoming",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://pe.usps.com/text/pub28/28apb.htm",
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf",
+  "https://pe.usps.com/text/pub28/welcome.htm",
+  "https://www.iso.org/obp/ui/#iso:code:3166:US",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "50 states + DC + USPS territories AS, GU, MP, PR, VI (ISO US- outlying-area codes). US-UM is left out: USPS has no UM code and no delivery. Non-ISO codes, justified by USPS Publication 28 (they are written in the state slot): US-AA/US-AE/US-AP (Armed Forces Americas/Europe/Pacific) and US-FM/US-MH/US-PW (freely associated states served by USPS; ISO treats them as countries FM/MH/PW, so no US- code exists)."
+}

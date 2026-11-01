@@ -1,0 +1,186 @@
+{
+ "fields.first_name": {
+  "value": "Orúkọ àkọ́kọ́",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Orúkọ ìdílé",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Ilé, yàrá àti bẹ́ẹ̀ bẹ́ẹ̀ lọ (àṣàyàn)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "fields.company": {
+  "value": "Àjọ",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Àdírẹ́sì òpópónà",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Fóònù",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Orílẹ̀-èdè / Agbègbè",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Ìlú",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Ìlú ìfìwéránṣẹ́",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "city.suburb": {
+  "value": "Ìgbèríko ìlú",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Yoruba equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "Abúlé / Ìlú kékeré",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Ẹkùn",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "city.neighborhood": {
+  "value": "Àdúgbò",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Agbègbè",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Ẹkùn",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "province.department": {
+  "value": "Ẹ̀ka",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Ẹkùn",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated"
+ },
+ "province.emirate": {
+  "value": "Ẹ́mírétì",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "province.island": {
+  "value": "Erékùṣù",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Pàríṣì",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "province.prefecture": {
+  "value": "Ẹkùn ìjọba",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "province.province": {
+  "value": "Ẹkùn",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "province.state": {
+  "value": "Ìpínlẹ̀",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Kóòdù ìfìwéránṣẹ́",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Kóòdù ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Kóòdù PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "O kò lè fi èyí sílẹ̀ láìkọ nǹkan.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "messages.unknown_value": {
+  "value": "A kò dá {FIELD_VALUE} mọ̀ gẹ́gẹ́ bí iye tí a mọ̀ fún àyè yìí.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Ó dà bí ẹni pé ìlà àdírẹ́sì yìí ní àpótí ìfìwéránṣẹ́ nínú. Jọ̀wọ́ lo àdírẹ́sì òpópónà tàbí ilé.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "messages.postal_invalid_example": {
+  "value": "A kò dá ọ̀nà kíkọ kóòdù ìfìwéránṣẹ́ yìí mọ̀. Àpẹẹrẹ kóòdù ìfìwéránṣẹ́ tó tọ́: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "messages.zip_invalid_example": {
+  "value": "A kò dá ọ̀nà kíkọ kóòdù ZIP yìí mọ̀. Àpẹẹrẹ kóòdù ZIP tó tọ́: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "messages.postal_mismatch": {
+  "value": "Ó dà bí ẹni pé kóòdù ìfìwéránṣẹ́ yìí kò bá ìyókù àdírẹ́sì yìí mu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ },
+ "messages.zip_mismatch": {
+  "value": "Ó dà bí ẹni pé kóòdù ZIP yìí kò bá ìyókù àdírẹ́sì yìí mu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Yoruba; Nigerian forms are usually in English, wording not verified"
+ }
+}

@@ -1,0 +1,111 @@
+{
+ "AX": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Bisanga Ɛland"
+ },
+ "BL": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Sántu Barthélemy"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR ln patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Olandɛ ya Karayibɛ"
+ },
+ "BV": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Esanga Buvé"
+ },
+ "CC": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Bisanga Kokos"
+ },
+ "CW": {
+  "confidence": "low",
+  "note": "constructed on CLDR ln patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Kurasao"
+ },
+ "CX": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Esanga ya Mbótama"
+ },
+ "EH": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Sahara ya Limbɛ"
+ },
+ "FO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Bisanga bya Faloé"
+ },
+ "HK": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Hong Kong (Shina)"
+ },
+ "IM": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Esanga ya Man"
+ },
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Mabelé ya Angɛlɛtɛ́lɛ na mbú ya Indiya"
+ },
+ "JE": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Jelezy"
+ },
+ "MF": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Sántu Martin"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "cf CLDR ln MP \"Bisanga bya Marianɛ ya nɔ́rdi\"",
+  "provenance": "curated",
+  "value": "Masedwanɛ ya nɔ́rdi"
+ },
+ "MO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Makau (Shina)"
+ },
+ "SJ": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Svalbard mpé Jan Mayen"
+ },
+ "SS": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Sudani ya Sidi"
+ },
+ "SX": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR ln uses for comparable territories",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "UM": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Bisanga Mokɛ́na Mosíká bya Lisangá lya Ameríka"
+ },
+ "XK": {
+  "note": "international/English form, as CLDR ln uses for comparable territories",
+  "provenance": "curated",
+  "value": "Kosovo"
+ }
+}

@@ -1,0 +1,145 @@
+{
+ "country": "GH",
+ "level": "region",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "GH-AA",
+   "local": "Greater Accra",
+   "latin": "Greater Accra",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-AF",
+   "local": "Ahafo",
+   "latin": "Ahafo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-AH",
+   "local": "Ashanti",
+   "latin": "Ashanti",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-BE",
+   "local": "Bono East",
+   "latin": "Bono East",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-BO",
+   "local": "Bono",
+   "latin": "Bono",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-CP",
+   "local": "Central",
+   "latin": "Central",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-EP",
+   "local": "Eastern",
+   "latin": "Eastern",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-NE",
+   "local": "North East",
+   "latin": "North East",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-NP",
+   "local": "Northern",
+   "latin": "Northern",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-OT",
+   "local": "Oti",
+   "latin": "Oti",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-SV",
+   "local": "Savannah",
+   "latin": "Savannah",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-TV",
+   "local": "Volta",
+   "latin": "Volta",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-UE",
+   "local": "Upper East",
+   "latin": "Upper East",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-UW",
+   "local": "Upper West",
+   "latin": "Upper West",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-WN",
+   "local": "Western North",
+   "latin": "Western North",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "GH-WP",
+   "local": "Western",
+   "latin": "Western",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added GH-AA Greater Accra",
+  "added GH-AF Ahafo",
+  "added GH-AH Ashanti",
+  "added GH-BE Bono East",
+  "added GH-BO Bono",
+  "added GH-CP Central",
+  "added GH-EP Eastern",
+  "added GH-NE North East",
+  "added GH-NP Northern",
+  "added GH-OT Oti",
+  "added GH-SV Savannah",
+  "added GH-TV Volta",
+  "added GH-UE Upper East",
+  "added GH-UW Upper West",
+  "added GH-WN Western North",
+  "added GH-WP Western"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ghaEn.pdf",
+  "https://ghanapost.com.gh/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:GH",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "16 regions (2019). Codes checked against iso-codes (the D review had them from memory): all 16 match."
+}

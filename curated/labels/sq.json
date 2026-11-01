@@ -1,0 +1,150 @@
+{
+ "fields.first_name": {
+  "value": "Emri",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Mbiemri",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Apartamenti, kati etj. (opsionale)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organizata",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Adresa e rrugës",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Telefoni",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Shteti / Rajoni",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Qyteti",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Zyra postare lokale",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Lagjja",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Periferia",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Fshati / Qyteza",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "Rrethi",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Lagjja",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Zona",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Qarku",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Departamenti",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "Rrethi",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Emirati",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Ishulli",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Obllasti",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Famullia",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Prefektura",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Krahina",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "Shteti",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Kodi postar",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Kodi ZIP",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "Kodi PIN",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Nuk mund ta lësh bosh këtë fushë.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} nuk njihet si vlerë e njohur për këtë fushë.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Ky rresht adrese duket se përmban një kuti postare. Përdor një adresë rruge ose ndërtese.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Ky format i kodit postar nuk njihet. Shembulli i një kodi të vlefshëm postar: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Ky format i kodit ZIP nuk njihet. Shembulli i kodit ZIP të vlefshëm: {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Ky kod postar, me sa duket nuk përputhet me pjesën tjetër të kësaj adrese.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Ky kod ZIP, me sa duket nuk përputhet me pjesën tjetër të kësaj adrese.",
+  "provenance": "chromium"
+ }
+}

@@ -1,0 +1,380 @@
+{
+ "country": "ES",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "ES-A",
+   "local": "Alicante",
+   "latin": "Alicante",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-AB",
+   "local": "Albacete",
+   "latin": "Albacete",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-AL",
+   "local": "Almería",
+   "latin": "Almería",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-AV",
+   "local": "Ávila",
+   "latin": "Ávila",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-B",
+   "local": "Barcelona [Barcelona]",
+   "latin": "Barcelona [Barcelona]",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-BA",
+   "local": "Badajoz",
+   "latin": "Badajoz",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-BI",
+   "local": "Bizkaia",
+   "latin": "Bizkaia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-BU",
+   "local": "Burgos",
+   "latin": "Burgos",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-C",
+   "local": "A Coruña [La Coruña]",
+   "latin": "A Coruña [La Coruña]",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-CA",
+   "local": "Cádiz",
+   "latin": "Cádiz",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-CC",
+   "local": "Cáceres",
+   "latin": "Cáceres",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-CE",
+   "local": "Ceuta",
+   "latin": "Ceuta",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-CO",
+   "local": "Córdoba",
+   "latin": "Córdoba",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-CR",
+   "local": "Ciudad Real",
+   "latin": "Ciudad Real",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-CS",
+   "local": "Castellón",
+   "latin": "Castellón",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-CU",
+   "local": "Cuenca",
+   "latin": "Cuenca",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-GC",
+   "local": "Las Palmas",
+   "latin": "Las Palmas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-GI",
+   "local": "Girona [Gerona]",
+   "latin": "Girona [Gerona]",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-GR",
+   "local": "Granada",
+   "latin": "Granada",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-GU",
+   "local": "Guadalajara",
+   "latin": "Guadalajara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-H",
+   "local": "Huelva",
+   "latin": "Huelva",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-HU",
+   "local": "Huesca",
+   "latin": "Huesca",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-J",
+   "local": "Jaén",
+   "latin": "Jaén",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-L",
+   "local": "Lleida [Lérida]",
+   "latin": "Lleida [Lérida]",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-LE",
+   "local": "León",
+   "latin": "León",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-LO",
+   "local": "La Rioja",
+   "latin": "La Rioja",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-LU",
+   "local": "Lugo [Lugo]",
+   "latin": "Lugo [Lugo]",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-M",
+   "local": "Madrid",
+   "latin": "Madrid",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-MA",
+   "local": "Málaga",
+   "latin": "Málaga",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-ML",
+   "local": "Melilla",
+   "latin": "Melilla",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-MU",
+   "local": "Murcia",
+   "latin": "Murcia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-NA",
+   "local": "Navarra",
+   "latin": "Navarra",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-O",
+   "local": "Asturias",
+   "latin": "Asturias",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-OR",
+   "local": "Ourense [Orense]",
+   "latin": "Ourense [Orense]",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-P",
+   "local": "Palencia",
+   "latin": "Palencia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-PM",
+   "local": "Illes Balears [Islas Baleares]",
+   "latin": "Illes Balears [Islas Baleares]",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-PO",
+   "local": "Pontevedra [Pontevedra]",
+   "latin": "Pontevedra [Pontevedra]",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-S",
+   "local": "Cantabria",
+   "latin": "Cantabria",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-SA",
+   "local": "Salamanca",
+   "latin": "Salamanca",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-SE",
+   "local": "Sevilla",
+   "latin": "Sevilla",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-SG",
+   "local": "Segovia",
+   "latin": "Segovia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-SO",
+   "local": "Soria",
+   "latin": "Soria",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-SS",
+   "local": "Gipuzkoa",
+   "latin": "Gipuzkoa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-T",
+   "local": "Tarragona [Tarragona]",
+   "latin": "Tarragona [Tarragona]",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-TE",
+   "local": "Teruel",
+   "latin": "Teruel",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-TF",
+   "local": "Santa Cruz de Tenerife",
+   "latin": "Santa Cruz de Tenerife",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-TO",
+   "local": "Toledo",
+   "latin": "Toledo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-V",
+   "local": "Valencia",
+   "latin": "Valencia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-VA",
+   "local": "Valladolid",
+   "latin": "Valladolid",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-VI",
+   "local": "Álava",
+   "latin": "Álava",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-Z",
+   "local": "Zaragoza",
+   "latin": "Zaragoza",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ES-ZA",
+   "local": "Zamora",
+   "latin": "Zamora",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/espEn.pdf",
+  "https://www.correos.es/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:ES",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "Provinces, not autonomous communities. Bilingual official names are kept as ISO gives them (e.g. \"Alacant / Alicante\")."
+}

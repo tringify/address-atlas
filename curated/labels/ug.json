@@ -1,0 +1,176 @@
+{
+ "fields.first_name": {
+  "value": "ئىسىم",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "فامىلە",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "ئۆي، قەۋەت قاتارلىقلار (تاللاشچان)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "تەشكىلات",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "كوچا ئادرېسى",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "تېلېفون",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "دۆلەت / رايون",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "شەھەر",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "پوچتا شەھىرى",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Uyghur (Arabic script); wording not verified against a Uyghur form"
+ },
+ "city.suburb": {
+  "value": "شەھەر چېتى",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Uyghur (Arabic script); wording not verified against a Uyghur form"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Irish land division with no Uyghur equivalent; Irish/English term kept"
+ },
+ "city.village_township": {
+  "value": "يېزا / بازار",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "رايون",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "مەھەللە",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "رايون",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "ناھىيە",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "تارماق",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Uyghur (Arabic script); wording not verified against a Uyghur form"
+ },
+ "province.district": {
+  "value": "رايون",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "دو/سى",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "transliteration of Korean Do/Si"
+ },
+ "province.emirate": {
+  "value": "ئەمىرلىك",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "ئارال",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "ئوبلاست",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "چېركاۋ رايونى",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Uyghur (Arabic script); wording not verified against a Uyghur form"
+ },
+ "province.prefecture": {
+  "value": "ۋىلايەت",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Uyghur (Arabic script); wording not verified against a Uyghur form"
+ },
+ "province.province": {
+  "value": "ئۆلكە",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "شتات",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "پوچتا نومۇرى",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "ZIP نومۇرى",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "PIN نومۇرى",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated"
+ },
+ "messages.required": {
+  "value": "بۇنى بوش قالدۇرۇشقا بولمايدۇ.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} بۇ بۆلەك ئۈچۈن تونۇلغان قىممەت ئەمەس.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Uyghur (Arabic script); wording not verified against a Uyghur form"
+ },
+ "messages.po_box_forbidden": {
+  "value": "بۇ ئادرېس قۇرىدا پوچتا ساندۇقى باردەك قىلىدۇ. كوچا ياكى بىنا ئادرېسىنى ئىشلىتىڭ.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Uyghur (Arabic script); wording not verified against a Uyghur form"
+ },
+ "messages.postal_invalid_example": {
+  "value": "بۇ پوچتا نومۇرىنىڭ فورماتى تونۇلمىدى. ئىناۋەتلىك پوچتا نومۇرىنىڭ مىسالى: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Uyghur (Arabic script); wording not verified against a Uyghur form"
+ },
+ "messages.zip_invalid_example": {
+  "value": "بۇ ZIP نومۇرىنىڭ فورماتى تونۇلمىدى. ئىناۋەتلىك ZIP نومۇرىنىڭ مىسالى: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Uyghur (Arabic script); wording not verified against a Uyghur form"
+ },
+ "messages.postal_mismatch": {
+  "value": "بۇ پوچتا نومۇرى ئادرېسنىڭ قالغان قىسمىغا ماس كەلمىگەندەك قىلىدۇ.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Uyghur (Arabic script); wording not verified against a Uyghur form"
+ },
+ "messages.zip_mismatch": {
+  "value": "بۇ ZIP نومۇرى ئادرېسنىڭ قالغان قىسمىغا ماس كەلمىگەندەك قىلىدۇ.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Uyghur (Arabic script); wording not verified against a Uyghur form"
+ }
+}
