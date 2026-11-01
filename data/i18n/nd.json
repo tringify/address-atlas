@@ -270,7 +270,7 @@
   "messages.postal_invalid_example": "Isimo sale khodi yeposi kasaziwa. Isibonelo sekhodi yeposi efaneleyo: {EXAMPLE}.",
   "messages.postal_mismatch": "Le khodi yeposi kayibonakali ihambelana lekheli eliseleyo.",
   "messages.required": "Awungeke ukutshiye lokhu kungelalutho.",
-  "messages.unknown_value": "{FIELD_VALUE} kayaziwa njengenani elivumelekileyo kulesi sikhala.",
+  "messages.unknown_value": "{FIELD_VALUE} kayaziwa njengexabiso elaziwayo kulesi sikhala.",
   "messages.zip_invalid_example": "Isimo sale khodi ye-ZIP kasaziwa. Isibonelo sekhodi ye-ZIP efaneleyo: {EXAMPLE}.",
   "messages.zip_mismatch": "Le khodi ye-ZIP kayibonakali ihambelana lekheli eliseleyo.",
   "postal.eircode": "Eircode",

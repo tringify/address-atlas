@@ -1,150 +1,151 @@
 {
-  "fields.first_name": {
-    "value": "Prénom",
-    "provenance": "curated"
-  },
-  "fields.last_name": {
-    "value": "Nom",
-    "provenance": "curated"
-  },
-  "fields.address2": {
-    "value": "Appartement, bâtiment, etc. (facultatif)",
-    "provenance": "curated"
-  },
-  "fields.company": {
-    "value": "Organisation",
-    "provenance": "chromium"
-  },
-  "fields.address1": {
-    "value": "Adresse postale",
-    "provenance": "chromium"
-  },
-  "fields.phone": {
-    "value": "Téléphone",
-    "provenance": "chromium"
-  },
-  "fields.country": {
-    "value": "Pays/Région",
-    "provenance": "chromium"
-  },
-  "city.city": {
-    "value": "Ville",
-    "provenance": "chromium"
-  },
-  "city.post_town": {
-    "value": "Ville postale",
-    "provenance": "chromium"
-  },
-  "city.suburb": {
-    "value": "Banlieue",
-    "provenance": "chromium"
-  },
-  "city.townland": {
-    "value": "Quartier",
-    "provenance": "chromium"
-  },
-  "city.village_township": {
-    "value": "Village/Municipalité",
-    "provenance": "chromium"
-  },
-  "city.district": {
-    "value": "District",
-    "provenance": "chromium"
-  },
-  "city.neighborhood": {
-    "value": "Quartier",
-    "provenance": "chromium"
-  },
-  "province.area": {
-    "value": "Zone",
-    "provenance": "chromium"
-  },
-  "province.county": {
-    "value": "Comté",
-    "provenance": "chromium"
-  },
-  "province.department": {
-    "value": "Département",
-    "provenance": "chromium"
-  },
-  "province.district": {
-    "value": "District",
-    "provenance": "chromium"
-  },
-  "province.do_si": {
-    "value": "Do/Si",
-    "provenance": "chromium"
-  },
-  "province.emirate": {
-    "value": "Émirat",
-    "provenance": "chromium"
-  },
-  "province.island": {
-    "value": "Île",
-    "provenance": "chromium"
-  },
-  "province.oblast": {
-    "value": "Oblast",
-    "provenance": "chromium"
-  },
-  "province.parish": {
-    "value": "Paroisse",
-    "provenance": "chromium"
-  },
-  "province.prefecture": {
-    "value": "Préfecture",
-    "provenance": "chromium"
-  },
-  "province.province": {
-    "value": "Département",
-    "provenance": "chromium"
-  },
-  "province.state": {
-    "value": "État",
-    "provenance": "chromium"
-  },
-  "postal.postal": {
-    "value": "Code postal",
-    "provenance": "chromium"
-  },
-  "postal.zip": {
-    "value": "Code postal",
-    "provenance": "chromium"
-  },
-  "postal.pin": {
-    "value": "Code d'accès",
-    "provenance": "chromium"
-  },
-  "postal.eircode": {
-    "value": "Eircode",
-    "provenance": "chromium"
-  },
-  "messages.required": {
-    "value": "Ce champ est obligatoire.",
-    "provenance": "chromium"
-  },
-  "messages.unknown_value": {
-    "value": "La valeur \"{FIELD_VALUE}\" n'est pas reconnue pour ce champ.",
-    "provenance": "chromium"
-  },
-  "messages.po_box_forbidden": {
-    "value": "Cette adresse semble contenir une boîte postale. Veuillez utiliser une adresse avec un nom de rue ou un bâtiment.",
-    "provenance": "chromium"
-  },
-  "messages.postal_invalid_example": {
-    "value": "Le format de ce code postal n'est pas reconnu. Exemple de code postal valide : {EXAMPLE}.",
-    "provenance": "chromium"
-  },
-  "messages.zip_invalid_example": {
-    "value": "Le format de ce code postal n'est pas reconnu. Exemple de code postal valide : {EXAMPLE}.",
-    "provenance": "chromium"
-  },
-  "messages.postal_mismatch": {
-    "value": "Ce code postal ne semble pas correspondre au reste de cette adresse.",
-    "provenance": "chromium"
-  },
-  "messages.zip_mismatch": {
-    "value": "Ce code postal ne semble pas correspondre au reste de cette adresse.",
-    "provenance": "chromium"
-  }
+ "fields.first_name": {
+  "value": "Prénom",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Nom",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Appartement, suite, etc. (facultatif)",
+  "provenance": "curated",
+  "checked": true
+ },
+ "fields.company": {
+  "value": "Organisation",
+  "provenance": "chromium"
+ },
+ "fields.address1": {
+  "value": "Adresse postale",
+  "provenance": "chromium"
+ },
+ "fields.phone": {
+  "value": "Téléphone",
+  "provenance": "chromium"
+ },
+ "fields.country": {
+  "value": "Pays/Région",
+  "provenance": "chromium"
+ },
+ "city.city": {
+  "value": "Ville",
+  "provenance": "chromium"
+ },
+ "city.post_town": {
+  "value": "Ville postale",
+  "provenance": "chromium"
+ },
+ "city.suburb": {
+  "value": "Banlieue",
+  "provenance": "chromium"
+ },
+ "city.townland": {
+  "value": "Quartier",
+  "provenance": "chromium"
+ },
+ "city.village_township": {
+  "value": "Village/Municipalité",
+  "provenance": "chromium"
+ },
+ "city.district": {
+  "value": "District",
+  "provenance": "chromium"
+ },
+ "city.neighborhood": {
+  "value": "Quartier",
+  "provenance": "chromium"
+ },
+ "province.area": {
+  "value": "Zone",
+  "provenance": "chromium"
+ },
+ "province.county": {
+  "value": "Comté",
+  "provenance": "chromium"
+ },
+ "province.department": {
+  "value": "Département",
+  "provenance": "chromium"
+ },
+ "province.district": {
+  "value": "District",
+  "provenance": "chromium"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "chromium"
+ },
+ "province.emirate": {
+  "value": "Émirat",
+  "provenance": "chromium"
+ },
+ "province.island": {
+  "value": "Île",
+  "provenance": "chromium"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "chromium"
+ },
+ "province.parish": {
+  "value": "Paroisse",
+  "provenance": "chromium"
+ },
+ "province.prefecture": {
+  "value": "Préfecture",
+  "provenance": "chromium"
+ },
+ "province.province": {
+  "value": "Département",
+  "provenance": "chromium"
+ },
+ "province.state": {
+  "value": "État",
+  "provenance": "chromium"
+ },
+ "postal.postal": {
+  "value": "Code postal",
+  "provenance": "chromium"
+ },
+ "postal.zip": {
+  "value": "Code postal",
+  "provenance": "chromium"
+ },
+ "postal.pin": {
+  "value": "Code d'accès",
+  "provenance": "chromium"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "chromium"
+ },
+ "messages.required": {
+  "value": "Ce champ est obligatoire.",
+  "provenance": "chromium"
+ },
+ "messages.unknown_value": {
+  "value": "La valeur \"{FIELD_VALUE}\" n'est pas reconnue pour ce champ.",
+  "provenance": "chromium"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Cette adresse semble contenir une boîte postale. Veuillez utiliser une adresse avec un nom de rue ou un bâtiment.",
+  "provenance": "chromium"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Le format de ce code postal n'est pas reconnu. Exemple de code postal valide : {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Le format de ce code postal n'est pas reconnu. Exemple de code postal valide : {EXAMPLE}.",
+  "provenance": "chromium"
+ },
+ "messages.postal_mismatch": {
+  "value": "Ce code postal ne semble pas correspondre au reste de cette adresse.",
+  "provenance": "chromium"
+ },
+ "messages.zip_mismatch": {
+  "value": "Ce code postal ne semble pas correspondre au reste de cette adresse.",
+  "provenance": "chromium"
+ }
 }

@@ -260,7 +260,7 @@
   "city.townland": "Townland",
   "city.village_township": "Ködörö",
   "fields.address1": "Ndo ti lege ti da",
-  "fields.address2": "Da, etaje na ambeni (a yeke ngangu pëpe)",
+  "fields.address2": "Da, etaje na ambeni (a yeke obligé pëpe)",
   "fields.company": "Bungbi",
   "fields.country": "Ködörösêse / Mbâgë",
   "fields.first_name": "Iri",
@@ -288,7 +288,7 @@
   "province.parish": "Paruäsi",
   "province.prefecture": "Prefektüre",
   "province.province": "Provînsi",
-  "province.state": "Sêse"
+  "province.state": "Leta"
  },
  "provenance": {
   "countries.AQ": "curated",

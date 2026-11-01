@@ -42,10 +42,9 @@
   "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
  },
  "city.city": {
-  "value": "Obodo mepere emepe",
+  "value": "Obodo ukwu",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+  "checked": true
  },
  "city.post_town": {
   "value": "Obodo post",
@@ -60,10 +59,9 @@
   "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
  },
  "city.townland": {
-  "value": "Ime obodo (Ireland)",
+  "value": "Townland",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Igbo address-form terminology is not standardized; drafted without a native checkout-form reference."
+  "checked": true
  },
  "city.village_township": {
   "value": "Obodo nta",

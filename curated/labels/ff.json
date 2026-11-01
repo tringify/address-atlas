@@ -1,224 +1,222 @@
 {
-  "fields.first_name": {
-    "value": "Innde",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "fields.last_name": {
-    "value": "Yettoode",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "fields.address2": {
-    "value": "Suudu, kaaldi, e ko nanndi (suɓaade)",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "fields.company": {
-    "value": "Fedde",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "fields.address1": {
-    "value": "Ñiiɓirde laawol",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "fields.phone": {
-    "value": "Noddirgal",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "fields.country": {
-    "value": "Leydi / Diiwaan",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "city.city": {
-    "value": "Saare",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "city.post_town": {
-    "value": "Saare poste",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "city.suburb": {
-    "value": "Ɓadaade saare",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "city.townland": {
-    "value": "Wuro ngesa",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "city.village_township": {
-    "value": "Wuro / Komin",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "city.district": {
-    "value": "Nokku",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "city.neighborhood": {
-    "value": "Kartiye",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "province.area": {
-    "value": "Nokku",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "province.county": {
-    "value": "Diiwaan",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "province.department": {
-    "value": "Departemaa",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "province.district": {
-    "value": "Diiwaan",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "province.do_si": {
-    "value": "Do/Si",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "province.emirate": {
-    "value": "Emiraa",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "province.island": {
-    "value": "Duunde",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "province.oblast": {
-    "value": "Oblast",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "province.parish": {
-    "value": "Paruwaas",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "province.prefecture": {
-    "value": "Perefektiir",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "province.province": {
-    "value": "Diiwaan",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "province.state": {
-    "value": "Leydi",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "postal.postal": {
-    "value": "Kod poste",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "postal.zip": {
-    "value": "Kod ZIP",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "postal.pin": {
-    "value": "Kod PIN",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "postal.eircode": {
-    "value": "Eircode",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "messages.required": {
-    "value": "A waawaa acceede ɗum meho.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "messages.unknown_value": {
-    "value": "{FIELD_VALUE} heɓtaaka no keewal anndangal ngal ndee ndegginirde.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "messages.po_box_forbidden": {
-    "value": "Ko wayi no ndee ñiiɓirde ina waɗi kesu poste. Tiiɗno huutoro ñiiɓirde laawol walla mbaalu.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "messages.postal_invalid_example": {
-    "value": "Mbaydi ndee kod poste heɓtaaka. Misal kod poste moƴƴo: {EXAMPLE}.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "messages.zip_invalid_example": {
-    "value": "Mbaydi ndee kod ZIP heɓtaaka. Misal kod ZIP moƴƴo: {EXAMPLE}.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "messages.postal_mismatch": {
-    "value": "Ko wayi no ndee kod poste fotaani e heddiiɗe ñiiɓirde ndee.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  },
-  "messages.zip_mismatch": {
-    "value": "Ko wayi no ndee kod ZIP fotaani e heddiiɗe ñiiɓirde ndee.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
-  }
+ "fields.first_name": {
+  "value": "Innde",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "fields.last_name": {
+  "value": "Yettoode",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "fields.address2": {
+  "value": "Suudu, kaaldi, e ko nanndi (suɓaade)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "fields.company": {
+  "value": "Fedde",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "fields.address1": {
+  "value": "Ñiiɓirde laawol",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "fields.phone": {
+  "value": "Noddirgal",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "fields.country": {
+  "value": "Leydi / Diiwaan",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "city.city": {
+  "value": "Saare",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "city.post_town": {
+  "value": "Saare poste",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "city.suburb": {
+  "value": "Wuro ɓadiingo",
+  "provenance": "curated",
+  "checked": true
+ },
+ "city.townland": {
+  "value": "Wuro ngesa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "city.village_township": {
+  "value": "Wuro / Komin",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "city.district": {
+  "value": "Nokku",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "city.neighborhood": {
+  "value": "Kartiye",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "province.area": {
+  "value": "Nokku",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "province.county": {
+  "value": "Diiwaan",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "province.department": {
+  "value": "Departemaa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "province.district": {
+  "value": "Diiwaan",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "province.emirate": {
+  "value": "Emiraa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "province.island": {
+  "value": "Duunde",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "province.parish": {
+  "value": "Paruwaas",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "province.prefecture": {
+  "value": "Perefektiir",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "province.province": {
+  "value": "Diiwaan",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "province.state": {
+  "value": "Leydi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "postal.postal": {
+  "value": "Kod poste",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "postal.zip": {
+  "value": "Kod ZIP",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "postal.pin": {
+  "value": "Kod PIN",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "messages.required": {
+  "value": "A waawaa accude ɗum meere.",
+  "provenance": "curated",
+  "checked": true
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} heɓtaaka no keewal anndangal ngal ndee ndegginirde.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "messages.po_box_forbidden": {
+  "value": "Ko wayi no ndee ñiiɓirde ina waɗi kesu poste. Tiiɗno huutoro ñiiɓirde laawol walla mbaalu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Mbaydi ndee kod poste heɓtaaka. Misal kod poste moƴƴo: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "messages.zip_invalid_example": {
+  "value": "Mbaydi ndee kod ZIP heɓtaaka. Misal kod ZIP moƴƴo: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "messages.postal_mismatch": {
+  "value": "Ko wayi no ndee kod poste fotaani e heddiiɗe ñiiɓirde ndee.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ },
+ "messages.zip_mismatch": {
+  "value": "Ko wayi no ndee kod ZIP fotaani e heddiiɗe ñiiɓirde ndee.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Fula (Latin script, Pulaar/Pular orthography): no established form terminology found; best-effort, needs native review."
+ }
 }

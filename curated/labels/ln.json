@@ -182,10 +182,9 @@
   "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} eyebani te lokola motuya ya solo mpo na esika oyo.",
+  "value": "{FIELD_VALUE} eyebani te lokola motuya eyebani mpo na esika oyo.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Lingala address-form terminology drafted without a native checkout-form reference; French is used on most DRC/Congo forms."
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Molɔngɔ oyo ya adrɛsi emonani lokola ezali na sanduku ya posita. Svp, salelá adrɛsi ya balabala to ya ndako.",

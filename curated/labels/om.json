@@ -6,10 +6,9 @@
   "note": "Oromo address-form terminology drafted without a native checkout-form reference."
  },
  "fields.last_name": {
-  "value": "Maqaa abbaa",
+  "value": "Maqaa dhumaa",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+  "checked": true
  },
  "fields.address2": {
   "value": "Kutaa mana jireenyaa, kkf. (filannoo)",
@@ -142,10 +141,9 @@
   "note": "Oromo address-form terminology drafted without a native checkout-form reference."
  },
  "province.province": {
-  "value": "Kutaa bulchiinsaa",
+  "value": "Provinsii",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Oromo address-form terminology drafted without a native checkout-form reference."
+  "checked": true
  },
  "province.state": {
   "value": "Naannoo",

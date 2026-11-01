@@ -1,156 +1,155 @@
 {
-  "fields.first_name": {
-    "value": "Foarnamme",
-    "provenance": "curated"
-  },
-  "fields.last_name": {
-    "value": "Efternamme",
-    "provenance": "curated"
-  },
-  "fields.address2": {
-    "value": "Appartemint, suite, ensfh. (opsjoneel)",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Frisian checkout forms are rare (Dutch used in practice); calqued on Dutch 'appartement, suite, enz.'"
-  },
-  "fields.company": {
-    "value": "Organisaasje",
-    "provenance": "curated"
-  },
-  "fields.address1": {
-    "value": "Strjitadres",
-    "provenance": "curated"
-  },
-  "fields.phone": {
-    "value": "Telefoan",
-    "provenance": "curated"
-  },
-  "fields.country": {
-    "value": "Lân / Regio",
-    "provenance": "curated"
-  },
-  "city.city": {
-    "value": "Stêd",
-    "provenance": "curated"
-  },
-  "city.post_town": {
-    "value": "Poststêd",
-    "provenance": "curated"
-  },
-  "city.suburb": {
-    "value": "Foarstêd",
-    "provenance": "curated"
-  },
-  "city.townland": {
-    "value": "Buorskip",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Irish 'townland' has no established equivalent; descriptive rendering. 'Buorskip' (hamlet) used."
-  },
-  "city.village_township": {
-    "value": "Doarp / Gemeente",
-    "provenance": "curated"
-  },
-  "city.district": {
-    "value": "Wyk",
-    "provenance": "curated"
-  },
-  "city.neighborhood": {
-    "value": "Buert",
-    "provenance": "curated"
-  },
-  "province.area": {
-    "value": "Gebiet",
-    "provenance": "curated"
-  },
-  "province.county": {
-    "value": "Greefskip",
-    "provenance": "curated"
-  },
-  "province.department": {
-    "value": "Departemint",
-    "provenance": "curated"
-  },
-  "province.district": {
-    "value": "Distrikt",
-    "provenance": "curated"
-  },
-  "province.do_si": {
-    "value": "Do/Si",
-    "provenance": "curated",
-    "note": "Korean romanized term kept, as in Chromium's translations for other languages."
-  },
-  "province.emirate": {
-    "value": "Emiraat",
-    "provenance": "curated"
-  },
-  "province.island": {
-    "value": "Eilân",
-    "provenance": "curated"
-  },
-  "province.oblast": {
-    "value": "Oblast",
-    "provenance": "curated"
-  },
-  "province.parish": {
-    "value": "Parochy",
-    "provenance": "curated"
-  },
-  "province.prefecture": {
-    "value": "Prefektuer",
-    "provenance": "curated"
-  },
-  "province.province": {
-    "value": "Provinsje",
-    "provenance": "curated"
-  },
-  "province.state": {
-    "value": "Steat",
-    "provenance": "curated"
-  },
-  "postal.postal": {
-    "value": "Postkoade",
-    "provenance": "curated"
-  },
-  "postal.zip": {
-    "value": "ZIP-koade",
-    "provenance": "curated"
-  },
-  "postal.pin": {
-    "value": "PIN-koade",
-    "provenance": "curated"
-  },
-  "postal.eircode": {
-    "value": "Eircode",
-    "provenance": "curated",
-    "note": "Proper name of Ireland's postcode system, kept as used locally."
-  },
-  "messages.required": {
-    "value": "Jo kinne dit net leech litte.",
-    "provenance": "curated"
-  },
-  "messages.unknown_value": {
-    "value": "{FIELD_VALUE} wurdt net werkend as in bekende wearde foar dit fjild.",
-    "provenance": "curated"
-  },
-  "messages.po_box_forbidden": {
-    "value": "Dizze adresrigel liket in postbus te befetsjen. Brûk in strjitte- of gebouadres.",
-    "provenance": "curated"
-  },
-  "messages.postal_invalid_example": {
-    "value": "Dit postkoadeformaat wurdt net werkend. Foarbyld fan in jildige postkoade: {EXAMPLE}.",
-    "provenance": "curated"
-  },
-  "messages.zip_invalid_example": {
-    "value": "Dit ZIP-koadeformaat wurdt net werkend. Foarbyld fan in jildige ZIP-koade: {EXAMPLE}.",
-    "provenance": "curated"
-  },
-  "messages.postal_mismatch": {
-    "value": "Dizze postkoade liket net oerien te kommen mei de rest fan dit adres.",
-    "provenance": "curated"
-  },
-  "messages.zip_mismatch": {
-    "value": "Dizze ZIP-koade liket net oerien te kommen mei de rest fan dit adres.",
-    "provenance": "curated"
-  }
+ "fields.first_name": {
+  "value": "Foarnamme",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Efternamme",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Appartemint, suite, ensfh. (opsjoneel)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Frisian checkout forms are rare (Dutch used in practice); calqued on Dutch 'appartement, suite, enz.'"
+ },
+ "fields.company": {
+  "value": "Organisaasje",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Strjitadres",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefoan",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Lân / Regio",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Stêd",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Poststêd",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "Foarstêd",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "checked": true
+ },
+ "city.village_township": {
+  "value": "Doarp / Gemeente",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Wyk",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Buert",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Gebiet",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Greefskip",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Departemint",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Distrikt",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated",
+  "note": "Korean romanized term kept, as in Chromium's translations for other languages."
+ },
+ "province.emirate": {
+  "value": "Emiraat",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Eilân",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Parochy",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Prefektuer",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Provinsje",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Steat",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Postkoade",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "ZIP-koade",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "PIN-koade",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated",
+  "note": "Proper name of Ireland's postcode system, kept as used locally."
+ },
+ "messages.required": {
+  "value": "Jo kinne dit net leech litte.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} wurdt net werkend as in bekende wearde foar dit fjild.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Dizze adresrigel liket in postbus te befetsjen. Brûk in strjitte- of gebouadres.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Dit postkoadeformaat wurdt net werkend. Foarbyld fan in jildige postkoade: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Dit ZIP-koadeformaat wurdt net werkend. Foarbyld fan in jildige ZIP-koade: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Dizze postkoade liket net oerien te kommen mei de rest fan dit adres.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Dizze ZIP-koade liket net oerien te kommen mei de rest fan dit adres.",
+  "provenance": "curated"
+ }
 }

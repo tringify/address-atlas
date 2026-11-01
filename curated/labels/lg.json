@@ -182,10 +182,9 @@
   "note": "Luganda address-form terminology drafted without a native checkout-form reference."
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} tekimanyiddwa ng'omuwendo ogukkirizibwa mu kifo kino.",
+  "value": "{FIELD_VALUE} tekimanyiddwa ng'omuwendo ogumanyiddwa mu kifo kino.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Luganda address-form terminology drafted without a native checkout-form reference."
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Olunyiriri luno olw'endagiriro lulabika nga lulimu sanduuko ya poosita. Kozesa endagiriro y'oluguudo oba ey'ekizimbe.",

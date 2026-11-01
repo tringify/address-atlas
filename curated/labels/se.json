@@ -4,10 +4,9 @@
   "provenance": "curated"
  },
  "fields.last_name": {
-  "value": "Goargu",
+  "value": "Sohkanamma",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Northern Sami; wording not verified against a Sami-language form"
+  "checked": true
  },
  "fields.address2": {
   "value": "Viessu, gearddi jna. (eaktodáhtolaš)",
@@ -152,10 +151,9 @@
   "note": "Northern Sami; wording not verified against a Sami-language form"
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} ii dovdojuvvo gustovaš árvun dán gieddái.",
+  "value": "{FIELD_VALUE} ii dovdojuvvo dovddus árvun dán gieddái.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Northern Sami; wording not verified against a Sami-language form"
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Dát čujuhusláidu orru sisttisdoallamin poastaboksa. Atte geaidno- dahje visttečujuhusa.",

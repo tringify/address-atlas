@@ -112,10 +112,9 @@
   "provenance": "curated"
  },
  "province.state": {
-  "value": "Kāwanatanga ā-rohe",
+  "value": "Porowini",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Descriptive (\"regional government\"); no standard term."
+  "checked": true
  },
  "postal.postal": {
   "value": "Waehere poutāpeta",

@@ -1,224 +1,220 @@
 {
-  "fields.first_name": {
-    "value": "Din a edi kan",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "fields.last_name": {
-    "value": "Abusua din",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "fields.address2": {
-    "value": "Ɛdan, ɔdan ketewa, ne nea ɛkeka ho (wopɛ a)",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "fields.company": {
-    "value": "Ahyehyɛde",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "fields.address1": {
-    "value": "Abɔnten adrɛs",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "fields.phone": {
-    "value": "Fon",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "fields.country": {
-    "value": "Ɔman / Mantam",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "city.city": {
-    "value": "Kuropɔn",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "city.post_town": {
-    "value": "Post kurow",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "city.suburb": {
-    "value": "Kurow ano",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "city.townland": {
-    "value": "Kuraa asase",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "city.village_township": {
-    "value": "Akuraa / Kurow",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "city.district": {
-    "value": "Ɔmantam",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "city.neighborhood": {
-    "value": "Mpɔtam",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "province.area": {
-    "value": "Beaeɛ",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "province.county": {
-    "value": "Ɔmantam ketewa",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "province.department": {
-    "value": "Ɔfa",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "province.district": {
-    "value": "Ɔmantam",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "province.do_si": {
-    "value": "Do/Si",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "province.emirate": {
-    "value": "Emir man",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "province.island": {
-    "value": "Supɔ",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "province.oblast": {
-    "value": "Oblast",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "province.parish": {
-    "value": "Asɔre mantam",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "province.prefecture": {
-    "value": "Mantam",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "province.province": {
-    "value": "Mantam",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "province.state": {
-    "value": "Ɔman",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "postal.postal": {
-    "value": "Post kood",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "postal.zip": {
-    "value": "ZIP kood",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "postal.pin": {
-    "value": "PIN kood",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "postal.eircode": {
-    "value": "Eircode",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "messages.required": {
-    "value": "Wuntumi nnyaw yei hunu.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "messages.unknown_value": {
-    "value": "Wonnhu {FIELD_VALUE} sɛ botaeɛ a wonim ma beaeɛ yi.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "messages.po_box_forbidden": {
-    "value": "Ɛte sɛ adrɛs nkyerɛwee yi wɔ post adaka. Yɛsrɛ wo, fa abɔnten anaa adan adrɛs di dwuma.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "messages.postal_invalid_example": {
-    "value": "Wonnhu post kood yi nhyehyɛe. Post kood a ɛyɛ nokware ho nhwɛsoɔ: {EXAMPLE}.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "messages.zip_invalid_example": {
-    "value": "Wonnhu ZIP kood yi nhyehyɛe. ZIP kood a ɛyɛ nokware ho nhwɛsoɔ: {EXAMPLE}.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "messages.postal_mismatch": {
-    "value": "Ɛnte sɛ post kood yi ne adrɛs yi nkaeɛ hyia.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  },
-  "messages.zip_mismatch": {
-    "value": "Ɛnte sɛ ZIP kood yi ne adrɛs yi nkaeɛ hyia.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
-  }
+ "fields.first_name": {
+  "value": "Din a edi kan",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "fields.last_name": {
+  "value": "Abusua din",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "fields.address2": {
+  "value": "Ɛdan, ɔdan ketewa, ne nea ɛkeka ho (wopɛ a)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "fields.company": {
+  "value": "Ahyehyɛde",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "fields.address1": {
+  "value": "Abɔnten adrɛs",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "fields.phone": {
+  "value": "Fon",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "fields.country": {
+  "value": "Ɔman / Mantam",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "city.city": {
+  "value": "Kuropɔn",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "city.post_town": {
+  "value": "Post kurow",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "city.suburb": {
+  "value": "Kurow ano",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "city.townland": {
+  "value": "Kuraa asase",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "city.village_township": {
+  "value": "Akuraa / Kurow",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "city.district": {
+  "value": "Mansin",
+  "provenance": "curated",
+  "checked": true
+ },
+ "city.neighborhood": {
+  "value": "Mpɔtam",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "province.area": {
+  "value": "Beaeɛ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "province.county": {
+  "value": "Ɔmantam ketewa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "province.department": {
+  "value": "Ɔfa",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "province.district": {
+  "value": "Mansin",
+  "provenance": "curated",
+  "checked": true
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "province.emirate": {
+  "value": "Emir man",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "province.island": {
+  "value": "Supɔ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "province.parish": {
+  "value": "Asɔre mantam",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "province.prefecture": {
+  "value": "Mantam",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "province.province": {
+  "value": "Mantam",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "province.state": {
+  "value": "Steet",
+  "provenance": "curated",
+  "checked": true
+ },
+ "postal.postal": {
+  "value": "Post kood",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "postal.zip": {
+  "value": "ZIP kood",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "postal.pin": {
+  "value": "PIN kood",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "messages.required": {
+  "value": "Wuntumi nnyaw yei hunu.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "messages.unknown_value": {
+  "value": "Wonnhu {FIELD_VALUE} sɛ adeɛ a wɔnim wɔ beaeɛ yi mu.",
+  "provenance": "curated",
+  "checked": true
+ },
+ "messages.po_box_forbidden": {
+  "value": "Ɛte sɛ adrɛs nkyerɛwee yi wɔ post adaka. Yɛsrɛ wo, fa abɔnten anaa adan adrɛs di dwuma.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Wonnhu post kood yi nhyehyɛe. Post kood a ɛyɛ nokware ho nhwɛsoɔ: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "messages.zip_invalid_example": {
+  "value": "Wonnhu ZIP kood yi nhyehyɛe. ZIP kood a ɛyɛ nokware ho nhwɛsoɔ: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "messages.postal_mismatch": {
+  "value": "Ɛnte sɛ post kood yi ne adrɛs yi nkaeɛ hyia.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ },
+ "messages.zip_mismatch": {
+  "value": "Ɛnte sɛ ZIP kood yi ne adrɛs yi nkaeɛ hyia.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Akan (Twi): Ghanaian forms are normally in English; no established Twi form terminology found; best-effort, needs native review."
+ }
 }

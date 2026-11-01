@@ -38,10 +38,9 @@
   "note": "No Brazilian equivalent of a UK post town; literal rendering"
  },
  "city.suburb": {
-  "value": "Bairro",
+  "value": "Subúrbio",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Brazilian usage has no 'subúrbio' concept for addresses; 'Bairro' is what forms show"
+  "checked": true
  },
  "city.townland": {
   "value": "Townland",
@@ -116,8 +115,9 @@
   "provenance": "curated"
  },
  "postal.zip": {
-  "value": "Código postal",
-  "provenance": "curated"
+  "value": "Código ZIP",
+  "provenance": "curated",
+  "checked": true
  },
  "postal.pin": {
   "value": "Código PIN",
@@ -132,8 +132,9 @@
   "provenance": "curated"
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} não é reconhecido como um valor válido para este campo.",
-  "provenance": "curated"
+  "value": "{FIELD_VALUE} não é reconhecido como um valor conhecido para este campo.",
+  "provenance": "curated",
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Esta linha de endereço parece conter uma caixa postal. Use o endereço de um logradouro ou de um edifício.",
@@ -144,15 +145,17 @@
   "provenance": "curated"
  },
  "messages.zip_invalid_example": {
-  "value": "Este formato de código postal não foi reconhecido. Exemplo de um código postal válido: {EXAMPLE}.",
-  "provenance": "curated"
+  "value": "Este formato de código ZIP não foi reconhecido. Exemplo de um código ZIP válido: {EXAMPLE}.",
+  "provenance": "curated",
+  "checked": true
  },
  "messages.postal_mismatch": {
   "value": "Este CEP parece não corresponder ao restante do endereço.",
   "provenance": "curated"
  },
  "messages.zip_mismatch": {
-  "value": "Este código postal parece não corresponder ao restante do endereço.",
-  "provenance": "curated"
+  "value": "Este código ZIP parece não corresponder ao restante do endereço.",
+  "provenance": "curated",
+  "checked": true
  }
 }

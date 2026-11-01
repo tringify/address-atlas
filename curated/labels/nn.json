@@ -50,8 +50,9 @@
   "provenance": "curated"
  },
  "city.district": {
-  "value": "Område",
-  "provenance": "curated"
+  "value": "Bydel",
+  "provenance": "curated",
+  "checked": true
  },
  "city.neighborhood": {
   "value": "Nabolag",
@@ -110,8 +111,9 @@
   "provenance": "curated"
  },
  "postal.zip": {
-  "value": "Postnummer",
-  "provenance": "curated"
+  "value": "ZIP-kode",
+  "provenance": "curated",
+  "checked": true
  },
  "postal.pin": {
   "value": "PIN-kode",
@@ -138,15 +140,17 @@
   "provenance": "curated"
  },
  "messages.zip_invalid_example": {
-  "value": "Formatet på postnummeret vart ikkje kjent att. Døme på gyldig postnummer: {EXAMPLE}.",
-  "provenance": "curated"
+  "value": "Formatet på ZIP-koden vart ikkje kjent att. Døme på gyldig ZIP-kode: {EXAMPLE}.",
+  "provenance": "curated",
+  "checked": true
  },
  "messages.postal_mismatch": {
   "value": "Dette postnummeret ser ikkje ut til å passe med resten av adressa.",
   "provenance": "curated"
  },
  "messages.zip_mismatch": {
-  "value": "Dette postnummeret ser ikkje ut til å passe med resten av adressa.",
-  "provenance": "curated"
+  "value": "Denne ZIP-koden ser ikkje ut til å passe med resten av adressa.",
+  "provenance": "curated",
+  "checked": true
  }
 }

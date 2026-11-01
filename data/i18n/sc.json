@@ -270,7 +270,7 @@
   "messages.postal_invalid_example": "Su formadu de custu còdighe postale no est reconnotu. Esèmpiu de còdighe postale vàlidu: {EXAMPLE}.",
   "messages.postal_mismatch": "Custu còdighe postale non paret currispondere a su restu de s'indiritzu.",
   "messages.required": "Non podes lassare custu campu bòidu.",
-  "messages.unknown_value": "{FIELD_VALUE} no est reconnotu comente valore vàlidu pro custu campu.",
+  "messages.unknown_value": "{FIELD_VALUE} no est reconnotu comente valore connotu pro custu campu.",
   "messages.zip_invalid_example": "Su formadu de custu còdighe ZIP no est reconnotu. Esèmpiu de còdighe ZIP vàlidu: {EXAMPLE}.",
   "messages.zip_mismatch": "Custu còdighe ZIP non paret currispondere a su restu de s'indiritzu.",
   "postal.eircode": "Eircode",

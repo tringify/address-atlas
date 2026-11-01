@@ -116,10 +116,9 @@
   "provenance": "curated"
  },
  "province.state": {
-  "value": "Ilizwe elilawulayo",
+  "value": "Umbuso",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Xhosa; South African forms are usually in English, wording not verified"
+  "checked": true
  },
  "postal.postal": {
   "value": "Ikhowudi yeposi",
@@ -144,10 +143,9 @@
   "note": "Xhosa; South African forms are usually in English, wording not verified"
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} ayaziwa njengexabiso elisemthethweni kule ndawo.",
+  "value": "{FIELD_VALUE} ayaziwa njengexabiso elaziwayo kule ndawo.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Xhosa; South African forms are usually in English, wording not verified"
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Lo mgca wedilesi ubonakala uqulethe ibhokisi yeposi. Nceda usebenzise idilesi yesitrato okanye yesakhiwo.",

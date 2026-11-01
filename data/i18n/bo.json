@@ -257,7 +257,7 @@
   "city.neighborhood": "སྡོད་ཁུལ།",
   "city.post_town": "སྦྲག་ཁང་གྲོང་ཁྱེར།",
   "city.suburb": "གྲོང་ཁྱེར་མཐའ་འཁོར།",
-  "city.townland": "ཞིང་གྲོང་།",
+  "city.townland": "Townland",
   "city.village_township": "གྲོང་གསེབ། / ཤང་།",
   "fields.address1": "ལམ་ཁའི་ཁ་བྱང་།",
   "fields.address2": "ཁང་མིག་དང་ཁང་ཚན་སོགས། (གདམ་ཀ)",

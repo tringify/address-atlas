@@ -60,10 +60,9 @@
   "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
  },
  "city.townland": {
-  "value": "Хъæу (Ирланди)",
+  "value": "Townland",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+  "checked": true
  },
  "city.village_township": {
   "value": "Хъæу / поселок",
@@ -176,16 +175,14 @@
   "provenance": "curated"
  },
  "messages.required": {
-  "value": "Ацы быдыр афтид ныууадзæн нæй.",
+  "value": "Ай афтид ныууадзæн нæй.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+  "checked": true
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} ацы быдырæн зонгæ нысаниуæг нæу.",
+  "value": "{FIELD_VALUE} ацы хайæн зонгæ нысаниуæг нæу.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Ossetian forms mostly use Russian; drafted without a native checkout-form reference."
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Ацы адрисы рæнхъы, æвæццæгæн, ис поштæйы ящик. Дæ хорзæхæй, ныффысс уынджы кæнæ хæдзары адрис.",

@@ -40,10 +40,9 @@
   "provenance": "curated"
  },
  "city.townland": {
-  "value": "Raħal (Irlanda)",
+  "value": "Townland",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Irish townland approximated as \"village (Ireland)\"."
+  "checked": true
  },
  "city.village_township": {
   "value": "Raħal / Lokalità",

@@ -110,8 +110,9 @@
   "provenance": "curated"
  },
  "postal.zip": {
-  "value": "Poštanski broj",
-  "provenance": "curated"
+  "value": "ZIP kod",
+  "provenance": "curated",
+  "checked": true
  },
  "postal.pin": {
   "value": "PIN kod",
@@ -138,15 +139,17 @@
   "provenance": "curated"
  },
  "messages.zip_invalid_example": {
-  "value": "Format ovog poštanskog broja nije prepoznat. Primjer važećeg poštanskog broja: {EXAMPLE}.",
-  "provenance": "curated"
+  "value": "Format ovog ZIP koda nije prepoznat. Primjer važećeg ZIP koda: {EXAMPLE}.",
+  "provenance": "curated",
+  "checked": true
  },
  "messages.postal_mismatch": {
   "value": "Izgleda da ovaj poštanski broj ne odgovara ostatku adrese.",
   "provenance": "curated"
  },
  "messages.zip_mismatch": {
-  "value": "Izgleda da ovaj poštanski broj ne odgovara ostatku adrese.",
-  "provenance": "curated"
+  "value": "Izgleda da ovaj ZIP kod ne odgovara ostatku adrese.",
+  "provenance": "curated",
+  "checked": true
  }
 }

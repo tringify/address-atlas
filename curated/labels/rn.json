@@ -90,10 +90,9 @@
   "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
  },
  "province.county": {
-  "value": "Intara",
+  "value": "Konti",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+  "checked": true
  },
  "province.department": {
   "value": "Departema",
@@ -180,10 +179,9 @@
   "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} ntimenyekanye nk'agaciro kemewe muri iki kibanza.",
+  "value": "{FIELD_VALUE} ntimenyekanye nk'agaciro kazwi muri iki kibanza.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Kirundi; forms in Burundi are mostly in French, no established Kirundi checkout terminology found"
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Uyu murongo w'aderesi usa n'urimwo agasandugu k'iposita. Turagusavye ukoreshe aderesi y'ibarabara canke y'inyubakwa.",

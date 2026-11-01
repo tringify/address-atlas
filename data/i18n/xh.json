@@ -270,7 +270,7 @@
   "messages.postal_invalid_example": "Le fomathi yekhowudi yeposi ayaziwa. Umzekelo wekhowudi yeposi esemthethweni: {EXAMPLE}.",
   "messages.postal_mismatch": "Le khowudi yeposi ayibonakali ihambelana nayo yonke idilesi.",
   "messages.required": "Akunakushiya oku kungenanto.",
-  "messages.unknown_value": "{FIELD_VALUE} ayaziwa njengexabiso elisemthethweni kule ndawo.",
+  "messages.unknown_value": "{FIELD_VALUE} ayaziwa njengexabiso elaziwayo kule ndawo.",
   "messages.zip_invalid_example": "Le fomathi yekhowudi ye-ZIP ayaziwa. Umzekelo wekhowudi ye-ZIP esemthethweni: {EXAMPLE}.",
   "messages.zip_mismatch": "Le khowudi ye-ZIP ayibonakali ihambelana nayo yonke idilesi.",
   "postal.eircode": "Eircode",
@@ -288,7 +288,7 @@
   "province.parish": "Ipharishi",
   "province.prefecture": "I-prefecture",
   "province.province": "Iphondo",
-  "province.state": "Ilizwe elilawulayo"
+  "province.state": "Umbuso"
  },
  "provenance": {
   "labels.city.city": "curated",

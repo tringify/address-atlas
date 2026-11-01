@@ -148,10 +148,9 @@
   "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} hachizivikanwi sechinhu chinogamuchirwa pachikamu ichi.",
+  "value": "{FIELD_VALUE} hachizivikanwi sechinhu chinozivikanwa pachikamu ichi.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Shona; Zimbabwean forms are usually in English, term not verified against a Shona form"
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Mutsara uyu wekero unoita sekunge une bhokisi reposvo. Shandisai kero yemugwagwa kana yechivakwa.",

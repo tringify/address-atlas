@@ -1,154 +1,153 @@
 {
-  "fields.first_name": {
-    "value": "Persona nomo",
-    "provenance": "curated"
-  },
-  "fields.last_name": {
-    "value": "Familia nomo",
-    "provenance": "curated"
-  },
-  "fields.address2": {
-    "value": "Apartamento, ĉambraro, ktp. (nedeviga)",
-    "provenance": "curated"
-  },
-  "fields.company": {
-    "value": "Organizo",
-    "provenance": "curated"
-  },
-  "fields.address1": {
-    "value": "Strata adreso",
-    "provenance": "curated"
-  },
-  "fields.phone": {
-    "value": "Telefono",
-    "provenance": "curated"
-  },
-  "fields.country": {
-    "value": "Lando / Regiono",
-    "provenance": "curated"
-  },
-  "city.city": {
-    "value": "Urbo",
-    "provenance": "curated"
-  },
-  "city.post_town": {
-    "value": "Poŝta urbo",
-    "provenance": "curated"
-  },
-  "city.suburb": {
-    "value": "Antaŭurbo",
-    "provenance": "curated"
-  },
-  "city.townland": {
-    "value": "Kampara distrikto",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Irish 'townland' has no established equivalent; descriptive rendering."
-  },
-  "city.village_township": {
-    "value": "Vilaĝo / Komunumo",
-    "provenance": "curated"
-  },
-  "city.district": {
-    "value": "Distrikto",
-    "provenance": "curated"
-  },
-  "city.neighborhood": {
-    "value": "Kvartalo",
-    "provenance": "curated"
-  },
-  "province.area": {
-    "value": "Areo",
-    "provenance": "curated"
-  },
-  "province.county": {
-    "value": "Graflando",
-    "provenance": "curated"
-  },
-  "province.department": {
-    "value": "Departemento",
-    "provenance": "curated"
-  },
-  "province.district": {
-    "value": "Distrikto",
-    "provenance": "curated"
-  },
-  "province.do_si": {
-    "value": "Do/Si",
-    "provenance": "curated",
-    "note": "Korean romanized term kept, as in Chromium's translations for other languages."
-  },
-  "province.emirate": {
-    "value": "Emirlando",
-    "provenance": "curated"
-  },
-  "province.island": {
-    "value": "Insulo",
-    "provenance": "curated"
-  },
-  "province.oblast": {
-    "value": "Oblasto",
-    "provenance": "curated"
-  },
-  "province.parish": {
-    "value": "Paroĥo",
-    "provenance": "curated"
-  },
-  "province.prefecture": {
-    "value": "Prefektujo",
-    "provenance": "curated"
-  },
-  "province.province": {
-    "value": "Provinco",
-    "provenance": "curated"
-  },
-  "province.state": {
-    "value": "Ŝtato",
-    "provenance": "curated"
-  },
-  "postal.postal": {
-    "value": "Poŝtkodo",
-    "provenance": "curated"
-  },
-  "postal.zip": {
-    "value": "ZIP-kodo",
-    "provenance": "curated"
-  },
-  "postal.pin": {
-    "value": "PIN-kodo",
-    "provenance": "curated"
-  },
-  "postal.eircode": {
-    "value": "Eircode",
-    "provenance": "curated",
-    "note": "Proper name of Ireland's postcode system, kept as used locally."
-  },
-  "messages.required": {
-    "value": "Vi ne povas lasi ĉi tion malplena.",
-    "provenance": "curated"
-  },
-  "messages.unknown_value": {
-    "value": "{FIELD_VALUE} ne estas rekonata kiel konata valoro por ĉi tiu kampo.",
-    "provenance": "curated"
-  },
-  "messages.po_box_forbidden": {
-    "value": "Ĉi tiu adreslinio ŝajne enhavas poŝtkeston. Bonvolu uzi stratan aŭ konstruaĵan adreson.",
-    "provenance": "curated"
-  },
-  "messages.postal_invalid_example": {
-    "value": "Ĉi tiu formato de poŝtkodo ne estas rekonata. Ekzemplo de valida poŝtkodo: {EXAMPLE}.",
-    "provenance": "curated"
-  },
-  "messages.zip_invalid_example": {
-    "value": "Ĉi tiu formato de ZIP-kodo ne estas rekonata. Ekzemplo de valida ZIP-kodo: {EXAMPLE}.",
-    "provenance": "curated"
-  },
-  "messages.postal_mismatch": {
-    "value": "Ĉi tiu poŝtkodo ŝajne ne kongruas kun la resto de ĉi tiu adreso.",
-    "provenance": "curated"
-  },
-  "messages.zip_mismatch": {
-    "value": "Ĉi tiu ZIP-kodo ŝajne ne kongruas kun la resto de ĉi tiu adreso.",
-    "provenance": "curated"
-  }
+ "fields.first_name": {
+  "value": "Persona nomo",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Familia nomo",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Apartamento, ĉambraro, ktp. (nedeviga)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Organizo",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Strata adreso",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Telefono",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Lando / Regiono",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Urbo",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Poŝta urbo",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "Antaŭurbo",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "checked": true
+ },
+ "city.village_township": {
+  "value": "Vilaĝo / Komunumo",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Distrikto",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Kvartalo",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Areo",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Graflando",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Departemento",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Distrikto",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated",
+  "note": "Korean romanized term kept, as in Chromium's translations for other languages."
+ },
+ "province.emirate": {
+  "value": "Emirlando",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Insulo",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblasto",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Paroĥo",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Prefektujo",
+  "provenance": "curated"
+ },
+ "province.province": {
+  "value": "Provinco",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Ŝtato",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Poŝtkodo",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "ZIP-kodo",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "PIN-kodo",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated",
+  "note": "Proper name of Ireland's postcode system, kept as used locally."
+ },
+ "messages.required": {
+  "value": "Vi ne povas lasi ĉi tion malplena.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ne estas rekonata kiel konata valoro por ĉi tiu kampo.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Ĉi tiu adreslinio ŝajne enhavas poŝtkeston. Bonvolu uzi stratan aŭ konstruaĵan adreson.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Ĉi tiu formato de poŝtkodo ne estas rekonata. Ekzemplo de valida poŝtkodo: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Ĉi tiu formato de ZIP-kodo ne estas rekonata. Ekzemplo de valida ZIP-kodo: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Ĉi tiu poŝtkodo ŝajne ne kongruas kun la resto de ĉi tiu adreso.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Ĉi tiu ZIP-kodo ŝajne ne kongruas kun la resto de ĉi tiu adreso.",
+  "provenance": "curated"
+ }
 }

@@ -264,7 +264,7 @@
   "fields.company": "ትካል",
   "fields.country": "ሃገር / ዞባ",
   "fields.first_name": "ስም",
-  "fields.last_name": "ስም ኣቦ",
+  "fields.last_name": "ናይ ስድራቤት ስም",
   "fields.phone": "ተሌፎን",
   "messages.po_box_forbidden": "እዚ መስመር ኣድራሻ ሳጹን ፖስታ ዝሓዘ ይመስል። በጃኹም ኣድራሻ ጎደና ወይ ህንጻ ተጠቐሙ።",
   "messages.postal_invalid_example": "ቅርጺ እዚ ፖስታ ኮድ ኣይተፈልጠን። ኣብነት ቅኑዕ ፖስታ ኮድ፦ {EXAMPLE}።",

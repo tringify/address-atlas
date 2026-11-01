@@ -257,7 +257,7 @@
   "city.neighborhood": "محله",
   "city.post_town": "پوستي ښار",
   "city.suburb": "حومه",
-  "city.townland": "کلی (آیرلینډ)",
+  "city.townland": "Townland",
   "city.village_township": "کلی / ښارګوټی",
   "fields.address1": "د کوڅې پته",
   "fields.address2": "اپارتمان، کوټه او نور (اختیاري)",

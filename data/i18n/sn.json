@@ -270,7 +270,7 @@
   "messages.postal_invalid_example": "Chimiro chekodhi yeposvo ichi hachizivikanwi. Muenzaniso wekodhi yeposvo chaiyo: {EXAMPLE}.",
   "messages.postal_mismatch": "Kodhi yeposvo iyi haiiti seinoenderana nekero yese.",
   "messages.required": "Hamugoni kusiya izvi zvisina chinhu.",
-  "messages.unknown_value": "{FIELD_VALUE} hachizivikanwi sechinhu chinogamuchirwa pachikamu ichi.",
+  "messages.unknown_value": "{FIELD_VALUE} hachizivikanwi sechinhu chinozivikanwa pachikamu ichi.",
   "messages.zip_invalid_example": "Chimiro chekodhi yeZIP ichi hachizivikanwi. Muenzaniso wekodhi yeZIP chaiyo: {EXAMPLE}.",
   "messages.zip_mismatch": "Kodhi yeZIP iyi haiiti seinoenderana nekero yese.",
   "postal.eircode": "Eircode",

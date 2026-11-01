@@ -253,7 +253,7 @@
  },
  "labels": {
   "city.city": "Kuropɔn",
-  "city.district": "Ɔmantam",
+  "city.district": "Mansin",
   "city.neighborhood": "Mpɔtam",
   "city.post_town": "Post kurow",
   "city.suburb": "Kurow ano",
@@ -270,7 +270,7 @@
   "messages.postal_invalid_example": "Wonnhu post kood yi nhyehyɛe. Post kood a ɛyɛ nokware ho nhwɛsoɔ: {EXAMPLE}.",
   "messages.postal_mismatch": "Ɛnte sɛ post kood yi ne adrɛs yi nkaeɛ hyia.",
   "messages.required": "Wuntumi nnyaw yei hunu.",
-  "messages.unknown_value": "Wonnhu {FIELD_VALUE} sɛ botaeɛ a wonim ma beaeɛ yi.",
+  "messages.unknown_value": "Wonnhu {FIELD_VALUE} sɛ adeɛ a wɔnim wɔ beaeɛ yi mu.",
   "messages.zip_invalid_example": "Wonnhu ZIP kood yi nhyehyɛe. ZIP kood a ɛyɛ nokware ho nhwɛsoɔ: {EXAMPLE}.",
   "messages.zip_mismatch": "Ɛnte sɛ ZIP kood yi ne adrɛs yi nkaeɛ hyia.",
   "postal.eircode": "Eircode",
@@ -280,7 +280,7 @@
   "province.area": "Beaeɛ",
   "province.county": "Ɔmantam ketewa",
   "province.department": "Ɔfa",
-  "province.district": "Ɔmantam",
+  "province.district": "Mansin",
   "province.do_si": "Do/Si",
   "province.emirate": "Emir man",
   "province.island": "Supɔ",
@@ -288,7 +288,7 @@
   "province.parish": "Asɔre mantam",
   "province.prefecture": "Mantam",
   "province.province": "Mantam",
-  "province.state": "Ɔman"
+  "province.state": "Steet"
  },
  "provenance": {
   "labels.city.city": "curated",

@@ -270,7 +270,7 @@
   "messages.postal_invalid_example": "Enkola ya koodi eno eya poosita temanyiddwa. Ekyokulabirako kya koodi ya poosita entuufu: {EXAMPLE}.",
   "messages.postal_mismatch": "Koodi eno eya poosita terabika ng'ekwatagana n'endagiriro endala.",
   "messages.required": "Ekifo kino tekiyinza kulekebwa nga kyereere.",
-  "messages.unknown_value": "{FIELD_VALUE} tekimanyiddwa ng'omuwendo ogukkirizibwa mu kifo kino.",
+  "messages.unknown_value": "{FIELD_VALUE} tekimanyiddwa ng'omuwendo ogumanyiddwa mu kifo kino.",
   "messages.zip_invalid_example": "Enkola ya koodi eno eya ZIP temanyiddwa. Ekyokulabirako kya koodi ya ZIP entuufu: {EXAMPLE}.",
   "messages.zip_mismatch": "Koodi eno eya ZIP terabika ng'ekwatagana n'endagiriro endala.",
   "postal.eircode": "Eircode",

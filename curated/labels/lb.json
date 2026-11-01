@@ -116,8 +116,9 @@
   "provenance": "curated"
  },
  "postal.zip": {
-  "value": "Postleitzuel",
-  "provenance": "curated"
+  "value": "ZIP-Code",
+  "provenance": "curated",
+  "checked": true
  },
  "postal.pin": {
   "value": "PIN-Code",
@@ -144,15 +145,17 @@
   "provenance": "curated"
  },
  "messages.zip_invalid_example": {
-  "value": "Dëse Format vun der Postleitzuel gëtt net erkannt. Beispill fir eng gülteg Postleitzuel: {EXAMPLE}.",
-  "provenance": "curated"
+  "value": "Dëse Format vum ZIP-Code gëtt net erkannt. Beispill fir en gültege ZIP-Code: {EXAMPLE}.",
+  "provenance": "curated",
+  "checked": true
  },
  "messages.postal_mismatch": {
   "value": "Dës Postleitzuel schéngt net zum Rescht vun der Adress ze passen.",
   "provenance": "curated"
  },
  "messages.zip_mismatch": {
-  "value": "Dës Postleitzuel schéngt net zum Rescht vun der Adress ze passen.",
-  "provenance": "curated"
+  "value": "Dëse ZIP-Code schéngt net zum Rescht vun der Adress ze passen.",
+  "provenance": "curated",
+  "checked": true
  }
 }

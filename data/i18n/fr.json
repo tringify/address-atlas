@@ -260,7 +260,7 @@
   "city.townland": "Quartier",
   "city.village_township": "Village/Municipalité",
   "fields.address1": "Adresse postale",
-  "fields.address2": "Appartement, bâtiment, etc. (facultatif)",
+  "fields.address2": "Appartement, suite, etc. (facultatif)",
   "fields.company": "Organisation",
   "fields.country": "Pays/Région",
   "fields.first_name": "Prénom",

@@ -8,8 +8,9 @@
   "provenance": "curated"
  },
  "fields.address2": {
-  "value": "Abaartamaha, dabaqa iwm. (ikhtiyaari)",
-  "provenance": "curated"
+  "value": "Apartament, qol, iwm. (ikhtiyaari)",
+  "provenance": "curated",
+  "checked": true
  },
  "fields.company": {
   "value": "Hay'ad",

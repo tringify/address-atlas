@@ -130,8 +130,9 @@
   "provenance": "curated"
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} ora dikenali minangka nilai sing valid kanggo kolom iki.",
-  "provenance": "curated"
+  "value": "{FIELD_VALUE} ora dikenali minangka nilai sing dikenal kanggo kolom iki.",
+  "provenance": "curated",
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Baris alamat iki kayane ngemot kothak pos (PO box). Mangga gunakake alamat dalan utawa gedhung.",

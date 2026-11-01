@@ -252,12 +252,12 @@
   "ZW": "Zimbabwe"
  },
  "labels": {
-  "city.city": "Obodo mepere emepe",
+  "city.city": "Obodo ukwu",
   "city.district": "Mpaghara",
   "city.neighborhood": "Agbata obi",
   "city.post_town": "Obodo post",
   "city.suburb": "Mpaghara obodo",
-  "city.townland": "Ime obodo (Ireland)",
+  "city.townland": "Townland",
   "city.village_township": "Obodo nta",
   "fields.address1": "Adreesị okporo ụzọ",
   "fields.address2": "Ụlọ, ime ụlọ, wdg. (nhọrọ)",

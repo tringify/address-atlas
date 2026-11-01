@@ -264,7 +264,7 @@
   "fields.company": "ድርጅት",
   "fields.country": "አገር/ክልል",
   "fields.first_name": "የመጀመሪያ ስም",
-  "fields.last_name": "የአባት ስም",
+  "fields.last_name": "የቤተሰብ ስም",
   "fields.phone": "ስልክ",
   "messages.po_box_forbidden": "ይህ አድራሻ የፖስታ ሳጥን ያለው ይመስላል። እባክዎ የመንገድ ወይም የህንጻ አድራሻ ይጠቀሙ።",
   "messages.postal_invalid_example": "ይህ የፖስታ ኮድ ቅርጸት አይታወቅም። የሚሰራ የፖስታ ኮድ ምሳሌ፦ {EXAMPLE}።",

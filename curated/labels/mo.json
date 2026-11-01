@@ -40,10 +40,9 @@
   "provenance": "curated"
  },
  "city.townland": {
-  "value": "Localitate rurală (Irlanda)",
+  "value": "Townland",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Irish townland approximated as \"rural locality (Ireland)\"."
+  "checked": true
  },
  "city.village_township": {
   "value": "Sat/Comună",
@@ -114,8 +113,9 @@
   "provenance": "curated"
  },
  "postal.zip": {
-  "value": "Cod poștal",
-  "provenance": "curated"
+  "value": "Cod ZIP",
+  "provenance": "curated",
+  "checked": true
  },
  "postal.pin": {
   "value": "Cod PIN",
@@ -142,15 +142,17 @@
   "provenance": "curated"
  },
  "messages.zip_invalid_example": {
-  "value": "Acest format de cod poștal nu este recunoscut. Exemplu de cod poștal valid: {EXAMPLE}.",
-  "provenance": "curated"
+  "value": "Acest format de cod ZIP nu este recunoscut. Exemplu de cod ZIP valid: {EXAMPLE}.",
+  "provenance": "curated",
+  "checked": true
  },
  "messages.postal_mismatch": {
   "value": "Se pare că acest cod poștal nu se potrivește cu restul adresei.",
   "provenance": "curated"
  },
  "messages.zip_mismatch": {
-  "value": "Se pare că acest cod poștal nu se potrivește cu restul adresei.",
-  "provenance": "curated"
+  "value": "Se pare că acest cod ZIP nu se potrivește cu restul adresei.",
+  "provenance": "curated",
+  "checked": true
  }
 }

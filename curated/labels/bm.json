@@ -1,224 +1,222 @@
 {
-  "fields.first_name": {
-    "value": "Tɔgɔ",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "fields.last_name": {
-    "value": "Jamu",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "fields.address2": {
-    "value": "So, bon, a ɲɔgɔnnaw (a tɛ wajibi ye)",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "fields.company": {
-    "value": "Tɔn",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "fields.address1": {
-    "value": "Siraba adirɛsi",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "fields.phone": {
-    "value": "Telefɔni",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "fields.country": {
-    "value": "Jamana / Mara",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "city.city": {
-    "value": "Dugu",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "city.post_town": {
-    "value": "Pɔsita dugu",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "city.suburb": {
-    "value": "Dugu dafɛ",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "city.townland": {
-    "value": "Dugu fitini",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "city.village_township": {
-    "value": "Dugu / Komini",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "city.district": {
-    "value": "Komini",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "city.neighborhood": {
-    "value": "Kin",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "province.area": {
-    "value": "Mara",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "province.county": {
-    "value": "Sɛrikili",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "province.department": {
-    "value": "Departeman",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "province.district": {
-    "value": "Sɛrikili",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "province.do_si": {
-    "value": "Do/Si",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "province.emirate": {
-    "value": "Emira",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "province.island": {
-    "value": "Gun",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "province.oblast": {
-    "value": "Oblast",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "province.parish": {
-    "value": "Paruwasi",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "province.prefecture": {
-    "value": "Prefekitiri",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "province.province": {
-    "value": "Mara",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "province.state": {
-    "value": "Sitati",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "postal.postal": {
-    "value": "Pɔsita nimɔrɔ",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "postal.zip": {
-    "value": "ZIP nimɔrɔ",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "postal.pin": {
-    "value": "PIN nimɔrɔ",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "postal.eircode": {
-    "value": "Eircode",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "messages.required": {
-    "value": "I tɛ se ka nin to lankolon ye.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "messages.unknown_value": {
-    "value": "{FIELD_VALUE} ma dɔn iko nafa dɔnnen nin yɔrɔ in kama.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "messages.po_box_forbidden": {
-    "value": "A bɛ iko pɔsita bwatɔ bɛ adirɛsi sira in kɔnɔ. Aw ye siraba walima bɔn adirɛsi sɛbɛn.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "messages.postal_invalid_example": {
-    "value": "Nin pɔsita nimɔrɔ cogoya ma dɔn. Pɔsita nimɔrɔ ɲuman misali: {EXAMPLE}.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "messages.zip_invalid_example": {
-    "value": "Nin ZIP nimɔrɔ cogoya ma dɔn. ZIP nimɔrɔ ɲuman misali: {EXAMPLE}.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "messages.postal_mismatch": {
-    "value": "A tɛ iko nin pɔsita nimɔrɔ bɛ bɛn adirɛsi tɔ ma.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  },
-  "messages.zip_mismatch": {
-    "value": "A tɛ iko nin ZIP nimɔrɔ bɛ bɛn adirɛsi tɔ ma.",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
-  }
+ "fields.first_name": {
+  "value": "Tɔgɔ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "fields.last_name": {
+  "value": "Jamu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "fields.address2": {
+  "value": "So, bon, a ɲɔgɔnnaw (a tɛ wajibi ye)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "fields.company": {
+  "value": "Sosiyete",
+  "provenance": "curated",
+  "checked": true
+ },
+ "fields.address1": {
+  "value": "Siraba adirɛsi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "fields.phone": {
+  "value": "Telefɔni",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "fields.country": {
+  "value": "Jamana / Mara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "city.city": {
+  "value": "Dugu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "city.post_town": {
+  "value": "Pɔsita dugu",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "city.suburb": {
+  "value": "Dugu dafɛ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "checked": true
+ },
+ "city.village_township": {
+  "value": "Dugu / Komini",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "city.district": {
+  "value": "Komini",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "city.neighborhood": {
+  "value": "Kin",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "province.area": {
+  "value": "Mara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "province.county": {
+  "value": "Sɛrikili",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "province.department": {
+  "value": "Departeman",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "province.district": {
+  "value": "Sɛrikili",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "province.emirate": {
+  "value": "Emira",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "province.island": {
+  "value": "Gun",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "province.parish": {
+  "value": "Paruwasi",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "province.prefecture": {
+  "value": "Prefekitiri",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "province.province": {
+  "value": "Mara",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "province.state": {
+  "value": "Sitati",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "postal.postal": {
+  "value": "Pɔsita nimɔrɔ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "postal.zip": {
+  "value": "ZIP nimɔrɔ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "postal.pin": {
+  "value": "PIN nimɔrɔ",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "messages.required": {
+  "value": "I tɛ se ka nin to lankolon ye.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} ma dɔn iko nafa dɔnnen nin yɔrɔ in kama.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "messages.po_box_forbidden": {
+  "value": "A bɛ iko pɔsita bwatɔ bɛ adirɛsi sira in kɔnɔ. Aw ye siraba walima bɔn adirɛsi sɛbɛn.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "messages.postal_invalid_example": {
+  "value": "Nin pɔsita nimɔrɔ cogoya ma dɔn. Pɔsita nimɔrɔ ɲuman misali: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "messages.zip_invalid_example": {
+  "value": "Nin ZIP nimɔrɔ cogoya ma dɔn. ZIP nimɔrɔ ɲuman misali: {EXAMPLE}.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "messages.postal_mismatch": {
+  "value": "A tɛ iko nin pɔsita nimɔrɔ bɛ bɛn adirɛsi tɔ ma.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ },
+ "messages.zip_mismatch": {
+  "value": "A tɛ iko nin ZIP nimɔrɔ bɛ bɛn adirɛsi tɔ ma.",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Bambara: Malian forms are normally in French; no established Bambara form terminology found; best-effort, needs native review."
+ }
 }

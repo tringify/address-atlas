@@ -270,7 +270,7 @@
   "messages.postal_invalid_example": "Format kode pos iki ora dikenali. Tuladha kode pos sing valid: {EXAMPLE}.",
   "messages.postal_mismatch": "Kode pos iki kayane ora cocog karo alamat liyane.",
   "messages.required": "Kolom iki ora kena dikosongi.",
-  "messages.unknown_value": "{FIELD_VALUE} ora dikenali minangka nilai sing valid kanggo kolom iki.",
+  "messages.unknown_value": "{FIELD_VALUE} ora dikenali minangka nilai sing dikenal kanggo kolom iki.",
   "messages.zip_invalid_example": "Format kode ZIP iki ora dikenali. Tuladha kode ZIP sing valid: {EXAMPLE}.",
   "messages.zip_mismatch": "Kode ZIP iki kayane ora cocog karo alamat liyane.",
   "postal.eircode": "Eircode",

@@ -72,10 +72,9 @@
   "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
  },
  "city.district": {
-  "value": "Immikkoortortaq",
+  "value": "Illoqarfiup ilaa",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+  "checked": true
  },
  "city.neighborhood": {
   "value": "Illoqarfiup immikkoortua",
@@ -90,10 +89,9 @@
   "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
  },
  "province.county": {
-  "value": "Kommuneqarfik",
+  "value": "Amt",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+  "checked": true
  },
  "province.department": {
   "value": "Immikkoortortaq",
@@ -148,10 +146,9 @@
   "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
  },
  "province.state": {
-  "value": "Naalagaaffik",
+  "value": "Stati",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Kalaallisut forms in Greenland are mostly Danish/bilingual; drafted without a native checkout-form reference."
+  "checked": true
  },
  "postal.postal": {
   "value": "Postnummeri",

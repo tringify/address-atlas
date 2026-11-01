@@ -270,7 +270,7 @@
   "messages.postal_invalid_example": "Lolenge ya kódi oyo ya posita eyebani te. Ndakisa ya kódi ya posita ya malamu: {EXAMPLE}.",
   "messages.postal_mismatch": "Kódi oyo ya posita ekokani te na adrɛsi oyo etikali.",
   "messages.required": "Okoki kotika esika oyo mpamba te.",
-  "messages.unknown_value": "{FIELD_VALUE} eyebani te lokola motuya ya solo mpo na esika oyo.",
+  "messages.unknown_value": "{FIELD_VALUE} eyebani te lokola motuya eyebani mpo na esika oyo.",
   "messages.zip_invalid_example": "Lolenge ya kódi oyo ya ZIP eyebani te. Ndakisa ya kódi ZIP ya malamu: {EXAMPLE}.",
   "messages.zip_mismatch": "Kódi oyo ya ZIP ekokani te na adrɛsi oyo etikali.",
   "postal.eircode": "Eircode",

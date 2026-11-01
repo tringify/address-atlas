@@ -1,0 +1,617 @@
+{
+ "ak": {
+  "city.district": {
+   "draft": "Ɔmantam",
+   "correct": "Mansin",
+   "why": "Ɔmantam is a Ghanaian region, not a district (mansin)."
+  },
+  "province.district": {
+   "draft": "Ɔmantam",
+   "correct": "Mansin",
+   "why": "Ɔmantam is a Ghanaian region, not a district (mansin)."
+  },
+  "province.state": {
+   "draft": "Ɔman",
+   "correct": "Steet",
+   "why": "Ɔman means country/nation (it is already the country label), not a state on an address form."
+  },
+  "messages.unknown_value": {
+   "draft": "Wonnhu {FIELD_VALUE} sɛ botaeɛ a wonim ma beaeɛ yi.",
+   "correct": "Wonnhu {FIELD_VALUE} sɛ adeɛ a wɔnim wɔ beaeɛ yi mu.",
+   "why": "botaeɛ means aim/goal, not a field value."
+  }
+ },
+ "am": {
+  "fields.last_name": {
+   "draft": "የአባት ስም",
+   "correct": "የቤተሰብ ስም",
+   "why": "የአባት ስም means father's name (the patronymic), not last name."
+  }
+ },
+ "bm": {
+  "fields.company": {
+   "draft": "Tɔn",
+   "correct": "Sosiyete",
+   "why": "Tɔn is a traditional age-group or village association, not the organization/company on a checkout form."
+  },
+  "city.townland": {
+   "draft": "Dugu fitini",
+   "correct": "Townland",
+   "why": "Dugu fitini means small village, not an Irish townland."
+  }
+ },
+ "bn": {
+  "fields.first_name": {
+   "draft": "নামের প্রথম অংশ",
+   "correct": "প্রথম নাম",
+   "why": "নামের প্রথম অংশ is an unnatural calque ('first part of the name'); forms use প্রথম নাম."
+  },
+  "fields.last_name": {
+   "draft": "নামের শেষাংশ",
+   "correct": "পদবি",
+   "why": "নামের শেষাংশ ('last part of the name') is not the surname label used on forms; পদবি is."
+  }
+ },
+ "bo": {
+  "city.townland": {
+   "draft": "ཞིང་གྲོང་།",
+   "correct": "Townland",
+   "why": "ཞིང་གྲོང་ means a farming village, not a townland."
+  }
+ },
+ "br": {
+  "city.townland": {
+   "draft": "Kêriadenn",
+   "correct": "Townland",
+   "why": "Kêriadenn means a hamlet, and it is already used for the village label."
+  }
+ },
+ "dz": {
+  "city.townland": {
+   "draft": "ཞིང་གྲོང་།",
+   "correct": "Townland",
+   "why": "ཞིང་གྲོང་ means a farming village, not a townland."
+  },
+  "province.department": {
+   "draft": "ལས་སྡེ།",
+   "correct": "ཁུལ་ཁག",
+   "why": "ལས་སྡེ means a government office or ministry, not a territorial department."
+  }
+ },
+ "eo": {
+  "city.townland": {
+   "draft": "Kampara distrikto",
+   "correct": "Townland",
+   "why": "Kampara distrikto means rural district, a different unit from a townland."
+  }
+ },
+ "ff": {
+  "city.suburb": {
+   "draft": "Ɓadaade saare",
+   "correct": "Wuro ɓadiingo",
+   "why": "Ɓadaade saare is the verb 'to approach the town', not the noun suburb."
+  },
+  "messages.required": {
+   "draft": "A waawaa acceede ɗum meho.",
+   "correct": "A waawaa accude ɗum meere.",
+   "why": "acceede is not a Fula word (the verb 'leave' is accude)."
+  }
+ },
+ "fr": {
+  "fields.address2": {
+   "draft": "Appartement, bâtiment, etc. (facultatif)",
+   "correct": "Appartement, suite, etc. (facultatif)",
+   "why": "bâtiment means building, not suite."
+  }
+ },
+ "fy": {
+  "city.townland": {
+   "draft": "Buorskip",
+   "correct": "Townland",
+   "why": "Buorskip means a hamlet, not a townland."
+  }
+ },
+ "gd": {
+  "province.province": {
+   "draft": "Mòr-roinn",
+   "correct": "Provinsa",
+   "why": "Mòr-roinn means continent, not province."
+  }
+ },
+ "gv": {
+  "messages.unknown_value": {
+   "draft": "Cha nee {FIELD_VALUE} feeuid ta enmyssit son yn vagher shoh.",
+   "correct": "Cha nel {FIELD_VALUE} enmyssit myr feeu er enney son y rheynn shoh.",
+   "why": "magher/vagher is a field of land, not a form field, and the sentence does not say 'known value'."
+  },
+  "messages.po_box_forbidden": {
+   "draft": "Ta'n linney enmys shoh jeeaghyn dy vel bwoaillee post ayn. Jean ymmyd jeh enmys straiddey ny thie, my sailt.",
+   "correct": "Ta'n linney enmys shoh jeeaghyn dy vel kishtey post ayn. Jean ymmyd jeh enmys straiddey ny troggal, my sailt.",
+   "why": "bwoailley is a cattle fold, not a post office box."
+  }
+ },
+ "ig": {
+  "city.city": {
+   "draft": "Obodo mepere emepe",
+   "correct": "Obodo ukwu",
+   "why": "Obodo mepere emepe ('opened/civilized town') is a dictionary gloss, not a city label on a form."
+  },
+  "city.townland": {
+   "draft": "Ime obodo (Ireland)",
+   "correct": "Townland",
+   "why": "Ime obodo means the countryside, not a townland."
+  }
+ },
+ "jv": {
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} ora dikenali minangka nilai sing valid kanggo kolom iki.",
+   "correct": "{FIELD_VALUE} ora dikenali minangka nilai sing dikenal kanggo kolom iki.",
+   "why": "The English says a known value; 'valid' is a different check, and it is left in English."
+  }
+ },
+ "kl": {
+  "city.district": {
+   "draft": "Immikkoortortaq",
+   "correct": "Illoqarfiup ilaa",
+   "why": "Immikkoortortaq is an organizational department (and is already that label), not a city district; bydel is illoqarfiup ilaa."
+  },
+  "province.county": {
+   "draft": "Kommuneqarfik",
+   "correct": "Amt",
+   "why": "Kommuneqarfik means municipality, not county."
+  },
+  "province.state": {
+   "draft": "Naalagaaffik",
+   "correct": "Stati",
+   "why": "Naalagaaffik means the government or the realm, not a state such as a US state."
+  }
+ },
+ "lb": {
+  "postal.zip": {
+   "draft": "Postleitzuel",
+   "correct": "ZIP-Code",
+   "why": "Postleitzuel is the generic postal code, already used for postal.postal; a ZIP code is ZIP-Code."
+  },
+  "messages.zip_invalid_example": {
+   "draft": "Dëse Format vun der Postleitzuel gëtt net erkannt. Beispill fir eng gülteg Postleitzuel: {EXAMPLE}.",
+   "correct": "Dëse Format vum ZIP-Code gëtt net erkannt. Beispill fir en gültege ZIP-Code: {EXAMPLE}.",
+   "why": "The ZIP message was copied from the postal-code message and never says ZIP."
+  },
+  "messages.zip_mismatch": {
+   "draft": "Dës Postleitzuel schéngt net zum Rescht vun der Adress ze passen.",
+   "correct": "Dëse ZIP-Code schéngt net zum Rescht vun der Adress ze passen.",
+   "why": "The ZIP message was copied from the postal-code message and never says ZIP."
+  }
+ },
+ "lg": {
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} tekimanyiddwa ng'omuwendo ogukkirizibwa mu kifo kino.",
+   "correct": "{FIELD_VALUE} tekimanyiddwa ng'omuwendo ogumanyiddwa mu kifo kino.",
+   "why": "ogukkirizibwa means accepted, not a known value."
+  }
+ },
+ "ln": {
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} eyebani te lokola motuya ya solo mpo na esika oyo.",
+   "correct": "{FIELD_VALUE} eyebani te lokola motuya eyebani mpo na esika oyo.",
+   "why": "motuya ya solo means a true value, not a known value."
+  }
+ },
+ "mg": {
+  "city.townland": {
+   "draft": "Tanàna kely (Irlandy)",
+   "correct": "Townland",
+   "why": "Tanàna kely means a small town, not a townland."
+  },
+  "messages.unknown_value": {
+   "draft": "Tsy fantatra ho sanda manan-kery ho an'ity saha ity ny {FIELD_VALUE}.",
+   "correct": "Tsy fantatra ho sanda fantatra ho an'ity saha ity ny {FIELD_VALUE}.",
+   "why": "manan-kery means valid/in force, not a known value."
+  }
+ },
+ "mi": {
+  "province.state": {
+   "draft": "Kāwanatanga ā-rohe",
+   "correct": "Porowini",
+   "why": "Kāwanatanga ā-rohe means regional government, not a state."
+  }
+ },
+ "mo": {
+  "city.townland": {
+   "draft": "Localitate rurală (Irlanda)",
+   "correct": "Townland",
+   "why": "Localitate rurală means a rural locality, not a townland."
+  },
+  "postal.zip": {
+   "draft": "Cod poștal",
+   "correct": "Cod ZIP",
+   "why": "Cod poștal is the generic postal code, already used for postal.postal."
+  },
+  "messages.zip_invalid_example": {
+   "draft": "Acest format de cod poștal nu este recunoscut. Exemplu de cod poștal valid: {EXAMPLE}.",
+   "correct": "Acest format de cod ZIP nu este recunoscut. Exemplu de cod ZIP valid: {EXAMPLE}.",
+   "why": "The ZIP message was copied from the postal-code message and never says ZIP."
+  },
+  "messages.zip_mismatch": {
+   "draft": "Se pare că acest cod poștal nu se potrivește cu restul adresei.",
+   "correct": "Se pare că acest cod ZIP nu se potrivește cu restul adresei.",
+   "why": "The ZIP message was copied from the postal-code message and never says ZIP."
+  }
+ },
+ "mt": {
+  "city.townland": {
+   "draft": "Raħal (Irlanda)",
+   "correct": "Townland",
+   "why": "Raħal means village (and is already the village label), not a townland."
+  }
+ },
+ "nd": {
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} kayaziwa njengenani elivumelekileyo kulesi sikhala.",
+   "correct": "{FIELD_VALUE} kayaziwa njengexabiso elaziwayo kulesi sikhala.",
+   "why": "elivumelekileyo means permitted, and inani is a number, not a known value."
+  }
+ },
+ "nn": {
+  "city.district": {
+   "draft": "Område",
+   "correct": "Bydel",
+   "why": "Område means area (and is already the area label); a city district is a bydel."
+  },
+  "postal.zip": {
+   "draft": "Postnummer",
+   "correct": "ZIP-kode",
+   "why": "Postnummer is the generic postal code, already used for postal.postal."
+  },
+  "messages.zip_invalid_example": {
+   "draft": "Formatet på postnummeret vart ikkje kjent att. Døme på gyldig postnummer: {EXAMPLE}.",
+   "correct": "Formatet på ZIP-koden vart ikkje kjent att. Døme på gyldig ZIP-kode: {EXAMPLE}.",
+   "why": "The ZIP message was copied from the postal-code message and never says ZIP."
+  },
+  "messages.zip_mismatch": {
+   "draft": "Dette postnummeret ser ikkje ut til å passe med resten av adressa.",
+   "correct": "Denne ZIP-koden ser ikkje ut til å passe med resten av adressa.",
+   "why": "The ZIP message was copied from the postal-code message and never says ZIP."
+  }
+ },
+ "om": {
+  "fields.last_name": {
+   "draft": "Maqaa abbaa",
+   "correct": "Maqaa dhumaa",
+   "why": "Maqaa abbaa means father's name, not last name."
+  },
+  "province.province": {
+   "draft": "Kutaa bulchiinsaa",
+   "correct": "Provinsii",
+   "why": "Kutaa bulchiinsaa means an administrative section or department, not a province."
+  }
+ },
+ "os": {
+  "city.townland": {
+   "draft": "Хъæу (Ирланди)",
+   "correct": "Townland",
+   "why": "Хъæу means village, not a townland."
+  },
+  "messages.required": {
+   "draft": "Ацы быдыр афтид ныууадзæн нæй.",
+   "correct": "Ай афтид ныууадзæн нæй.",
+   "why": "быдыр is a steppe or open plain, not an empty form slot."
+  },
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} ацы быдырæн зонгæ нысаниуæг нæу.",
+   "correct": "{FIELD_VALUE} ацы хайæн зонгæ нысаниуæг нæу.",
+   "why": "быдыр is a steppe or open plain, not a form field."
+  }
+ },
+ "ps": {
+  "city.townland": {
+   "draft": "کلی (آیرلینډ)",
+   "correct": "Townland",
+   "why": "کلی means village, not a townland."
+  }
+ },
+ "pt": {
+  "city.suburb": {
+   "draft": "Bairro",
+   "correct": "Subúrbio",
+   "why": "Bairro is the neighborhood (and is already that label); a suburb is subúrbio."
+  },
+  "postal.zip": {
+   "draft": "Código postal",
+   "correct": "Código ZIP",
+   "why": "Código postal is a generic postal code; the US ZIP label has to say ZIP. CEP is already the postal-code label."
+  },
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} não é reconhecido como um valor válido para este campo.",
+   "correct": "{FIELD_VALUE} não é reconhecido como um valor conhecido para este campo.",
+   "why": "válido means valid; the English message is about a known value."
+  },
+  "messages.zip_invalid_example": {
+   "draft": "Este formato de código postal não foi reconhecido. Exemplo de um código postal válido: {EXAMPLE}.",
+   "correct": "Este formato de código ZIP não foi reconhecido. Exemplo de um código ZIP válido: {EXAMPLE}.",
+   "why": "The message describes a código postal, not a ZIP code."
+  },
+  "messages.zip_mismatch": {
+   "draft": "Este código postal parece não corresponder ao restante do endereço.",
+   "correct": "Este código ZIP parece não corresponder ao restante do endereço.",
+   "why": "The message describes a código postal, not a ZIP code."
+  }
+ },
+ "rm": {
+  "city.suburb": {
+   "draft": "Quartier",
+   "correct": "Periferia",
+   "why": "Quartier is the neighborhood (and is already that label), not a suburb."
+  },
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} n'è betg enconuschent sco valur valaivla per quest champ.",
+   "correct": "{FIELD_VALUE} n'è betg enconuschent sco valur enconuschenta per quest champ.",
+   "why": "valaivla means valid; the English message is about a known value."
+  }
+ },
+ "rn": {
+  "province.county": {
+   "draft": "Intara",
+   "correct": "Konti",
+   "why": "Intara means province (and is already that label), not a county."
+  },
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} ntimenyekanye nk'agaciro kemewe muri iki kibanza.",
+   "correct": "{FIELD_VALUE} ntimenyekanye nk'agaciro kazwi muri iki kibanza.",
+   "why": "kemewe means approved, not a known value."
+  }
+ },
+ "rw": {
+  "province.county": {
+   "draft": "Intara",
+   "correct": "Konti",
+   "why": "Intara means province (and is already that label), not a county."
+  },
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} ntizwi nk'agaciro kemewe kuri iki gice.",
+   "correct": "{FIELD_VALUE} ntizwi nk'agaciro kazwi kuri iki gice.",
+   "why": "kemewe means approved, not a known value."
+  }
+ },
+ "sc": {
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} no est reconnotu comente valore vàlidu pro custu campu.",
+   "correct": "{FIELD_VALUE} no est reconnotu comente valore connotu pro custu campu.",
+   "why": "vàlidu means valid; the English message is about a known value."
+  }
+ },
+ "se": {
+  "fields.last_name": {
+   "draft": "Goargu",
+   "correct": "Sohkanamma",
+   "why": "Goargu means family or household, not a surname; the surname is sohkanamma."
+  },
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} ii dovdojuvvo gustovaš árvun dán gieddái.",
+   "correct": "{FIELD_VALUE} ii dovdojuvvo dovddus árvun dán gieddái.",
+   "why": "gustovaš means valid, not a known value."
+  }
+ },
+ "sg": {
+  "fields.address2": {
+   "draft": "Da, etaje na ambeni (a yeke ngangu pëpe)",
+   "correct": "Da, etaje na ambeni (a yeke obligé pëpe)",
+   "why": "a yeke ngangu pëpe means 'it is not difficult', not optional."
+  },
+  "province.state": {
+   "draft": "Sêse",
+   "correct": "Leta",
+   "why": "Sêse means earth, ground, or the planet, not a state."
+  }
+ },
+ "sh": {
+  "postal.zip": {
+   "draft": "Poštanski broj",
+   "correct": "ZIP kod",
+   "why": "Poštanski broj is the generic postal code, already used for postal.postal."
+  },
+  "messages.zip_invalid_example": {
+   "draft": "Format ovog poštanskog broja nije prepoznat. Primjer važećeg poštanskog broja: {EXAMPLE}.",
+   "correct": "Format ovog ZIP koda nije prepoznat. Primjer važećeg ZIP koda: {EXAMPLE}.",
+   "why": "The ZIP message was copied from the postal-code message and never says ZIP."
+  },
+  "messages.zip_mismatch": {
+   "draft": "Izgleda da ovaj poštanski broj ne odgovara ostatku adrese.",
+   "correct": "Izgleda da ovaj ZIP kod ne odgovara ostatku adrese.",
+   "why": "The ZIP message was copied from the postal-code message and never says ZIP."
+  }
+ },
+ "sn": {
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} hachizivikanwi sechinhu chinogamuchirwa pachikamu ichi.",
+   "correct": "{FIELD_VALUE} hachizivikanwi sechinhu chinozivikanwa pachikamu ichi.",
+   "why": "chinogamuchirwa means something that is accepted or received, not a known value."
+  }
+ },
+ "so": {
+  "fields.address2": {
+   "draft": "Abaartamaha, dabaqa iwm. (ikhtiyaari)",
+   "correct": "Apartament, qol, iwm. (ikhtiyaari)",
+   "why": "Abaartamaha is not a Somali word (abaar is drought); an apartment is apartament or guri dabaq ah."
+  }
+ },
+ "su": {
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} teu dipikawanoh salaku nilai anu sah pikeun widang ieu.",
+   "correct": "{FIELD_VALUE} teu dipikawanoh salaku nilai anu dipikanyaho pikeun widang ieu.",
+   "why": "sah means valid or legal, not a known value."
+  }
+ },
+ "ti": {
+  "fields.last_name": {
+   "draft": "ስም ኣቦ",
+   "correct": "ናይ ስድራቤት ስም",
+   "why": "ስም ኣቦ means father's name, not last name."
+  }
+ },
+ "to": {
+  "province.department": {
+   "draft": "Potungāue",
+   "correct": "Tīpātemēnī",
+   "why": "Potungāue is a government ministry, not a territorial department."
+  },
+  "messages.unknown_value": {
+   "draft": "ʻOku ʻikai ʻiloa ʻa e {FIELD_VALUE} ko ha mahuʻinga totonu ki he feituʻu ko ʻeni.",
+   "correct": "ʻOku ʻikai ʻiloʻi ʻa e {FIELD_VALUE} ko ha mahuʻinga ʻiloa ki he feituʻu ko ʻeni.",
+   "why": "totonu means correct, not a known value."
+  }
+ },
+ "xh": {
+  "province.state": {
+   "draft": "Ilizwe elilawulayo",
+   "correct": "Umbuso",
+   "why": "Ilizwe elilawulayo means 'a country that governs'; ilizwe is country, not a state."
+  },
+  "messages.unknown_value": {
+   "draft": "{FIELD_VALUE} ayaziwa njengexabiso elisemthethweni kule ndawo.",
+   "correct": "{FIELD_VALUE} ayaziwa njengexabiso elaziwayo kule ndawo.",
+   "why": "elisemthethweni means legal, not a known value."
+  }
+ },
+ "_checked": {
+  "af": 3,
+  "ak": 37,
+  "am": 3,
+  "ar": 3,
+  "as": 3,
+  "az": 3,
+  "be": 3,
+  "bg": 3,
+  "bm": 37,
+  "bn": 3,
+  "bo": 37,
+  "br": 37,
+  "bs": 3,
+  "ca": 3,
+  "ce": 37,
+  "ckb": 37,
+  "cs": 3,
+  "cy": 3,
+  "da": 3,
+  "de": 3,
+  "dz": 37,
+  "ee": 37,
+  "el": 3,
+  "en": 5,
+  "eo": 37,
+  "es": 3,
+  "et": 3,
+  "eu": 3,
+  "fa": 3,
+  "ff": 37,
+  "fi": 3,
+  "fil": 3,
+  "fo": 37,
+  "fr": 3,
+  "fy": 37,
+  "ga": 37,
+  "gd": 37,
+  "gl": 3,
+  "gu": 3,
+  "gv": 37,
+  "ha": 37,
+  "he": 3,
+  "hi": 3,
+  "hr": 3,
+  "hu": 3,
+  "hy": 3,
+  "ia": 37,
+  "id": 3,
+  "ig": 37,
+  "is": 3,
+  "it": 3,
+  "ja": 3,
+  "jv": 37,
+  "ka": 3,
+  "ki": 37,
+  "kk": 3,
+  "kl": 37,
+  "km": 3,
+  "kn": 3,
+  "ko": 3,
+  "ks": 37,
+  "ku": 37,
+  "kw": 37,
+  "ky": 3,
+  "lb": 37,
+  "lg": 37,
+  "ln": 37,
+  "lo": 3,
+  "lt": 3,
+  "lu": 37,
+  "lv": 3,
+  "mg": 37,
+  "mi": 37,
+  "mk": 3,
+  "ml": 3,
+  "mn": 3,
+  "mo": 37,
+  "mr": 3,
+  "ms": 3,
+  "mt": 37,
+  "my": 3,
+  "nb": 3,
+  "nd": 37,
+  "ne": 3,
+  "nl": 3,
+  "nn": 37,
+  "no": 3,
+  "om": 37,
+  "or": 3,
+  "os": 37,
+  "pa": 3,
+  "pl": 3,
+  "ps": 37,
+  "pt-BR": 3,
+  "pt-PT": 3,
+  "pt": 37,
+  "qu": 37,
+  "rm": 37,
+  "rn": 37,
+  "ro": 3,
+  "ru": 3,
+  "rw": 37,
+  "sa": 37,
+  "sc": 37,
+  "sd": 37,
+  "se": 37,
+  "sg": 37,
+  "sh": 37,
+  "si": 3,
+  "sk": 3,
+  "sl": 3,
+  "sn": 37,
+  "so": 37,
+  "sq": 3,
+  "sr": 3,
+  "su": 37,
+  "sv": 3,
+  "sw": 3,
+  "ta": 3,
+  "te": 3,
+  "tg": 37,
+  "th": 3,
+  "ti": 37,
+  "tk": 37,
+  "to": 37,
+  "tr": 3,
+  "tt": 37,
+  "ug": 37,
+  "uk": 3,
+  "ur": 3,
+  "uz": 3,
+  "vi": 3,
+  "wo": 37,
+  "xh": 37,
+  "yi": 37,
+  "yo": 37,
+  "zh-TW": 3,
+  "zh": 3,
+  "zu": 3
+ }
+}

@@ -270,7 +270,7 @@
   "messages.postal_invalid_example": "Format kode pos ieu teu dipikawanoh. Conto kode pos anu valid: {EXAMPLE}.",
   "messages.postal_mismatch": "Kode pos ieu sigana teu cocog jeung sésa alamat ieu.",
   "messages.required": "Ieu teu kénging dikosongkeun.",
-  "messages.unknown_value": "{FIELD_VALUE} teu dipikawanoh salaku nilai anu sah pikeun widang ieu.",
+  "messages.unknown_value": "{FIELD_VALUE} teu dipikawanoh salaku nilai anu dipikanyaho pikeun widang ieu.",
   "messages.zip_invalid_example": "Format kode ZIP ieu teu dipikawanoh. Conto kode ZIP anu valid: {EXAMPLE}.",
   "messages.zip_mismatch": "Kode ZIP ieu sigana teu cocog jeung sésa alamat ieu.",
   "postal.eircode": "Eircode",

@@ -90,10 +90,9 @@
   "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
  },
  "province.department": {
-  "value": "Potungāue",
+  "value": "Tīpātemēnī",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+  "checked": true
  },
  "province.district": {
   "value": "Vahe",
@@ -170,10 +169,9 @@
   "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
  },
  "messages.unknown_value": {
-  "value": "ʻOku ʻikai ʻiloa ʻa e {FIELD_VALUE} ko ha mahuʻinga totonu ki he feituʻu ko ʻeni.",
+  "value": "ʻOku ʻikai ʻiloʻi ʻa e {FIELD_VALUE} ko ha mahuʻinga ʻiloa ki he feituʻu ko ʻeni.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Tongan; Tonga has no postal codes and forms are usually in English, rendering not verified"
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "ʻOku hangē ʻoku ʻi he laine tuʻasila ko ʻeni ha puha meili. Kātaki ʻo fakaʻaongaʻi ha tuʻasila hala pe fale.",

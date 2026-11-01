@@ -130,10 +130,9 @@
   "note": "Sundanese; forms in West Java are usually Indonesian, wording not verified"
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} teu dipikawanoh salaku nilai anu sah pikeun widang ieu.",
+  "value": "{FIELD_VALUE} teu dipikawanoh salaku nilai anu dipikanyaho pikeun widang ieu.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Sundanese; forms in West Java are usually Indonesian, wording not verified"
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Baris alamat ieu sigana ngandung kotak pos. Mangga paké alamat jalan atawa wangunan.",

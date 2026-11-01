@@ -253,7 +253,7 @@
  },
  "labels": {
   "city.city": "Illoqarfik",
-  "city.district": "Immikkoortortaq",
+  "city.district": "Illoqarfiup ilaa",
   "city.neighborhood": "Illoqarfiup immikkoortua",
   "city.post_town": "Allakkeriviup illoqarfia",
   "city.suburb": "Illoqarfiup avataa",
@@ -278,7 +278,7 @@
   "postal.postal": "Postnummeri",
   "postal.zip": "ZIP-normu",
   "province.area": "Sumiiffik",
-  "province.county": "Kommuneqarfik",
+  "province.county": "Amt",
   "province.department": "Immikkoortortaq",
   "province.district": "Distrikti",
   "province.do_si": "Do/Si",
@@ -288,7 +288,7 @@
   "province.parish": "Ilagiit",
   "province.prefecture": "Prefektur",
   "province.province": "Provinsi",
-  "province.state": "Naalagaaffik"
+  "province.state": "Stati"
  },
  "provenance": {
   "countries.AD": "curated",

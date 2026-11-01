@@ -1,158 +1,157 @@
 {
-  "fields.first_name": {
-    "value": "Anv-bihan",
-    "provenance": "curated"
-  },
-  "fields.last_name": {
-    "value": "Anv-familh",
-    "provenance": "curated"
-  },
-  "fields.address2": {
-    "value": "Ranndi, burev, h.a. (diret)",
-    "provenance": "curated"
-  },
-  "fields.company": {
-    "value": "Aozadur",
-    "provenance": "curated"
-  },
-  "fields.address1": {
-    "value": "Chomlec'h straed",
-    "provenance": "curated"
-  },
-  "fields.phone": {
-    "value": "Pellgomz",
-    "provenance": "curated"
-  },
-  "fields.country": {
-    "value": "Bro / Rannvro",
-    "provenance": "curated"
-  },
-  "city.city": {
-    "value": "Kêr",
-    "provenance": "curated"
-  },
-  "city.post_town": {
-    "value": "Kêr bost",
-    "provenance": "curated"
-  },
-  "city.suburb": {
-    "value": "Banlev",
-    "provenance": "curated"
-  },
-  "city.townland": {
-    "value": "Kêriadenn",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Irish 'townland' has no established equivalent; descriptive rendering."
-  },
-  "city.village_township": {
-    "value": "Kêriadenn / Kumun",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "'Kumun' (commune) used for township; approximate."
-  },
-  "city.district": {
-    "value": "Distrig",
-    "provenance": "curated"
-  },
-  "city.neighborhood": {
-    "value": "Karter",
-    "provenance": "curated"
-  },
-  "province.area": {
-    "value": "Takad",
-    "provenance": "curated"
-  },
-  "province.county": {
-    "value": "Kontelezh",
-    "provenance": "curated"
-  },
-  "province.department": {
-    "value": "Departamant",
-    "provenance": "curated"
-  },
-  "province.district": {
-    "value": "Distrig",
-    "provenance": "curated"
-  },
-  "province.do_si": {
-    "value": "Do/Si",
-    "provenance": "curated",
-    "note": "Korean romanized term kept, as in Chromium's translations for other languages."
-  },
-  "province.emirate": {
-    "value": "Emirelezh",
-    "provenance": "curated"
-  },
-  "province.island": {
-    "value": "Enez",
-    "provenance": "curated"
-  },
-  "province.oblast": {
-    "value": "Oblast",
-    "provenance": "curated"
-  },
-  "province.parish": {
-    "value": "Parrez",
-    "provenance": "curated"
-  },
-  "province.prefecture": {
-    "value": "Prefeti",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Loan-formed; no established Breton term for Japanese prefectures."
-  },
-  "province.province": {
-    "value": "Proviñs",
-    "provenance": "curated"
-  },
-  "province.state": {
-    "value": "Stad",
-    "provenance": "curated"
-  },
-  "postal.postal": {
-    "value": "Kod-post",
-    "provenance": "curated"
-  },
-  "postal.zip": {
-    "value": "Kod ZIP",
-    "provenance": "curated"
-  },
-  "postal.pin": {
-    "value": "Kod PIN",
-    "provenance": "curated"
-  },
-  "postal.eircode": {
-    "value": "Eircode",
-    "provenance": "curated",
-    "note": "Proper name of Ireland's postcode system, kept as used locally."
-  },
-  "messages.required": {
-    "value": "N'hallit ket lezel ar vaezienn-mañ goullo.",
-    "provenance": "curated"
-  },
-  "messages.unknown_value": {
-    "value": "N'eo ket anavezet {FIELD_VALUE} evel un dalvoudegezh anavezet evit ar vaezienn-mañ.",
-    "provenance": "curated"
-  },
-  "messages.po_box_forbidden": {
-    "value": "War a seblant ez eus ur voestad-lizhiri el linenn chomlec'h-mañ. Implijit ur chomlec'h straed pe savadur, mar plij.",
-    "provenance": "curated"
-  },
-  "messages.postal_invalid_example": {
-    "value": "N'eo ket anavezet stumm ar c'hod-post-mañ. Skouer eus ur c'hod-post reizh : {EXAMPLE}.",
-    "provenance": "curated"
-  },
-  "messages.zip_invalid_example": {
-    "value": "N'eo ket anavezet stumm ar c'hod ZIP-mañ. Skouer eus ur c'hod ZIP reizh : {EXAMPLE}.",
-    "provenance": "curated"
-  },
-  "messages.postal_mismatch": {
-    "value": "Ne seblant ket ar c'hod-post-mañ klotañ gant ar peurrest eus ar chomlec'h.",
-    "provenance": "curated"
-  },
-  "messages.zip_mismatch": {
-    "value": "Ne seblant ket ar c'hod ZIP-mañ klotañ gant ar peurrest eus ar chomlec'h.",
-    "provenance": "curated"
-  }
+ "fields.first_name": {
+  "value": "Anv-bihan",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Anv-familh",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Ranndi, burev, h.a. (diret)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Aozadur",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Chomlec'h straed",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Pellgomz",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Bro / Rannvro",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Kêr",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Kêr bost",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "Banlev",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "checked": true
+ },
+ "city.village_township": {
+  "value": "Kêriadenn / Kumun",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "'Kumun' (commune) used for township; approximate."
+ },
+ "city.district": {
+  "value": "Distrig",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Karter",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Takad",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Kontelezh",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Departamant",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Distrig",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated",
+  "note": "Korean romanized term kept, as in Chromium's translations for other languages."
+ },
+ "province.emirate": {
+  "value": "Emirelezh",
+  "provenance": "curated"
+ },
+ "province.island": {
+  "value": "Enez",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Parrez",
+  "provenance": "curated"
+ },
+ "province.prefecture": {
+  "value": "Prefeti",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Loan-formed; no established Breton term for Japanese prefectures."
+ },
+ "province.province": {
+  "value": "Proviñs",
+  "provenance": "curated"
+ },
+ "province.state": {
+  "value": "Stad",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Kod-post",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Kod ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Kod PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated",
+  "note": "Proper name of Ireland's postcode system, kept as used locally."
+ },
+ "messages.required": {
+  "value": "N'hallit ket lezel ar vaezienn-mañ goullo.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "N'eo ket anavezet {FIELD_VALUE} evel un dalvoudegezh anavezet evit ar vaezienn-mañ.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "War a seblant ez eus ur voestad-lizhiri el linenn chomlec'h-mañ. Implijit ur chomlec'h straed pe savadur, mar plij.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "N'eo ket anavezet stumm ar c'hod-post-mañ. Skouer eus ur c'hod-post reizh : {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "N'eo ket anavezet stumm ar c'hod ZIP-mañ. Skouer eus ur c'hod ZIP reizh : {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Ne seblant ket ar c'hod-post-mañ klotañ gant ar peurrest eus ar chomlec'h.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Ne seblant ket ar c'hod ZIP-mañ klotañ gant ar peurrest eus ar chomlec'h.",
+  "provenance": "curated"
+ }
 }

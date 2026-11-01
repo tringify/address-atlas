@@ -1,160 +1,161 @@
 {
-  "fields.first_name": {
-    "value": "Ainm",
-    "provenance": "curated"
-  },
-  "fields.last_name": {
-    "value": "Sloinneadh",
-    "provenance": "curated"
-  },
-  "fields.address2": {
-    "value": "Flat, seòmar is msaa. (roghainneil)",
-    "provenance": "curated"
-  },
-  "fields.company": {
-    "value": "Buidheann",
-    "provenance": "curated"
-  },
-  "fields.address1": {
-    "value": "Seòladh sràide",
-    "provenance": "curated"
-  },
-  "fields.phone": {
-    "value": "Fòn",
-    "provenance": "curated"
-  },
-  "fields.country": {
-    "value": "Dùthaich / Roinn",
-    "provenance": "curated"
-  },
-  "city.city": {
-    "value": "Baile mòr",
-    "provenance": "curated"
-  },
-  "city.post_town": {
-    "value": "Baile puist",
-    "provenance": "curated"
-  },
-  "city.suburb": {
-    "value": "Bruach-bhaile",
-    "provenance": "curated"
-  },
-  "city.townland": {
-    "value": "Baile fearainn",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Calqued on Irish 'baile fearainn'."
-  },
-  "city.village_township": {
-    "value": "Baile beag / Baile",
-    "provenance": "curated"
-  },
-  "city.district": {
-    "value": "Sgìre",
-    "provenance": "curated"
-  },
-  "city.neighborhood": {
-    "value": "Nàbachd",
-    "provenance": "curated"
-  },
-  "province.area": {
-    "value": "Raon",
-    "provenance": "curated"
-  },
-  "province.county": {
-    "value": "Siorrachd",
-    "provenance": "curated"
-  },
-  "province.department": {
-    "value": "Roinn",
-    "provenance": "curated"
-  },
-  "province.district": {
-    "value": "Sgìre",
-    "provenance": "curated"
-  },
-  "province.do_si": {
-    "value": "Do/Si",
-    "provenance": "curated",
-    "note": "Korean romanized term kept, as in Chromium's translations for other languages."
-  },
-  "province.emirate": {
-    "value": "Iomarachd",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "No established Gaelic term; formed by analogy."
-  },
-  "province.island": {
-    "value": "Eilean",
-    "provenance": "curated"
-  },
-  "province.oblast": {
-    "value": "Oblast",
-    "provenance": "curated"
-  },
-  "province.parish": {
-    "value": "Paraiste",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Loan 'paraiste'; 'sgìre-pharraiste' also used."
-  },
-  "province.prefecture": {
-    "value": "Prefeachd",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "No established Gaelic term; loan-formed."
-  },
-  "province.province": {
-    "value": "Mòr-roinn",
-    "provenance": "curated"
-  },
-  "province.state": {
-    "value": "Stàit",
-    "provenance": "curated"
-  },
-  "postal.postal": {
-    "value": "Còd-puist",
-    "provenance": "curated"
-  },
-  "postal.zip": {
-    "value": "Còd ZIP",
-    "provenance": "curated"
-  },
-  "postal.pin": {
-    "value": "Còd PIN",
-    "provenance": "curated"
-  },
-  "postal.eircode": {
-    "value": "Eircode",
-    "provenance": "curated",
-    "note": "Proper name of Ireland's postcode system, kept as used locally."
-  },
-  "messages.required": {
-    "value": "Chan fhaod thu seo fhàgail bàn.",
-    "provenance": "curated"
-  },
-  "messages.unknown_value": {
-    "value": "Chan aithnichear {FIELD_VALUE} mar luach aithnichte airson an raoin seo.",
-    "provenance": "curated"
-  },
-  "messages.po_box_forbidden": {
-    "value": "Tha coltas gu bheil bogsa puist san loidhne seòlaidh seo. Cleachd seòladh sràide no togalaich.",
-    "provenance": "curated"
-  },
-  "messages.postal_invalid_example": {
-    "value": "Chan aithnichear fòrmat a’ chòd-puist seo. Ball-eisimpleir de chòd-puist dligheach: {EXAMPLE}.",
-    "provenance": "curated"
-  },
-  "messages.zip_invalid_example": {
-    "value": "Chan aithnichear fòrmat a’ chòd ZIP seo. Ball-eisimpleir de chòd ZIP dligheach: {EXAMPLE}.",
-    "provenance": "curated"
-  },
-  "messages.postal_mismatch": {
-    "value": "Chan eil coltas gu bheil an còd-puist seo a’ freagairt ris a’ chòrr dhen t-seòladh seo.",
-    "provenance": "curated"
-  },
-  "messages.zip_mismatch": {
-    "value": "Chan eil coltas gu bheil an còd ZIP seo a’ freagairt ris a’ chòrr dhen t-seòladh seo.",
-    "provenance": "curated"
-  }
+ "fields.first_name": {
+  "value": "Ainm",
+  "provenance": "curated"
+ },
+ "fields.last_name": {
+  "value": "Sloinneadh",
+  "provenance": "curated"
+ },
+ "fields.address2": {
+  "value": "Flat, seòmar is msaa. (roghainneil)",
+  "provenance": "curated"
+ },
+ "fields.company": {
+  "value": "Buidheann",
+  "provenance": "curated"
+ },
+ "fields.address1": {
+  "value": "Seòladh sràide",
+  "provenance": "curated"
+ },
+ "fields.phone": {
+  "value": "Fòn",
+  "provenance": "curated"
+ },
+ "fields.country": {
+  "value": "Dùthaich / Roinn",
+  "provenance": "curated"
+ },
+ "city.city": {
+  "value": "Baile mòr",
+  "provenance": "curated"
+ },
+ "city.post_town": {
+  "value": "Baile puist",
+  "provenance": "curated"
+ },
+ "city.suburb": {
+  "value": "Bruach-bhaile",
+  "provenance": "curated"
+ },
+ "city.townland": {
+  "value": "Baile fearainn",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Calqued on Irish 'baile fearainn'."
+ },
+ "city.village_township": {
+  "value": "Baile beag / Baile",
+  "provenance": "curated"
+ },
+ "city.district": {
+  "value": "Sgìre",
+  "provenance": "curated"
+ },
+ "city.neighborhood": {
+  "value": "Nàbachd",
+  "provenance": "curated"
+ },
+ "province.area": {
+  "value": "Raon",
+  "provenance": "curated"
+ },
+ "province.county": {
+  "value": "Siorrachd",
+  "provenance": "curated"
+ },
+ "province.department": {
+  "value": "Roinn",
+  "provenance": "curated"
+ },
+ "province.district": {
+  "value": "Sgìre",
+  "provenance": "curated"
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated",
+  "note": "Korean romanized term kept, as in Chromium's translations for other languages."
+ },
+ "province.emirate": {
+  "value": "Iomarachd",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "No established Gaelic term; formed by analogy."
+ },
+ "province.island": {
+  "value": "Eilean",
+  "provenance": "curated"
+ },
+ "province.oblast": {
+  "value": "Oblast",
+  "provenance": "curated"
+ },
+ "province.parish": {
+  "value": "Paraiste",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Loan 'paraiste'; 'sgìre-pharraiste' also used."
+ },
+ "province.prefecture": {
+  "value": "Prefeachd",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "No established Gaelic term; loan-formed."
+ },
+ "province.province": {
+  "value": "Provinsa",
+  "provenance": "curated",
+  "checked": true
+ },
+ "province.state": {
+  "value": "Stàit",
+  "provenance": "curated"
+ },
+ "postal.postal": {
+  "value": "Còd-puist",
+  "provenance": "curated"
+ },
+ "postal.zip": {
+  "value": "Còd ZIP",
+  "provenance": "curated"
+ },
+ "postal.pin": {
+  "value": "Còd PIN",
+  "provenance": "curated"
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated",
+  "note": "Proper name of Ireland's postcode system, kept as used locally."
+ },
+ "messages.required": {
+  "value": "Chan fhaod thu seo fhàgail bàn.",
+  "provenance": "curated"
+ },
+ "messages.unknown_value": {
+  "value": "Chan aithnichear {FIELD_VALUE} mar luach aithnichte airson an raoin seo.",
+  "provenance": "curated"
+ },
+ "messages.po_box_forbidden": {
+  "value": "Tha coltas gu bheil bogsa puist san loidhne seòlaidh seo. Cleachd seòladh sràide no togalaich.",
+  "provenance": "curated"
+ },
+ "messages.postal_invalid_example": {
+  "value": "Chan aithnichear fòrmat a’ chòd-puist seo. Ball-eisimpleir de chòd-puist dligheach: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.zip_invalid_example": {
+  "value": "Chan aithnichear fòrmat a’ chòd ZIP seo. Ball-eisimpleir de chòd ZIP dligheach: {EXAMPLE}.",
+  "provenance": "curated"
+ },
+ "messages.postal_mismatch": {
+  "value": "Chan eil coltas gu bheil an còd-puist seo a’ freagairt ris a’ chòrr dhen t-seòladh seo.",
+  "provenance": "curated"
+ },
+ "messages.zip_mismatch": {
+  "value": "Chan eil coltas gu bheil an còd ZIP seo a’ freagairt ris a’ chòrr dhen t-seòladh seo.",
+  "provenance": "curated"
+ }
 }

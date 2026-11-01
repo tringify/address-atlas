@@ -72,10 +72,9 @@
   "note": "Kinyarwanda; wording not verified against a Rwandan form"
  },
  "province.county": {
-  "value": "Intara",
+  "value": "Konti",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+  "checked": true
  },
  "province.department": {
   "value": "Departema",
@@ -146,10 +145,9 @@
   "note": "Kinyarwanda; wording not verified against a Rwandan form"
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} ntizwi nk'agaciro kemewe kuri iki gice.",
+  "value": "{FIELD_VALUE} ntizwi nk'agaciro kazwi kuri iki gice.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Kinyarwanda; wording not verified against a Rwandan form"
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Uyu murongo wa aderesi usa n'urimo agasanduku k'iposita. Koresha aderesi y'umuhanda cyangwa y'inyubako.",

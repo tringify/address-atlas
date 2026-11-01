@@ -12,10 +12,9 @@
   "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
  },
  "fields.address2": {
-  "value": "Da, etaje na ambeni (a yeke ngangu pëpe)",
+  "value": "Da, etaje na ambeni (a yeke obligé pëpe)",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+  "checked": true
  },
  "fields.company": {
   "value": "Bungbi",
@@ -146,10 +145,9 @@
   "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
  },
  "province.state": {
-  "value": "Sêse",
+  "value": "Leta",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Sango has very limited technical vocabulary and forms in the CAR are in French; rendering not verified"
+  "checked": true
  },
  "postal.postal": {
   "value": "Kôdë ti posta",

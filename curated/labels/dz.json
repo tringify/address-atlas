@@ -1,224 +1,222 @@
 {
-  "fields.first_name": {
-    "value": "མིང་།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "fields.last_name": {
-    "value": "མིང་མཇུག",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "fields.address2": {
-    "value": "ཁང་མིག་དང་ཁང་ཚན་ལ་སོགས་པ། (གདམ་ཁ)",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "fields.company": {
-    "value": "ཚོགས་སྡེ།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "fields.address1": {
-    "value": "ལམ་གྱི་ཁ་བྱང་།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "fields.phone": {
-    "value": "བརྒྱུད་འཕྲིན།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "fields.country": {
-    "value": "རྒྱལ་ཁབ། / ལུང་ཕྱོགས།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "city.city": {
-    "value": "ཁྲོམ་སྡེ།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "city.post_town": {
-    "value": "སྦྲག་ཁང་ཁྲོམ།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "city.suburb": {
-    "value": "ཁྲོམ་གྱི་མཐའ་འཁོར།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "city.townland": {
-    "value": "ཞིང་གྲོང་།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "city.village_township": {
-    "value": "གཡུས། / རྒེད་འོག",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "city.district": {
-    "value": "ས་ཁོངས།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "city.neighborhood": {
-    "value": "ཁྱིམ་མཚེས།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "province.area": {
-    "value": "ས་ཁོངས།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "province.county": {
-    "value": "རྫོང་ཁག",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "province.department": {
-    "value": "ལས་སྡེ།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "province.district": {
-    "value": "རྫོང་ཁག",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "province.do_si": {
-    "value": "Do/Si",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "province.emirate": {
-    "value": "ཨེ་མི་རེཊ།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "province.island": {
-    "value": "གླིང་།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "province.oblast": {
-    "value": "ཨོབ་ལསཊ།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "province.parish": {
-    "value": "ཆོས་ཁག",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "province.prefecture": {
-    "value": "ས་ཁུལ།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "province.province": {
-    "value": "ཞིང་ཁམས།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "province.state": {
-    "value": "མངའ་སྡེ།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "postal.postal": {
-    "value": "སྦྲག་ཨང་།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "postal.zip": {
-    "value": "ZIP ཨང་།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "postal.pin": {
-    "value": "PIN ཨང་།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "postal.eircode": {
-    "value": "Eircode",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "messages.required": {
-    "value": "འདི་སྟོངམ་སྦེ་བཞག་མི་ཚུགས།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "messages.unknown_value": {
-    "value": "{FIELD_VALUE} འདི་ས་སྒོ་འདི་གི་གནས་གོང་ངོ་ཤེས་ཅན་སྦེ་ངོས་འཛིན་མ་འབད།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "messages.po_box_forbidden": {
-    "value": "ཁ་བྱང་གྲལ་ཐིག་འདི་ནང་སྦྲག་སྒྲོམ་ཡོདཔ་བཟུམ་ཅིག་འདུག ལམ་ཡང་ན་ཁྱིམ་གྱི་ཁ་བྱང་ལག་ལེན་འཐབ་གནང་།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "messages.postal_invalid_example": {
-    "value": "སྦྲག་ཨང་གི་རྣམ་པ་འདི་ངོས་འཛིན་མ་འབད། ནུས་ཅན་སྦྲག་ཨང་གི་དཔེ་: {EXAMPLE}།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "messages.zip_invalid_example": {
-    "value": "ZIP ཨང་གི་རྣམ་པ་འདི་ངོས་འཛིན་མ་འབད། ནུས་ཅན་ZIP ཨང་གི་དཔེ་: {EXAMPLE}།",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "messages.postal_mismatch": {
-    "value": "སྦྲག་ཨང་འདི་ཁ་བྱང་གི་ལྷག་ལུས་དང་མཐུན་པ་བཟུམ་མི་འདུག",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  },
-  "messages.zip_mismatch": {
-    "value": "ZIP ཨང་འདི་ཁ་བྱང་གི་ལྷག་ལུས་དང་མཐུན་པ་བཟུམ་མི་འདུག",
-    "provenance": "curated",
-    "confidence": "low",
-    "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
-  }
+ "fields.first_name": {
+  "value": "མིང་།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "fields.last_name": {
+  "value": "མིང་མཇུག",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "fields.address2": {
+  "value": "ཁང་མིག་དང་ཁང་ཚན་ལ་སོགས་པ། (གདམ་ཁ)",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "fields.company": {
+  "value": "ཚོགས་སྡེ།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "fields.address1": {
+  "value": "ལམ་གྱི་ཁ་བྱང་།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "fields.phone": {
+  "value": "བརྒྱུད་འཕྲིན།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "fields.country": {
+  "value": "རྒྱལ་ཁབ། / ལུང་ཕྱོགས།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "city.city": {
+  "value": "ཁྲོམ་སྡེ།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "city.post_town": {
+  "value": "སྦྲག་ཁང་ཁྲོམ།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "city.suburb": {
+  "value": "ཁྲོམ་གྱི་མཐའ་འཁོར།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "city.townland": {
+  "value": "Townland",
+  "provenance": "curated",
+  "checked": true
+ },
+ "city.village_township": {
+  "value": "གཡུས། / རྒེད་འོག",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "city.district": {
+  "value": "ས་ཁོངས།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "city.neighborhood": {
+  "value": "ཁྱིམ་མཚེས།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "province.area": {
+  "value": "ས་ཁོངས།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "province.county": {
+  "value": "རྫོང་ཁག",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "province.department": {
+  "value": "ཁུལ་ཁག",
+  "provenance": "curated",
+  "checked": true
+ },
+ "province.district": {
+  "value": "རྫོང་ཁག",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "province.do_si": {
+  "value": "Do/Si",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "province.emirate": {
+  "value": "ཨེ་མི་རེཊ།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "province.island": {
+  "value": "གླིང་།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "province.oblast": {
+  "value": "ཨོབ་ལསཊ།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "province.parish": {
+  "value": "ཆོས་ཁག",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "province.prefecture": {
+  "value": "ས་ཁུལ།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "province.province": {
+  "value": "ཞིང་ཁམས།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "province.state": {
+  "value": "མངའ་སྡེ།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "postal.postal": {
+  "value": "སྦྲག་ཨང་།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "postal.zip": {
+  "value": "ZIP ཨང་།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "postal.pin": {
+  "value": "PIN ཨང་།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "postal.eircode": {
+  "value": "Eircode",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "messages.required": {
+  "value": "འདི་སྟོངམ་སྦེ་བཞག་མི་ཚུགས།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "messages.unknown_value": {
+  "value": "{FIELD_VALUE} འདི་ས་སྒོ་འདི་གི་གནས་གོང་ངོ་ཤེས་ཅན་སྦེ་ངོས་འཛིན་མ་འབད།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "messages.po_box_forbidden": {
+  "value": "ཁ་བྱང་གྲལ་ཐིག་འདི་ནང་སྦྲག་སྒྲོམ་ཡོདཔ་བཟུམ་ཅིག་འདུག ལམ་ཡང་ན་ཁྱིམ་གྱི་ཁ་བྱང་ལག་ལེན་འཐབ་གནང་།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "messages.postal_invalid_example": {
+  "value": "སྦྲག་ཨང་གི་རྣམ་པ་འདི་ངོས་འཛིན་མ་འབད། ནུས་ཅན་སྦྲག་ཨང་གི་དཔེ་: {EXAMPLE}།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "messages.zip_invalid_example": {
+  "value": "ZIP ཨང་གི་རྣམ་པ་འདི་ངོས་འཛིན་མ་འབད། ནུས་ཅན་ZIP ཨང་གི་དཔེ་: {EXAMPLE}།",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "messages.postal_mismatch": {
+  "value": "སྦྲག་ཨང་འདི་ཁ་བྱང་གི་ལྷག་ལུས་དང་མཐུན་པ་བཟུམ་མི་འདུག",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ },
+ "messages.zip_mismatch": {
+  "value": "ZIP ཨང་འདི་ཁ་བྱང་གི་ལྷག་ལུས་དང་མཐུན་པ་བཟུམ་མི་འདུག",
+  "provenance": "curated",
+  "confidence": "low",
+  "note": "Dzongkha: Bhutanese e-commerce forms are normally in English; best-effort translation, needs native review."
+ }
 }

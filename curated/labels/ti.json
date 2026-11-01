@@ -4,10 +4,9 @@
   "provenance": "curated"
  },
  "fields.last_name": {
-  "value": "ስም ኣቦ",
+  "value": "ናይ ስድራቤት ስም",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Eritrean/Ethiopian naming uses the father's name in the surname slot"
+  "checked": true
  },
  "fields.address2": {
   "value": "ኣፓርትመንት፣ ደርቢ፣ ወዘተ (ኣማራጺ)",

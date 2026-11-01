@@ -132,10 +132,9 @@
   "note": "Sardinian (LSC-style orthography); wording not verified against a native Sardinian form"
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} no est reconnotu comente valore vàlidu pro custu campu.",
+  "value": "{FIELD_VALUE} no est reconnotu comente valore connotu pro custu campu.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Sardinian (LSC-style orthography); wording not verified against a native Sardinian form"
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Custa lìnia de s'indiritzu paret chi cuntenzat una casella postale. Imprea un'indiritzu de carrera o de edifìtziu.",

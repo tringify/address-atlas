@@ -38,10 +38,9 @@
   "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
  },
  "city.suburb": {
-  "value": "Quartier",
+  "value": "Periferia",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+  "checked": true
  },
  "city.townland": {
   "value": "Townland",
@@ -136,10 +135,9 @@
   "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
  },
  "messages.unknown_value": {
-  "value": "{FIELD_VALUE} n'è betg enconuschent sco valur valaivla per quest champ.",
+  "value": "{FIELD_VALUE} n'è betg enconuschent sco valur enconuschenta per quest champ.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Rumantsch Grischun; wording not verified against a native Romansh form"
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Questa lingia d'adressa para da cuntegnair ina chascha postala. Endatescha per plaschair l'adressa d'ina via u d'in edifizi.",

@@ -42,10 +42,9 @@
   "provenance": "curated"
  },
  "city.townland": {
-  "value": "Tanàna kely (Irlandy)",
+  "value": "Townland",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Irish townland approximated as \"small village (Ireland)\"."
+  "checked": true
  },
  "city.village_township": {
   "value": "Tanàna / Kaominina",
@@ -132,10 +131,9 @@
   "note": "Message wording not checked against a Malagasy product UI."
  },
  "messages.unknown_value": {
-  "value": "Tsy fantatra ho sanda manan-kery ho an'ity saha ity ny {FIELD_VALUE}.",
+  "value": "Tsy fantatra ho sanda fantatra ho an'ity saha ity ny {FIELD_VALUE}.",
   "provenance": "curated",
-  "confidence": "low",
-  "note": "Message wording not checked against a Malagasy product UI."
+  "checked": true
  },
  "messages.po_box_forbidden": {
   "value": "Toa misy boaty paositra ity andalana adiresy ity. Ampiasao adiresy misy arabe na trano azafady.",
