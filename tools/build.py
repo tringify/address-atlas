@@ -37,6 +37,10 @@ def strip_marks(s):
     return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
 
 
+# Postal convention prints these countries' provinces as the code's suffix (CA, NSW, SP).
+PROVINCE_PRINT_CODE = {"AU", "BR", "CA", "IT", "US"}
+
+
 def load(p): return json.loads((ROOT / p).read_text())
 
 
@@ -186,8 +190,18 @@ def main():
             lines = [row for row in lines if row]
             envelope = [l for l in (re.sub(r"\s*\{postal_code\}\s*", " ", x).strip(" ,-") for x in envelope) if l]
 
+        # Countries written in their own script also have a Latin-order format
+        # (Google's lfmt); it is used when the reader's language is not native.
+        envelope_latin, native = None, []
+        if lv.get("lfmt"):
+            _, envelope_latin = parse_layout(cc, lv["lfmt"], bool(units))
+            if not postal:
+                envelope_latin = [l for l in (re.sub(r"\s*\{postal_code\}\s*", " ", x).strip(" ,-") for x in envelope_latin) if l]
+            native = sorted({x.split("-")[0] for x in (lv.get("languages") or lv.get("lang") or "").split("~") if x})
         countries[cc] = {
             "layout": lines, "envelope": envelope, "required": required, "uppercase": upper,
+            "envelope_latin": envelope_latin, "envelope_languages": native,
+            "province_print": "code" if cc in PROVINCE_PRINT_CODE else "name",
             "city_kind": kind([(r.get("labels") or {}).get("city"), lv.get("locality_name_type")], CITY_KINDS, "city"),
             "district_kind": kind([lv.get("sublocality_name_type")], CITY_KINDS, "suburb") if any("district" in row for row in lines) else None,
             "province": ({"kind": kind([(r.get("province") or {}).get("kind"), lv.get("state_name_type")], PROVINCE_KINDS, "province"),

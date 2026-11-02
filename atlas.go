@@ -12,6 +12,7 @@ import (
 	"errors"
 	"fmt"
 	"regexp"
+	"slices"
 	"sort"
 	"strings"
 	"sync"
@@ -27,6 +28,13 @@ type Country struct {
 	Layout [][]string `json:"layout"`
 	// Envelope is the printed form, one template per line with {field} placeholders.
 	Envelope []string `json:"envelope"`
+	// EnvelopeLatin is the Latin-order printed form of a country written in its
+	// own script, used when the reader's language is not in EnvelopeLanguages.
+	EnvelopeLatin     []string `json:"envelope_latin"`
+	EnvelopeLanguages []string `json:"envelope_languages"`
+	// ProvincePrint is "code" where postal convention prints the code's suffix
+	// (CA, NSW, SP) and "name" elsewhere.
+	ProvincePrint string `json:"province_print"`
 	// Required lists the fields a deliverable address needs.
 	Required []string `json:"required"`
 	// Uppercase lists fields written in capitals on an envelope.
@@ -53,16 +61,16 @@ type ProvinceInfo struct {
 
 // Postal holds a country's postal code rules.
 type Postal struct {
-	Kind      string       `json:"kind"`
-	Pattern   string       `json:"pattern"`
-	Examples  []string     `json:"examples"`
-	Required  bool         `json:"required"`
-	Uppercase bool         `json:"uppercase"`
-	Strip     string       `json:"strip"`
-	Insert    []PostalOp   `json:"insert"`
+	Kind      string        `json:"kind"`
+	Pattern   string        `json:"pattern"`
+	Examples  []string      `json:"examples"`
+	Required  bool          `json:"required"`
+	Uppercase bool          `json:"uppercase"`
+	Strip     string        `json:"strip"`
+	Insert    []PostalOp    `json:"insert"`
 	Prefix    *PostalPrefix `json:"prefix"`
-	MaxLength int          `json:"max_length"`
-	InputMode string       `json:"input_mode"`
+	MaxLength int           `json:"max_length"`
+	InputMode string        `json:"input_mode"`
 
 	re *regexp.Regexp
 }
@@ -273,7 +281,7 @@ func contains(list []int, v int) bool {
 // Address is an address in atlas fields. ProvinceCode and CountryCode are codes.
 type Address struct {
 	FirstName, LastName, Company, Address1, Address2, District, City string
-	ProvinceCode, PostalCode, CountryCode, Phone                      string
+	ProvinceCode, PostalCode, CountryCode, Phone                     string
 }
 
 // Format returns the address as printed lines in the given language: the
@@ -294,11 +302,15 @@ func Format(a Address, lang string) ([]string, error) {
 	vals := map[string]string{
 		"first_name": a.FirstName, "last_name": a.LastName, "company": a.Company,
 		"address1": a.Address1, "address2": a.Address2, "district": a.District, "city": a.City,
-		"province_code": l.Provinces[strings.ToUpper(a.ProvinceCode)], "postal_code": a.PostalCode,
+		"province_code": provincePrinted(c, l, a.ProvinceCode), "postal_code": a.PostalCode,
+	}
+	envelope := c.Envelope
+	if c.EnvelopeLatin != nil && !slices.Contains(c.EnvelopeLanguages, strings.Split(lang, "-")[0]) {
+		envelope = c.EnvelopeLatin
 	}
 	ph := regexp.MustCompile(`\{([a-z_0-9]+)\}`)
 	var out []string
-	for _, tpl := range c.Envelope {
+	for _, tpl := range envelope {
 		line := ph.ReplaceAllStringFunc(tpl, func(m string) string {
 			f := m[1 : len(m)-1]
 			v := vals[f]
@@ -315,4 +327,19 @@ func Format(a Address, lang string) ([]string, error) {
 	}
 	out = append(out, l.Countries[c.Code])
 	return out, nil
+}
+
+// provincePrinted is a province as an address prints it: the code's suffix
+// where postal convention uses it (US-CA prints CA), otherwise its name.
+func provincePrinted(c *Country, l *Locale, code string) string {
+	code = strings.ToUpper(code)
+	if c.ProvincePrint == "code" {
+		if i := strings.IndexByte(code, '-'); i > 0 {
+			suffix := code[i+1:]
+			if strings.Trim(suffix, "ABCDEFGHIJKLMNOPQRSTUVWXYZ") == "" {
+				return suffix
+			}
+		}
+	}
+	return l.Provinces[code]
 }

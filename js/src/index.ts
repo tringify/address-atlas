@@ -6,7 +6,8 @@ export interface Postal {
   insert: PostalOp[]; prefix: { text: string; required: boolean } | null; max_length: number; input_mode: "numeric" | "text";
 }
 export interface Country {
-  layout: string[][]; envelope: string[]; required: string[]; uppercase: string[];
+  layout: string[][]; envelope: string[]; envelope_latin: string[] | null; envelope_languages: string[];
+  province_print: "code" | "name"; required: string[]; uppercase: string[];
   city_kind: string; district_kind: string | null;
   province: { kind: string; codes: string[] } | null; postal: Postal | null;
 }
@@ -88,17 +89,20 @@ export function postalPlaceholder(countryCode: string): string | null {
   return getCountry(countryCode).postal?.examples[0] ?? null;
 }
 
-/** Printed address lines in the locale's language, in the country's order. */
-export function formatAddress(a: Address, locale: Locale): string[] {
+/** Printed address lines in `lang` (the locale's language), in the country's order. */
+export function formatAddress(a: Address, locale: Locale, lang: string): string[] {
   const c = getCountry(a.country_code);
+  const code = (a.province_code ?? "").toUpperCase();
+  const suffix = code.slice(code.indexOf("-") + 1);
+  const province = !code ? "" : c.province_print === "code" && code.includes("-") && /^[A-Z]+$/.test(suffix) ? suffix : locale.provinces[code] ?? "";
   const vals: Record<string, string> = {
     first_name: a.first_name ?? "", last_name: a.last_name ?? "", company: a.company ?? "",
     address1: a.address1 ?? "", address2: a.address2 ?? "", district: a.district ?? "", city: a.city ?? "",
-    province_code: a.province_code ? locale.provinces[a.province_code.toUpperCase()] ?? "" : "",
-    postal_code: a.postal_code ?? "",
+    province_code: province, postal_code: a.postal_code ?? "",
   };
+  const envelope = c.envelope_latin && !c.envelope_languages.includes(lang.split("-")[0]) ? c.envelope_latin : c.envelope;
   const lines: string[] = [];
-  for (const tpl of c.envelope) {
+  for (const tpl of envelope) {
     const line = tpl.replace(/\{([a-z_0-9]+)\}/g, (_, f: string) => (c.uppercase.includes(f) ? vals[f].toUpperCase() : vals[f]))
       .split(/\s+/).filter(Boolean).join(" ").replace(/^[ ,-]+|[ ,-]+$/g, "");
     if (line) lines.push(line);
