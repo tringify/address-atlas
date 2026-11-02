@@ -30,6 +30,13 @@ errors = []
 def err(m): errors.append(m)
 
 
+import unicodedata
+
+
+def strip_marks(s):
+    return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
+
+
 def load(p): return json.loads((ROOT / p).read_text())
 
 
@@ -226,7 +233,12 @@ def main():
         sub = cldr_s.get(lang) or {}
         for code, p in provinces.items():
             if code in sub:
-                pn[code] = sub[code].rstrip("⁰¹²³⁴⁵⁶⁷⁸⁹").strip()  # CLDR's disambiguation marks
+                name = sub[code].rstrip("⁰¹²³⁴⁵⁶⁷⁸⁹").strip()  # CLDR's disambiguation marks
+                # English uses the official romanisation where CLDR only adds ISO
+                # transliteration marks ("Telangāna" -> "Telangana").
+                if lang == "en" and strip_marks(name) == p["latin"]:
+                    name = p["latin"]
+                pn[code] = name
             else:
                 pn[code] = p["latin"]; prov_["provinces." + code] = "official"
         i18n[lang] = {"labels": labels, "countries": names, "provinces": pn, "provenance": prov_}
