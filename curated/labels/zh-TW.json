@@ -8,7 +8,7 @@
   "provenance": "curated"
  },
  "fields.address2": {
-  "value": "公寓、樓層等（選填）",
+  "value": "地址第 2 行",
   "provenance": "curated"
  },
  "fields.company": {

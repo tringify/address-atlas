@@ -260,7 +260,7 @@
   "city.townland": "Околия",
   "city.village_township": "Село/поселище",
   "fields.address1": "Пощенски адрес",
-  "fields.address2": "Апартамент, офис и др. (по избор)",
+  "fields.address2": "Адрес, ред 2",
   "fields.company": "Организация",
   "fields.country": "Държава/Регион",
   "fields.first_name": "Име",

@@ -260,7 +260,7 @@
   "city.townland": "თაუნლენდი",
   "city.village_township": "სოფელი/დაბა",
   "fields.address1": "ქუჩის მისამართი",
-  "fields.address2": "ბინა, ოფისი და ა.შ. (არასავალდებულო)",
+  "fields.address2": "მისამართის ხაზი 2",
   "fields.company": "ორგანიზაცია",
   "fields.country": "ქვეყანა/რეგიონი",
   "fields.first_name": "სახელი",

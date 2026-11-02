@@ -260,7 +260,7 @@
   "city.townland": "Townland",
   "city.village_township": "Kampung/Pekan",
   "fields.address1": "Alamat",
-  "fields.address2": "Apartemen, unit, dll. (opsional)",
+  "fields.address2": "Baris alamat 2",
   "fields.company": "Organisasi",
   "fields.country": "Negara/Wilayah",
   "fields.first_name": "Nama depan",

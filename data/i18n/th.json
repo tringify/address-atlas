@@ -260,7 +260,7 @@
   "city.townland": "แขวง",
   "city.village_township": "หมู่บ้าน/ชุมชน",
   "fields.address1": "ที่อยู่",
-  "fields.address2": "ห้อง ชั้น อาคาร ฯลฯ (ไม่บังคับ)",
+  "fields.address2": "ที่อยู่บรรทัด 2",
   "fields.company": "องค์กร",
   "fields.country": "ประเทศ/เขตการปกครอง",
   "fields.first_name": "ชื่อ",

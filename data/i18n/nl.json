@@ -260,7 +260,7 @@
   "city.townland": "Townland",
   "city.village_township": "Dorp",
   "fields.address1": "Adres",
-  "fields.address2": "Appartement, suite, enz. (optioneel)",
+  "fields.address2": "Adresregel 2",
   "fields.company": "Organisatie",
   "fields.country": "Land/regio",
   "fields.first_name": "Voornaam",

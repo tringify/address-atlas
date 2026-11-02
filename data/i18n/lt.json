@@ -260,7 +260,7 @@
   "city.townland": "Miesto apylinkė",
   "city.village_township": "Kaimas / miestelis",
   "fields.address1": "Adresas",
-  "fields.address2": "Butas, patalpa ir pan. (neprivaloma)",
+  "fields.address2": "Adreso eilutė 2",
   "fields.company": "Organizacija",
   "fields.country": "Šalis / regionas",
   "fields.first_name": "Vardas",

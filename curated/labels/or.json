@@ -8,7 +8,7 @@
   "provenance": "curated"
  },
  "fields.address2": {
-  "value": "ଆପାର୍ଟମେଣ୍ଟ, ସୁଇଟ୍ ଇତ୍ୟାଦି (ଇଚ୍ଛାଧୀନ)",
+  "value": "ଠିକଣା ଧାଡ଼ି 2",
   "provenance": "curated",
   "confidence": "low",
   "note": "Transliterated \"apartment, suite\"; not verified against Odia checkout forms."

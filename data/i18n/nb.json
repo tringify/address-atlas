@@ -260,7 +260,7 @@
   "city.townland": "Poststed",
   "city.village_township": "Landsby/bydistrikt",
   "fields.address1": "Gateadresse",
-  "fields.address2": "Leilighet, etasje osv. (valgfritt)",
+  "fields.address2": "Adresselinje 2",
   "fields.company": "Organisasjon",
   "fields.country": "Land / region",
   "fields.first_name": "Fornavn",

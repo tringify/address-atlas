@@ -260,7 +260,7 @@
   "city.townland": "Townland",
   "city.village_township": "כפר / עיירה",
   "fields.address1": "כתובת",
-  "fields.address2": "דירה, קומה וכו' (לא חובה)",
+  "fields.address2": "שורת כתובת 2",
   "fields.company": "ארגון",
   "fields.country": "מדינה/אזור",
   "fields.first_name": "שם פרטי",

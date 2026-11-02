@@ -260,7 +260,7 @@
   "city.townland": "Townland",
   "city.village_township": "Barangay / Nayon",
   "fields.address1": "Address ng kalye",
-  "fields.address2": "Apartment, suite, atbp. (opsyonal)",
+  "fields.address2": "Address line 2",
   "fields.company": "Organisasyon",
   "fields.country": "Bansa/Rehiyon",
   "fields.first_name": "Pangalan",

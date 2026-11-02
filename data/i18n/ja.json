@@ -260,7 +260,7 @@
   "city.townland": "Townland",
   "city.village_township": "村（village） / 町（township）",
   "fields.address1": "番地",
-  "fields.address2": "建物名・部屋番号など（任意）",
+  "fields.address2": "住所2",
   "fields.company": "組織",
   "fields.country": "国/地域",
   "fields.first_name": "名",

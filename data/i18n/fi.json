@@ -260,7 +260,7 @@
   "city.townland": "Alue",
   "city.village_township": "Kylä/kunta",
   "fields.address1": "Katuosoite",
-  "fields.address2": "Asunto, rappu yms. (valinnainen)",
+  "fields.address2": "Osoiterivi 2",
   "fields.company": "Organisaatio",
   "fields.country": "Maa/alue",
   "fields.first_name": "Etunimi",

@@ -260,7 +260,7 @@
   "city.townland": "Townland",
   "city.village_township": "Ort/Gemeinde",
   "fields.address1": "Adresse",
-  "fields.address2": "Wohnung, Zimmer usw. (optional)",
+  "fields.address2": "Adresszeile 2",
   "fields.company": "Organisation",
   "fields.country": "Land/Region",
   "fields.first_name": "Vorname",

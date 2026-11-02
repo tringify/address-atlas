@@ -260,7 +260,7 @@
   "city.townland": "Townland",
   "city.village_township": "Raħal / Lokalità",
   "fields.address1": "Indirizz tat-triq",
-  "fields.address2": "Appartament, suite, eċċ. (mhux obbligatorju)",
+  "fields.address2": "Linja tal-indirizz 2",
   "fields.company": "Organizzazzjoni",
   "fields.country": "Pajjiż / Reġjun",
   "fields.first_name": "Isem",

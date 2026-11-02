@@ -260,7 +260,7 @@
   "city.townland": "Helyi körzet (townland)",
   "city.village_township": "Falu/község",
   "fields.address1": "Cím",
-  "fields.address2": "Emelet, ajtó stb. (nem kötelező)",
+  "fields.address2": "Cím 2. sora",
   "fields.company": "Szervezet",
   "fields.country": "Ország/Régió",
   "fields.first_name": "Keresztnév",

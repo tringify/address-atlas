@@ -260,7 +260,7 @@
   "city.townland": "Townland",
   "city.village_township": "Vesnice/obec",
   "fields.address1": "Ulice a číslo popisné",
-  "fields.address2": "Byt, kancelář apod. (nepovinné)",
+  "fields.address2": "Adresa, řádek 2",
   "fields.company": "Organizace",
   "fields.country": "Země nebo oblast",
   "fields.first_name": "Jméno",

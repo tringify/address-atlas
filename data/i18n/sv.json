@@ -260,7 +260,7 @@
   "city.townland": "Townland (Irland)",
   "city.village_township": "Ort",
   "fields.address1": "Gatuadress",
-  "fields.address2": "Lägenhet, våning m.m. (valfritt)",
+  "fields.address2": "Adressrad 2",
   "fields.company": "Organisation",
   "fields.country": "Land/region",
   "fields.first_name": "Förnamn",

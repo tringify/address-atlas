@@ -260,7 +260,7 @@
   "city.townland": "పట్టణ ప్రాంతం",
   "city.village_township": "గ్రామం / పట్టణ సముదాయం",
   "fields.address1": "వీధి అడ్రస్‌",
-  "fields.address2": "ఫ్లాట్, ఇంటి నంబర్ మొదలైనవి (ఐచ్ఛికం)",
+  "fields.address2": "చిరునామా పంక్తి 2",
   "fields.company": "సంస్థ",
   "fields.country": "దేశం/ప్రాంతం",
   "fields.first_name": "మొదటి పేరు",

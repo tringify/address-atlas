@@ -260,7 +260,7 @@
   "city.townland": "Freguesia",
   "city.village_township": "Aldeia/vila",
   "fields.address1": "Morada",
-  "fields.address2": "Andar, porta, etc. (opcional)",
+  "fields.address2": "Linha de morada 2",
   "fields.company": "Entidade",
   "fields.country": "País/Região",
   "fields.first_name": "Nome próprio",

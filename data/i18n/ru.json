@@ -260,7 +260,7 @@
   "city.townland": "Таунленд",
   "city.village_township": "Деревня/поселок",
   "fields.address1": "Адрес",
-  "fields.address2": "Квартира, офис и т. д. (необязательно)",
+  "fields.address2": "Адрес, строка 2",
   "fields.company": "Организация",
   "fields.country": "Страна/регион",
   "fields.first_name": "Имя",

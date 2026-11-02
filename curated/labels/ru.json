@@ -8,7 +8,7 @@
   "provenance": "curated"
  },
  "fields.address2": {
-  "value": "Квартира, офис и т. д. (необязательно)",
+  "value": "Адрес, строка 2",
   "provenance": "curated"
  },
  "fields.company": {

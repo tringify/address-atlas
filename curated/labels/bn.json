@@ -10,7 +10,7 @@
   "checked": true
  },
  "fields.address2": {
-  "value": "অ্যাপার্টমেন্ট, স্যুট ইত্যাদি (ঐচ্ছিক)",
+  "value": "ঠিকানার লাইন 2",
   "provenance": "curated"
  },
  "fields.company": {

@@ -260,7 +260,7 @@
   "city.townland": "ടൗൺലാൻഡ്",
   "city.village_township": "ഗ്രാമം / ചെറിയ പട്ടണം",
   "fields.address1": "സ്ഥല വിലാസം",
-  "fields.address2": "അപ്പാർട്ട്മെന്റ്, സ്യൂട്ട് മുതലായവ (ഓപ്ഷണൽ)",
+  "fields.address2": "വിലാസ വരി 2",
   "fields.company": "ഓര്‍ഗനൈസേഷന്‍",
   "fields.country": "രാജ്യം/പ്രവിശ്യ",
   "fields.first_name": "ആദ്യ പേര്",

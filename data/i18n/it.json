@@ -260,7 +260,7 @@
   "city.townland": "Townland",
   "city.village_township": "Villaggio/circoscrizione",
   "fields.address1": "Via",
-  "fields.address2": "Appartamento, interno, ecc. (facoltativo)",
+  "fields.address2": "Riga indirizzo 2",
   "fields.company": "Organizzazione",
   "fields.country": "Paese/Regione",
   "fields.first_name": "Nome",

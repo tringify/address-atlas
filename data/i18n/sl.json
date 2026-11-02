@@ -260,7 +260,7 @@
   "city.townland": "Okrožje",
   "city.village_township": "Vas/občina",
   "fields.address1": "Ulični naslov",
-  "fields.address2": "Stanovanje, nadstropje ipd. (neobvezno)",
+  "fields.address2": "Naslov, vrstica 2",
   "fields.company": "Organizacija",
   "fields.country": "Država/regija",
   "fields.first_name": "Ime",

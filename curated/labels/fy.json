@@ -8,7 +8,7 @@
   "provenance": "curated"
  },
  "fields.address2": {
-  "value": "Appartemint, suite, ensfh. (opsjoneel)",
+  "value": "Adresrigel 2",
   "provenance": "curated",
   "confidence": "low",
   "note": "Frisian checkout forms are rare (Dutch used in practice); calqued on Dutch 'appartement, suite, enz.'"

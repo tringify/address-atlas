@@ -260,7 +260,7 @@
   "city.townland": "Townland",
   "city.village_township": "Désa/Kacamatan",
   "fields.address1": "Alamat jalan",
-  "fields.address2": "Apartemen, kamar, jsb. (opsional)",
+  "fields.address2": "Baris alamat 2",
   "fields.company": "Organisasi",
   "fields.country": "Nagara/Wewengkon",
   "fields.first_name": "Ngaran hareup",

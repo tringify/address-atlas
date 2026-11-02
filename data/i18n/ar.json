@@ -260,7 +260,7 @@
   "city.townland": "بلدة",
   "city.village_township": "القرية / البلدة",
   "fields.address1": "عنوان الشارع",
-  "fields.address2": "الشقة، الجناح، إلخ (اختياري)",
+  "fields.address2": "سطر العنوان 2",
   "fields.company": "المؤسسة",
   "fields.country": "البلد/المنطقة",
   "fields.first_name": "الاسم الأول",

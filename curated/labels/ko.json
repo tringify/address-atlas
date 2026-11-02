@@ -8,7 +8,7 @@
   "provenance": "curated"
  },
  "fields.address2": {
-  "value": "동/호수 등 (선택사항)",
+  "value": "주소 2",
   "provenance": "curated"
  },
  "fields.company": {

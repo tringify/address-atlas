@@ -260,7 +260,7 @@
   "city.townland": "Townland (Irland)",
   "city.village_township": "Landsby/township",
   "fields.address1": "Adresse",
-  "fields.address2": "Lejlighed, etage osv. (valgfrit)",
+  "fields.address2": "Adresselinje 2",
   "fields.company": "Organisation",
   "fields.country": "Land/Region",
   "fields.first_name": "Fornavn",

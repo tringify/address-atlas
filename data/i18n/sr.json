@@ -260,7 +260,7 @@
   "city.townland": "Градска област",
   "city.village_township": "Село/општина",
   "fields.address1": "Адреса",
-  "fields.address2": "Стан, спрат итд. (опционално)",
+  "fields.address2": "Адреса, ред 2",
   "fields.company": "Организација",
   "fields.country": "Земља/регија",
   "fields.first_name": "Име",

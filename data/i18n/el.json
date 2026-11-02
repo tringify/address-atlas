@@ -260,7 +260,7 @@
   "city.townland": "Διοικητική περιοχή Ιρλανδίας (Townland)",
   "city.village_township": "Χωριό/Δήμος",
   "fields.address1": "Διεύθυνση",
-  "fields.address2": "Διαμέρισμα, γραφείο κ.λπ. (προαιρετικό)",
+  "fields.address2": "Γραμμή διεύθυνσης 2",
   "fields.company": "Οργανισμός",
   "fields.country": "Χώρα/Περιοχή",
   "fields.first_name": "Όνομα",

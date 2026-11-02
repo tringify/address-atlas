@@ -8,7 +8,7 @@
     "provenance": "curated"
   },
   "fields.address2": {
-    "value": "Apartment, suite, atbp. (opsyonal)",
+    "value": "Address line 2",
     "provenance": "curated",
     "note": "Filipino checkout forms use the English loanwords 'apartment'/'suite'; 'atbp.' and 'opsyonal' are Filipino."
   },

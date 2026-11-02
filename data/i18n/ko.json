@@ -260,7 +260,7 @@
   "city.townland": "타운랜드(아일랜드)",
   "city.village_township": "빌리지/타운십",
   "fields.address1": "상세 주소",
-  "fields.address2": "동/호수 등 (선택사항)",
+  "fields.address2": "주소 2",
   "fields.company": "조직",
   "fields.country": "국가/지역",
   "fields.first_name": "이름",

@@ -260,7 +260,7 @@
   "city.townland": "Dorpsgrond",
   "city.village_township": "Dorpie / dorpsgebied",
   "fields.address1": "Straatadres",
-  "fields.address2": "Woonstel, suite, ens. (opsioneel)",
+  "fields.address2": "Adresreël 2",
   "fields.company": "Organisasie",
   "fields.country": "Land/Streek",
   "fields.first_name": "Voornaam",

@@ -260,7 +260,7 @@
   "city.townland": "ग्रामभूमिः",
   "city.village_township": "ग्रामः / उपनगरम्",
   "fields.address1": "मार्गसङ्केतः",
-  "fields.address2": "भवनम्, कक्षः इत्यादि (वैकल्पिकम्)",
+  "fields.address2": "सङ्केतपङ्क्तिः 2",
   "fields.company": "संस्था",
   "fields.country": "देशः / प्रदेशः",
   "fields.first_name": "प्रथमनाम",

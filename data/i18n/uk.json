@@ -260,7 +260,7 @@
   "city.townland": "Район",
   "city.village_township": "Село або містечко",
   "fields.address1": "Адреса",
-  "fields.address2": "Квартира, офіс тощо (необов’язково)",
+  "fields.address2": "Адреса, рядок 2",
   "fields.company": "Організація",
   "fields.country": "Країна або регіон",
   "fields.first_name": "Ім’я",

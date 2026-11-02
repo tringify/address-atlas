@@ -260,7 +260,7 @@
   "city.townland": "Mestská časť",
   "city.village_township": "Dedina/okres",
   "fields.address1": "Ulica",
-  "fields.address2": "Byt, poschodie atď. (nepovinné)",
+  "fields.address2": "Adresa, riadok 2",
   "fields.company": "Organizácia",
   "fields.country": "Krajina alebo oblasť",
   "fields.first_name": "Meno",

@@ -260,7 +260,7 @@
   "city.townland": "টাউনল্যান্ড",
   "city.village_township": "গ্রাম / টাউনশিপ",
   "fields.address1": "রাস্তার ঠিকানা",
-  "fields.address2": "অ্যাপার্টমেন্ট, স্যুট ইত্যাদি (ঐচ্ছিক)",
+  "fields.address2": "ঠিকানার লাইন 2",
   "fields.company": "সংগঠন",
   "fields.country": "দেশ/অঞ্চল",
   "fields.first_name": "প্রথম নাম",

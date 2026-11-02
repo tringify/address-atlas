@@ -260,7 +260,7 @@
   "city.townland": "ناحیه شهری",
   "city.village_township": "روستا / شهرک",
   "fields.address1": "نشانی",
-  "fields.address2": "واحد، طبقه و غیره (اختیاری)",
+  "fields.address2": "خط نشانی 2",
   "fields.company": "سازمان",
   "fields.country": "کشور/منطقه",
   "fields.first_name": "نام",

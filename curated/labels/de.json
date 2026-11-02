@@ -8,7 +8,7 @@
     "provenance": "curated"
   },
   "fields.address2": {
-    "value": "Wohnung, Zimmer usw. (optional)",
+    "value": "Adresszeile 2",
     "provenance": "curated"
   },
   "fields.company": {

@@ -260,7 +260,7 @@
   "city.townland": "Dzielnica",
   "city.village_township": "Wieś/gmina",
   "fields.address1": "Ulica i nr",
-  "fields.address2": "Nr mieszkania, lokalu itp. (opcjonalnie)",
+  "fields.address2": "Adres, wiersz 2",
   "fields.company": "Organizacja",
   "fields.country": "Kraj/region",
   "fields.first_name": "Imię",

@@ -260,7 +260,7 @@
   "city.townland": "Districte",
   "city.village_township": "Poble/municipi",
   "fields.address1": "Adreça postal",
-  "fields.address2": "Pis, porta, etc. (opcional)",
+  "fields.address2": "Línia d'adreça 2",
   "fields.company": "Organització",
   "fields.country": "País/Regió",
   "fields.first_name": "Nom",

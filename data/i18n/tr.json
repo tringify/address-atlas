@@ -260,7 +260,7 @@
   "city.townland": "Semt",
   "city.village_township": "Köy / Kasaba",
   "fields.address1": "Açık adres",
-  "fields.address2": "Daire, kat vb. (isteğe bağlı)",
+  "fields.address2": "Adres satırı 2",
   "fields.company": "Kuruluş",
   "fields.country": "Ülke/Bölge",
   "fields.first_name": "Ad",

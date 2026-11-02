@@ -260,7 +260,7 @@
   "city.townland": "鎮區",
   "city.village_township": "村/鎮區",
   "fields.address1": "街道地址",
-  "fields.address2": "公寓、樓層等（選填）",
+  "fields.address2": "地址第 2 行",
   "fields.company": "機構組織",
   "fields.country": "國家/地區",
   "fields.first_name": "名字",
