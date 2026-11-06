@@ -16674,7 +16674,7 @@
   ]
  },
  "ZA": {
-  "city_kind": "suburb",
+  "city_kind": "city",
   "district_kind": "suburb",
   "envelope": [
    "{first_name} {last_name}",

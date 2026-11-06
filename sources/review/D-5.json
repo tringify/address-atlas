@@ -1249,7 +1249,7 @@
    "subdivision_list": "n/a (SAPO: province only when there is no postcode; list empty)"
   },
   "labels": {
-   "city": "suburb",
+   "city": "city",
    "postal": "postal"
   },
   "changes_from_live": [],
@@ -1258,7 +1258,7 @@
    "https://www.postoffice.co.za/"
   ],
   "confidence": "high",
-  "notes": "No punctuation per SAPO."
+  "notes": "No punctuation per SAPO. %D is the suburb (the postal locality the postcode names); %C is the town or city."
  },
  "ZM": {
   "verdict": "needs_decision",
