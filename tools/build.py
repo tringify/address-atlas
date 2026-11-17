@@ -3,7 +3,7 @@
 Every published value is explicit: the build fails on any gap instead of
 filling it at runtime.
 """
-import glob, json, os, pathlib, re, sys
+import glob, json, os, pathlib, re, sys, unicodedata
 
 ROOT = pathlib.Path(os.environ.get("ATLAS_ROOT") or pathlib.Path(__file__).resolve().parents[1])
 OUT = ROOT / "data"
@@ -30,9 +30,6 @@ errors = []
 def err(m): errors.append(m)
 
 
-import unicodedata
-
-
 def strip_marks(s):
     return "".join(c for c in unicodedata.normalize("NFD", s) if unicodedata.category(c) != "Mn")
 
@@ -42,16 +39,6 @@ PROVINCE_PRINT_CODE = {"AU", "BR", "CA", "IT", "US"}
 
 
 def load(p): return json.loads((ROOT / p).read_text())
-
-
-def reviews():
-    d = {}
-    for f in sorted(glob.glob(str(ROOT / "sources/review/D-*.json"))):
-        d.update(json.load(open(f)))
-    for f in sorted(glob.glob(str(ROOT / "sources/verify/F-*.json"))):
-        for k, v in json.load(open(f)).items():
-            d[k] = v["final"]
-    return d
 
 
 def kind(candidates, allowed, default):
@@ -117,7 +104,7 @@ def postal_format(rule, typed, pattern):
 
 
 def main():
-    rev = reviews()
+    formats = load("sources/formats.json")
     live = load("sources/google-live/snapshot.json")["countries"]
     rules = load("sources/postal/rules.json")
     codes = [l.strip() for l in (ROOT / "sources/countries.txt").read_text().split() if l.strip()]
@@ -130,9 +117,9 @@ def main():
 
     countries, provinces = {}, {}
     for cc in codes:
-        r = rev.get(cc)
+        r = formats.get(cc)
         if not r:
-            err(f"{cc}: no reviewed entry"); continue
+            err(f"{cc}: no entry in sources/formats.json"); continue
         lv = live.get(cc, {})
         named = bool((r.get("province") or {}).get("named"))
         units = prov.get(cc, {}).get("units", []) if named else []

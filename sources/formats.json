@@ -1,0 +1,6035 @@
+{
+ "AD": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "AD[1-7]0\\d",
+   "examples": [
+    "AD100",
+    "AD500",
+    "AD501",
+    "AD700"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "parish"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/andEn.pdf"
+  ]
+ },
+ "AE": {
+  "layout": "%N%n%O%n%A%n%S",
+  "required": "AS",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": true,
+   "kind": "emirate"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/areEn.pdf",
+   "https://www.emiratespost.ae"
+  ]
+ },
+ "AF": {
+  "layout": "%N%n%O%n%A%n%D%n%Z %C%n%S",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "100208",
+    "100613",
+    "106401",
+    "265101",
+    "385301"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/afgEn.pdf",
+   "https://afghanpost.gov.af/en/node/393",
+   "https://www.afghanpost.gov.af/index.php/en/postal-code"
+  ]
+ },
+ "AG": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "A",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/atgEn.pdf"
+  ]
+ },
+ "AI": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:AI-)?2640",
+   "examples": [
+    "AI-2640",
+    "2640"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/aiaEn.pdf",
+   "https://www.aps.ai"
+  ]
+ },
+ "AL": {
+  "layout": "%N%n%O%n%A%n%Z%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1001",
+    "1017",
+    "1041",
+    "3501"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/albEn.pdf",
+   "https://www.postashqiptare.al"
+  ]
+ },
+ "AM": {
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "0002",
+    "0010",
+    "0601"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/armEn.pdf",
+   "https://www.haypost.am"
+  ]
+ },
+ "AO": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/agoEn.pdf"
+  ]
+ },
+ "AQ": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions"
+  ]
+ },
+ "AR": {
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "[A-HJ-NP-Z]\\d{4}[A-Z]{3}",
+   "examples": [
+    "C1070AAM",
+    "Y5900FNF",
+    "X5187YAB",
+    "C1000WAE"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/argEn.pdf",
+   "https://www.correoargentino.com.ar/formularios/cpa",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.argentina.gob.ar/paquete-de-apertura/guia-para-la-identificacion-y-uso-de-entidades-interoperables/codigos-postales"
+  ]
+ },
+ "AS": {
+  "layout": "%N%n%O%n%A%n%C %S %Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "96799(?:[ -]?\\d{4})?",
+   "examples": [
+    "96799"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/asmEn.pdf",
+   "https://tools.usps.com/zip-code-lookup.htm"
+  ]
+ },
+ "AT": {
+  "layout": "%O%n%N%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1010",
+    "1220",
+    "3741",
+    "1011"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/autEn.pdf",
+   "https://www.post.at"
+  ]
+ },
+ "AU": {
+  "layout": "%O%n%N%n%A%n%C %S %Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "2060",
+    "3171",
+    "6430",
+    "4006",
+    "0800"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "suburb",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ausEn.pdf",
+   "https://auspost.com.au/postcode"
+  ]
+ },
+ "AW": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/abwEn.pdf"
+  ]
+ },
+ "AX": {
+  "layout": "%O%n%N%n%A%nAX-%Z %C%nÅLAND",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "22\\d{3}",
+   "examples": [
+    "22100",
+    "22150",
+    "22550",
+    "22710"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/alaEn.pdf",
+   "https://www.alandpost.ax"
+  ]
+ },
+ "AZ": {
+  "layout": "%N%n%O%n%A%nAZ%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:AZ ?)?\\d{4}",
+   "examples": [
+    "AZ1000",
+    "AZ1010",
+    "AZ1014",
+    "AZ6715"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/azeEn.pdf",
+   "https://www.azerpost.az"
+  ]
+ },
+ "BA": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "71000",
+    "75411",
+    "75101"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bihEn.pdf"
+  ]
+ },
+ "BB": {
+  "layout": "%N%n%O%n%A%n%C, %S %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "BB\\d{5}",
+   "examples": [
+    "BB26028",
+    "BB24000",
+    "BB11000",
+    "BB23026"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "parish"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/brbEn.pdf",
+   "http://barbadospostal.com/"
+  ]
+ },
+ "BD": {
+  "layout": "%N%n%O%n%A%n%C - %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1340",
+    "1000",
+    "4000"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bgdEn.pdf",
+   "https://ekdak.com/thikana/postcode/"
+  ]
+ },
+ "BE": {
+  "layout": "%O%n%N%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1000",
+    "2610",
+    "9800",
+    "9000"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/belEn.pdf",
+   "https://www.bpost.be/adressage"
+  ]
+ },
+ "BF": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "10000",
+    "10010",
+    "70000",
+    "91001"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bfaEn.pdf",
+   "https://www.laposte.bf"
+  ]
+ },
+ "BG": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1000",
+    "1612",
+    "1680",
+    "4000",
+    "3264"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bgrEn.pdf",
+   "https://www.bgpost.bg"
+  ]
+ },
+ "BH": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:1[0-2]|[1-9])\\d{2}",
+   "examples": [
+    "317",
+    "926"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bhrEn.pdf"
+  ]
+ },
+ "BI": {
+  "layout": "%N%n%O%n%A%n%C%n%S",
+  "required": "ACS",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bdiEn.pdf",
+   "https://en.wikipedia.org/wiki/Provinces_of_Burundi",
+   "https://geo-ref.net/en/bdi.htm"
+  ]
+ },
+ "BJ": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/benEn.pdf",
+   "https://www.laposte.bj"
+  ]
+ },
+ "BL": {
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "97133",
+   "examples": [
+    "97133"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/blmEn.pdf",
+   "https://www.laposte.fr/outils/trouver-un-code-postal"
+  ]
+ },
+ "BM": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "[A-Z]{2} ?(?:\\d{2}|[A-Z]{2})",
+   "examples": [
+    "FL 07",
+    "HM GX",
+    "HM 12"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bmuEn.pdf",
+   "https://www.bermudapost.bm"
+  ]
+ },
+ "BN": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "[BKPT][A-Z] ?\\d{4}",
+   "examples": [
+    "BT2328",
+    "KA1131",
+    "BA1511",
+    "BA8611"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/brnEn.pdf",
+   "https://www.post.gov.bn"
+  ]
+ },
+ "BO": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bolEn.pdf",
+   "https://www.correos.gob.bo"
+  ]
+ },
+ "BQ": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": "island"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/besEn.pdf"
+  ]
+ },
+ "BR": {
+  "layout": "%O%n%N%n%A%n%D%n%C-%S%n%Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}-?\\d{3}",
+   "examples": [
+    "40301-110",
+    "70002-900",
+    "85070-200",
+    "85100-970"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/braEn.pdf",
+   "https://buscacepinter.correios.com.br/"
+  ]
+ },
+ "BS": {
+  "layout": "%N%n%O%n%A%n%C, %S",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": true,
+   "kind": "island"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bhsEn.pdf"
+  ]
+ },
+ "BT": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11001",
+    "22001",
+    "31101"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/btnEn.pdf",
+   "https://bhutanpost.bt/postcode/"
+  ]
+ },
+ "BV": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bvtEn.pdf"
+  ]
+ },
+ "BW": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bwaEn.pdf",
+   "https://www.botspost.co.bw"
+  ]
+ },
+ "BY": {
+  "layout": "%O%n%N%n%A%n%Z, %C%n%S",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "220005",
+    "220068",
+    "223709",
+    "222615"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "oblast"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/blrEn.pdf",
+   "https://www.belpost.by"
+  ]
+ },
+ "BZ": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/blzEn.pdf"
+  ]
+ },
+ "CA": {
+  "layout": "%N%n%O%n%A%n%C %S %Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "[ABCEGHJ-NPRSTVXY]\\d[ABCEGHJ-NPRSTV-Z] ?\\d[ABCEGHJ-NPRSTV-Z]\\d",
+   "examples": [
+    "H3Z 2Y7",
+    "V8X 3X4",
+    "T0L 1K0",
+    "K1A 0B1"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/canEn.pdf",
+   "https://www.canadapost-postescanada.ca/cpc/en/support/kb/sending/general-information/canadian-addressing-guidelines"
+  ]
+ },
+ "CC": {
+  "layout": "%O%n%N%n%A%n%C %S %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "6799",
+   "examples": [
+    "6799"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cckEn.pdf",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ausEn.pdf"
+  ]
+ },
+ "CD": {
+  "layout": "%N%n%O%n%A%n%C%n%Z %S",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{7}",
+   "examples": [
+    "1003071",
+    "1004131",
+    "3202011"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/codEn.pdf",
+   "https://scpt.cd/corpo/"
+  ]
+ },
+ "CF": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cafEn.pdf"
+  ]
+ },
+ "CG": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cogEn.pdf"
+  ]
+ },
+ "CH": {
+  "layout": "%O%n%N%n%A%nCH-%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "2544",
+    "1211",
+    "1556",
+    "3030"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cheEn.pdf",
+   "https://www.post.ch/"
+  ]
+ },
+ "CI": {
+  "layout": "%N%n%O%n%X %A %C %X",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/civEn.pdf"
+  ]
+ },
+ "CK": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "island",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cokEn.pdf"
+  ]
+ },
+ "CL": {
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{7}",
+   "examples": [
+    "8340648",
+    "9180794",
+    "8720019",
+    "3930000",
+    "2970000"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "region"
+  },
+  "labels": {
+   "city": "commune",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/chlEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.correos.cl/"
+  ]
+ },
+ "CM": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cmrEn.pdf"
+  ]
+ },
+ "CN": {
+  "layout": "%Z%n%S%C%D%n%A%n%O%n%N",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "266033",
+    "100004",
+    "100191",
+    "350503",
+    "027212"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/chnEn.pdf",
+   "https://www.chinapost.com.cn/"
+  ]
+ },
+ "CO": {
+  "layout": "%N%n%O%n%A%n%D%n%C %Z%n%S",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "111711",
+    "110841",
+    "233057",
+    "110911"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "department"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/colEn.pdf",
+   "https://www.4-72.com.co/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "CR": {
+  "layout": "%N%n%O%n%A%n%S, %C, %D%n%Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "10101",
+    "10102",
+    "40501",
+    "40601",
+    "20101"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "canton",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/criEn.pdf",
+   "https://correos.go.cr/codigo-postal/",
+   "https://en.wikipedia.org/wiki/Postal_codes_in_Costa_Rica"
+  ]
+ },
+ "CU": {
+  "layout": "%N%n%O%n%A%nCP %Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:CP ?)?\\d{5}",
+   "examples": [
+    "10600",
+    "10300"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cubEn.pdf",
+   "https://www.correos.cu/"
+  ]
+ },
+ "CV": {
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "7600"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "island"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cpvEn.pdf",
+   "https://www.iso.org/obp/ui/#iso:code:3166:CV"
+  ]
+ },
+ "CW": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cuwEn.pdf",
+   "http://www.cpostinternational.com/"
+  ]
+ },
+ "CX": {
+  "layout": "%O%n%N%n%A%n%C %S %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "6798",
+   "examples": [
+    "6798"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://auspost.com.au/postcode/christmas-island",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cxrEn.pdf"
+  ]
+ },
+ "CY": {
+  "layout": "%N%n%O%n%A%nCY-%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:CY-?)?\\d{4}",
+   "examples": [
+    "2008",
+    "3304",
+    "6036",
+    "1900"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cypEn.pdf",
+   "https://www.cypruspost.post/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "CZ": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3} ?\\d{2}",
+   "examples": [
+    "100 00",
+    "251 66",
+    "530 87",
+    "110 00",
+    "225 99"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/czeEn.pdf",
+   "https://www.ceskaposta.cz/"
+  ]
+ },
+ "DE": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "26133",
+    "50939",
+    "12359",
+    "53131",
+    "10724"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/deuEn.pdf",
+   "https://www.postdirekt.de/"
+  ]
+ },
+ "DJ": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "77[1-6]\\d{2}",
+   "examples": [
+    "77101",
+    "77105",
+    "77201",
+    "77601"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/djiEn.pdf",
+   "https://www.laposte.dj/"
+  ]
+ },
+ "DK": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "8660",
+    "1566",
+    "2100"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/dnkEn.pdf",
+   "https://www.postnord.dk/"
+  ]
+ },
+ "DM": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/dmaEn.pdf"
+  ]
+ },
+ "DO": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11903",
+    "10101"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/domEn.pdf",
+   "https://inposdom.gob.do/"
+  ]
+ },
+ "DZ": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "16027",
+    "40304",
+    "31000"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/dzaEn.pdf",
+   "https://www.poste.dz/"
+  ]
+ },
+ "EC": {
+  "layout": "%N%n%O%n%A%n%Z - %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "090306",
+    "170303",
+    "080601",
+    "170501"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ecuEn.pdf"
+  ]
+ },
+ "EE": {
+  "layout": "%N%n%O%n%A%n%Z %C %S",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "69501",
+    "11212",
+    "10141",
+    "50050"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "county"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/estEn.pdf",
+   "https://www.omniva.ee/",
+   "https://www.iso.org/obp/ui/#iso:code:3166:EE",
+   "https://en.wikipedia.org/wiki/ISO_3166-2:EE"
+  ]
+ },
+ "EG": {
+  "layout": "%N%n%O%n%A%n%C%n%S%n%Z",
+  "required": "ACS",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{7}|\\d{5}",
+   "examples": [
+    "3759914",
+    "1062261",
+    "4460232",
+    "11599"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "governorate"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/egyEn.pdf",
+   "https://www.egyptpost.org/",
+   "https://postandparcel.info/119714/news/e-commerce/egypt-post-completes-postcode-project"
+  ]
+ },
+ "EH": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "70000",
+    "72000"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.poste.ma/"
+  ]
+ },
+ "ER": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/eriEn.pdf"
+  ]
+ },
+ "ES": {
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:0[1-9]|[1-4]\\d|5[0-2])\\d{3}",
+   "examples": [
+    "28039",
+    "45012",
+    "29400",
+    "09692",
+    "33400"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/espEn.pdf",
+   "https://www.correos.es/"
+  ]
+ },
+ "ET": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1000"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ethEn.pdf"
+  ]
+ },
+ "FI": {
+  "layout": "%O%n%N%n%A%nFI-%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "00550",
+    "00380",
+    "50100",
+    "00101",
+    "01620"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/finEn.pdf",
+   "https://www.posti.fi/"
+  ]
+ },
+ "FJ": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/fjiEn.pdf"
+  ]
+ },
+ "FK": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "FIQQ ?1ZZ",
+   "examples": [
+    "FIQQ 1ZZ"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/flkEn.pdf"
+  ]
+ },
+ "FM": {
+  "layout": "%N%n%O%n%A%n%C %S %Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "(9694[1-4])(?:[ \\-](\\d{4}))?",
+   "examples": [
+    "96941",
+    "96942",
+    "96943",
+    "96944"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/fsmEn.pdf",
+   "https://pe.usps.com/text/pub28/welcome.htm",
+   "https://www.iso.org/obp/ui/#iso:code:3166:FM"
+  ]
+ },
+ "FO": {
+  "layout": "%N%n%O%n%A%nFO-%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:FO-?)?\\d{3}",
+   "examples": [
+    "100",
+    "110",
+    "800"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/froEn.pdf",
+   "https://posta.fo/en/private/send-receive/postcodes"
+  ]
+ },
+ "FR": {
+  "layout": "%O%n%N%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{2} ?\\d{3}",
+   "examples": [
+    "33380",
+    "34092",
+    "33506",
+    "75008"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/fraEn.pdf",
+   "https://www.laposte.fr/"
+  ]
+ },
+ "GA": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gabEn.pdf"
+  ]
+ },
+ "GB": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "GIR ?0AA|(?:(?:AB|AL|B|BA|BB|BD|BF|BH|BL|BN|BR|BS|BT|BX|CA|CB|CF|CH|CM|CO|CR|CT|CV|CW|DA|DD|DE|DG|DH|DL|DN|DT|DY|E|EC|EH|EN|EX|FK|FY|G|GL|GY|GU|HA|HD|HG|HP|HR|HS|HU|HX|IG|IM|IP|IV|JE|KA|KT|KW|KY|L|LA|LD|LE|LL|LN|LS|LU|M|ME|MK|ML|N|NE|NG|NN|NP|NR|NW|OL|OX|PA|PE|PH|PL|PO|PR|RG|RH|RM|S|SA|SE|SG|SK|SL|SM|SN|SO|SP|SR|SS|ST|SW|SY|TA|TD|TF|TN|TQ|TR|TS|TW|UB|W|WA|WC|WD|WF|WN|WR|WS|WV|YO|ZE)(?:\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}))|BFPO ?\\d{1,4}",
+   "examples": [
+    "EC1Y 8SY",
+    "M2 5BQ",
+    "CR0 2YR",
+    "DN16 9AA",
+    "EC1A 1HQ"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "county"
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gbrEn.pdf",
+   "https://www.royalmail.com/find-a-postcode"
+  ]
+ },
+ "GD": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/grdEn.pdf",
+   "https://grenadapostal.com/"
+  ]
+ },
+ "GE": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "0160",
+    "0100",
+    "0101"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/geoEn.pdf",
+   "https://www.gpost.ge/"
+  ]
+ },
+ "GF": {
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "973\\d{2}",
+   "examples": [
+    "97300",
+    "97310",
+    "97320"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gufEn.pdf",
+   "https://www.laposte.fr/"
+  ]
+ },
+ "GG": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "GY\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
+   "examples": [
+    "GY1 1AA",
+    "GY2 2BT",
+    "GY9 3AA",
+    "GY10 1SA"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ggyEn.pdf",
+   "https://www.guernseypost.com/"
+  ]
+ },
+ "GH": {
+  "layout": "%N%n%O%n%A%n%C %Z%n%S",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "[A-Z]{2}-?\\d{3,4}(?:-?\\d{4})?",
+   "examples": [
+    "GA-183",
+    "GT-372",
+    "GA-183-8164"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "region"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ghaEn.pdf",
+   "https://ghanapost.com.gh/"
+  ]
+ },
+ "GI": {
+  "layout": "%N%n%O%n%A%nGIBRALTAR%n%Z",
+  "required": "A",
+  "postal": {
+   "uses": true,
+   "pattern": "GX11 ?1AA",
+   "examples": [
+    "GX11 1AA"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gibEn.pdf",
+   "https://www.post.gi/"
+  ]
+ },
+ "GL": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "39\\d{2}",
+   "examples": [
+    "3900",
+    "3911",
+    "3950"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/grlEn.pdf",
+   "https://www.tusass.gl/"
+  ]
+ },
+ "GM": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GM"
+  ]
+ },
+ "GN": {
+  "layout": "%N%n%O%n%Z %A %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3}",
+   "examples": [
+    "001",
+    "100",
+    "200"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.smarty.com/global-address-formatting/guinea-address-format-examples",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GN"
+  ]
+ },
+ "GP": {
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "971\\d{2}",
+   "examples": [
+    "97100",
+    "97110",
+    "97139",
+    "97190"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.laposte.fr/outils/trouver-un-code-postal",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GP"
+  ]
+ },
+ "GQ": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GQ"
+  ]
+ },
+ "GR": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3} ?\\d{2}",
+   "examples": [
+    "151 24",
+    "151 10",
+    "101 88"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://postalcodes.elta.gr",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GR"
+  ]
+ },
+ "GS": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "SIQQ ?1ZZ",
+   "examples": [
+    "SIQQ 1ZZ"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GS"
+  ]
+ },
+ "GT": {
+  "layout": "%N%n%O%n%A%n%Z - %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "09001",
+    "01501",
+    "01010"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "department"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/gtmEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GT"
+  ]
+ },
+ "GU": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "969(?:[12]\\d|3[12])(?:[ -]?\\d{4})?",
+   "examples": [
+    "96910",
+    "96931",
+    "96932"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "sources": [
+   "https://tools.usps.com/zip-code-lookup.htm",
+   "https://pe.usps.com/text/pub28/welcome.htm",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GU"
+  ]
+ },
+ "GW": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1000",
+    "1011"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GW"
+  ]
+ },
+ "GY": {
+  "layout": "%N%n%O%n%A%n%D%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{7}",
+   "examples": [
+    "4130106",
+    "4212501",
+    "4130105",
+    "4131519"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/guyEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://guypost.gy/?p=3415",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/GY"
+  ]
+ },
+ "HK": {
+  "layout": "%S%n%C%n%A%n%O%n%N",
+  "required": "AS",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": true,
+   "kind": "area"
+  },
+  "labels": {
+   "city": "district",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.hongkongpost.hk/en/sending_mail/local/addressing/index.html",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HK"
+  ]
+ },
+ "HM": {
+  "layout": "%O%n%N%n%A%n%C %S %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "7151",
+   "examples": [
+    "7151"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://auspost.com.au/postcode/7151",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HM"
+  ]
+ },
+ "HN": {
+  "layout": "%N%n%O%n%A%n%C, %S%n%Z",
+  "required": "ACS",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "31301",
+    "11101"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "department"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HN"
+  ]
+ },
+ "HR": {
+  "layout": "%N%n%O%n%A%nHR-%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:HR-?)?\\d{5}",
+   "examples": [
+    "10000",
+    "21001",
+    "10002"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.posta.hr/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HR"
+  ]
+ },
+ "HT": {
+  "layout": "%N%n%O%n%A%nHT%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:HT)?\\d{4}",
+   "examples": [
+    "6120",
+    "5310",
+    "6110",
+    "8510"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HT"
+  ]
+ },
+ "HU": {
+  "layout": "%N%n%O%n%C%n%A%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1037",
+    "2380",
+    "1540"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://posta.hu/ugyfelszolgalat/iranyitoszam_kereso",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/HU"
+  ]
+ },
+ "ID": {
+  "layout": "%N%n%O%n%A%n%C%n%S %Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "40115",
+    "10110",
+    "80361"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://en.wikipedia.org/wiki/ISO_3166-2:ID",
+   "https://www.geonames.org/ID/administrative-division-indonesia.html",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/ID",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/idnEn.pdf",
+   "https://www.posindonesia.co.id/id/blogs/cara-penulisan-alamat-yang-benar-untuk-mengirim-paket"
+  ]
+ },
+ "IE": {
+  "layout": "%N%n%O%n%A%n%D%n%C%n%S%n%Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:[AC-FHKNPRTV-Y]\\d{2}|D6W) ?[0-9AC-FHKNPRTV-Y]{4}",
+   "examples": [
+    "A65 F4E2"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "county"
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "eircode"
+  },
+  "sources": [
+   "https://www.eircode.ie/what-is-eircode",
+   "https://autoaddress.com/articles/eircode-regex/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IE"
+  ]
+ },
+ "IL": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{7}",
+   "examples": [
+    "9614303"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://doar.israelpost.co.il/en/locatezip",
+   "https://en.wikipedia.org/wiki/Postal_codes_in_Israel",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/isrEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IL"
+  ]
+ },
+ "IM": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "IM\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
+   "examples": [
+    "IM2 1AA",
+    "IM99 1PS"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.iompost.com/tools-forms/postcode-finder/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IM"
+  ]
+ },
+ "IN": {
+  "layout": "%N%n%O%n%A%n%C %Z%n%S",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3} ?\\d{3}",
+   "examples": [
+    "110034",
+    "110001",
+    "560 001"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "pin"
+  },
+  "sources": [
+   "https://dac.indiapost.gov.in/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IN"
+  ]
+ },
+ "IO": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "BBND ?1ZZ",
+   "examples": [
+    "BBND 1ZZ"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IO"
+  ]
+ },
+ "IQ": {
+  "layout": "%O%n%N%n%A%n%C, %S%n%Z",
+  "required": "ACS",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "31001"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "governorate"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.newarab.com/news/halabja-becomes-iraqs-newest-governorate",
+   "https://pukmedia.com/EN/Details/78072",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IQ"
+  ]
+ },
+ "IR": {
+  "layout": "%O%n%N%n%S%n%C, %D%n%A%n%Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}-?\\d{5}",
+   "examples": [
+    "11936-12345"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/irnEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IR"
+  ]
+ },
+ "IS": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3}",
+   "examples": [
+    "320",
+    "121",
+    "220",
+    "110"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://posturinn.is/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IS"
+  ]
+ },
+ "IT": {
+  "layout": "%N%n%O%n%A%n%Z %C %S",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "00144",
+    "47037",
+    "39049"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.poste.it/cerca/index.html#/risultati-cerca-cap/",
+   "https://www.tuttitalia.it/variazioni-amministrative/citta-metropolitana-di-sassari-e-nuove-province-della-sardegna/",
+   "https://www.ilpost.it/2025/03/30/nuova-provincia-sardegna/",
+   "https://changelog.shopify.com/posts/italy-s-sardinian-province-definitions-updated",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IT"
+  ]
+ },
+ "JE": {
+  "layout": "%N%n%O%n%A%n%C%nJERSEY%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "JE\\d[\\dA-Z]? ?\\d[ABD-HJLN-UW-Z]{2}",
+   "examples": [
+    "JE1 1AA",
+    "JE2 2BT"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "parish"
+  },
+  "labels": {
+   "city": "parish",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.jerseypost.com/tools/postcode-address-finder/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/JE"
+  ]
+ },
+ "JM": {
+  "layout": "%N%n%O%n%A%n%C%n%S %X",
+  "required": "ACS",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": true,
+   "kind": "parish"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://en.wikipedia.org/wiki/Postal_codes_in_Jamaica",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/JM"
+  ]
+ },
+ "JO": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11937",
+    "11190"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/JO"
+  ]
+ },
+ "JP": {
+  "layout": "〒%Z%n%S%n%A%n%O%n%N",
+  "required": "ASZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3}-?\\d{4}",
+   "examples": [
+    "154-0023",
+    "350-1106",
+    "951-8073",
+    "112-0001"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "prefecture"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "http://www.post.japanpost.jp/zipcode/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/JP"
+  ]
+ },
+ "KE": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "20100",
+    "00100"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "county"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KE"
+  ]
+ },
+ "KG": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "720001"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KG"
+  ]
+ },
+ "KH": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5,6}",
+   "examples": [
+    "120101",
+    "120108",
+    "12000"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.cambodiapost.post/page/postal-codes",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KH"
+  ]
+ },
+ "KI": {
+  "layout": "%N%n%O%n%A%n%C%n%S %Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "KI\\d{4}",
+   "examples": [
+    "KI0104",
+    "KI0107",
+    "KI0102",
+    "KI0303"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "island"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://web.archive.org/web/20241201230521/https://www.mict.gov.ki/postal/kiribati-new-post-codes",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/kirEn.pdf",
+   "https://about.usps.com/postal-bulletin/2020/pb22558/html/updt_002.htm",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "KM": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/comEn.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KM"
+  ]
+ },
+ "KN": {
+  "layout": "%N%n%O%n%A%n%C, %S%n%Z",
+  "required": "ACS",
+  "postal": {
+   "uses": true,
+   "pattern": "KN ?\\d{2} ?\\d{2}",
+   "examples": [
+    "KN0101",
+    "KN0802",
+    "KN0201"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "island"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://nia.gov.kn/skn-introduces-official-postal-code",
+   "https://sknis.gov.kn/2017/10/12/postal-code-system-helps-alleviate-several-delivery-issues-faced/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KN"
+  ]
+ },
+ "KP": {
+  "layout": "%N%n%O%n%A%n%C%n%S",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://en.wikipedia.org/wiki/ISO_3166-2:KP",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KP",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/prkEn.pdf"
+  ]
+ },
+ "KR": {
+  "layout": "%S %C%D%n%A%n%O%n%N%n%Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "03051"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "do_si"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.epost.go.kr/search/zipcode/search5.jsp",
+   "https://en.wikipedia.org/wiki/ISO_3166-2:KR",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KR",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/korEn.pdf",
+   "https://www.yna.co.kr/view/AKR20260630109800054",
+   "https://www.jeonnam.go.kr/boardDown.do?boardId=tronix&fileLinkSeq=1&fileLinkTp=F&seq=358"
+  ]
+ },
+ "KW": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "54541",
+    "54551",
+    "54404",
+    "13009"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KW"
+  ]
+ },
+ "KY": {
+  "layout": "%N%n%O%n%A%n%S %Z",
+  "required": "AS",
+  "postal": {
+   "uses": true,
+   "pattern": "KY\\d-?\\d{4}",
+   "examples": [
+    "KY1-1100",
+    "KY1-1702",
+    "KY2-2101"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "island"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "http://www.caymanpost.gov.ky/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KY"
+  ]
+ },
+ "KZ": {
+  "layout": "%N%n%O%n%A%n%Z, %C%n%D%n%S",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}|[A-Z]\\d{2}[A-Z]\\d[A-Z]\\d",
+   "examples": [
+    "R00H5A9",
+    "D03K5Y2",
+    "050012",
+    "040900"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "region (oblys) / city of republican significance"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://post.kz/postcode",
+   "https://about.usps.com/postal-bulletin/2023/pb22626/html/updt_002.htm",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://en.wikipedia.org/wiki/ISO_3166-2:KZ",
+   "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/KZ"
+  ]
+ },
+ "LA": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "01000",
+    "01160"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/laoEn.pdf"
+  ]
+ },
+ "LB": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}(?: ?\\d{4})?",
+   "examples": [
+    "2038 3054",
+    "1107 2810",
+    "1000"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.libanpost.com/"
+  ]
+ },
+ "LC": {
+  "layout": "%N%n%O%n%A%n%C, %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "LC\\d{2}(?: {1,2}|-)?\\d{3}",
+   "examples": [
+    "LC04 101",
+    "LC05 201",
+    "LC10 101",
+    "LC03 201"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lcaEn.pdf",
+   "https://thevoiceslu.com/2015/12/st-lucia-enters-zip-code-era/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "LI": {
+  "layout": "%O%n%N%n%A%nFL-%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "948[5-9]|949[0-8]",
+   "examples": [
+    "9490",
+    "9494",
+    "9496",
+    "9498"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://en.wikipedia.org/wiki/Postal_codes_in_Liechtenstein",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lieEn.pdf",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cheEn.pdf"
+  ]
+ },
+ "LK": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "20000",
+    "00100"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lkaEn.pdf",
+   "http://www.slpost.gov.lk/"
+  ]
+ },
+ "LR": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1000",
+    "4000"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lbrEn.pdf"
+  ]
+ },
+ "LS": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3}",
+   "examples": [
+    "100"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lsoEn.pdf"
+  ]
+ },
+ "LT": {
+  "layout": "%O%n%N%n%A%nLT-%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "04340",
+    "60249",
+    "52002"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "municipality (savivaldybė), written in the city slot when needed"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ltuEn.pdf"
+  ]
+ },
+ "LU": {
+  "layout": "%O%n%N%n%A%nL-%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "4750",
+    "2998",
+    "1468"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.post.lu/en/particuliers/colis-courrier/rechercher-un-code-postal"
+  ]
+ },
+ "LV": {
+  "layout": "%N%n%O%n%A%n%C, %Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:LV-?)?\\d{4}",
+   "examples": [
+    "LV-1050",
+    "LV-1000",
+    "LV-4035"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "novads (municipality), written in the city slot for rural addresses"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lvaEn.pdf",
+   "https://en.wikipedia.org/wiki/ISO_3166-2:LV"
+  ]
+ },
+ "LY": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/lbyEn.pdf",
+   "https://en.wikipedia.org/wiki/List_of_postal_codes"
+  ]
+ },
+ "MA": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "10000",
+    "20050",
+    "53000"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.poste.ma/"
+  ]
+ },
+ "MC": {
+  "layout": "%N%n%O%n%A%nMC-%Z %C %X",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "980\\d{2}",
+   "examples": [
+    "98000",
+    "98020",
+    "98011"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.lapostemonaco.mc/"
+  ]
+ },
+ "MD": {
+  "layout": "%N%n%O%n%A%nMD-%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "2012",
+    "2019",
+    "3100"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "raion/municipiu (domestic, optional)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mdaEn.pdf",
+   "https://www.posta.md/"
+  ]
+ },
+ "ME": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "8\\d{4}",
+   "examples": [
+    "81000",
+    "85000",
+    "81205"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mneEn.pdf"
+  ]
+ },
+ "MF": {
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "97150",
+   "examples": [
+    "97150"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://datanova.laposte.fr/data-fair/api/v1/datasets/laposte-hexasmal/raw",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/fraEn.pdf"
+  ]
+ },
+ "MG": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3}",
+   "examples": [
+    "101",
+    "501"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mdgEn.pdf"
+  ]
+ },
+ "MH": {
+  "layout": "%N%n%O%n%A%n%C %S %Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "969[67]\\d(?:[ -]\\d{4})?",
+   "examples": [
+    "96960",
+    "96970"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "sources": [
+   "https://tools.usps.com/zip-code-lookup.htm",
+   "https://pe.usps.com/text/pub28/28c2_010.htm"
+  ]
+ },
+ "MK": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1000",
+    "1020",
+    "1310"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mkdEn.pdf"
+  ]
+ },
+ "ML": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mliEn.pdf"
+  ]
+ },
+ "MM": {
+  "layout": "%N%n%O%n%A%n%D%n%C, %Z%n%S",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}(?:\\d{2})?",
+   "examples": [
+    "0505001",
+    "0213202",
+    "1118001"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state (7 regions, 7 states, Nay Pyi Taw union territory)"
+  },
+  "labels": {
+   "city": "city (township)",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mmrEn.pdf",
+   "https://en.wikipedia.org/wiki/Postal_codes_in_Myanmar",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "MN": {
+  "layout": "%N%n%O%n%A%n%C%n%S %Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}(?:-\\d{4})?",
+   "examples": [
+    "14560",
+    "21011",
+    "15160-0065"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province (aimag; 'ULAANBAATAR' for the capital)"
+  },
+  "labels": {
+   "city": "district (sum/bagh, or khoroo + duureg)",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mngEn.pdf"
+  ]
+ },
+ "MO": {
+  "layout": "%A%n%O%n%N",
+  "required": "A",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/macEn.pdf"
+  ]
+ },
+ "MP": {
+  "layout": "%N%n%O%n%A%n%C %S %Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "9695[012](?:[ -]\\d{4})?",
+   "examples": [
+    "96950",
+    "96951",
+    "96952"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "sources": [
+   "https://tools.usps.com/zip-code-lookup.htm",
+   "https://pe.usps.com/text/pub28/28c2_010.htm"
+  ]
+ },
+ "MQ": {
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "972\\d{2}",
+   "examples": [
+    "97200",
+    "97220",
+    "97262"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://datanova.laposte.fr/data-fair/api/v1/datasets/laposte-hexasmal/raw",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/fraEn.pdf"
+  ]
+ },
+ "MR": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mrtEn.pdf"
+  ]
+ },
+ "MS": {
+  "layout": "%N%n%O%n%A%n%C, %Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "MSR ?\\d{4}",
+   "examples": [
+    "MSR1110",
+    "MSR1210",
+    "MSR1350"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/msrEn.pdf"
+  ]
+ },
+ "MT": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "[A-Z]{3} ?\\d{4}",
+   "examples": [
+    "HMR 1428",
+    "SLM 1000",
+    "ZTN 1073",
+    "MTP 1001"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mltEn.pdf",
+   "https://www.mca.org.mt/sites/default/files/Postcodes%20Decision_1.pdf",
+   "https://www.maltapost.com/PostCode/"
+  ]
+ },
+ "MU": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}|R\\d{4}",
+   "examples": [
+    "11213",
+    "11328",
+    "42602"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/musEn.pdf",
+   "https://mauritiuspost.mu/find-your-post-code/",
+   "https://en.wikipedia.org/wiki/Postal_codes_in_Mauritius"
+  ]
+ },
+ "MV": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "20026",
+    "20054"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mdvEn.pdf",
+   "http://www.maldivespost.com/"
+  ]
+ },
+ "MW": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "102010",
+    "312200",
+    "309010",
+    "204101"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mwiEn.pdf",
+   "https://mwnation.com/malawi-unveils-postcodes/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "MX": {
+  "layout": "%N%n%O%n%A%n%D%n%Z %C, %S",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "02860",
+    "77520",
+    "06082"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx"
+  ]
+ },
+ "MY": {
+  "layout": "%N%n%O%n%A%n%D%n%Z %C%n%S",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "43000",
+    "40300",
+    "50250",
+    "88990"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mysEn.pdf",
+   "https://www.pos.com.my/"
+  ]
+ },
+ "MZ": {
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}-\\d{3}",
+   "examples": []
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.incm.gov.mz/?sdm_process_download=1&download_id=556",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mozEn.pdf",
+   "https://www.incm.gov.mz/legislacao-postal/",
+   "https://www.incm.gov.mz/novo-codigo-de-enderecamento-postal/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "NA": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:1\\d|2[0-3])0\\d{2}",
+   "examples": [
+    "10005",
+    "13001",
+    "15002",
+    "12004"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://web.archive.org/web/20190330094532/https://www.nampost.com.na/uploads/documents/cd93d1d6a58287b5b1e5739815c6c628baa1e657.pdf",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/namEn.pdf"
+  ]
+ },
+ "NC": {
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "988\\d{2}",
+   "examples": [
+    "98800",
+    "98814",
+    "98810"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.opt.nc/particuliers/courrier-et-colis/les-codes-postaux-de-nouvelle-caledonie"
+  ]
+ },
+ "NE": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "8001"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nerEn.pdf"
+  ]
+ },
+ "NF": {
+  "layout": "%O%n%N%n%A%n%C %S %Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "2899",
+   "examples": [
+    "2899"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state (Australia Post files 2899 under NSW)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://auspost.com.au/postcode/norfolk-island",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nfkEn.pdf"
+  ]
+ },
+ "NG": {
+  "layout": "%N%n%O%n%A%n%D%n%C %Z%n%S",
+  "required": "ACS",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "930283",
+    "300001",
+    "931104"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.nipost.gov.ng/"
+  ]
+ },
+ "NI": {
+  "layout": "%N%n%O%n%A%n%Z%n%C, %S",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "12005",
+    "11147",
+    "52000"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "department"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nicEn.pdf",
+   "https://en.wikipedia.org/wiki/ISO_3166-2:NI"
+  ]
+ },
+ "NL": {
+  "layout": "%O%n%N%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "[1-9]\\d{3} ?(?:[A-RT-Z][A-Z]|S[BCE-RT-Z])",
+   "examples": [
+    "1234 AB",
+    "2490 AA",
+    "3511 LX"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.postnl.nl/en/find-a-postcode/"
+  ]
+ },
+ "NO": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "0025",
+    "0107",
+    "6631"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.posten.no/en/postcode-search"
+  ]
+ },
+ "NP": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "44601",
+    "44600",
+    "33700"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://gpo.gov.np/pages/postal-code-1259614658/",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nplEn.pdf"
+  ]
+ },
+ "NR": {
+  "layout": "%N%n%O%n%A%n%S",
+  "required": "AS",
+  "postal": {
+   "uses": false
+  },
+  "province": {
+   "named": true,
+   "kind": "district"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions",
+   "https://www.iso.org/obp/ui/#iso:code:3166:NR"
+  ]
+ },
+ "NU": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "9974",
+   "examples": [
+    "9974"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "village",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/niuEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "NZ": {
+  "layout": "%N%n%O%n%A%n%D%n%C %Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "6011",
+    "6001",
+    "1010",
+    "8011",
+    "9016"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.nzpost.co.nz/tools/address-postcode-finder",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/nzlEn.pdf"
+  ]
+ },
+ "OM": {
+  "layout": "%N%n%O%n%A%n%Z%n%C",
+  "required": "Z",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:PC ?)?\\d{3}",
+   "examples": [
+    "133",
+    "112",
+    "311"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/omnEn.pdf",
+   "https://www.omanpost.om"
+  ]
+ },
+ "PA": {
+  "layout": "%N%n%O%n%A%n%C%n%S",
+  "required": "AS",
+  "postal": {
+   "uses": true,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.codigospostalespanama.gob.pa/",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/panEn.pdf",
+   "https://www.laestrella.com.pa/panama/nacional/habilitan-codigos-postales-en-panama-con-el-apoyo-de-google-ED22212688",
+   "https://newsroompanama.com/2026/05/08/panama-has-launched-a-new-national-geolocated-postal-code-system/",
+   "https://www.correospanama.gob.pa/panama-da-un-paso-firme-hacia-la-modernizacion-con-el-nuevo-sistema-de-codigos-postales/",
+   "https://www.upu.int/en/news/2026/august/from-postal-addresses-to-digital-infrastructure",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "PE": {
+  "layout": "%N%n%O%n%A, %C%n%Z%n%S",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:0[1-9]|1\\d|2[0-5])\\d{3}",
+   "examples": [
+    "15074",
+    "15001",
+    "04001",
+    "07001",
+    "08002"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "region (department)"
+  },
+  "labels": {
+   "city": "district",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.codigopostal.gob.pe/",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/perEn.pdf"
+  ]
+ },
+ "PF": {
+  "layout": "%N%n%O%n%A%n%Z %C %S",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "987\\d{2}",
+   "examples": [
+    "98709",
+    "98713",
+    "98714"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "island"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.laposte.fr/outils/trouver-un-code-postal"
+  ]
+ },
+ "PG": {
+  "layout": "%N%n%O%n%A%n%C %Z %S",
+  "required": "ACS",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3}",
+   "examples": [
+    "111",
+    "121",
+    "411"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.postpng.com.pg/"
+  ]
+ },
+ "PH": {
+  "layout": "%N%n%O%n%A%n%D, %C%n%Z %S",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1008",
+    "1050",
+    "1135",
+    "1207",
+    "2000"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://phlpost.gov.ph/zip-code-locator/",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/phlEn.pdf",
+   "https://www.iso.org/obp/ui/#iso:code:3166:PH"
+  ]
+ },
+ "PK": {
+  "layout": "%N%n%O%n%A%n%D%n%C-%Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "44000",
+    "54000",
+    "75500"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.pakpost.gov.pk/postcodes.php",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/pakEn.pdf"
+  ]
+ },
+ "PL": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{2}-?\\d{3}",
+   "examples": [
+    "00-950",
+    "05-470",
+    "48-300",
+    "32-015"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "http://kody.poczta-polska.pl/"
+  ]
+ },
+ "PM": {
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "975\\d{2}",
+   "examples": [
+    "97500"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.laposte.fr/outils/trouver-un-code-postal"
+  ]
+ },
+ "PN": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "PCRN ?1ZZ",
+   "examples": [
+    "PCRN 1ZZ"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions"
+  ]
+ },
+ "PR": {
+  "layout": "%N%n%O%n%A%n%C PR %Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "00[679]\\d{2}(?:[ -]?\\d{4})?",
+   "examples": [
+    "00930",
+    "00901",
+    "00725-1234"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "sources": [
+   "https://tools.usps.com/zip-code-lookup.htm",
+   "https://pe.usps.com/text/pub28/28c2_001.htm"
+  ]
+ },
+ "PS": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "P\\d{3}(?: ?\\d{4})?",
+   "examples": [
+    "P6100154",
+    "P126",
+    "P144"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "governorate"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://postcode.palestine.ps/",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/PSEEn.pdf",
+   "https://www.aljazeera.com/news/2021/2/7/palestinians-launch-postcodes-in-assertion-of-sovereignty"
+  ]
+ },
+ "PT": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}-?\\d{3}",
+   "examples": [
+    "2725-079",
+    "1250-096",
+    "1201-950"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.ctt.pt/feapl_2/app/open/tools.jspx?tool=1",
+   "https://www.ctt.pt/"
+  ]
+ },
+ "PW": {
+  "layout": "%N%n%O%n%A%n%C %S %Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "969(?:39|40)(?:[ -]?\\d{4})?",
+   "examples": [
+    "96940",
+    "96939"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "sources": [
+   "https://tools.usps.com/zip-code-lookup.htm",
+   "https://pe.usps.com/text/pub28/28apb.htm"
+  ]
+ },
+ "PY": {
+  "layout": "%N%n%O%n%A%n%Z %C, %S",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:0\\d|1[0-7])\\d{4}",
+   "examples": [
+    "001218",
+    "001001",
+    "051103",
+    "110407"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "department"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/pryEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "QA": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions"
+  ]
+ },
+ "RE": {
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "974\\d{2}",
+   "examples": [
+    "97400",
+    "97410",
+    "97490"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.laposte.fr/outils/trouver-un-code-postal"
+  ]
+ },
+ "RO": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "060274",
+    "061357",
+    "200716"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "county (județ)"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.posta-romana.ro/",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/rouEn.pdf"
+  ]
+ },
+ "RS": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11000",
+    "21000",
+    "24210",
+    "11130"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.posta.rs/",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/srbEn.pdf"
+  ]
+ },
+ "RU": {
+  "layout": "%N%n%O%n%A%n%C%n%S%n%Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "125075",
+    "247112",
+    "103375",
+    "188300"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "oblast"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.pochta.ru/post-index",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/rusEn.pdf",
+   "https://www.iso.org/obp/ui/#iso:code:3166:RU"
+  ]
+ },
+ "RW": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions"
+  ]
+ },
+ "SA": {
+  "layout": "%N%n%O%n%A%n%D%n%Z%n%C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "12643",
+    "11564",
+    "12233"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://splonline.com.sa/en/national-address-1/",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sauEn.pdf",
+   "https://splonline.com.sa/en/door-step/"
+  ]
+ },
+ "SB": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions"
+  ]
+ },
+ "SC": {
+  "layout": "%N%n%O%n%A%n%C%n%S",
+  "required": "AC",
+  "postal": {
+   "uses": false
+  },
+  "province": {
+   "named": true,
+   "kind": "island"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions"
+  ]
+ },
+ "SD": {
+  "layout": "%N%n%O%n%A%n%Z%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11042",
+    "11113"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sdnEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "SE": {
+  "layout": "%O%n%N%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3} ?\\d{2}",
+   "examples": [
+    "114 55",
+    "123 45",
+    "105 00",
+    "111 81"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.postnord.se/en/our-tools/search-postcode-and-address/",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sweEn.pdf"
+  ]
+ },
+ "SG": {
+  "layout": "%N%n%O%n%A%nSINGAPORE %Z",
+  "required": "AZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "546080",
+    "308125",
+    "408600"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.singpost.com/find-postal-code"
+  ]
+ },
+ "SH": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "(?:ASCN|STHL|TDCU) ?1ZZ",
+   "examples": [
+    "STHL 1ZZ",
+    "ASCN 1ZZ",
+    "TDCU 1ZZ"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/shnEn.pdf",
+   "https://www.abhaengige-gebiete.de/gebiete-sankt-helena-ascension-und-tristan-da-cunha-tristan-da-cunha-postleitzahlen/"
+  ]
+ },
+ "SI": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "4000",
+    "1001",
+    "2500",
+    "1000"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.posta.si/",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/svnEn.pdf"
+  ]
+ },
+ "SJ": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "917[013-68]|8099",
+   "examples": [
+    "9170",
+    "9171",
+    "9173",
+    "9178",
+    "8099"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "post_town",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.bring.no/postnummerregister-ansi.txt",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/norEn.pdf"
+  ]
+ },
+ "SK": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3} ?\\d{2}",
+   "examples": [
+    "010 01",
+    "023 14",
+    "972 48",
+    "811 01"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://psc.posta.sk"
+  ]
+ },
+ "SL": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions"
+  ]
+ },
+ "SM": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AZ",
+  "postal": {
+   "uses": true,
+   "pattern": "4789\\d",
+   "examples": [
+    "47890",
+    "47891",
+    "47895",
+    "47899"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.poste.sm/",
+   "https://www.poste.it/cerca/index.html#/risultati-cerca-cap/"
+  ]
+ },
+ "SN": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "12500",
+    "10000",
+    "46024"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.laposte.sn/"
+  ]
+ },
+ "SO": {
+  "layout": "%N%n%O%n%A%n%C, %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "[A-Z]{2} *\\d{5}",
+   "examples": [
+    "JH 09010",
+    "MD 11010",
+    "AD 11010"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "region"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions",
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/somEn.pdf"
+  ]
+ },
+ "SR": {
+  "layout": "%N%n%O%n%A%n%C%n%S",
+  "required": "AC",
+  "postal": {
+   "uses": false
+  },
+  "province": {
+   "named": true,
+   "kind": "district"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions",
+   "https://www.iso.org/obp/ui/#iso:code:3166:SR"
+  ]
+ },
+ "SS": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions"
+  ]
+ },
+ "ST": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/en/Postal-Solutions/Programmes-Services/Addressing-Solutions"
+  ]
+ },
+ "SV": {
+  "layout": "%N%n%O%n%A%n%Z %C, %S",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "[1-3][1-7][0-2]\\d",
+   "examples": [
+    "1101",
+    "1120",
+    "2101",
+    "1116"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "department"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/slvEn.pdf",
+   "https://www.correos.gob.sv/",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "SX": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/sxmEn.pdf"
+  ]
+ },
+ "SY": {
+  "layout": "%N%n%O%n%A%n%D%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": "governorate"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/syrEn.pdf",
+   "https://en.wikipedia.org/wiki/Syrian_Post"
+  ]
+ },
+ "SZ": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "[HLMS]\\d{3}",
+   "examples": [
+    "H100",
+    "M200",
+    "L100",
+    "S100"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "region"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/swzEn.pdf",
+   "https://www.eswatinipost.co.sz/postcode.php"
+  ]
+ },
+ "TC": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "TKCA ?1ZZ",
+   "examples": [
+    "TKCA 1ZZ"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tcaEn.pdf"
+  ]
+ },
+ "TD": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tcdEn.pdf"
+  ]
+ },
+ "TF": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "A",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/atfEn.pdf"
+  ]
+ },
+ "TG": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tgoEn.pdf",
+   "https://www.laposte.tg"
+  ]
+ },
+ "TH": {
+  "layout": "%N%n%O%n%A%n%D %C%n%S %Z",
+  "required": "ADCSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "10150",
+    "10110",
+    "11120",
+    "72150"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "district",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/thaEn.pdf",
+   "https://www.thailandpost.co.th/"
+  ]
+ },
+ "TJ": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "735450",
+    "734025",
+    "734012"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "region"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tjkEn.pdf",
+   "http://tajikpost.tj/ru/"
+  ]
+ },
+ "TK": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": "island"
+  },
+  "labels": {
+   "city": "island",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tklEn.pdf"
+  ]
+ },
+ "TL": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "TL ?\\d{5}",
+   "examples": [
+    "TL10001",
+    "TL11212",
+    "TL10901",
+    "TL42000",
+    "TL11200"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "municipality"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tlsEn.pdf",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf"
+  ]
+ },
+ "TM": {
+  "layout": "%N%n%O%n%A%n%C%n%S%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "744000",
+    "744027",
+    "745100",
+    "746150"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tkmEn.pdf"
+  ]
+ },
+ "TN": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1002",
+    "8129",
+    "3100",
+    "8170"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "governorate"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tunEn.pdf",
+   "http://www.poste.tn/codes.php"
+  ]
+ },
+ "TO": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tonEn.pdf"
+  ]
+ },
+ "TR": {
+  "layout": "%N%n%O%n%A%n%Z %C/%S",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "06101",
+    "06850",
+    "01960",
+    "06040"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "district",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/turEn.pdf",
+   "https://postakodu.ptt.gov.tr/"
+  ]
+ },
+ "TT": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "500234",
+    "350462",
+    "150123"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "region"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ttoEn.pdf",
+   "https://www.ttpost.net/"
+  ]
+ },
+ "TV": {
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "required": "ACS",
+  "postal": {
+   "uses": true,
+   "pattern": "TUV ?\\d{3}",
+   "examples": [
+    "TUV150",
+    "TUV120",
+    "TUV710"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "island"
+  },
+  "labels": {
+   "city": "village",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tuvEn.pdf"
+  ]
+ },
+ "TW": {
+  "layout": "%Z%n%S%C%n%A%n%O%n%N",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{3}(?:\\d{2,3})?",
+   "examples": [
+    "100",
+    "10603",
+    "106409",
+    "40867"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "county"
+  },
+  "labels": {
+   "city": "district",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.post.gov.tw/post/internet/Postal/index.jsp?ID=208"
+  ]
+ },
+ "TZ": {
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
+  "required": "ACS",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11101",
+    "14111",
+    "23100",
+    "25204",
+    "33100"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "region"
+  },
+  "labels": {
+   "city": "ward",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tzaEn.pdf",
+   "https://tcra.go.tz/services/postcode"
+  ]
+ },
+ "UA": {
+  "layout": "%N%n%O%n%A%n%C%n%S%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "01055",
+    "15432",
+    "01001"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "oblast"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ukrEn.pdf",
+   "https://www.ukrposhta.ua/"
+  ]
+ },
+ "UG": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "10000",
+    "22321",
+    "12331"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "district"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/ugaEn.pdf",
+   "https://ugapost.co.ug"
+  ]
+ },
+ "UM": {
+  "layout": "%N%n%O%n%A%n%C %S %Z",
+  "required": "ACS",
+  "postal": {
+   "uses": true,
+   "pattern": "96898",
+   "examples": [
+    "96898"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/umiEn.pdf"
+  ]
+ },
+ "US": {
+  "layout": "%N%n%O%n%A%n%C, %S %Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}(?:[ -]?\\d{4})?",
+   "examples": [
+    "95014",
+    "22162-1010",
+    "11550-1234"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/usaEn.pdf",
+   "https://pe.usps.com/text/pub28/welcome.htm"
+  ]
+ },
+ "UY": {
+  "layout": "%N%n%O%n%A%n%Z %C %S",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11600",
+    "70200",
+    "15600",
+    "80300"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "department"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/uryEn.pdf",
+   "https://www.correo.com.uy/"
+  ]
+ },
+ "UZ": {
+  "layout": "%N%n%O%n%A%n%Z, %C%n%S",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{6}",
+   "examples": [
+    "100123",
+    "140101",
+    "100000",
+    "220605"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "region"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/uzbEn.pdf",
+   "https://uz.post/ru/mening-pochta-indeksim"
+  ]
+ },
+ "VA": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "00120",
+   "examples": [
+    "00120"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vatEn.pdf"
+  ]
+ },
+ "VC": {
+  "layout": "%N%n%O%n%A%n%C%n%Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "VC\\d{4}",
+   "examples": [
+    "VC0100",
+    "VC0120",
+    "VC0274",
+    "VC0400"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "parish"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vctEn.pdf",
+   "http://www.svgpost.gov.vc/postoffice/"
+  ]
+ },
+ "VE": {
+  "layout": "%N%n%O%n%A%n%C %Z, %S",
+  "required": "ACS",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "1010",
+    "3028",
+    "8011",
+    "2201"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/venEn.pdf",
+   "http://www.ipostel.gob.ve"
+  ]
+ },
+ "VG": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "VG ?\\d{4}",
+   "examples": [
+    "VG1110",
+    "VG1150",
+    "VG1160"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "island"
+  },
+  "labels": {
+   "city": "island",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vgbEn.pdf"
+  ]
+ },
+ "VI": {
+  "layout": "%N%n%O%n%A%n%C %S %Z",
+  "required": "ACSZ",
+  "postal": {
+   "uses": true,
+   "pattern": "008(?:[0-4]\\d|5[01])(?:[ -]?\\d{4})?",
+   "examples": [
+    "00802-1222",
+    "00850-9802",
+    "00820"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "state"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "zip"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/virEn.pdf"
+  ]
+ },
+ "VN": {
+  "layout": "%N%n%O%n%A%n%C%n%S %Z",
+  "required": "ACS",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": [
+    "11517",
+    "10000",
+    "11311",
+    "47816"
+   ]
+  },
+  "province": {
+   "named": true,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "ward",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vnmEn.pdf",
+   "https://mabuuchinh.vn/",
+   "https://vietnamlawmagazine.vn/vietnam-now-has-34-provincial-level-administrative-units-74434.html",
+   "https://luatvietnam.vn/hanh-chinh/quyet-dinh-2334-qd-bkhcn-cua-bo-khoa-hoc-va-cong-nghe-sua-doi-ma-buu-chinh-quoc-gia-cho-doi-tuong-la-phuong-xa-va-cac-don-vi-hanh-chinh-tuong-duong-409694-d1.html"
+  ]
+ },
+ "VU": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vutEn.pdf"
+  ]
+ },
+ "WF": {
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "986\\d{2}",
+   "examples": [
+    "98600",
+    "98610",
+    "98620"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/wlfEn.pdf"
+  ]
+ },
+ "WS": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "WS ?\\d{4}",
+   "examples": [
+    "WS1190",
+    "WS1251"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "district"
+  },
+  "labels": {
+   "city": "village",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/wsmEn.pdf",
+   "https://www.samoapost.ws"
+  ]
+ },
+ "XK": {
+  "layout": "%N%n%O%n%A%n%Z %C",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "[1-7]\\d{4}",
+   "examples": [
+    "10000",
+    "10060",
+    "12000",
+    "40000"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "district"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://postakosoves.com",
+   "https://en.wikipedia.org/wiki/Postal_codes_in_Kosovo"
+  ]
+ },
+ "YE": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": "governorate"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/yemEn.pdf"
+  ]
+ },
+ "YT": {
+  "layout": "%O%n%N%n%A%n%Z %C %X",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "976\\d{2}",
+   "examples": [
+    "97600",
+    "97610",
+    "97640"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": null
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mytEn.pdf"
+  ]
+ },
+ "ZA": {
+  "layout": "%N%n%O%n%A%n%D%n%C%n%Z",
+  "required": "ACZ",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{4}",
+   "examples": [
+    "0083",
+    "7975",
+    "1852",
+    "0001"
+   ]
+  },
+  "province": {
+   "named": false,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/zafEn.pdf",
+   "https://www.postoffice.co.za/"
+  ]
+ },
+ "ZM": {
+  "layout": "%N%n%O%n%A%n%C %Z",
+  "required": "AC",
+  "postal": {
+   "uses": true,
+   "pattern": "\\d{5}",
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/zmbEn.pdf",
+   "https://www.zampost.com.zm",
+   "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+   "https://www.parliament.gov.zm/node/608"
+  ]
+ },
+ "ZW": {
+  "layout": "%N%n%O%n%A%n%C",
+  "required": "AC",
+  "postal": {
+   "uses": false,
+   "pattern": null,
+   "examples": []
+  },
+  "province": {
+   "named": false,
+   "kind": "province"
+  },
+  "labels": {
+   "city": "city",
+   "postal": "postal"
+  },
+  "sources": [
+   "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/zweEn.pdf"
+  ]
+ }
+}
