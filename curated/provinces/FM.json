@@ -46,5 +46,5 @@
   "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
  ],
  "confidence": "high",
- "notes": "USPS-format addresses use FM in the state slot (e.g. \"KOLONIA POHNPEI FM 96941\"); the 4 states are listed because the D review found them named in addresses. Also see US-FM in the US list."
+ "notes": "USPS-format addresses use FM in the state slot (e.g. \"KOLONIA POHNPEI FM 96941\"); the 4 states are listed because addresses name them. Also see US-FM in the US list."
 }

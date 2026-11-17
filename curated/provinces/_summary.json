@@ -1284,8 +1284,8 @@
    "PW"
   ],
   "not_included_tsv_countries": {
-   "AD": "7 rows in subdivisions.tsv; addresses do not name a province (D/F review province.named=false)",
-   "CU": "16 rows in subdivisions.tsv; addresses do not name a province (D/F review province.named=false)"
+   "AD": "7 rows in subdivisions.tsv; addresses do not name a province (province.named is false in sources/formats.json)",
+   "CU": "16 rows in subdivisions.tsv; addresses do not name a province (province.named is false in sources/formats.json)"
   }
  }
 }

@@ -222,7 +222,7 @@ def main():
         "extra_examples": "typed input -> expected output, from the official source; used for countries without zipex or to test prefixes.",
         "confidence": "high = rule confirmed by `source`; low = not confirmed or pattern conflicts with source (see notes).",
         "source": "UPU addressing document for the country (or the parent operator's document when the UPU page refers to it).",
-        "checked_by": "sources/postal/check.py -> logs/postal-check.txt",
+        "checked_by": "sources/postal/check.py",
     }}
     for cc in sorted(data):
         d = data[cc]

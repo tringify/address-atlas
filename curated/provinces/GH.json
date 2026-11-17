@@ -141,5 +141,5 @@
   "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
  ],
  "confidence": "high",
- "notes": "16 regions (2019). Codes checked against iso-codes (the D review had them from memory): all 16 match."
+ "notes": "16 regions (2019). Codes checked against iso-codes: all 16 match."
 }

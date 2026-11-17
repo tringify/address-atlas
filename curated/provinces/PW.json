@@ -140,5 +140,5 @@
   "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
  ],
  "confidence": "low",
- "notes": "USPS-format addresses put PW in the state slot (e.g. \"KOROR PW 96940\") and the Palauan state usually doubles as the town line; the 16 ISO states are listed because the D review found them named, but whether a separate state field is ever filled is unclear. Also see US-PW in the US list."
+ "notes": "USPS-format addresses put PW in the state slot (e.g. \"KOROR PW 96940\") and the Palauan state usually doubles as the town line; the 16 ISO states are listed because addresses name them, but whether a separate state field is ever filled is unclear. Also see US-PW in the US list."
 }

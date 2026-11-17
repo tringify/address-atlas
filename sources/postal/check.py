@@ -5,7 +5,7 @@ separators removed, and the rule applied; the result must equal the matching
 canonical example, which must fully match the pattern. Also checks coverage,
 prefix stripping, extra examples and idempotence.
 
-Run: python3 -I sources/postal/check.py > logs/postal-check.txt
+Run: python3 -I sources/postal/check.py
 """
 import json
 import pathlib
