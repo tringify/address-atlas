@@ -1,0 +1,13 @@
+{
+ "country": "SC",
+ "level": "island",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [],
+ "changes": [],
+ "sources": [
+  "https://www.iso.org/obp/ui/#iso:code:3166:SC",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "No list: the island slot always holds '(island name, free text)'. The island is free text; the 27 ISO 3166-2:SC districts are not used in postal addresses."
+}

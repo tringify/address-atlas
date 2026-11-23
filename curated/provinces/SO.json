@@ -1,0 +1,141 @@
+{
+ "country": "SO",
+ "level": "region",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "SO-AW",
+   "local": "Awdal",
+   "latin": "Awdal",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-BK",
+   "local": "Bakool",
+   "latin": "Bakool",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-BN",
+   "local": "Banaadir",
+   "latin": "Banaadir",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-BR",
+   "local": "Bari",
+   "latin": "Bari",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-BY",
+   "local": "Bay",
+   "latin": "Bay",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-GA",
+   "local": "Galguduud",
+   "latin": "Galguduud",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-GE",
+   "local": "Gedo",
+   "latin": "Gedo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-HI",
+   "local": "Hiiraan",
+   "latin": "Hiiraan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-JD",
+   "local": "Jubbada Dhexe",
+   "latin": "Jubbada Dhexe",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-JH",
+   "local": "Jubbada Hoose",
+   "latin": "Jubbada Hoose",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-MU",
+   "local": "Mudug",
+   "latin": "Mudug",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-NU",
+   "local": "Nugaal",
+   "latin": "Nugaal",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-SA",
+   "local": "Sanaag",
+   "latin": "Sanaag",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-SD",
+   "local": "Shabeellaha Dhexe",
+   "latin": "Shabeellaha Dhexe",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-SH",
+   "local": "Shabeellaha Hoose",
+   "latin": "Shabeellaha Hoose",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-SO",
+   "local": "Sool",
+   "latin": "Sool",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-TO",
+   "local": "Togdheer",
+   "latin": "Togdheer",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SO-WO",
+   "local": "Woqooyi Galbeed",
+   "latin": "Woqooyi Galbeed",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/somEn.pdf",
+  "https://www.iso.org/obp/ui/#iso:code:3166:SO",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "ISO codes are used. Somali Post uses its own 2-letter region letters (AD, GG, HR, JH, MD, ...) which differ from ISO (AW, GA, HI, ...); Google live sub_keys use the postal letters, isoids the ISO codes."
+}

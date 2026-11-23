@@ -1,0 +1,17 @@
+{
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "བྲི་ཊིཤ་རྒྱ་གར་གྱི་རྒྱ་མཚོ་ས་ཁོངས"
+ },
+ "MK": {
+  "value": "བྱང་མེ་སི་ཌོ་ནི་ཡ།",
+  "provenance": "curated",
+  "checked": true
+ },
+ "XK": {
+  "value": "ཀོ་སོ་བྷོ།",
+  "provenance": "curated",
+  "checked": true
+ }
+}

@@ -1,0 +1,105 @@
+{
+ "country": "BB",
+ "level": "parish",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "BB-01",
+   "local": "Christ Church",
+   "latin": "Christ Church",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BB-02",
+   "local": "Saint Andrew",
+   "latin": "Saint Andrew",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BB-03",
+   "local": "Saint George",
+   "latin": "Saint George",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BB-04",
+   "local": "Saint James",
+   "latin": "Saint James",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BB-05",
+   "local": "Saint John",
+   "latin": "Saint John",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BB-06",
+   "local": "Saint Joseph",
+   "latin": "Saint Joseph",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BB-07",
+   "local": "Saint Lucy",
+   "latin": "Saint Lucy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BB-08",
+   "local": "Saint Michael",
+   "latin": "Saint Michael",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BB-09",
+   "local": "Saint Peter",
+   "latin": "Saint Peter",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BB-10",
+   "local": "Saint Philip",
+   "latin": "Saint Philip",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "BB-11",
+   "local": "Saint Thomas",
+   "latin": "Saint Thomas",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added BB-01 Christ Church",
+  "added BB-02 Saint Andrew",
+  "added BB-03 Saint George",
+  "added BB-04 Saint James",
+  "added BB-05 Saint John",
+  "added BB-06 Saint Joseph",
+  "added BB-07 Saint Lucy",
+  "added BB-08 Saint Michael",
+  "added BB-09 Saint Peter",
+  "added BB-10 Saint Philip",
+  "added BB-11 Saint Thomas"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/brbEn.pdf",
+  "http://barbadospostal.com/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:BB",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": ""
+}

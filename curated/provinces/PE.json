@@ -1,0 +1,198 @@
+{
+ "country": "PE",
+ "level": "region",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "PE-AMA",
+   "local": "Amazonas",
+   "latin": "Amazonas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-ANC",
+   "local": "Ancash",
+   "latin": "Ancash",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-APU",
+   "local": "Apurímac",
+   "latin": "Apurímac",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-ARE",
+   "local": "Arequipa",
+   "latin": "Arequipa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-AYA",
+   "local": "Ayacucho",
+   "latin": "Ayacucho",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-CAJ",
+   "local": "Cajamarca",
+   "latin": "Cajamarca",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-CAL",
+   "local": "El Callao",
+   "latin": "El Callao",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-CUS",
+   "local": "Cusco",
+   "latin": "Cusco",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-HUC",
+   "local": "Huánuco",
+   "latin": "Huánuco",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-HUV",
+   "local": "Huancavelica",
+   "latin": "Huancavelica",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-ICA",
+   "local": "Ica",
+   "latin": "Ica",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-JUN",
+   "local": "Junín",
+   "latin": "Junín",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-LAL",
+   "local": "La Libertad",
+   "latin": "La Libertad",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-LAM",
+   "local": "Lambayeque",
+   "latin": "Lambayeque",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-LIM",
+   "local": "Lima",
+   "latin": "Lima",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-LMA",
+   "local": "Municipalidad Metropolitana de Lima",
+   "latin": "Municipalidad Metropolitana de Lima",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-LOR",
+   "local": "Loreto",
+   "latin": "Loreto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-MDD",
+   "local": "Madre de Dios",
+   "latin": "Madre de Dios",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-MOQ",
+   "local": "Moquegua",
+   "latin": "Moquegua",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-PAS",
+   "local": "Pasco",
+   "latin": "Pasco",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-PIU",
+   "local": "Piura",
+   "latin": "Piura",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-PUN",
+   "local": "Puno",
+   "latin": "Puno",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-SAM",
+   "local": "San Martín",
+   "latin": "San Martín",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-TAC",
+   "local": "Tacna",
+   "latin": "Tacna",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-TUM",
+   "local": "Tumbes",
+   "latin": "Tumbes",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "PE-UCA",
+   "local": "Ucayali",
+   "latin": "Ucayali",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.codigopostal.gob.pe/",
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/perEn.pdf",
+  "https://www.iso.org/obp/ui/#iso:code:3166:PE",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "25 regions + Lima Metropolitana (PE-LMA)."
+}

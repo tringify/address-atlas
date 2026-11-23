@@ -1,0 +1,83 @@
+{
+ "country": "BI",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "BI-BUHUMUZA",
+   "local": "Buhumuza",
+   "latin": "Buhumuza",
+   "iso": false,
+   "aliases": [
+    "BI-CA",
+    "BI-MY",
+    "BI-RY"
+   ]
+  },
+  {
+   "code": "BI-BUJUMBURA",
+   "local": "Bujumbura",
+   "latin": "Bujumbura",
+   "iso": false,
+   "aliases": [
+    "BI-BB",
+    "BI-BM",
+    "BI-BL",
+    "BI-CI"
+   ]
+  },
+  {
+   "code": "BI-BURUNGA",
+   "local": "Burunga",
+   "latin": "Burunga",
+   "iso": false,
+   "aliases": [
+    "BI-BR",
+    "BI-MA",
+    "BI-RT"
+   ]
+  },
+  {
+   "code": "BI-BUTANYERERA",
+   "local": "Butanyerera",
+   "latin": "Butanyerera",
+   "iso": false,
+   "aliases": [
+    "BI-KY",
+    "BI-KI",
+    "BI-NG"
+   ]
+  },
+  {
+   "code": "BI-GITEGA",
+   "local": "Gitega",
+   "latin": "Gitega",
+   "iso": false,
+   "aliases": [
+    "BI-GI",
+    "BI-KR",
+    "BI-MW"
+   ]
+  }
+ ],
+ "changes": [
+  "added BI-BUHUMUZA Buhumuza (non-ISO code)",
+  "added BI-BUJUMBURA Bujumbura (non-ISO code)",
+  "added BI-BURUNGA Burunga (non-ISO code)",
+  "added BI-BUTANYERERA Butanyerera (non-ISO code)",
+  "added BI-GITEGA Gitega (non-ISO code)"
+ ],
+ "sources": [
+  "https://en.wikipedia.org/wiki/Provinces_of_Burundi",
+  "https://www.burunditimes.com/burundis-new-governors-sworn-in-following-major-provincial-reforms/",
+  "https://www.ecoi.net/en/file/local/2136369/Burundi_Toponymic_Factfile.pdf",
+  "https://en.wikipedia.org/wiki/ISO_3166-2:BI",
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/bdiEn.pdf",
+  "https://en.wikipedia.org/wiki/Provinces_of_Burundi",
+  "https://geo-ref.net/en/bdi.htm",
+  "https://www.iso.org/obp/ui/#iso:code:3166:BI",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "low",
+ "notes": "5 provinces from the 2023 organic law, in force after the 2025 elections (governors sworn in ~4 Jul 2025). ISO 3166-2:BI still lists the 18 old provinces and has no codes for the new ones, so all 5 use CC-NAME codes. Old ISO codes are aliases of the province that took them over whole (BI-GI Gitega minus the Mahwa zone, which went to Burunga). BI-RM Rumonge (split Bujumbura/Burunga) and BI-MU Muramvya (split Bujumbura/Butanyerera/Gitega) have no single successor and are not aliased."
+}

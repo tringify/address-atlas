@@ -1,0 +1,353 @@
+{
+ "country": "RO",
+ "level": "county",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "RO-AB",
+   "local": "Alba",
+   "latin": "Alba",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-AG",
+   "local": "Argeș",
+   "latin": "Argeș",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-AR",
+   "local": "Arad",
+   "latin": "Arad",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-B",
+   "local": "București",
+   "latin": "București",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-BC",
+   "local": "Bacău",
+   "latin": "Bacău",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-BH",
+   "local": "Bihor",
+   "latin": "Bihor",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-BN",
+   "local": "Bistrița-Năsăud",
+   "latin": "Bistrița-Năsăud",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-BR",
+   "local": "Brăila",
+   "latin": "Brăila",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-BT",
+   "local": "Botoșani",
+   "latin": "Botoșani",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-BV",
+   "local": "Brașov",
+   "latin": "Brașov",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-BZ",
+   "local": "Buzău",
+   "latin": "Buzău",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-CJ",
+   "local": "Cluj",
+   "latin": "Cluj",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-CL",
+   "local": "Călărași",
+   "latin": "Călărași",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-CS",
+   "local": "Caraș-Severin",
+   "latin": "Caraș-Severin",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-CT",
+   "local": "Constanța",
+   "latin": "Constanța",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-CV",
+   "local": "Covasna",
+   "latin": "Covasna",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-DB",
+   "local": "Dâmbovița",
+   "latin": "Dâmbovița",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-DJ",
+   "local": "Dolj",
+   "latin": "Dolj",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-GJ",
+   "local": "Gorj",
+   "latin": "Gorj",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-GL",
+   "local": "Galați",
+   "latin": "Galați",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-GR",
+   "local": "Giurgiu",
+   "latin": "Giurgiu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-HD",
+   "local": "Hunedoara",
+   "latin": "Hunedoara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-HR",
+   "local": "Harghita",
+   "latin": "Harghita",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-IF",
+   "local": "Ilfov",
+   "latin": "Ilfov",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-IL",
+   "local": "Ialomița",
+   "latin": "Ialomița",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-IS",
+   "local": "Iași",
+   "latin": "Iași",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-MH",
+   "local": "Mehedinți",
+   "latin": "Mehedinți",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-MM",
+   "local": "Maramureș",
+   "latin": "Maramureș",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-MS",
+   "local": "Mureș",
+   "latin": "Mureș",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-NT",
+   "local": "Neamț",
+   "latin": "Neamț",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-OT",
+   "local": "Olt",
+   "latin": "Olt",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-PH",
+   "local": "Prahova",
+   "latin": "Prahova",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-SB",
+   "local": "Sibiu",
+   "latin": "Sibiu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-SJ",
+   "local": "Sălaj",
+   "latin": "Sălaj",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-SM",
+   "local": "Satu Mare",
+   "latin": "Satu Mare",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-SV",
+   "local": "Suceava",
+   "latin": "Suceava",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-TL",
+   "local": "Tulcea",
+   "latin": "Tulcea",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-TM",
+   "local": "Timiș",
+   "latin": "Timiș",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-TR",
+   "local": "Teleorman",
+   "latin": "Teleorman",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-VL",
+   "local": "Vâlcea",
+   "latin": "Vâlcea",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-VN",
+   "local": "Vrancea",
+   "latin": "Vrancea",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "RO-VS",
+   "local": "Vaslui",
+   "latin": "Vaslui",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added RO-AB Alba",
+  "added RO-AG Argeș",
+  "added RO-AR Arad",
+  "added RO-B București",
+  "added RO-BC Bacău",
+  "added RO-BH Bihor",
+  "added RO-BN Bistrița-Năsăud",
+  "added RO-BR Brăila",
+  "added RO-BT Botoșani",
+  "added RO-BV Brașov",
+  "added RO-BZ Buzău",
+  "added RO-CJ Cluj",
+  "added RO-CL Călărași",
+  "added RO-CS Caraș-Severin",
+  "added RO-CT Constanța",
+  "added RO-CV Covasna",
+  "added RO-DB Dâmbovița",
+  "added RO-DJ Dolj",
+  "added RO-GJ Gorj",
+  "added RO-GL Galați",
+  "added RO-GR Giurgiu",
+  "added RO-HD Hunedoara",
+  "added RO-HR Harghita",
+  "added RO-IF Ilfov",
+  "added RO-IL Ialomița",
+  "added RO-IS Iași",
+  "added RO-MH Mehedinți",
+  "added RO-MM Maramureș",
+  "added RO-MS Mureș",
+  "added RO-NT Neamț",
+  "added RO-OT Olt",
+  "added RO-PH Prahova",
+  "added RO-SB Sibiu",
+  "added RO-SJ Sălaj",
+  "added RO-SM Satu Mare",
+  "added RO-SV Suceava",
+  "added RO-TL Tulcea",
+  "added RO-TM Timiș",
+  "added RO-TR Teleorman",
+  "added RO-VL Vâlcea",
+  "added RO-VN Vrancea",
+  "added RO-VS Vaslui"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/rouEn.pdf",
+  "https://www.posta-romana.ro/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:RO",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "41 județe + București (RO-B)."
+}

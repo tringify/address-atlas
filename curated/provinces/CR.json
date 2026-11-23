@@ -1,0 +1,74 @@
+{
+ "country": "CR",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "CR-A",
+   "local": "Alajuela",
+   "latin": "Alajuela",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CR-C",
+   "local": "Cartago",
+   "latin": "Cartago",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CR-G",
+   "local": "Guanacaste",
+   "latin": "Guanacaste",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CR-H",
+   "local": "Heredia",
+   "latin": "Heredia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CR-L",
+   "local": "Limón",
+   "latin": "Limón",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CR-P",
+   "local": "Puntarenas",
+   "latin": "Puntarenas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CR-SJ",
+   "local": "San José",
+   "latin": "San José",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added CR-A Alajuela",
+  "added CR-C Cartago",
+  "added CR-G Guanacaste",
+  "added CR-H Heredia",
+  "added CR-L Limón",
+  "added CR-P Puntarenas",
+  "added CR-SJ San José"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/criEn.pdf",
+  "https://correos.go.cr/codigo-postal/",
+  "https://en.wikipedia.org/wiki/Postal_codes_in_Costa_Rica",
+  "https://www.iso.org/obp/ui/#iso:code:3166:CR",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": ""
+}

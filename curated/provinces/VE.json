@@ -1,0 +1,194 @@
+{
+ "country": "VE",
+ "level": "state",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "VE-A",
+   "local": "Distrito Capital",
+   "latin": "Distrito Capital",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-B",
+   "local": "Anzoátegui",
+   "latin": "Anzoátegui",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-C",
+   "local": "Apure",
+   "latin": "Apure",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-D",
+   "local": "Aragua",
+   "latin": "Aragua",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-E",
+   "local": "Barinas",
+   "latin": "Barinas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-F",
+   "local": "Bolívar",
+   "latin": "Bolívar",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-G",
+   "local": "Carabobo",
+   "latin": "Carabobo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-H",
+   "local": "Cojedes",
+   "latin": "Cojedes",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-I",
+   "local": "Falcón",
+   "latin": "Falcón",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-J",
+   "local": "Guárico",
+   "latin": "Guárico",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-K",
+   "local": "Lara",
+   "latin": "Lara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-L",
+   "local": "Mérida",
+   "latin": "Mérida",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-M",
+   "local": "Miranda",
+   "latin": "Miranda",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-N",
+   "local": "Monagas",
+   "latin": "Monagas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-O",
+   "local": "Nueva Esparta",
+   "latin": "Nueva Esparta",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-P",
+   "local": "Portuguesa",
+   "latin": "Portuguesa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-R",
+   "local": "Sucre",
+   "latin": "Sucre",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-S",
+   "local": "Táchira",
+   "latin": "Táchira",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-T",
+   "local": "Trujillo",
+   "latin": "Trujillo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-U",
+   "local": "Yaracuy",
+   "latin": "Yaracuy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-V",
+   "local": "Zulia",
+   "latin": "Zulia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-W",
+   "local": "Dependencias Federales",
+   "latin": "Dependencias Federales",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-X",
+   "local": "La Guaira",
+   "latin": "La Guaira",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-Y",
+   "local": "Delta Amacuro",
+   "latin": "Delta Amacuro",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VE-Z",
+   "local": "Amazonas",
+   "latin": "Amazonas",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "renamed VE-A: Distrito Federal -> Distrito Capital",
+  "renamed VE-X: Vargas -> La Guaira (2019)"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/venEn.pdf",
+  "http://www.ipostel.gob.ve",
+  "https://www.iso.org/obp/ui/#iso:code:3166:VE",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "23 states + Distrito Capital + Dependencias Federales (VE-W; sparsely inhabited islands, kept because Google live lists it)."
+}

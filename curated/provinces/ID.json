@@ -1,0 +1,292 @@
+{
+ "country": "ID",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "ID-AC",
+   "local": "Aceh",
+   "latin": "Aceh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-BA",
+   "local": "Bali",
+   "latin": "Bali",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-BB",
+   "local": "Kepulauan Bangka Belitung",
+   "latin": "Kepulauan Bangka Belitung",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-BE",
+   "local": "Bengkulu",
+   "latin": "Bengkulu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-BT",
+   "local": "Banten",
+   "latin": "Banten",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-GO",
+   "local": "Gorontalo",
+   "latin": "Gorontalo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-JA",
+   "local": "Jambi",
+   "latin": "Jambi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-JB",
+   "local": "Jawa Barat",
+   "latin": "Jawa Barat",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-JI",
+   "local": "Jawa Timur",
+   "latin": "Jawa Timur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-JK",
+   "local": "DKI Jakarta",
+   "latin": "DKI Jakarta",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-JT",
+   "local": "Jawa Tengah",
+   "latin": "Jawa Tengah",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-KB",
+   "local": "Kalimantan Barat",
+   "latin": "Kalimantan Barat",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-KI",
+   "local": "Kalimantan Timur",
+   "latin": "Kalimantan Timur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-KR",
+   "local": "Kepulauan Riau",
+   "latin": "Kepulauan Riau",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-KS",
+   "local": "Kalimantan Selatan",
+   "latin": "Kalimantan Selatan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-KT",
+   "local": "Kalimantan Tengah",
+   "latin": "Kalimantan Tengah",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-KU",
+   "local": "Kalimantan Utara",
+   "latin": "Kalimantan Utara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-LA",
+   "local": "Lampung",
+   "latin": "Lampung",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-MA",
+   "local": "Maluku",
+   "latin": "Maluku",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-MU",
+   "local": "Maluku Utara",
+   "latin": "Maluku Utara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-NB",
+   "local": "Nusa Tenggara Barat",
+   "latin": "Nusa Tenggara Barat",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-NT",
+   "local": "Nusa Tenggara Timur",
+   "latin": "Nusa Tenggara Timur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-PA",
+   "local": "Papua",
+   "latin": "Papua",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-PB",
+   "local": "Papua Barat",
+   "latin": "Papua Barat",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-PD",
+   "local": "Papua Barat Daya",
+   "latin": "Papua Barat Daya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-PE",
+   "local": "Papua Pegunungan",
+   "latin": "Papua Pegunungan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-PS",
+   "local": "Papua Selatan",
+   "latin": "Papua Selatan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-PT",
+   "local": "Papua Tengah",
+   "latin": "Papua Tengah",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-RI",
+   "local": "Riau",
+   "latin": "Riau",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-SA",
+   "local": "Sulawesi Utara",
+   "latin": "Sulawesi Utara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-SB",
+   "local": "Sumatera Barat",
+   "latin": "Sumatera Barat",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-SG",
+   "local": "Sulawesi Tenggara",
+   "latin": "Sulawesi Tenggara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-SN",
+   "local": "Sulawesi Selatan",
+   "latin": "Sulawesi Selatan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-SR",
+   "local": "Sulawesi Barat",
+   "latin": "Sulawesi Barat",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-SS",
+   "local": "Sumatera Selatan",
+   "latin": "Sumatera Selatan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-ST",
+   "local": "Sulawesi Tengah",
+   "latin": "Sulawesi Tengah",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-SU",
+   "local": "Sumatera Utara",
+   "latin": "Sumatera Utara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "ID-YO",
+   "local": "Yogyakarta",
+   "latin": "Yogyakarta",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added ID-PD Papua Barat Daya",
+  "added ID-PE Papua Pegunungan",
+  "added ID-PS Papua Selatan",
+  "added ID-PT Papua Tengah"
+ ],
+ "sources": [
+  "https://github.com/ipregistry/iso3166/commit/9f8c9fb33b",
+  "https://en.wikipedia.org/wiki/ISO_3166-2:ID",
+  "https://www.geonames.org/ID/administrative-division-indonesia.html",
+  "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+  "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/ID",
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/idnEn.pdf",
+  "https://www.posindonesia.co.id/id/blogs/cara-penulisan-alamat-yang-benar-untuk-mengirim-paket",
+  "https://www.iso.org/obp/ui/#iso:code:3166:ID",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "38 provinces incl. the 4 created in 2022 (Papua Selatan ID-PS, Papua Tengah ID-PT, Papua Pegunungan ID-PE, Papua Barat Daya ID-PD; ISO 2023). The 7 ISO geographical units (ID-JW, KA, ML, NU, PP, SL, SM) are not used in addresses. ISO corrected the ID-PE spelling to \"Papua Pegunungan\" in 2026 (seen in ISO data between 2026-05-07 and 2026-08-26); iso-codes still has \"Papua Pengunungan\". ID-JK is written \"DKI Jakarta\" as in addresses (ISO name: \"Jakarta Raya\")."
+}

@@ -1,0 +1,168 @@
+{
+ "AQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Antarktîki"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Âzûâ Âlânde"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "cf CLDR sg \"Sênt-Helêna\"",
+  "provenance": "curated",
+  "value": "Sên-Bärtêlêmi"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Holände tî Karaïbe"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Zûâ Buvê"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Âzûâ Kôkôsi"
+ },
+ "CW": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Kürasao"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Zûâ tî Noële"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sahärä tî Ouêsti"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Âzûâ Ferôe"
+ },
+ "GG": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Gerenêsi"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "mbongo \"south\" as in draft SS \"Sudäan-Mbongo\"",
+  "provenance": "curated",
+  "value": "Zorzïi tî Mbongo na Âzûâ Sandwich tî Mbongo"
+ },
+ "HK": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Hông-Kông"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Âzûâ Heard na McDonald"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Zûâ Man"
+ },
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Sêse tî Anglëe na Ngûyämä tî Ênnde"
+ },
+ "JE": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Zerzëe"
+ },
+ "ME": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR sg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Montenegro"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sên-Märtën"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "cf CLDR sg MP \"Âzûâ Märïâni tî Banga\"",
+  "provenance": "curated",
+  "value": "Masedönni tî Banga"
+ },
+ "MO": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Makâo"
+ },
+ "RS": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Serbïi"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Svalbard na Jan Mayen"
+ },
+ "SS": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Sudäan-Mbongo"
+ },
+ "SX": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR sg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Âsêse tî Farânzi tî Mbongo"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "constructed on CLDR sg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Âzûâ Kêtê tî ÂLeaa-Ôko tî Amerika"
+ },
+ "XK": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR sg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Kosovo"
+ }
+}

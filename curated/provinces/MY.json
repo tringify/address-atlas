@@ -1,0 +1,145 @@
+{
+ "country": "MY",
+ "level": "state",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "MY-01",
+   "local": "Johor",
+   "latin": "Johor",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-02",
+   "local": "Kedah",
+   "latin": "Kedah",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-03",
+   "local": "Kelantan",
+   "latin": "Kelantan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-04",
+   "local": "Melaka",
+   "latin": "Melaka",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-05",
+   "local": "Negeri Sembilan",
+   "latin": "Negeri Sembilan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-06",
+   "local": "Pahang",
+   "latin": "Pahang",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-07",
+   "local": "Pulau Pinang",
+   "latin": "Pulau Pinang",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-08",
+   "local": "Perak",
+   "latin": "Perak",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-09",
+   "local": "Perlis",
+   "latin": "Perlis",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-10",
+   "local": "Selangor",
+   "latin": "Selangor",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-11",
+   "local": "Terengganu",
+   "latin": "Terengganu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-12",
+   "local": "Sabah",
+   "latin": "Sabah",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-13",
+   "local": "Sarawak",
+   "latin": "Sarawak",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-14",
+   "local": "Wilayah Persekutuan Kuala Lumpur",
+   "latin": "Wilayah Persekutuan Kuala Lumpur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-15",
+   "local": "Wilayah Persekutuan Labuan",
+   "latin": "Wilayah Persekutuan Labuan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MY-16",
+   "local": "Wilayah Persekutuan Putrajaya",
+   "latin": "Wilayah Persekutuan Putrajaya",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added MY-01 Johor",
+  "added MY-02 Kedah",
+  "added MY-03 Kelantan",
+  "added MY-04 Melaka",
+  "added MY-05 Negeri Sembilan",
+  "added MY-06 Pahang",
+  "added MY-07 Pulau Pinang",
+  "added MY-08 Perak",
+  "added MY-09 Perlis",
+  "added MY-10 Selangor",
+  "added MY-11 Terengganu",
+  "added MY-12 Sabah",
+  "added MY-13 Sarawak",
+  "added MY-14 Wilayah Persekutuan Kuala Lumpur",
+  "added MY-15 Wilayah Persekutuan Labuan",
+  "added MY-16 Wilayah Persekutuan Putrajaya"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mysEn.pdf",
+  "https://www.pos.com.my/",
+  "https://www.iso.org/obp/ui/#iso:code:3166:MY",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "13 states + 3 federal territories (Kuala Lumpur, Labuan, Putrajaya)."
+}

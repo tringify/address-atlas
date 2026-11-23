@@ -1,0 +1,161 @@
+{
+ "AQ": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Antarctica"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "constructed on CLDR sn pattern \"Zvitsuwa zve…\"",
+  "provenance": "curated",
+  "value": "Zvitsuwa zveÅland"
+ },
+ "BL": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Saint Barthélemy"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Caribbean Netherlands"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "constructed on CLDR sn pattern \"Chitsuwa cheNorfolk\"",
+  "provenance": "curated",
+  "value": "Chitsuwa cheBouvet"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "constructed on CLDR sn pattern",
+  "provenance": "curated",
+  "value": "Zvitsuwa zveCocos (Keeling)"
+ },
+ "CW": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Curaçao"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "constructed on CLDR sn pattern",
+  "provenance": "curated",
+  "value": "Chitsuwa cheChristmas"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Western Sahara"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "constructed on CLDR sn pattern",
+  "provenance": "curated",
+  "value": "Zvitsuwa zveFaroe"
+ },
+ "GG": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Guernsey"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "constructed on CLDR sn pattern",
+  "provenance": "curated",
+  "value": "Zvitsuwa zveSouth Georgia neSouth Sandwich"
+ },
+ "HK": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Hong Kong"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "constructed on CLDR sn pattern",
+  "provenance": "curated",
+  "value": "Zvitsuwa zveHeard neMcDonald"
+ },
+ "IM": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Isle of Man"
+ },
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold); English form",
+  "provenance": "curated",
+  "value": "British Indian Ocean Territory"
+ },
+ "JE": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Jersey"
+ },
+ "ME": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Montenegro"
+ },
+ "MF": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Saint Martin"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "North Macedonia"
+ },
+ "MO": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Macao"
+ },
+ "PS": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Palestine"
+ },
+ "RS": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Serbia"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "conjunction ne- as in CLDR sn \"Boznia ne Herzegovina\"",
+  "provenance": "curated",
+  "value": "Svalbard neJan Mayen"
+ },
+ "SS": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "South Sudan"
+ },
+ "SX": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "French Southern Territories"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "constructed; cf CLDR sn \"Zvitsuwa zveAmerika\"",
+  "provenance": "curated",
+  "value": "Zvitsuwa zviri kunze zveAmerika"
+ },
+ "XK": {
+  "note": "international/English form, as CLDR sn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Kosovo"
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "AQ": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Antaktiki"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Visiwa vya Aland"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "cf CLDR ki \"Santahelena\"",
+  "provenance": "curated",
+  "value": "Santabarthelemi"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Uholanzi ya Karibi"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Kisiwa cha Bouvet"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Visiwa vya Cocos (Keeling)"
+ },
+ "CW": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Kurakao"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Kisiwa cha Krismasi"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Sahara Magharibi"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Visiwa vya Faroe"
+ },
+ "GG": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR ki uses for comparable territories",
+  "provenance": "curated",
+  "value": "Guernsey"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Jojia Kusini na Visiwa vya Sandwich Kusini"
+ },
+ "HK": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR ki uses for comparable territories",
+  "provenance": "curated",
+  "value": "Hong Kong"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Kisiwa cha Heard na Visiwa vya McDonald"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Kisiwa cha Man"
+ },
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Eneo la Uingereza katika Bahari Hindi"
+ },
+ "JE": {
+  "note": "international/English form, as CLDR ki uses for comparable territories",
+  "provenance": "curated",
+  "value": "Jersey"
+ },
+ "ME": {
+  "note": "international/English form, as CLDR ki uses for comparable territories",
+  "provenance": "curated",
+  "value": "Montenegro"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "cf CLDR ki \"Santahelena\"",
+  "provenance": "curated",
+  "value": "Santamartini"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Masedonia ya Kaskazini"
+ },
+ "MO": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Makao"
+ },
+ "RS": {
+  "note": "international/English form, as CLDR ki uses for comparable territories",
+  "provenance": "curated",
+  "value": "Serbia"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Svalbard na Jan Mayen"
+ },
+ "SS": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Sudani Kusini"
+ },
+ "SX": {
+  "note": "international/English form, as CLDR ki uses for comparable territories",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Maeneo ya Kusini ya Ufaransa"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "Swahili-based form, as CLDR ki uses (cf Visiwa vya Solomon)",
+  "provenance": "curated",
+  "value": "Visiwa Vidogo vya Nje vya Marekani"
+ },
+ "XK": {
+  "note": "international/English form, as CLDR ki uses for comparable territories",
+  "provenance": "curated",
+  "value": "Kosovo"
+ }
+}

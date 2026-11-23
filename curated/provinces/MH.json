@@ -1,0 +1,14 @@
+{
+ "country": "MH",
+ "level": "state",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [],
+ "changes": [],
+ "sources": [
+  "https://pe.usps.com/text/pub28/28c2_010.htm",
+  "https://www.iso.org/obp/ui/#iso:code:3166:MH",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "No list: the state slot always holds 'MH'. USPS-style addresses (Majuro MH 96960) use MH; the 24 ISO 3166-2:MH municipalities and 2 chains are not written in the state slot."
+}

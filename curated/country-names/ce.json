@@ -1,0 +1,12 @@
+{
+ "IO": {
+  "value": "ХӀиндин Ӏапказ чуьра Британин мохк",
+  "provenance": "curated",
+  "checked": true
+ },
+ "MK": {
+  "note": "cf CLDR ce KP \"Къилбаседа Корей\"",
+  "provenance": "curated",
+  "value": "Къилбаседа Македони"
+ }
+}

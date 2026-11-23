@@ -1,0 +1,29 @@
+{
+ "BQ": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Vuolleeatnamat Karibe"
+ },
+ "IO": {
+  "confidence": "low",
+  "note": "constructed on CLDR se patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Brittania India ábi guovlu"
+ },
+ "MK": {
+  "provenance": "curated",
+  "value": "Davvi-Makedonia"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "constructed on CLDR se patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Frankriikka lulit guovllut"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "cf CLDR se \"AOS Virgin-sullot\"",
+  "provenance": "curated",
+  "value": "AOS olggobeale sullot"
+ }
+}

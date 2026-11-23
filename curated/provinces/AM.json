@@ -1,0 +1,93 @@
+{
+ "country": "AM",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "AM-AG",
+   "local": "Արագածոտն",
+   "latin": "Aragatsotn",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AM-AR",
+   "local": "Արարատ",
+   "latin": "Ararat",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AM-AV",
+   "local": "Արմավիր",
+   "latin": "Armavir",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AM-ER",
+   "local": "Երևան",
+   "latin": "Yerevan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AM-GR",
+   "local": "Գեղարքունիք",
+   "latin": "Gegharkunik",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AM-KT",
+   "local": "Կոտայք",
+   "latin": "Kotayk",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AM-LO",
+   "local": "Լոռի",
+   "latin": "Lori",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AM-SH",
+   "local": "Շիրակ",
+   "latin": "Shirak",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AM-SU",
+   "local": "Սյունիք",
+   "latin": "Syunik",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AM-TV",
+   "local": "Տավուշ",
+   "latin": "Tavush",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "AM-VD",
+   "local": "Վայոց ձոր",
+   "latin": "Vayots Dzor",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/armEn.pdf",
+  "https://www.haypost.am",
+  "https://www.iso.org/obp/ui/#iso:code:3166:AM",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "10 marzer + Yerevan. latin = official English forms (Google live), since the ISO transliteration (e.g. \"Aragac̣otn\") is not what addresses use. Optional on mail."
+}

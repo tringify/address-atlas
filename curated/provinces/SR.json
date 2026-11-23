@@ -1,0 +1,85 @@
+{
+ "country": "SR",
+ "level": "district",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "SR-BR",
+   "local": "Brokopondo",
+   "latin": "Brokopondo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SR-CM",
+   "local": "Commewijne",
+   "latin": "Commewijne",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SR-CR",
+   "local": "Coronie",
+   "latin": "Coronie",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SR-MA",
+   "local": "Marowijne",
+   "latin": "Marowijne",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SR-NI",
+   "local": "Nickerie",
+   "latin": "Nickerie",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SR-PM",
+   "local": "Paramaribo",
+   "latin": "Paramaribo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SR-PR",
+   "local": "Para",
+   "latin": "Para",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SR-SA",
+   "local": "Saramacca",
+   "latin": "Saramacca",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SR-SI",
+   "local": "Sipaliwini",
+   "latin": "Sipaliwini",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "SR-WA",
+   "local": "Wanica",
+   "latin": "Wanica",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.iso.org/obp/ui/#iso:code:3166:SR",
+  "https://www.iso.org/obp/ui/#iso:code:3166:SR",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": ""
+}

@@ -1,0 +1,192 @@
+{
+ "country": "MN",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "MN-035",
+   "local": "Орхон",
+   "latin": "Orhon",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-037",
+   "local": "Дархан-Уул",
+   "latin": "Darhan uul",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-039",
+   "local": "Хэнтий",
+   "latin": "Hentiy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-041",
+   "local": "Хөвсгөл",
+   "latin": "Hövsgöl",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-043",
+   "local": "Ховд",
+   "latin": "Hovd",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-046",
+   "local": "Увс",
+   "latin": "Uvs",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-047",
+   "local": "Төв",
+   "latin": "Töv",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-049",
+   "local": "Сэлэнгэ",
+   "latin": "Selenge",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-051",
+   "local": "Сүхбаатар",
+   "latin": "Sühbaatar",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-053",
+   "local": "Өмнөговь",
+   "latin": "Ömnögovĭ",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-055",
+   "local": "Өвөрхангай",
+   "latin": "Övörhangay",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-057",
+   "local": "Завхан",
+   "latin": "Dzavhan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-059",
+   "local": "Дундговь",
+   "latin": "Dundgovĭ",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-061",
+   "local": "Дорнод",
+   "latin": "Dornod",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-063",
+   "local": "Дорноговь",
+   "latin": "Dornogovĭ",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-064",
+   "local": "Говьсүмбэр",
+   "latin": "Govĭ-Sümber",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-065",
+   "local": "Говь-Алтай",
+   "latin": "Govĭ-Altay",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-067",
+   "local": "Булган",
+   "latin": "Bulgan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-069",
+   "local": "Баянхонгор",
+   "latin": "Bayanhongor",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-071",
+   "local": "Баян-Өлгий",
+   "latin": "Bayan-Ölgiy",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-073",
+   "local": "Архангай",
+   "latin": "Arhangay",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MN-1",
+   "local": "Улаанбаатар",
+   "latin": "Ulaanbaatar",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "added MN-035 Orhon",
+  "added MN-037 Darhan uul",
+  "added MN-039 Hentiy",
+  "added MN-041 Hövsgöl",
+  "added MN-043 Hovd",
+  "added MN-046 Uvs",
+  "added MN-047 Töv",
+  "added MN-049 Selenge",
+  "added MN-051 Sühbaatar",
+  "added MN-053 Ömnögovĭ",
+  "added MN-055 Övörhangay",
+  "added MN-057 Dzavhan",
+  "added MN-059 Dundgovĭ",
+  "added MN-061 Dornod",
+  "added MN-063 Dornogovĭ",
+  "added MN-064 Govĭ-Sümber",
+  "added MN-065 Govĭ-Altay",
+  "added MN-067 Bulgan",
+  "added MN-069 Bayanhongor",
+  "added MN-071 Bayan-Ölgiy",
+  "added MN-073 Arhangay",
+  "added MN-1 Ulaanbaatar"
+ ],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mngEn.pdf",
+  "https://www.iso.org/obp/ui/#iso:code:3166:MN",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "21 aimags + Ulaanbaatar (MN-1)."
+}

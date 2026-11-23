@@ -1,0 +1,29 @@
+Unicode CLDR release 49 (cldrVersion "49")
+
+Country names (localeDisplayNames.territories, standard form; -alt-short/-alt-variant ignored):
+  npm cldr-localenames-full@49.0.0
+    https://registry.npmjs.org/cldr-localenames-full/-/cldr-localenames-full-49.0.0.tgz
+    sha256 d00bafb534848f142b3645d6046be81a1094fb00e809cd2c519f5e031198ba11
+  npm cldr-core@49.0.0 (parentLocales/availableLocales reference)
+    https://registry.npmjs.org/cldr-core/-/cldr-core-49.0.0.tgz
+    sha256 085b1c7d83f00692505c79d575c21eea89534466eb3e70b455688851a45c87bc
+
+Subdivision names (not published in the cldr-json packages), parent locales, aliases:
+  cldr-common-49.zip (official release archive, common/subdivisions/*.xml, common/main/*.xml,
+  common/supplemental/{supplementalData,supplementalMetadata}.xml)
+    https://unicode.org/Public/cldr/49/cldr-common-49.zip
+    sha256 78403d8d6fb1fed6e208bf9001bf5be00bb5abfd9f8110dae062bf49309d6a89
+  (= github unicode-org/cldr tag release-49, tag object 96e54b273d2da4ec6fbad350ba19ff23fa24a588)
+
+Method (build.py):
+  - Inheritance: locale > parentLocale (supplementalData, non-component) or truncation > ... > root.
+    Root supplies no territory/subdivision names, so it never fills a value.
+  - Countries: resolved from the unresolved XML in common/main at cldr-json's draft threshold
+    (approved/contributed), then checked against cldr-localenames-full@49.0.0: 0 mismatches over all
+    139 mapped locales. XML values with lower draft status (unconfirmed/provisional) are NOT used;
+    they are listed in missing.tsv with the value quoted in the reason.
+  - Subdivisions: common/subdivisions/<locale>.xml, all draft levels accepted (almost all CLDR
+    subdivision names are draft="provisional"); draft status per value is in subdivisions-source.tsv.
+    Values are verbatim, including CLDR's own disambiguating superscripts (e.g. "…²"; 538 values).
+  - countries-source.tsv / subdivisions-source.tsv record the CLDR locale each value came from
+    (own vs inherited).

@@ -1,0 +1,239 @@
+{
+ "country": "MX",
+ "level": "state",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "MX-AGU",
+   "local": "Aguascalientes",
+   "latin": "Aguascalientes",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-BCN",
+   "local": "Baja California",
+   "latin": "Baja California",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-BCS",
+   "local": "Baja California Sur",
+   "latin": "Baja California Sur",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-CAM",
+   "local": "Campeche",
+   "latin": "Campeche",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-CHH",
+   "local": "Chihuahua",
+   "latin": "Chihuahua",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-CHP",
+   "local": "Chiapas",
+   "latin": "Chiapas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-CMX",
+   "local": "Ciudad de México",
+   "latin": "Ciudad de México",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-COA",
+   "local": "Coahuila de Zaragoza",
+   "latin": "Coahuila de Zaragoza",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-COL",
+   "local": "Colima",
+   "latin": "Colima",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-DUR",
+   "local": "Durango",
+   "latin": "Durango",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-GRO",
+   "local": "Guerrero",
+   "latin": "Guerrero",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-GUA",
+   "local": "Guanajuato",
+   "latin": "Guanajuato",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-HID",
+   "local": "Hidalgo",
+   "latin": "Hidalgo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-JAL",
+   "local": "Jalisco",
+   "latin": "Jalisco",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-MEX",
+   "local": "México",
+   "latin": "México",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-MIC",
+   "local": "Michoacán de Ocampo",
+   "latin": "Michoacán de Ocampo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-MOR",
+   "local": "Morelos",
+   "latin": "Morelos",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-NAY",
+   "local": "Nayarit",
+   "latin": "Nayarit",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-NLE",
+   "local": "Nuevo León",
+   "latin": "Nuevo León",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-OAX",
+   "local": "Oaxaca",
+   "latin": "Oaxaca",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-PUE",
+   "local": "Puebla",
+   "latin": "Puebla",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-QUE",
+   "local": "Querétaro",
+   "latin": "Querétaro",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-ROO",
+   "local": "Quintana Roo",
+   "latin": "Quintana Roo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-SIN",
+   "local": "Sinaloa",
+   "latin": "Sinaloa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-SLP",
+   "local": "San Luis Potosí",
+   "latin": "San Luis Potosí",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-SON",
+   "local": "Sonora",
+   "latin": "Sonora",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-TAB",
+   "local": "Tabasco",
+   "latin": "Tabasco",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-TAM",
+   "local": "Tamaulipas",
+   "latin": "Tamaulipas",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-TLA",
+   "local": "Tlaxcala",
+   "latin": "Tlaxcala",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-VER",
+   "local": "Veracruz de Ignacio de la Llave",
+   "latin": "Veracruz de Ignacio de la Llave",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-YUC",
+   "local": "Yucatán",
+   "latin": "Yucatán",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MX-ZAC",
+   "local": "Zacatecas",
+   "latin": "Zacatecas",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx",
+  "https://www.iso.org/obp/ui/#iso:code:3166:MX",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": ""
+}

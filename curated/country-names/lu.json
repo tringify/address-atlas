@@ -1,0 +1,169 @@
+{
+ "AQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Antaletike"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Lutanda lua Alande"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "cf CLDR lu \"Santu eleni\"",
+  "provenance": "curated",
+  "value": "Santu Batelemi"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Olandɛ wa Karaibe"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Lutanda lua Buve"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Lutanda lua Kokosi"
+ },
+ "CW": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Kurasao"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Lutanda lua Noele"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "French-derived; constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sahara Okidentale"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Lutanda lua Feroe"
+ },
+ "GG": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Gelenezi"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Zeorzi wa Sudi ne Lutanda lua Sandwich wa Sudi"
+ },
+ "HK": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR lu uses for comparable territories",
+  "provenance": "curated",
+  "value": "Hong Kong"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Lutanda lua Heard ne McDonald"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Lutanda lua Man"
+ },
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Lutanda lwa Angeletele ku mbu wa Indiya"
+ },
+ "JE": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Zelezi"
+ },
+ "ME": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Monteneglo"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Santu Martin"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "cf CLDR lu MP \"Lutanda lua Mariane wa muulu\"",
+  "provenance": "curated",
+  "value": "Masedwane wa muulu"
+ },
+ "MO": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Makau"
+ },
+ "RS": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Serbi"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Svalbard ne Jan Mayen"
+ },
+ "SS": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Suda wa Sudi"
+ },
+ "SX": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR lu uses for comparable territories",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Lutanda lua Nfalanse wa Sudi"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "constructed on CLDR lu patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Lutanda Lutupu lua Ameriki"
+ },
+ "XK": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR lu uses for comparable territories",
+  "provenance": "curated",
+  "value": "Kosovo"
+ }
+}

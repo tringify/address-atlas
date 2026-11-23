@@ -1,0 +1,30 @@
+our_code	cldr_id	notes
+AU-JBT		id aujbt not in any CLDR 49 subdivisions file
+BS-ABACO		island group split across ISO districts bsco/bsno/bsso; no single CLDR id
+BS-ANDROS		island split across ISO districts bscs/bsns/bssa (+bsmc); no single CLDR id
+BS-CROOKED_ISLAND	bsck	ISO BS-CK Crooked Island and Long Cay district
+BS-ELEUTHERA		island split across ISO districts bsce/bsne/bsse (+bshi); no single CLDR id
+BS-GRAND_BAHAMA		island split across ISO districts bseg/bswg/bsfp; no single CLDR id
+CV-FOGO		island, not an ISO 3166-2 unit (municipalities cvcf/cvmo/cvsf); no CLDR id
+CV-SANTIAGO		island, not an ISO 3166-2 unit (9 municipalities); no CLDR id
+CV-SANTO_ANTAO		island, not an ISO 3166-2 unit (cvpa/cvpn/cvrg); no CLDR id
+CV-SAO_NICOLAU		island, not an ISO 3166-2 unit (cvrb/cvts); no CLDR id
+HK-KOWLOON		ISO 3166-2 defines no HK subdivisions; no CLDR id
+HK-HONG_KONG_ISLAND		ISO 3166-2 defines no HK subdivisions; no CLDR id
+HK-NEW_TERRITORIES		ISO 3166-2 defines no HK subdivisions; no CLDR id
+IT-GA		id itga not in any CLDR 49 subdivisions file
+IT-SD		id itsd not in any CLDR 49 subdivisions file
+KY-CAYMAN_BRAC		ISO 3166-2 defines no KY subdivisions; no CLDR id
+KY-GRAND_CAYMAN		ISO 3166-2 defines no KY subdivisions; no CLDR id
+KY-LITTLE_CAYMAN		ISO 3166-2 defines no KY subdivisions; no CLDR id
+RU-RESPUBLIKA_KRYM	ua43	same territory as ISO UA-43 (Crimea); CLDR has it only under UA
+RU-SEVASTOPOL	ua40	same territory as ISO UA-40 (Sevastopol); CLDR has it only under UA
+TV-NIULAKITA		not an ISO 3166-2 unit (administered with Niutao, tvnit); no CLDR id
+TW-KINMEN_COUNTY	twkin	ISO TW-KIN Kinmen County
+TW-LIENCHIANG_COUNTY	twlie	ISO TW-LIE Lienchiang County
+US-AA		id usaa not in any CLDR 49 subdivisions file (US military postal code, not an ISO 3166-2 subdivision)
+US-AE		id usae not in any CLDR 49 subdivisions file (US military postal code, not an ISO 3166-2 subdivision)
+US-AP		id usap not in any CLDR 49 subdivisions file (US military postal code, not an ISO 3166-2 subdivision)
+US-MH		id usmh not in any CLDR 49 subdivisions file (CLDR treats MH as a territory)
+US-FM		id usfm not in any CLDR 49 subdivisions file (CLDR treats FM as a territory)
+US-PW		id uspw not in any CLDR 49 subdivisions file (CLDR treats PW as a territory)

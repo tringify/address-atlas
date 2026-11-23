@@ -1,0 +1,96 @@
+{
+ "country": "MZ",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "MZ-A",
+   "local": "Niassa",
+   "latin": "Niassa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MZ-B",
+   "local": "Manica",
+   "latin": "Manica",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MZ-G",
+   "local": "Gaza",
+   "latin": "Gaza",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MZ-I",
+   "local": "Inhambane",
+   "latin": "Inhambane",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MZ-L",
+   "local": "Maputo",
+   "latin": "Maputo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MZ-MPM",
+   "local": "Maputo",
+   "latin": "Maputo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MZ-N",
+   "local": "Nampula",
+   "latin": "Nampula",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MZ-P",
+   "local": "Cabo Delgado",
+   "latin": "Cabo Delgado",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MZ-Q",
+   "local": "Zambézia",
+   "latin": "Zambézia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MZ-S",
+   "local": "Sofala",
+   "latin": "Sofala",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "MZ-T",
+   "local": "Tete",
+   "latin": "Tete",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/mozEn.pdf",
+  "https://www.incm.gov.mz/legislacao-postal/",
+  "https://www.incm.gov.mz/?sdm_process_download=1&download_id=556",
+  "https://www.incm.gov.mz/novo-codigo-de-enderecamento-postal/",
+  "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+  "https://www.iso.org/obp/ui/#iso:code:3166:MZ",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "MZ-MPM is Maputo city, MZ-L Maputo province."
+}

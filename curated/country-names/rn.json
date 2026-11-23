@@ -1,0 +1,168 @@
+{
+ "AQ": {
+  "confidence": "low",
+  "note": "as in Kinyarwanda",
+  "provenance": "curated",
+  "value": "Antarigitika"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Ibirwa bya Alandi"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sen Baritelemi"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Ubuholandi bwo mu Karayibe"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Izinga rya Buve"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Ibirwa bya Kokosi"
+ },
+ "CW": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Kurasawo"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Izinga rya Noheli"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sahara y’Uburengerazuba"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Ibirwa bya Farowe"
+ },
+ "GG": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Gerunezi"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Jeworujiya y’Epfo n’Ibirwa bya Sandwich y’Epfo"
+ },
+ "HK": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR rn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Hong Kong"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Izinga rya Heard n’Ibirwa bya McDonald"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Izinga rya Man"
+ },
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Intara y’Ubwongereza yo mu birwa by’Abahindi"
+ },
+ "JE": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Jerezi"
+ },
+ "ME": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Montenegoro"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sen Maritini"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "cf CLDR rn MP \"… mu majaruguru\"",
+  "provenance": "curated",
+  "value": "Masedoniya yo mu Majaruguru"
+ },
+ "MO": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Makawo"
+ },
+ "RS": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Seribiya"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Svalbard na Jan Mayen"
+ },
+ "SS": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sudani y’Epfo"
+ },
+ "SX": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR rn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Intara z’Ubufaransa zo mu Majepfo"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "constructed on CLDR rn patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Ibirwa Bito biri kure ya Leta Zunze Ubumwe za Amerika"
+ },
+ "XK": {
+  "note": "international/English form, as CLDR rn uses for comparable territories",
+  "provenance": "curated",
+  "value": "Kosovo"
+ }
+}

@@ -1,0 +1,206 @@
+{
+ "country": "EG",
+ "level": "governorate",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "EG-ALX",
+   "local": "الإسكندرية",
+   "latin": "Alexandria",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-ASN",
+   "local": "أسوان",
+   "latin": "Aswan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-AST",
+   "local": "أسيوط",
+   "latin": "Asyut",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-BA",
+   "local": "البحر الأحمر",
+   "latin": "Red Sea",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-BH",
+   "local": "البحيرة",
+   "latin": "Beheira",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-BNS",
+   "local": "بني سويف",
+   "latin": "Beni Suef",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-C",
+   "local": "القاهرة",
+   "latin": "Cairo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-DK",
+   "local": "الدقهلية",
+   "latin": "Dakahlia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-DT",
+   "local": "دمياط",
+   "latin": "Damietta",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-FYM",
+   "local": "الفيوم",
+   "latin": "Faiyum",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-GH",
+   "local": "الغربية",
+   "latin": "Gharbia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-GZ",
+   "local": "الجيزة",
+   "latin": "Giza",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-IS",
+   "local": "الإسماعيلية",
+   "latin": "Ismailia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-JS",
+   "local": "جنوب سيناء",
+   "latin": "South Sinai",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-KB",
+   "local": "القليوبية",
+   "latin": "Qalyubia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-KFS",
+   "local": "كفر الشيخ",
+   "latin": "Kafr el-Sheikh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-KN",
+   "local": "قنا",
+   "latin": "Qena",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-LX",
+   "local": "الأقصر",
+   "latin": "Luxor",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-MN",
+   "local": "المنيا",
+   "latin": "Minya",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-MNF",
+   "local": "المنوفية",
+   "latin": "Monufia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-MT",
+   "local": "مطروح",
+   "latin": "Matrouh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-PTS",
+   "local": "بورسعيد",
+   "latin": "Port Said",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-SHG",
+   "local": "سوهاج",
+   "latin": "Sohag",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-SHR",
+   "local": "الشرقية",
+   "latin": "Al Sharqia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-SIN",
+   "local": "شمال سيناء",
+   "latin": "North Sinai",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-SUZ",
+   "local": "السويس",
+   "latin": "Suez",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "EG-WAD",
+   "local": "الوادي الجديد",
+   "latin": "New Valley",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/egyEn.pdf",
+  "https://www.egyptpost.org/",
+  "https://postandparcel.info/119714/news/e-commerce/egypt-post-completes-postcode-project",
+  "https://www.iso.org/obp/ui/#iso:code:3166:EG",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "27 governorates. latin = common English forms used in addresses (subdivisions.tsv / CLDR English), not the ISO BGN/PCGN romanisation."
+}

@@ -1,0 +1,1277 @@
+{
+ "AD": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Andorra"
+ },
+ "AE": {
+  "confidence": "low",
+  "note": "composed: Arab emirates united",
+  "provenance": "curated",
+  "value": "Arabiamiut Emiratiat Peqatigiit"
+ },
+ "AF": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Afghanistani"
+ },
+ "AG": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Antigua aamma Barbuda"
+ },
+ "AI": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Anguilla"
+ },
+ "AL": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Albania"
+ },
+ "AM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Armenia"
+ },
+ "AO": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Angola"
+ },
+ "AQ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Qalasersuaq Kujalleq"
+ },
+ "AR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Argentina"
+ },
+ "AS": {
+  "confidence": "low",
+  "note": "composed after CLDR draft patterns",
+  "provenance": "curated",
+  "value": "Amerikamiut Samoa"
+ },
+ "AT": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Østrigi"
+ },
+ "AU": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Australia"
+ },
+ "AW": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Aruba"
+ },
+ "AX": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Ålandi"
+ },
+ "AZ": {
+  "confidence": "low",
+  "note": "Danish-derived -i form, like Kasakhstani",
+  "provenance": "curated",
+  "value": "Aserbajdsjani"
+ },
+ "BA": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Bosnia aamma Herzegovina"
+ },
+ "BB": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Barbados"
+ },
+ "BD": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Bangladesh"
+ },
+ "BE": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Belgia"
+ },
+ "BF": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Burkina Faso"
+ },
+ "BG": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Bulgaria"
+ },
+ "BH": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Bahrain"
+ },
+ "BI": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Burundi"
+ },
+ "BJ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Benin"
+ },
+ "BL": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Saint Barthélemy"
+ },
+ "BM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Bermuda"
+ },
+ "BN": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Brunei"
+ },
+ "BO": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Bolivia"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "composed",
+  "provenance": "curated",
+  "value": "Caribbeanimi Nederlandi"
+ },
+ "BR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Brazil"
+ },
+ "BS": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Bahamas"
+ },
+ "BT": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Bhutan"
+ },
+ "BV": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Bouvet qeqertaq"
+ },
+ "BW": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Botswana"
+ },
+ "BY": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Hvideruslandi"
+ },
+ "BZ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Belize"
+ },
+ "CA": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Canada"
+ },
+ "CC": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Cocos qeqertaq"
+ },
+ "CD": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kongo-Kinshasa"
+ },
+ "CF": {
+  "confidence": "low",
+  "note": "composed: Central Africa republic",
+  "provenance": "curated",
+  "value": "Afrikap Qeqqani Republikki"
+ },
+ "CG": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kongo-Brazzaville"
+ },
+ "CH": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Schweizi"
+ },
+ "CI": {
+  "note": "international form, as in Danish usage",
+  "provenance": "curated",
+  "value": "Côte d’Ivoire"
+ },
+ "CK": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Cook qeqertaq"
+ },
+ "CL": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Chile"
+ },
+ "CM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kamerun"
+ },
+ "CN": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kina"
+ },
+ "CO": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Colombia"
+ },
+ "CR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Costa Rica"
+ },
+ "CU": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kuba"
+ },
+ "CV": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Cap Verde"
+ },
+ "CW": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Curaçao"
+ },
+ "CX": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Jul-qeqertaq"
+ },
+ "CY": {
+  "confidence": "low",
+  "note": "CLDR draft; Danish form",
+  "provenance": "curated",
+  "value": "Cypern"
+ },
+ "CZ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Tjekkia"
+ },
+ "DE": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Tysklandi"
+ },
+ "DJ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Djibouti"
+ },
+ "DK": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Danmarki"
+ },
+ "DM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Dominica"
+ },
+ "DO": {
+  "confidence": "low",
+  "note": "Danish form used",
+  "provenance": "curated",
+  "value": "Dominikanske Republik"
+ },
+ "DZ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Algeriet"
+ },
+ "EC": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Ecuador"
+ },
+ "EE": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Estlandi"
+ },
+ "EG": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Egypten"
+ },
+ "EH": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Sahara Killiit"
+ },
+ "ER": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Eritrea"
+ },
+ "ES": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Spania"
+ },
+ "ET": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Ethiopia"
+ },
+ "FI": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Finlandi"
+ },
+ "FJ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Fiji"
+ },
+ "FK": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Falklandi qeqertaq"
+ },
+ "FM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Micronesia"
+ },
+ "FO": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Savalimmiut"
+ },
+ "FR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Frankrigi"
+ },
+ "GA": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Gabon"
+ },
+ "GB": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Tuluit Nunaat"
+ },
+ "GD": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Grenada"
+ },
+ "GE": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Georgia"
+ },
+ "GF": {
+  "confidence": "low",
+  "note": "Danish form used",
+  "provenance": "curated",
+  "value": "Fransk Guyana"
+ },
+ "GG": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Guernsey"
+ },
+ "GH": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Ghana"
+ },
+ "GI": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Gibraltar"
+ },
+ "GM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Gambia"
+ },
+ "GN": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Guinea"
+ },
+ "GP": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Guadeloupe"
+ },
+ "GQ": {
+  "confidence": "low",
+  "note": "Danish form used",
+  "provenance": "curated",
+  "value": "Ækvatorialguinea"
+ },
+ "GR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Grækenlandi"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "composed; qeqertaq per CLDR draft island pattern",
+  "provenance": "curated",
+  "value": "Georgia Kujalleq aamma Sandwich qeqertaq Kujalleq"
+ },
+ "GT": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Guatemala"
+ },
+ "GU": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Guam"
+ },
+ "GW": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Guinea-Bissau"
+ },
+ "GY": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Guyana"
+ },
+ "HK": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Hongkong"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "composed per CLDR draft island pattern",
+  "provenance": "curated",
+  "value": "Heard qeqertaq aamma McDonald qeqertaq"
+ },
+ "HN": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Honduras"
+ },
+ "HR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kroatia"
+ },
+ "HT": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Haiti"
+ },
+ "HU": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Ungarni"
+ },
+ "ID": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Indonesia"
+ },
+ "IE": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Irlandi"
+ },
+ "IL": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Israel"
+ },
+ "IM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Isle of Man"
+ },
+ "IN": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "India"
+ },
+ "IO": {
+  "confidence": "low",
+  "note": "composed: UK's territory in Indian Ocean",
+  "provenance": "curated",
+  "value": "Tuluit Nunaata Indiap Imartaani Nunasiaa"
+ },
+ "IQ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Irak"
+ },
+ "IR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Iran"
+ },
+ "IS": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Islandi"
+ },
+ "IT": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Italia"
+ },
+ "JE": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Jersey"
+ },
+ "JM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Jamaica"
+ },
+ "JO": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Jordani"
+ },
+ "JP": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Japani"
+ },
+ "KE": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kenya"
+ },
+ "KG": {
+  "confidence": "low",
+  "note": "Danish-derived -i form, like Kasakhstani",
+  "provenance": "curated",
+  "value": "Kirgisistani"
+ },
+ "KH": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kambodia"
+ },
+ "KI": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kiribati"
+ },
+ "KM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Comoros"
+ },
+ "KN": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Saint Kitts aamma Nevis"
+ },
+ "KP": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Korea Avannarleq"
+ },
+ "KR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Korea Kujalleq"
+ },
+ "KW": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kuwait"
+ },
+ "KY": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Cayman qeqertaq"
+ },
+ "KZ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kasakhstani"
+ },
+ "LA": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Laos"
+ },
+ "LB": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Libanon"
+ },
+ "LC": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Saint Lucia"
+ },
+ "LI": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Liechtensteini"
+ },
+ "LK": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Sri Lanka"
+ },
+ "LR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Liberia"
+ },
+ "LS": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Lesotho"
+ },
+ "LT": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Litaueni"
+ },
+ "LU": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Luxembourg"
+ },
+ "LV": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Letlandi"
+ },
+ "LY": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Libya"
+ },
+ "MA": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Marocko"
+ },
+ "MC": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Monaco"
+ },
+ "MD": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Moldova"
+ },
+ "ME": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Montenegro"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "CLDR draft 'Frankrigi Saint Martin' simplified",
+  "provenance": "curated",
+  "value": "Saint Martin"
+ },
+ "MG": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Madagaskar"
+ },
+ "MH": {
+  "confidence": "low",
+  "note": "per CLDR draft island pattern",
+  "provenance": "curated",
+  "value": "Marshall qeqertaq"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "composed like Korea Avannarleq",
+  "provenance": "curated",
+  "value": "Makedonia Avannarleq"
+ },
+ "ML": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Mali"
+ },
+ "MM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Burma"
+ },
+ "MN": {
+  "note": "international form",
+  "provenance": "curated",
+  "value": "Mongolia"
+ },
+ "MO": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Macao"
+ },
+ "MP": {
+  "confidence": "low",
+  "note": "composed per CLDR draft patterns",
+  "provenance": "curated",
+  "value": "Mariana qeqertaq Avannarleq"
+ },
+ "MQ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Martinique"
+ },
+ "MR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Mauritania"
+ },
+ "MS": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Montserrat"
+ },
+ "MT": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Malta"
+ },
+ "MU": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Mauritius"
+ },
+ "MV": {
+  "confidence": "low",
+  "note": "Danish-derived (Maldiverne)",
+  "provenance": "curated",
+  "value": "Maldivit"
+ },
+ "MW": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Malawi"
+ },
+ "MX": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Mexiko"
+ },
+ "MY": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Malaysia"
+ },
+ "MZ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Moçambique"
+ },
+ "NA": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Namibia"
+ },
+ "NC": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Nutaaq Caledonia"
+ },
+ "NE": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Niger"
+ },
+ "NF": {
+  "note": "per CLDR draft island pattern",
+  "provenance": "curated",
+  "value": "Norfolk qeqertaq"
+ },
+ "NG": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Nigeria"
+ },
+ "NI": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Nicaragua"
+ },
+ "NL": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Hollandi"
+ },
+ "NO": {
+  "confidence": "low",
+  "note": "CLDR draft; Danish/Norwegian form without -i (cf. Norgi)",
+  "provenance": "curated",
+  "value": "Norge"
+ },
+ "NP": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Nepal"
+ },
+ "NR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Nauru"
+ },
+ "NU": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Niue"
+ },
+ "NZ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Nutaaq Zeelandi"
+ },
+ "OM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Oman"
+ },
+ "PA": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Panama"
+ },
+ "PE": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Peru"
+ },
+ "PF": {
+  "confidence": "low",
+  "note": "Danish form used",
+  "provenance": "curated",
+  "value": "Fransk Polynesia"
+ },
+ "PG": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Papua Nutaaq Guinea"
+ },
+ "PH": {
+  "confidence": "low",
+  "note": "Danish-derived (Filippinerne)",
+  "provenance": "curated",
+  "value": "Filippinit"
+ },
+ "PK": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Pakistani"
+ },
+ "PL": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Poleni"
+ },
+ "PM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Saint Pierre aamma Miquelon"
+ },
+ "PN": {
+  "note": "per CLDR draft island pattern",
+  "provenance": "curated",
+  "value": "Pitcairn qeqertaq"
+ },
+ "PR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Puerto Rico"
+ },
+ "PS": {
+  "confidence": "low",
+  "note": "Danish form used",
+  "provenance": "curated",
+  "value": "Palæstina"
+ },
+ "PT": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Portugali"
+ },
+ "PW": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Palau"
+ },
+ "PY": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Paraguay"
+ },
+ "QA": {
+  "note": "CLDR draft 'Quatar' corrected (typo)",
+  "provenance": "curated",
+  "value": "Qatar"
+ },
+ "RE": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Réunion"
+ },
+ "RO": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Rumænia"
+ },
+ "RS": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Serbia"
+ },
+ "RU": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Ruslandi"
+ },
+ "RW": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Rwanda"
+ },
+ "SA": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Saudi Arabia"
+ },
+ "SB": {
+  "confidence": "low",
+  "note": "per CLDR draft island pattern",
+  "provenance": "curated",
+  "value": "Salomon qeqertaq"
+ },
+ "SC": {
+  "confidence": "low",
+  "note": "Danish-derived (Seychellerne)",
+  "provenance": "curated",
+  "value": "Seychellit"
+ },
+ "SD": {
+  "confidence": "low",
+  "note": "CLDR draft has 'Avannarleqsudan' (North Sudan); plain Sudan used",
+  "provenance": "curated",
+  "value": "Sudan"
+ },
+ "SE": {
+  "confidence": "low",
+  "note": "CLDR draft; Swedish form without -i (cf. Svenskit Nunaat)",
+  "provenance": "curated",
+  "value": "Sverige"
+ },
+ "SG": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Singapore"
+ },
+ "SH": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Saint Helena"
+ },
+ "SI": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Slovenia"
+ },
+ "SJ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Svalbard aamma Jan Mayen"
+ },
+ "SK": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Slovakia"
+ },
+ "SL": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Sierra Leone"
+ },
+ "SM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "San Marino"
+ },
+ "SN": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Senegal"
+ },
+ "SO": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Somalia"
+ },
+ "SR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Suriname"
+ },
+ "SS": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kujalleqsudan"
+ },
+ "ST": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "São Tomé aamma Príncipe"
+ },
+ "SV": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "El Salvador"
+ },
+ "SX": {
+  "note": "international form",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "SY": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Syria"
+ },
+ "SZ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Swazilandi"
+ },
+ "TC": {
+  "note": "per CLDR draft patterns (aamma, qeqertaq)",
+  "provenance": "curated",
+  "value": "Turks aamma Caicos qeqertaq"
+ },
+ "TD": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Chad"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "composed: France's southern territories",
+  "provenance": "curated",
+  "value": "Franskit Nunaata Kujataani Nunasiai"
+ },
+ "TG": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Togo"
+ },
+ "TH": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Thailandi"
+ },
+ "TJ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Tajikistani"
+ },
+ "TK": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Tokelau"
+ },
+ "TL": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Timor Kangilliit"
+ },
+ "TM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Turkmenistani"
+ },
+ "TN": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Tunisia"
+ },
+ "TO": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Tonga"
+ },
+ "TR": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Tyrkia"
+ },
+ "TT": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Trinidad aamma Tobago"
+ },
+ "TV": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Tuvalu"
+ },
+ "TW": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Taiwan"
+ },
+ "TZ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Tanzania"
+ },
+ "UA": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Ukraina"
+ },
+ "UG": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Uganda"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "composed: US outlying islands",
+  "provenance": "curated",
+  "value": "Naalagaaffeqatigiit qeqertaasa avinngarussimasut"
+ },
+ "US": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Naalagaaffeqatigiit"
+ },
+ "UY": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Uruguay"
+ },
+ "UZ": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Uzbekistani"
+ },
+ "VA": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Vatikani"
+ },
+ "VC": {
+  "note": "per CLDR draft pattern (aamma)",
+  "provenance": "curated",
+  "value": "Saint Vincent aamma Grenadines"
+ },
+ "VE": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Venezuela"
+ },
+ "VG": {
+  "confidence": "low",
+  "note": "composed per CLDR draft patterns",
+  "provenance": "curated",
+  "value": "Tuluit Virgin qeqertaq"
+ },
+ "VI": {
+  "confidence": "low",
+  "note": "composed per CLDR draft patterns",
+  "provenance": "curated",
+  "value": "Naalagaaffeqatigiit Virgin qeqertaq"
+ },
+ "VN": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Vietnam"
+ },
+ "VU": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Vanuatu"
+ },
+ "WF": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Wallis aamma Futuna"
+ },
+ "WS": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Samoa"
+ },
+ "XK": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kosovo"
+ },
+ "YE": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Jemen"
+ },
+ "YT": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Mayotte"
+ },
+ "ZA": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Kujalleqafrika"
+ },
+ "ZM": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Zambia"
+ },
+ "ZW": {
+  "note": "CLDR XML draft value (kl, unconfirmed)",
+  "provenance": "curated",
+  "value": "Zimbabwe"
+ }
+}

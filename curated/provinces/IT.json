@@ -1,0 +1,811 @@
+{
+ "country": "IT",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "IT-23",
+   "local": "Valle d'Aosta / Vallée d'Aoste",
+   "latin": "Valle d'Aosta / Vallée d'Aoste",
+   "iso": true,
+   "aliases": [
+    "IT-AO"
+   ]
+  },
+  {
+   "code": "IT-AG",
+   "local": "Agrigento",
+   "latin": "Agrigento",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-AL",
+   "local": "Alessandria",
+   "latin": "Alessandria",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-AN",
+   "local": "Ancona",
+   "latin": "Ancona",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-AP",
+   "local": "Ascoli Piceno",
+   "latin": "Ascoli Piceno",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-AQ",
+   "local": "L'Aquila",
+   "latin": "L'Aquila",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-AR",
+   "local": "Arezzo",
+   "latin": "Arezzo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-AT",
+   "local": "Asti",
+   "latin": "Asti",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-AV",
+   "local": "Avellino",
+   "latin": "Avellino",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-BA",
+   "local": "Bari",
+   "latin": "Bari",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-BG",
+   "local": "Bergamo",
+   "latin": "Bergamo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-BI",
+   "local": "Biella",
+   "latin": "Biella",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-BL",
+   "local": "Belluno",
+   "latin": "Belluno",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-BN",
+   "local": "Benevento",
+   "latin": "Benevento",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-BO",
+   "local": "Bologna",
+   "latin": "Bologna",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-BR",
+   "local": "Brindisi",
+   "latin": "Brindisi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-BS",
+   "local": "Brescia",
+   "latin": "Brescia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-BT",
+   "local": "Barletta-Andria-Trani",
+   "latin": "Barletta-Andria-Trani",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-BZ",
+   "local": "Bolzano / Bozen",
+   "latin": "Bolzano / Bozen",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-CA",
+   "local": "Cagliari",
+   "latin": "Cagliari",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-CB",
+   "local": "Campobasso",
+   "latin": "Campobasso",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-CE",
+   "local": "Caserta",
+   "latin": "Caserta",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-CH",
+   "local": "Chieti",
+   "latin": "Chieti",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-CL",
+   "local": "Caltanissetta",
+   "latin": "Caltanissetta",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-CN",
+   "local": "Cuneo",
+   "latin": "Cuneo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-CO",
+   "local": "Como",
+   "latin": "Como",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-CR",
+   "local": "Cremona",
+   "latin": "Cremona",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-CS",
+   "local": "Cosenza",
+   "latin": "Cosenza",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-CT",
+   "local": "Catania",
+   "latin": "Catania",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-CZ",
+   "local": "Catanzaro",
+   "latin": "Catanzaro",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-EN",
+   "local": "Enna",
+   "latin": "Enna",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-FC",
+   "local": "Forlì-Cesena",
+   "latin": "Forlì-Cesena",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-FE",
+   "local": "Ferrara",
+   "latin": "Ferrara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-FG",
+   "local": "Foggia",
+   "latin": "Foggia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-FI",
+   "local": "Firenze",
+   "latin": "Firenze",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-FM",
+   "local": "Fermo",
+   "latin": "Fermo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-FR",
+   "local": "Frosinone",
+   "latin": "Frosinone",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-GALLURA_NORD_EST_SARDEGNA",
+   "local": "Gallura Nord-Est Sardegna",
+   "latin": "Gallura Nord-Est Sardegna",
+   "iso": false,
+   "aliases": [
+    "IT-GA"
+   ]
+  },
+  {
+   "code": "IT-GE",
+   "local": "Genova",
+   "latin": "Genova",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-GO",
+   "local": "Gorizia",
+   "latin": "Gorizia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-GR",
+   "local": "Grosseto",
+   "latin": "Grosseto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-IM",
+   "local": "Imperia",
+   "latin": "Imperia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-IS",
+   "local": "Isernia",
+   "latin": "Isernia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-KR",
+   "local": "Crotone",
+   "latin": "Crotone",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-LC",
+   "local": "Lecco",
+   "latin": "Lecco",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-LE",
+   "local": "Lecce",
+   "latin": "Lecce",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-LI",
+   "local": "Livorno",
+   "latin": "Livorno",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-LO",
+   "local": "Lodi",
+   "latin": "Lodi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-LT",
+   "local": "Latina",
+   "latin": "Latina",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-LU",
+   "local": "Lucca",
+   "latin": "Lucca",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-MB",
+   "local": "Monza e Brianza",
+   "latin": "Monza e Brianza",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-MC",
+   "local": "Macerata",
+   "latin": "Macerata",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-ME",
+   "local": "Messina",
+   "latin": "Messina",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-MEDIO_CAMPIDANO",
+   "local": "Medio Campidano",
+   "latin": "Medio Campidano",
+   "iso": false,
+   "aliases": [
+    "IT-VS"
+   ]
+  },
+  {
+   "code": "IT-MI",
+   "local": "Milano",
+   "latin": "Milano",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-MN",
+   "local": "Mantova",
+   "latin": "Mantova",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-MO",
+   "local": "Modena",
+   "latin": "Modena",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-MS",
+   "local": "Massa-Carrara",
+   "latin": "Massa-Carrara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-MT",
+   "local": "Matera",
+   "latin": "Matera",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-NA",
+   "local": "Napoli",
+   "latin": "Napoli",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-NO",
+   "local": "Novara",
+   "latin": "Novara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-NU",
+   "local": "Nuoro",
+   "latin": "Nuoro",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-OGLIASTRA",
+   "local": "Ogliastra",
+   "latin": "Ogliastra",
+   "iso": false,
+   "aliases": [
+    "IT-OG"
+   ]
+  },
+  {
+   "code": "IT-OR",
+   "local": "Oristano",
+   "latin": "Oristano",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PA",
+   "local": "Palermo",
+   "latin": "Palermo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PC",
+   "local": "Piacenza",
+   "latin": "Piacenza",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PD",
+   "local": "Padova",
+   "latin": "Padova",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PE",
+   "local": "Pescara",
+   "latin": "Pescara",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PG",
+   "local": "Perugia",
+   "latin": "Perugia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PI",
+   "local": "Pisa",
+   "latin": "Pisa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PN",
+   "local": "Pordenone",
+   "latin": "Pordenone",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PO",
+   "local": "Prato",
+   "latin": "Prato",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PR",
+   "local": "Parma",
+   "latin": "Parma",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PT",
+   "local": "Pistoia",
+   "latin": "Pistoia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PU",
+   "local": "Pesaro e Urbino",
+   "latin": "Pesaro e Urbino",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PV",
+   "local": "Pavia",
+   "latin": "Pavia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-PZ",
+   "local": "Potenza",
+   "latin": "Potenza",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-RA",
+   "local": "Ravenna",
+   "latin": "Ravenna",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-RC",
+   "local": "Reggio Calabria",
+   "latin": "Reggio Calabria",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-RE",
+   "local": "Reggio Emilia",
+   "latin": "Reggio Emilia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-RG",
+   "local": "Ragusa",
+   "latin": "Ragusa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-RI",
+   "local": "Rieti",
+   "latin": "Rieti",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-RM",
+   "local": "Roma",
+   "latin": "Roma",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-RN",
+   "local": "Rimini",
+   "latin": "Rimini",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-RO",
+   "local": "Rovigo",
+   "latin": "Rovigo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-SA",
+   "local": "Salerno",
+   "latin": "Salerno",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-SI",
+   "local": "Siena",
+   "latin": "Siena",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-SO",
+   "local": "Sondrio",
+   "latin": "Sondrio",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-SP",
+   "local": "La Spezia",
+   "latin": "La Spezia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-SR",
+   "local": "Siracusa",
+   "latin": "Siracusa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-SS",
+   "local": "Sassari",
+   "latin": "Sassari",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-SULCIS_IGLESIENTE",
+   "local": "Sulcis Iglesiente",
+   "latin": "Sulcis Iglesiente",
+   "iso": false,
+   "aliases": [
+    "IT-SD",
+    "IT-SU"
+   ]
+  },
+  {
+   "code": "IT-SV",
+   "local": "Savona",
+   "latin": "Savona",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-TA",
+   "local": "Taranto",
+   "latin": "Taranto",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-TE",
+   "local": "Teramo",
+   "latin": "Teramo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-TN",
+   "local": "Trento",
+   "latin": "Trento",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-TO",
+   "local": "Torino",
+   "latin": "Torino",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-TP",
+   "local": "Trapani",
+   "latin": "Trapani",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-TR",
+   "local": "Terni",
+   "latin": "Terni",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-TS",
+   "local": "Trieste",
+   "latin": "Trieste",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-TV",
+   "local": "Treviso",
+   "latin": "Treviso",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-UD",
+   "local": "Udine",
+   "latin": "Udine",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-VA",
+   "local": "Varese",
+   "latin": "Varese",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-VB",
+   "local": "Verbano-Cusio-Ossola",
+   "latin": "Verbano-Cusio-Ossola",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-VC",
+   "local": "Vercelli",
+   "latin": "Vercelli",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-VE",
+   "local": "Venezia",
+   "latin": "Venezia",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-VI",
+   "local": "Vicenza",
+   "latin": "Vicenza",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-VR",
+   "local": "Verona",
+   "latin": "Verona",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-VT",
+   "local": "Viterbo",
+   "latin": "Viterbo",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IT-VV",
+   "local": "Vibo Valentia",
+   "latin": "Vibo Valentia",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [
+  "recoded IT-AO Aosta -> IT-23 Valle d'Aosta / Vallée d'Aoste (old code kept as alias)",
+  "recoded IT-GA Gallura Nord-Est Sardegna -> IT-GALLURA_NORD_EST_SARDEGNA Gallura Nord-Est Sardegna (old code kept as alias)",
+  "recoded IT-OG Ogliastra -> IT-OGLIASTRA Ogliastra (old code kept as alias)",
+  "recoded IT-SD Sulcis Iglesiente -> IT-SULCIS_IGLESIENTE Sulcis Iglesiente (old code kept as alias)",
+  "merged IT-SU Sud Sardegna -> IT-SULCIS_IGLESIENTE Sulcis Iglesiente (old code kept as alias)",
+  "recoded IT-VS Medio Campidano -> IT-MEDIO_CAMPIDANO Medio Campidano (old code kept as alias)"
+ ],
+ "sources": [
+  "https://www.istat.it/classificazione/codici-dei-comuni-delle-province-e-delle-regioni/",
+  "https://www.tuttitalia.it/variazioni-amministrative/citta-metropolitana-di-sassari-e-nuove-province-della-sardegna/",
+  "https://www.edizionieuropee.it/LAW/HTML/225/zn93_02_499.html",
+  "https://en.wikipedia.org/wiki/ISO_3166-2:IT",
+  "https://www.tuttitalia.it/variazioni-amministrative/citta-metropolitana-di-sassari-e-nuove-province-della-sardegna/",
+  "https://www.ilpost.it/2025/03/30/nuova-provincia-sardegna/",
+  "https://changelog.shopify.com/posts/italy-s-sardinian-province-definitions-updated",
+  "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+  "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IT",
+  "https://www.iso.org/obp/ui/#iso:code:3166:IT",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "low",
+ "notes": "Level = the province (sigla) written after the town, e.g. \"20121 Milano MI\". ISO codes are IT-<sigla> except Valle d'Aosta: ISO has no province code there, only the region IT-23, so IT-23 is used (sigla AO; our old key IT-AO is an alias). Sardinia (LR 7/2021, DGR 36/34 of 9 Jul 2025, BURAS 17 Jul 2025): metropolitan cities Cagliari (CA) and Sassari (SS), provinces Nuoro (NU), Oristano (OR), Gallura Nord-Est Sardegna, Ogliastra, Medio Campidano, Sulcis Iglesiente; Sud Sardegna abolished. ISO 3166-2:IT has not been updated: it still has IT-SU Sud Sardegna and no codes for the 4 new provinces, and their former ISO codes IT-OT/IT-OG/IT-VS/IT-CI (deleted 2019) and IT-SD (corrected to IT-SU 2020) must not be reused, so the 4 new provinces get CC-NAME codes. Sigle: ISTAT (Feb 2026 list) OT, OG, VS, CI; DPR 4 Aug 2026 n.183 (GU n.238, 13 Oct 2026) sets plates OT, OG, VS and gives SU to Sulcis Iglesiente. So IT-SU (Sud Sardegna, capital Carbonia) is mapped forward to Sulcis Iglesiente (capital Carbonia, now sigla SU); parts of old Sud Sardegna are now in Medio Campidano and the Cagliari metropolitan city, so that alias is approximate. IT-SS now covers the smaller Sassari metropolitan city (Gallura split off). Low confidence: sigla for Sulcis Iglesiente (CI vs SU) and Poste Italiane usage not confirmed."
+}

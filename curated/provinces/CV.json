@@ -1,0 +1,79 @@
+{
+ "country": "CV",
+ "level": "island",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "CV-BR",
+   "local": "Brava",
+   "latin": "Brava",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CV-BV",
+   "local": "Boa Vista",
+   "latin": "Boa Vista",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CV-FOGO",
+   "local": "Fogo",
+   "latin": "Fogo",
+   "iso": false,
+   "aliases": []
+  },
+  {
+   "code": "CV-MA",
+   "local": "Maio",
+   "latin": "Maio",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CV-SANTIAGO",
+   "local": "Santiago",
+   "latin": "Santiago",
+   "iso": false,
+   "aliases": []
+  },
+  {
+   "code": "CV-SANTO_ANTAO",
+   "local": "Santo Antão",
+   "latin": "Santo Antão",
+   "iso": false,
+   "aliases": []
+  },
+  {
+   "code": "CV-SAO_NICOLAU",
+   "local": "São Nicolau",
+   "latin": "São Nicolau",
+   "iso": false,
+   "aliases": []
+  },
+  {
+   "code": "CV-SL",
+   "local": "Sal",
+   "latin": "Sal",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "CV-SV",
+   "local": "São Vicente",
+   "latin": "São Vicente",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/cpvEn.pdf",
+  "https://www.iso.org/obp/ui/#iso:code:3166:CV",
+  "https://www.iso.org/obp/ui/#iso:code:3166:CV",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "low",
+ "notes": "Addresses name the island; ISO 3166-2:CV lists 22 municipalities and 2 island groups. ISO municipality codes are used for the 5 islands that are a single municipality (BV, BR, MA, SL, SV). The 4 islands with several municipalities have no ISO code and keep non-ISO codes: Fogo (CV-CF, MO, SF), Santiago (CV-CA, CR, PR, RS, SD, SM, SO, SS, TA), Santo Antão (CV-PA, PN, RG), São Nicolau (CV-RB, TS)."
+}

@@ -1,0 +1,78 @@
+{
+ "country": "TV",
+ "level": "island",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "TV-FUN",
+   "local": "Funafuti",
+   "latin": "Funafuti",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TV-NIT",
+   "local": "Niutao",
+   "latin": "Niutao",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TV-NIULAKITA",
+   "local": "Niulakita",
+   "latin": "Niulakita",
+   "iso": false,
+   "aliases": []
+  },
+  {
+   "code": "TV-NKF",
+   "local": "Nukufetau",
+   "latin": "Nukufetau",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TV-NKL",
+   "local": "Nukulaelae",
+   "latin": "Nukulaelae",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TV-NMA",
+   "local": "Nanumea",
+   "latin": "Nanumea",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TV-NMG",
+   "local": "Nanumaga",
+   "latin": "Nanumaga",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TV-NUI",
+   "local": "Nui",
+   "latin": "Nui",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "TV-VAI",
+   "local": "Vaitupu",
+   "latin": "Vaitupu",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/tuvEn.pdf",
+  "https://www.iso.org/obp/ui/#iso:code:3166:TV",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "8 ISO island/town councils. Niulakita has no ISO code (administered with Niutao, TV-NIT) but is a separate inhabited island written in addresses, so it keeps the non-ISO TV-NIULAKITA."
+}

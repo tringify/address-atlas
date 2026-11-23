@@ -1,0 +1,346 @@
+{
+ "country": "VN",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "VN-01",
+   "local": "Lai Châu",
+   "latin": "Lai Châu",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VN-02",
+   "local": "Lào Cai",
+   "latin": "Lào Cai",
+   "iso": true,
+   "aliases": [
+    "VN-06"
+   ]
+  },
+  {
+   "code": "VN-04",
+   "local": "Cao Bằng",
+   "latin": "Cao Bằng",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VN-05",
+   "local": "Sơn La",
+   "latin": "Sơn La",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VN-07",
+   "local": "Tuyên Quang",
+   "latin": "Tuyên Quang",
+   "iso": true,
+   "aliases": [
+    "VN-03"
+   ]
+  },
+  {
+   "code": "VN-09",
+   "local": "Lạng Sơn",
+   "latin": "Lạng Sơn",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VN-13",
+   "local": "Quảng Ninh",
+   "latin": "Quảng Ninh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VN-18",
+   "local": "Ninh Bình",
+   "latin": "Ninh Bình",
+   "iso": true,
+   "aliases": [
+    "VN-63",
+    "VN-67"
+   ]
+  },
+  {
+   "code": "VN-21",
+   "local": "Thanh Hóa",
+   "latin": "Thanh Hóa",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VN-22",
+   "local": "Nghệ An",
+   "latin": "Nghệ An",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VN-23",
+   "local": "Hà Tĩnh",
+   "latin": "Hà Tĩnh",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VN-25",
+   "local": "Quảng Trị",
+   "latin": "Quảng Trị",
+   "iso": true,
+   "aliases": [
+    "VN-24"
+   ]
+  },
+  {
+   "code": "VN-26",
+   "local": "Huế",
+   "latin": "Huế",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VN-29",
+   "local": "Quảng Ngãi",
+   "latin": "Quảng Ngãi",
+   "iso": true,
+   "aliases": [
+    "VN-28"
+   ]
+  },
+  {
+   "code": "VN-30",
+   "local": "Gia Lai",
+   "latin": "Gia Lai",
+   "iso": true,
+   "aliases": [
+    "VN-31"
+   ]
+  },
+  {
+   "code": "VN-33",
+   "local": "Đắk Lắk",
+   "latin": "Đắk Lắk",
+   "iso": true,
+   "aliases": [
+    "VN-32"
+   ]
+  },
+  {
+   "code": "VN-34",
+   "local": "Khánh Hòa",
+   "latin": "Khánh Hòa",
+   "iso": true,
+   "aliases": [
+    "VN-36"
+   ]
+  },
+  {
+   "code": "VN-35",
+   "local": "Lâm Đồng",
+   "latin": "Lâm Đồng",
+   "iso": true,
+   "aliases": [
+    "VN-72",
+    "VN-40"
+   ]
+  },
+  {
+   "code": "VN-37",
+   "local": "Tây Ninh",
+   "latin": "Tây Ninh",
+   "iso": true,
+   "aliases": [
+    "VN-41"
+   ]
+  },
+  {
+   "code": "VN-39",
+   "local": "Đồng Nai",
+   "latin": "Đồng Nai",
+   "iso": true,
+   "aliases": [
+    "VN-58"
+   ]
+  },
+  {
+   "code": "VN-44",
+   "local": "An Giang",
+   "latin": "An Giang",
+   "iso": true,
+   "aliases": [
+    "VN-47"
+   ]
+  },
+  {
+   "code": "VN-45",
+   "local": "Đồng Tháp",
+   "latin": "Đồng Tháp",
+   "iso": true,
+   "aliases": [
+    "VN-46"
+   ]
+  },
+  {
+   "code": "VN-49",
+   "local": "Vĩnh Long",
+   "latin": "Vĩnh Long",
+   "iso": true,
+   "aliases": [
+    "VN-50",
+    "VN-51"
+   ]
+  },
+  {
+   "code": "VN-56",
+   "local": "Bắc Ninh",
+   "latin": "Bắc Ninh",
+   "iso": true,
+   "aliases": [
+    "VN-54"
+   ]
+  },
+  {
+   "code": "VN-59",
+   "local": "Cà Mau",
+   "latin": "Cà Mau",
+   "iso": true,
+   "aliases": [
+    "VN-55"
+   ]
+  },
+  {
+   "code": "VN-66",
+   "local": "Hưng Yên",
+   "latin": "Hưng Yên",
+   "iso": true,
+   "aliases": [
+    "VN-20"
+   ]
+  },
+  {
+   "code": "VN-68",
+   "local": "Phú Thọ",
+   "latin": "Phú Thọ",
+   "iso": true,
+   "aliases": [
+    "VN-70",
+    "VN-14"
+   ]
+  },
+  {
+   "code": "VN-69",
+   "local": "Thái Nguyên",
+   "latin": "Thái Nguyên",
+   "iso": true,
+   "aliases": [
+    "VN-53"
+   ]
+  },
+  {
+   "code": "VN-71",
+   "local": "Điện Biên",
+   "latin": "Điện Biên",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VN-CT",
+   "local": "Cần Thơ",
+   "latin": "Cần Thơ",
+   "iso": true,
+   "aliases": [
+    "VN-52",
+    "VN-73"
+   ]
+  },
+  {
+   "code": "VN-DN",
+   "local": "Đà Nẵng",
+   "latin": "Đà Nẵng",
+   "iso": true,
+   "aliases": [
+    "VN-27"
+   ]
+  },
+  {
+   "code": "VN-HN",
+   "local": "Hà Nội",
+   "latin": "Hà Nội",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "VN-HP",
+   "local": "Hải Phòng",
+   "latin": "Hải Phòng",
+   "iso": true,
+   "aliases": [
+    "VN-61"
+   ]
+  },
+  {
+   "code": "VN-SG",
+   "local": "Hồ Chí Minh",
+   "latin": "Hồ Chí Minh",
+   "iso": true,
+   "aliases": [
+    "VN-43",
+    "VN-57"
+   ]
+  }
+ ],
+ "changes": [
+  "merged VN-03 Hà Giang -> VN-07 Tuyên Quang (old code kept as alias)",
+  "merged VN-06 Yên Bái -> VN-02 Lào Cai (old code kept as alias)",
+  "merged VN-14 Hòa Bình -> VN-68 Phú Thọ (old code kept as alias)",
+  "merged VN-20 Thái Bình -> VN-66 Hưng Yên (old code kept as alias)",
+  "merged VN-24 Quảng Bình -> VN-25 Quảng Trị (old code kept as alias)",
+  "merged VN-27 Quảng Nam -> VN-DN Đà Nẵng (old code kept as alias)",
+  "merged VN-28 Kon Tum -> VN-29 Quảng Ngãi (old code kept as alias)",
+  "merged VN-31 Bình Định -> VN-30 Gia Lai (old code kept as alias)",
+  "merged VN-32 Phú Yên -> VN-33 Đắk Lắk (old code kept as alias)",
+  "merged VN-36 Ninh Thuận -> VN-34 Khánh Hòa (old code kept as alias)",
+  "merged VN-40 Bình Thuận -> VN-35 Lâm Đồng (old code kept as alias)",
+  "merged VN-41 Long An -> VN-37 Tây Ninh (old code kept as alias)",
+  "merged VN-43 Bà Rịa–Vũng Tàu -> VN-SG Hồ Chí Minh (old code kept as alias)",
+  "merged VN-46 Tiền Giang -> VN-45 Đồng Tháp (old code kept as alias)",
+  "merged VN-47 Kiên Giang -> VN-44 An Giang (old code kept as alias)",
+  "merged VN-50 Bến Tre -> VN-49 Vĩnh Long (old code kept as alias)",
+  "merged VN-51 Trà Vinh -> VN-49 Vĩnh Long (old code kept as alias)",
+  "merged VN-52 Sóc Trăng -> VN-CT Cần Thơ (old code kept as alias)",
+  "merged VN-53 Bắc Kạn -> VN-69 Thái Nguyên (old code kept as alias)",
+  "merged VN-54 Bắc Giang -> VN-56 Bắc Ninh (old code kept as alias)",
+  "merged VN-55 Bạc Liêu -> VN-59 Cà Mau (old code kept as alias)",
+  "merged VN-57 Bình Dương -> VN-SG Hồ Chí Minh (old code kept as alias)",
+  "merged VN-58 Bình Phước -> VN-39 Đồng Nai (old code kept as alias)",
+  "merged VN-61 Hải Dương -> VN-HP Hải Phòng (old code kept as alias)",
+  "merged VN-63 Hà Nam -> VN-18 Ninh Bình (old code kept as alias)",
+  "merged VN-67 Nam Định -> VN-18 Ninh Bình (old code kept as alias)",
+  "merged VN-70 Vĩnh Phúc -> VN-68 Phú Thọ (old code kept as alias)",
+  "merged VN-72 Đăk Nông -> VN-35 Lâm Đồng (old code kept as alias)",
+  "merged VN-73 Hậu Giang -> VN-CT Cần Thơ (old code kept as alias)",
+  "renamed VN-26: Thừa Thiên-Huế -> Huế (centrally-run city from 2025-01-01; code kept, ISO name not yet updated)",
+  "type change (no code change): Đồng Nai VN-39 city from 2026-04-30, Quảng Ninh VN-13 from 2026-09-01, Bắc Ninh VN-56 from 2026-09-20"
+ ],
+ "sources": [
+  "https://english.luatvietnam.vn/co-cau-to-chuc/resolution-202-2025-qh15-reorganization-of-provincial-level-administrative-divisions-402728-d1.html",
+  "https://nhandan.vn/thanh-lap-thanh-pho-dong-nai-tu-3042026-post958064.html",
+  "https://lsvn.vn/tu-01-9-2026-quang-ninh-tro-thanh-thanh-pho-truc-thuoc-trung-uong-a178104.html",
+  "https://thoibaotaichinhvietnam.vn/thong-qua-viec-thanh-lap-thanh-pho-quang-ninh-va-thanh-pho-bac-ninh-202829.html",
+  "https://vietnamnet.vn/vietnam-post-phat-trien-cong-cu-chuyen-doi-tu-dong-dia-chi-cu-va-moi-2417500.html",
+  "https://en.wikipedia.org/wiki/ISO_3166-2:VN",
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/vnmEn.pdf",
+  "https://mabuuchinh.vn/",
+  "https://vietnamlawmagazine.vn/vietnam-now-has-34-provincial-level-administrative-units-74434.html",
+  "https://luatvietnam.vn/hanh-chinh/quyet-dinh-2334-qd-bkhcn-cua-bo-khoa-hoc-va-cong-nghe-sua-doi-ma-buu-chinh-quoc-gia-cho-doi-tuong-la-phuong-xa-va-cac-don-vi-hanh-chinh-tuong-duong-409694-d1.html",
+  "https://www.iso.org/obp/ui/#iso:code:3166:VN",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "34 provincial-level units after Resolution 202/2025/QH15 (adopted 2025-06-12; new provincial governments from 2025-07-01). Now 25 tỉnh + 9 thành phố: Hà Nội, Hồ Chí Minh, Hải Phòng, Đà Nẵng, Cần Thơ, Huế (city from 2025-01-01), Đồng Nai (2026-04-30), Quảng Ninh (2026-09-01), Bắc Ninh (2026-09-20). ISO 3166-2:VN has not been updated and still lists all 63 old codes, so each unit keeps the ISO code of the old unit whose name survives and the 29 absorbed codes are aliases (they remain in ISO but no longer name a unit; never reuse them). VNPost upgraded its systems for the new boundaries on 2025-07-02 and accepts old and new addresses (converter at diachi.vnpost.vn); commune-level postcodes were amended by Decision 2334/QĐ-BKHCN (2025-08-24), province prefixes appear unchanged. If ISO later issues new codes for merged units, these must be revisited."
+}

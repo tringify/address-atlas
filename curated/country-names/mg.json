@@ -1,0 +1,150 @@
+{
+ "AQ": {
+  "provenance": "curated",
+  "value": "Antarktika"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Nosy Åland"
+ },
+ "BL": {
+  "note": "French form, as CLDR mg uses (cf Sainte-Hélène)",
+  "provenance": "curated",
+  "value": "Saint-Barthélemy"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Holanda Karaiba"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Nosy Bouvet"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Nosy Cocos (Keeling)"
+ },
+ "CW": {
+  "note": "international/English form, as CLDR mg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Curaçao"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Nosy Christmas"
+ },
+ "EH": {
+  "provenance": "curated",
+  "value": "Sahara Andrefana"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Nosy Feroe"
+ },
+ "GG": {
+  "note": "French form, as CLDR mg uses (cf Sainte-Hélène)",
+  "provenance": "curated",
+  "value": "Guernesey"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Georgia Atsimo sy Nosy Sandwich Atsimo"
+ },
+ "HK": {
+  "note": "international/English form, as CLDR mg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Hong Kong"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Nosy Heard sy Nosy McDonald"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Nosy Man"
+ },
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Faridranomasina indiana britanika"
+ },
+ "JE": {
+  "note": "international/English form, as CLDR mg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Jersey"
+ },
+ "ME": {
+  "provenance": "curated",
+  "value": "Montenegro"
+ },
+ "MF": {
+  "note": "French form, as CLDR mg uses (cf Sainte-Hélène)",
+  "provenance": "curated",
+  "value": "Saint-Martin"
+ },
+ "MK": {
+  "provenance": "curated",
+  "value": "Makedonia Avaratra"
+ },
+ "MO": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Makao"
+ },
+ "RS": {
+  "provenance": "curated",
+  "value": "Serbia"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Svalbard sy Jan Mayen"
+ },
+ "SS": {
+  "confidence": "low",
+  "note": "built on CLDR mg \"Sodan\"",
+  "provenance": "curated",
+  "value": "Sodan Atsimo"
+ },
+ "SX": {
+  "note": "international/English form, as CLDR mg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Faritany Frantsay Atsimo"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "constructed on CLDR mg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Nosy Kely Lavitra an’i Etazonia"
+ },
+ "XK": {
+  "provenance": "curated",
+  "value": "Kosovo"
+ }
+}

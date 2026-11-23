@@ -1,0 +1,143 @@
+our_code	cldr_locale	notes
+en	en	same code; inheritance chain: en > root
+es	es	same code; inheritance chain: es > root
+fr	fr	same code; inheritance chain: fr > root
+de	de	same code; inheritance chain: de > root
+it	it	same code; inheritance chain: it > root
+pt	pt	CLDR "pt" (= pt_BR default content); inheritance chain: pt > root
+pt-BR	pt	CLDR "pt" is Brazilian Portuguese (pt_BR is default content of pt); inheritance chain: pt > root
+pt-PT	pt_PT	European Portuguese; parent pt; inheritance chain: pt_PT > pt > root; subdivisions: no file for pt_PT, inherited from pt
+nl	nl	same code; inheritance chain: nl > root
+ca	ca	same code; inheritance chain: ca > root
+gl	gl	same code; inheritance chain: gl > root
+eu	eu	same code; inheritance chain: eu > root
+br	br	same code; inheritance chain: br > root
+fy	fy	same code; inheritance chain: fy > root; subdivisions: no CLDR subdivision file in chain
+ga	ga	same code; inheritance chain: ga > root
+gd	gd	same code; inheritance chain: gd > root
+cy	cy	same code; inheritance chain: cy > root
+kw	kw	same code; inheritance chain: kw > root; subdivisions: no CLDR subdivision file in chain
+gv	gv	same code; inheritance chain: gv > root; subdivisions: no CLDR subdivision file in chain
+sv	sv	same code; inheritance chain: sv > root
+da	da	same code; inheritance chain: da > root
+no	no	CLDR 49 "no" is the base Norwegian locale (nb and nn have parent no); inheritance chain: no > root
+nb	nb	parentLocale = no; inheritance chain: nb > no > root; subdivisions: no file for nb, inherited from no
+nn	nn	parentLocale = no; inheritance chain: nn > no > root; subdivisions: no file for nn, inherited from no
+fi	fi	same code; inheritance chain: fi > root
+is	is	same code; inheritance chain: is > root
+fo	fo	same code; inheritance chain: fo > root; subdivisions: no CLDR subdivision file in chain
+pl	pl	same code; inheritance chain: pl > root
+cs	cs	same code; inheritance chain: cs > root
+sk	sk	same code; inheritance chain: sk > root
+hu	hu	same code; inheritance chain: hu > root
+ro	ro	same code; inheritance chain: ro > root
+bg	bg	same code; inheritance chain: bg > root
+hr	hr	same code; inheritance chain: hr > root
+sl	sl	same code; inheritance chain: sl > root
+sr	sr	same code; inheritance chain: sr > root
+sh	sr_Latn	CLDR languageAlias sh->sr_Latn (legacy); parentLocale of sr_Latn = root; inheritance chain: sr_Latn > root
+bs	bs	same code; inheritance chain: bs > root
+mk	mk	same code; inheritance chain: mk > root
+uk	uk	same code; inheritance chain: uk > root
+ru	ru	same code; inheritance chain: ru > root
+be	be	same code; inheritance chain: be > root
+mo	ro_MD	CLDR languageAlias mo->ro (deprecated); using ro_MD (Romanian, Moldova), parent ro; inheritance chain: ro_MD > ro > root; subdivisions: no file for ro_MD, inherited from ro
+sq	sq	same code; inheritance chain: sq > root
+lt	lt	same code; inheritance chain: lt > root
+lv	lv	same code; inheritance chain: lv > root
+et	et	same code; inheritance chain: et > root
+el	el	same code; inheritance chain: el > root
+tr	tr	same code; inheritance chain: tr > root
+mt	mt	same code; inheritance chain: mt > root
+lb	lb	same code; inheritance chain: lb > root; subdivisions: no CLDR subdivision file in chain
+rm	rm	same code; inheritance chain: rm > root; subdivisions: no CLDR subdivision file in chain
+sc	sc	same code; inheritance chain: sc > root; subdivisions: no CLDR subdivision file in chain
+hy	hy	same code; inheritance chain: hy > root
+ka	ka	same code; inheritance chain: ka > root
+az	az	same code; inheritance chain: az > root
+kk	kk	same code; inheritance chain: kk > root
+ky	ky	same code; inheritance chain: ky > root
+uz	uz	same code; inheritance chain: uz > root
+tg	tg	same code; inheritance chain: tg > root; subdivisions: no CLDR subdivision file in chain
+tk	tk	same code; inheritance chain: tk > root
+tt	tt	same code; inheritance chain: tt > root; subdivisions: no CLDR subdivision file in chain
+mn	mn	same code; inheritance chain: mn > root
+os	os	same code; inheritance chain: os > root; subdivisions: no CLDR subdivision file in chain
+ce	ce	same code; inheritance chain: ce > root; subdivisions: no CLDR subdivision file in chain
+ar	ar	same code; inheritance chain: ar > root
+he	he	same code; inheritance chain: he > root
+fa	fa	same code; inheritance chain: fa > root
+ku	ku	same code; inheritance chain: ku > root; subdivisions: no CLDR subdivision file in chain
+ckb	ckb	same code; inheritance chain: ckb > root
+ps	ps	same code; inheritance chain: ps > root
+yi	yi	same code; inheritance chain: yi > root; subdivisions: no CLDR subdivision file in chain
+sw	sw	same code; inheritance chain: sw > root
+ha	ha	same code; inheritance chain: ha > root
+ig	ig	same code; inheritance chain: ig > root
+yo	yo	same code; inheritance chain: yo > root
+am	am	same code; inheritance chain: am > root
+ti	ti	same code; inheritance chain: ti > root; subdivisions: no CLDR subdivision file in chain
+om	om	same code; inheritance chain: om > root; subdivisions: no CLDR subdivision file in chain
+so	so	same code; inheritance chain: so > root
+rw	rw	same code; inheritance chain: rw > root; subdivisions: no CLDR subdivision file in chain
+rn	rn	same code; inheritance chain: rn > root; subdivisions: no CLDR subdivision file in chain
+lg	lg	same code; inheritance chain: lg > root; subdivisions: no CLDR subdivision file in chain
+sn	sn	same code; inheritance chain: sn > root; subdivisions: no CLDR subdivision file in chain
+zu	zu	same code; inheritance chain: zu > root
+xh	xh	same code; inheritance chain: xh > root; subdivisions: no CLDR subdivision file in chain
+nd	nd	same code; inheritance chain: nd > root; subdivisions: no CLDR subdivision file in chain
+af	af	same code; inheritance chain: af > root
+mg	mg	same code; inheritance chain: mg > root; subdivisions: no CLDR subdivision file in chain
+wo	wo	same code; inheritance chain: wo > root; subdivisions: no CLDR subdivision file in chain
+ff	ff	same code; inheritance chain: ff > root; subdivisions: no CLDR subdivision file in chain
+bm	bm	same code; inheritance chain: bm > root; subdivisions: no CLDR subdivision file in chain
+ee	ee	same code; inheritance chain: ee > root; subdivisions: no CLDR subdivision file in chain
+ak	ak	same code; inheritance chain: ak > root; subdivisions: no CLDR subdivision file in chain
+ki	ki	same code; inheritance chain: ki > root; subdivisions: no CLDR subdivision file in chain
+ln	ln	same code; inheritance chain: ln > root; subdivisions: no CLDR subdivision file in chain
+lu	lu	same code; inheritance chain: lu > root; subdivisions: no CLDR subdivision file in chain
+sg	sg	same code; inheritance chain: sg > root; subdivisions: no CLDR subdivision file in chain
+hi	hi	same code; inheritance chain: hi > root
+bn	bn	same code; inheritance chain: bn > root
+ta	ta	same code; inheritance chain: ta > root
+te	te	same code; inheritance chain: te > root
+mr	mr	same code; inheritance chain: mr > root
+gu	gu	same code; inheritance chain: gu > root
+ur	ur	same code; inheritance chain: ur > root
+kn	kn	same code; inheritance chain: kn > root
+ml	ml	same code; inheritance chain: ml > root
+pa	pa	same code; inheritance chain: pa > root
+as	as	same code; inheritance chain: as > root
+or	or	same code; inheritance chain: or > root
+ne	ne	same code; inheritance chain: ne > root
+si	si	same code; inheritance chain: si > root
+ks	ks	same code; inheritance chain: ks > root; subdivisions: no CLDR subdivision file in chain
+sd	sd	same code; inheritance chain: sd > root
+sa	sa	same code; inheritance chain: sa > root; subdivisions: no CLDR subdivision file in chain
+th	th	same code; inheritance chain: th > root
+vi	vi	same code; inheritance chain: vi > root
+id	id	same code; inheritance chain: id > root
+ms	ms	same code; inheritance chain: ms > root
+fil	fil	same code; inheritance chain: fil > root
+jv	jv	same code; inheritance chain: jv > root
+su	su	same code; inheritance chain: su > root; subdivisions: no CLDR subdivision file in chain
+my	my	same code; inheritance chain: my > root
+km	km	same code; inheritance chain: km > root
+lo	lo	same code; inheritance chain: lo > root
+zh	zh	CLDR "zh" (= zh_Hans default content); inheritance chain: zh > root
+zh-TW	zh_Hant	likely subtags zh-TW -> zh_Hant_TW, which is default content of zh_Hant; parentLocale = root; inheritance chain: zh_Hant > root
+ja	ja	same code; inheritance chain: ja > root
+ko	ko	same code; inheritance chain: ko > root
+bo	bo	same code; inheritance chain: bo > root; subdivisions: no CLDR subdivision file in chain
+ug	ug	same code; inheritance chain: ug > root; subdivisions: no CLDR subdivision file in chain
+mi	mi	same code; inheritance chain: mi > root; subdivisions: no CLDR subdivision file in chain
+to	to	same code; inheritance chain: to > root; subdivisions: no CLDR subdivision file in chain
+eo	eo	same code; inheritance chain: eo > root; subdivisions: no CLDR subdivision file in chain
+ia	ia	same code; inheritance chain: ia > root; subdivisions: no CLDR subdivision file in chain
+la		no Latin locale in CLDR 49
+vo		no Volapuk locale in CLDR 49
+cu		no Church Slavic locale in CLDR 49
+qu	qu	same code; inheritance chain: qu > root; subdivisions: no CLDR subdivision file in chain
+se	se	same code; inheritance chain: se > root; subdivisions: no CLDR subdivision file in chain
+kl	kl	same code; inheritance chain: kl > root; subdivisions: no CLDR subdivision file in chain
+dz	dz	same code; inheritance chain: dz > root; subdivisions: no CLDR subdivision file in chain

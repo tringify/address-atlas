@@ -1,0 +1,234 @@
+{
+ "country": "IR",
+ "level": "province",
+ "iso_codes_commit": "53b1c294240bcfb7429bbc225b9caeb9bf2128b3",
+ "units": [
+  {
+   "code": "IR-00",
+   "local": "استان مرکزی",
+   "latin": "Markazi",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-01",
+   "local": "استان گیلان",
+   "latin": "Gilan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-02",
+   "local": "استان مازندران",
+   "latin": "Mazandaran",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-03",
+   "local": "استان آذربایجان شرقی",
+   "latin": "East Azerbaijan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-04",
+   "local": "استان آذربایجان غربی",
+   "latin": "West Azarbaijan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-05",
+   "local": "استان کرمانشاه",
+   "latin": "Kermanshah",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-06",
+   "local": "استان خوزستان",
+   "latin": "Khuzestan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-07",
+   "local": "استان فارس",
+   "latin": "Fars",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-08",
+   "local": "استان کرمان",
+   "latin": "Kerman",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-09",
+   "local": "استان خراسان رضوی",
+   "latin": "Razavi Khorasan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-10",
+   "local": "استان اصفهان",
+   "latin": "Isfahan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-11",
+   "local": "استان سیستان و بلوچستان",
+   "latin": "Sistan and Baluchestan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-12",
+   "local": "استان کردستان",
+   "latin": "Kurdistan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-13",
+   "local": "استان همدان",
+   "latin": "Hamadan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-14",
+   "local": "استان چهارمحال و بختیاری",
+   "latin": "Chaharmahal and Bakhtiari",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-15",
+   "local": "استان لرستان",
+   "latin": "Lorestan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-16",
+   "local": "استان ایلام",
+   "latin": "Ilam",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-17",
+   "local": "استان کهگیلویه و بویراحمد",
+   "latin": "Kohgiluyeh and Boyer-Ahmad",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-18",
+   "local": "استان بوشهر",
+   "latin": "Bushehr",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-19",
+   "local": "استان زنجان",
+   "latin": "Zanjan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-20",
+   "local": "استان سمنان",
+   "latin": "Semnan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-21",
+   "local": "استان یزد",
+   "latin": "Yazd",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-22",
+   "local": "استان هرمزگان",
+   "latin": "Hormozgan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-23",
+   "local": "استان تهران",
+   "latin": "Tehran",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-24",
+   "local": "استان اردبیل",
+   "latin": "Ardabil",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-25",
+   "local": "استان قم",
+   "latin": "Qom",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-26",
+   "local": "استان قزوین",
+   "latin": "Qazvin",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-27",
+   "local": "استان گلستان",
+   "latin": "Golestan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-28",
+   "local": "استان خراسان شمالی",
+   "latin": "North Khorasan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-29",
+   "local": "استان خراسان جنوبی",
+   "latin": "South Khorasan",
+   "iso": true,
+   "aliases": []
+  },
+  {
+   "code": "IR-30",
+   "local": "استان البرز",
+   "latin": "Alborz",
+   "iso": true,
+   "aliases": []
+  }
+ ],
+ "changes": [],
+ "sources": [
+  "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/irnEn.pdf",
+  "https://www.upu.int/UPU/media/upu/documents/PostCode/General-Addressing-Issues.pdf",
+  "https://www.gstatic.com/chrome/autofill/libaddressinput/chromium-i18n/ssl-address/data/IR",
+  "https://www.iso.org/obp/ui/#iso:code:3166:IR",
+  "https://salsa.debian.org/iso-codes-team/iso-codes/-/blob/53b1c294240bcfb7429bbc225b9caeb9bf2128b3/data/iso_3166-2.json"
+ ],
+ "confidence": "high",
+ "notes": "31 provinces. local includes the word استان as Google live/CLDR give it. latin = common English forms."
+}

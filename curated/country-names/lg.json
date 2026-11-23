@@ -1,0 +1,168 @@
+{
+ "AQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Antaakitika"
+ },
+ "AX": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Bizinga by’e Åland"
+ },
+ "BL": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Senti Batelemi"
+ },
+ "BQ": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Holandi ey’e Karibiyani"
+ },
+ "BV": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Kizinga ky’e Buve"
+ },
+ "CC": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Bizinga by’e Kokosi"
+ },
+ "CW": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Kurasawo"
+ },
+ "CX": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Kizinga ky’e Ssekukkulu"
+ },
+ "EH": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sahara ey’Ebugwanjuba"
+ },
+ "FO": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Bizinga by’e Faro"
+ },
+ "GG": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR lg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Guernsey"
+ },
+ "GS": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Bizinga by’e South Georgia ne South Sandwich"
+ },
+ "HK": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR lg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Hong Kong"
+ },
+ "HM": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Bizinga by’e Heard ne McDonald"
+ },
+ "IM": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Kizinga ky’e Man"
+ },
+ "IO": {
+  "note": "CLDR XML draft value (below cldr-json publication threshold)",
+  "provenance": "curated",
+  "value": "Bizinga by’eCago"
+ },
+ "JE": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR lg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Jersey"
+ },
+ "ME": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR lg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Montenegro"
+ },
+ "MF": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Senti Matini"
+ },
+ "MK": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Masedoniya ey’Obukiikakkono"
+ },
+ "MO": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Makawu"
+ },
+ "RS": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Serbiya"
+ },
+ "SJ": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Svalbard ne Jan Mayen"
+ },
+ "SS": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Sudaani ey’Obukiikaddyo"
+ },
+ "SX": {
+  "confidence": "low",
+  "note": "international/English form, as CLDR lg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Sint Maarten"
+ },
+ "TF": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Bitundu bya Bufalansa eby’Obukiikaddyo"
+ },
+ "UM": {
+  "confidence": "low",
+  "note": "constructed on CLDR lg patterns; no attested form found",
+  "provenance": "curated",
+  "value": "Bizinga by’Amerika Ebyesudde"
+ },
+ "XK": {
+  "note": "international/English form, as CLDR lg uses for comparable territories",
+  "provenance": "curated",
+  "value": "Kosovo"
+ }
+}
