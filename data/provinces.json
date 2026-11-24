@@ -2036,7 +2036,7 @@
   "aliases": [],
   "country": "ES",
   "latin": "Barcelona [Barcelona]",
-  "local": "Barcelona [Barcelona]"
+  "local": "Barcelona"
  },
  "ES-BA": {
   "aliases": [],
@@ -2060,7 +2060,7 @@
   "aliases": [],
   "country": "ES",
   "latin": "A Coruña [La Coruña]",
-  "local": "A Coruña [La Coruña]"
+  "local": "A Coruña"
  },
  "ES-CA": {
   "aliases": [],
@@ -2114,7 +2114,7 @@
   "aliases": [],
   "country": "ES",
   "latin": "Girona [Gerona]",
-  "local": "Girona [Gerona]"
+  "local": "Girona"
  },
  "ES-GR": {
   "aliases": [],
@@ -2150,7 +2150,7 @@
   "aliases": [],
   "country": "ES",
   "latin": "Lleida [Lérida]",
-  "local": "Lleida [Lérida]"
+  "local": "Lleida"
  },
  "ES-LE": {
   "aliases": [],
@@ -2168,7 +2168,7 @@
   "aliases": [],
   "country": "ES",
   "latin": "Lugo [Lugo]",
-  "local": "Lugo [Lugo]"
+  "local": "Lugo"
  },
  "ES-M": {
   "aliases": [],
@@ -2210,7 +2210,7 @@
   "aliases": [],
   "country": "ES",
   "latin": "Ourense [Orense]",
-  "local": "Ourense [Orense]"
+  "local": "Ourense"
  },
  "ES-P": {
   "aliases": [],
@@ -2222,13 +2222,13 @@
   "aliases": [],
   "country": "ES",
   "latin": "Illes Balears [Islas Baleares]",
-  "local": "Illes Balears [Islas Baleares]"
+  "local": "Illes Balears"
  },
  "ES-PO": {
   "aliases": [],
   "country": "ES",
   "latin": "Pontevedra [Pontevedra]",
-  "local": "Pontevedra [Pontevedra]"
+  "local": "Pontevedra"
  },
  "ES-S": {
   "aliases": [],
@@ -2270,7 +2270,7 @@
   "aliases": [],
   "country": "ES",
   "latin": "Tarragona [Tarragona]",
-  "local": "Tarragona [Tarragona]"
+  "local": "Tarragona"
  },
  "ES-TE": {
   "aliases": [],

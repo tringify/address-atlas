@@ -4156,7 +4156,7 @@
  },
  "OM": {
   "layout": "%N%n%O%n%A%n%Z%n%C",
-  "required": "Z",
+  "required": "ACZ",
   "postal": {
    "uses": true,
    "pattern": "(?:PC ?)?\\d{3}",
@@ -4571,7 +4571,7 @@
   ]
  },
  "RO": {
-  "layout": "%N%n%O%n%A%n%Z %C",
+  "layout": "%N%n%O%n%A%n%Z %C%n%S",
   "required": "ACZ",
   "postal": {
    "uses": true,
@@ -4974,7 +4974,7 @@
   ]
  },
  "SO": {
-  "layout": "%N%n%O%n%A%n%C, %Z",
+  "layout": "%N%n%O%n%A%n%C, %S %Z",
   "required": "AC",
   "postal": {
    "uses": true,

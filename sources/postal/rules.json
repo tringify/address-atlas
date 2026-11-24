@@ -1272,6 +1272,25 @@
     "confidence": "high",
     "notes": "Plain digits, no separator (UPU)."
   },
+  "IE": {
+    "uppercase": true,
+    "strip": " -.",
+    "insert": [
+      {
+        "after": 3,
+        "char": " "
+      }
+    ],
+    "prefix": null,
+    "pattern": "(?:[AC-FHKNPRTV-Y]\\d{2}|D6W) ?[0-9AC-FHKNPRTV-Y]{4}",
+    "zipex": "A65 F4E2",
+    "canonical_examples": [
+      "A65 F4E2"
+    ],
+    "source": "https://www.eircode.ie/what-is-eircode",
+    "confidence": "high",
+    "notes": "Eircode: routing key (3 characters), space, unique identifier (4 characters): A65 F4E2."
+  },
   "IL": {
     "uppercase": false,
     "strip": " -.",
@@ -2707,19 +2726,25 @@
     "notes": "Plain digits, no separator (UPU)."
   },
   "SO": {
-    "uppercase": false,
+    "uppercase": true,
     "strip": " -.",
-    "insert": [],
+    "insert": [
+      {
+        "after": 2,
+        "char": " "
+      }
+    ],
     "prefix": null,
-    "pattern": "\\d{5}",
-    "zipex": "09010,11010",
+    "pattern": "[A-Z]{2} *\\d{5}",
+    "zipex": "JH 09010,MD 11010,AD 11010",
     "canonical_examples": [
-      "09010",
-      "11010"
+      "JH 09010",
+      "MD 11010",
+      "AD 11010"
     ],
     "source": "https://www.upu.int/UPU/media/upu/PostalEntitiesFiles/addressingUnit/somEn.pdf",
-    "confidence": "low",
-    "notes": "No separator. Pattern conflicts with or is not backed by the official source: UPU: region abbreviation + space + 5 digits (JH 09010); pattern/zipex have only the 5 digits, so no region prefix is added."
+    "confidence": "medium",
+    "notes": "UPU: region abbreviation, space, 5 digits (JH 09010)."
   },
   "SV": {
     "uppercase": true,
@@ -3232,7 +3257,6 @@
     "ZW"
   ],
   "_no_postal_code_notes": {
-    "IE": "No `zip` in this countryinfo.txt snapshot, although Ireland has used Eircode (e.g. A65 F4E2, space after 3rd character) since 2015. Left out because there is no pattern to check against.",
     "UM": "Has zipex 96898 but no `zip` pattern in countryinfo.txt."
   }
 }

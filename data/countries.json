@@ -6480,12 +6480,17 @@
   ],
   "postal": {
    "examples": [
-    "A65F4E2"
+    "A65 F4E2"
    ],
    "input_mode": "text",
-   "insert": [],
+   "insert": [
+    {
+     "after": 3,
+     "char": " "
+    }
+   ],
    "kind": "eircode",
-   "max_length": 7,
+   "max_length": 8,
    "pattern": "(?:[AC-FHKNPRTV-Y]\\d{2}|D6W) ?[0-9AC-FHKNPRTV-Y]{4}",
    "prefix": null,
    "required": false,
@@ -11342,6 +11347,8 @@
   "required": [
    "first_name",
    "last_name",
+   "address1",
+   "city",
    "postal_code",
    "country_code"
   ],
@@ -12570,7 +12577,8 @@
    "{company}",
    "{address1}",
    "{address2}",
-   "{postal_code} {city}"
+   "{postal_code} {city}",
+   "{province_code}"
   ],
   "envelope_languages": [],
   "envelope_latin": null,
@@ -12591,6 +12599,9 @@
    [
     "postal_code",
     "city"
+   ],
+   [
+    "province_code"
    ]
   ],
   "postal": {
@@ -13709,7 +13720,7 @@
    "{company}",
    "{address1}",
    "{address2}",
-   "{city}, {postal_code}"
+   "{city}, {province_code} {postal_code}"
   ],
   "envelope_languages": [],
   "envelope_latin": null,
@@ -13729,19 +13740,25 @@
    ],
    [
     "city",
+    "province_code",
     "postal_code"
    ]
   ],
   "postal": {
    "examples": [
-    "JH09010",
-    "MD11010",
-    "AD11010"
+    "JH 09010",
+    "MD 11010",
+    "AD 11010"
    ],
    "input_mode": "text",
-   "insert": [],
+   "insert": [
+    {
+     "after": 2,
+     "char": " "
+    }
+   ],
    "kind": "postal",
-   "max_length": 7,
+   "max_length": 8,
    "pattern": "[A-Z]{2} *\\d{5}",
    "prefix": null,
    "required": false,

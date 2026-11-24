@@ -12,6 +12,37 @@ CV-SAO_NICOLAU		island, not an ISO 3166-2 unit (cvrb/cvts); no CLDR id
 HK-KOWLOON		ISO 3166-2 defines no HK subdivisions; no CLDR id
 HK-HONG_KONG_ISLAND		ISO 3166-2 defines no HK subdivisions; no CLDR id
 HK-NEW_TERRITORIES		ISO 3166-2 defines no HK subdivisions; no CLDR id
+IR-03	ir01	ISO renumbered Iran; East Azerbaijan is CLDR ir01
+IR-04	ir02	ISO renumbered Iran; West Azerbaijan is CLDR ir02
+IR-24	ir03	ISO renumbered Iran; Ardabil is CLDR ir03
+IR-10	ir04	ISO renumbered Iran; Isfahan is CLDR ir04
+IR-30	ir32	ISO renumbered Iran; Alborz is CLDR ir32
+IR-16	ir05	ISO renumbered Iran; Ilam is CLDR ir05
+IR-18	ir06	ISO renumbered Iran; Bushehr is CLDR ir06
+IR-23	ir07	ISO renumbered Iran; Tehran is CLDR ir07
+IR-14	ir08	ISO renumbered Iran; Chaharmahal and Bakhtiari is CLDR ir08
+IR-29	ir29	ISO renumbered Iran; South Khorasan is CLDR ir29
+IR-09	ir30	ISO renumbered Iran; Razavi Khorasan is CLDR ir30
+IR-28	ir31	ISO renumbered Iran; North Khorasan is CLDR ir31
+IR-06	ir10	ISO renumbered Iran; Khuzestan is CLDR ir10
+IR-19	ir11	ISO renumbered Iran; Zanjan is CLDR ir11
+IR-20	ir12	ISO renumbered Iran; Semnan is CLDR ir12
+IR-11	ir13	ISO renumbered Iran; Sistan and Baluchestan is CLDR ir13
+IR-07	ir14	ISO renumbered Iran; Fars is CLDR ir14
+IR-26	ir28	ISO renumbered Iran; Qazvin is CLDR ir28
+IR-25	ir26	ISO renumbered Iran; Qom is CLDR ir26
+IR-12	ir16	ISO renumbered Iran; Kurdistan is CLDR ir16
+IR-08	ir15	ISO renumbered Iran; Kerman is CLDR ir15
+IR-05	ir17	ISO renumbered Iran; Kermanshah is CLDR ir17
+IR-17	ir18	ISO renumbered Iran; Kohgiluyeh and Boyer-Ahmad is CLDR ir18
+IR-27	ir27	ISO renumbered Iran; Golestan is CLDR ir27
+IR-01	ir19	ISO renumbered Iran; Gilan is CLDR ir19
+IR-15	ir20	ISO renumbered Iran; Lorestan is CLDR ir20
+IR-02	ir21	ISO renumbered Iran; Mazandaran is CLDR ir21
+IR-00	ir22	ISO renumbered Iran; Markazi is CLDR ir22
+IR-22	ir23	ISO renumbered Iran; Hormozgan is CLDR ir23
+IR-13	ir24	ISO renumbered Iran; Hamadan is CLDR ir24
+IR-21	ir25	ISO renumbered Iran; Yazd is CLDR ir25
 IT-GA		id itga not in any CLDR 49 subdivisions file
 IT-SD		id itsd not in any CLDR 49 subdivisions file
 KY-CAYMAN_BRAC		ISO 3166-2 defines no KY subdivisions; no CLDR id
@@ -22,6 +53,8 @@ RU-SEVASTOPOL	ua40	same territory as ISO UA-40 (Sevastopol); CLDR has it only un
 TV-NIULAKITA		not an ISO 3166-2 unit (administered with Niutao, tvnit); no CLDR id
 TW-KINMEN_COUNTY	twkin	ISO TW-KIN Kinmen County
 TW-LIENCHIANG_COUNTY	twlie	ISO TW-LIE Lienchiang County
+TW-CYI		CLDR 49 names twcyi (Chiayi City) as the county; no usable CLDR id
+TW-CYQ		CLDR 49 names twcyq (Chiayi County) ambiguously; no usable CLDR id
 US-AA		id usaa not in any CLDR 49 subdivisions file (US military postal code, not an ISO 3166-2 subdivision)
 US-AE		id usae not in any CLDR 49 subdivisions file (US military postal code, not an ISO 3166-2 subdivision)
 US-AP		id usap not in any CLDR 49 subdivisions file (US military postal code, not an ISO 3166-2 subdivision)

@@ -33,7 +33,7 @@
   },
   {
    "code": "ES-B",
-   "local": "Barcelona [Barcelona]",
+   "local": "Barcelona",
    "latin": "Barcelona [Barcelona]",
    "iso": true,
    "aliases": []
@@ -61,7 +61,7 @@
   },
   {
    "code": "ES-C",
-   "local": "A Coruña [La Coruña]",
+   "local": "A Coruña",
    "latin": "A Coruña [La Coruña]",
    "iso": true,
    "aliases": []
@@ -124,7 +124,7 @@
   },
   {
    "code": "ES-GI",
-   "local": "Girona [Gerona]",
+   "local": "Girona",
    "latin": "Girona [Gerona]",
    "iso": true,
    "aliases": []
@@ -166,7 +166,7 @@
   },
   {
    "code": "ES-L",
-   "local": "Lleida [Lérida]",
+   "local": "Lleida",
    "latin": "Lleida [Lérida]",
    "iso": true,
    "aliases": []
@@ -187,7 +187,7 @@
   },
   {
    "code": "ES-LU",
-   "local": "Lugo [Lugo]",
+   "local": "Lugo",
    "latin": "Lugo [Lugo]",
    "iso": true,
    "aliases": []
@@ -236,7 +236,7 @@
   },
   {
    "code": "ES-OR",
-   "local": "Ourense [Orense]",
+   "local": "Ourense",
    "latin": "Ourense [Orense]",
    "iso": true,
    "aliases": []
@@ -250,14 +250,14 @@
   },
   {
    "code": "ES-PM",
-   "local": "Illes Balears [Islas Baleares]",
+   "local": "Illes Balears",
    "latin": "Illes Balears [Islas Baleares]",
    "iso": true,
    "aliases": []
   },
   {
    "code": "ES-PO",
-   "local": "Pontevedra [Pontevedra]",
+   "local": "Pontevedra",
    "latin": "Pontevedra [Pontevedra]",
    "iso": true,
    "aliases": []
@@ -306,7 +306,7 @@
   },
   {
    "code": "ES-T",
-   "local": "Tarragona [Tarragona]",
+   "local": "Tarragona",
    "latin": "Tarragona [Tarragona]",
    "iso": true,
    "aliases": []

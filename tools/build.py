@@ -127,6 +127,8 @@ def main():
             err(f"{cc}: addresses name a province but no province list")
         # An empty curated list means the slot holds one fixed value (e.g. VI, AS): no field.
         lines, envelope = parse_layout(cc, r["layout"], bool(units))
+        if units and "%S" not in r["layout"]:
+            err(f"{cc}: has a province list but its layout has no province field")
         req_tokens = r.get("required") or ""
         required = [f for t in req_tokens for f in (["address1"] if t == "A" else TOKEN_FIELDS.get(t, []))
                     if not (t == "S" and not units) and not (t == "Z" and cc in NO_POSTCODE)]

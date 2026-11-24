@@ -1,6 +1,6 @@
 {
   "name": "address-atlas",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Address formats, postal code rules, provinces and translated labels for every country.",
   "license": "MIT",
   "type": "module",
